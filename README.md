@@ -118,6 +118,15 @@ Multiple stats:
 --stat STR=7 --stat DEX=7 --stat CON=7
 ```
 
+## Get Game Data
+
+If you need to extract or rebuild the game data files:
+
+1. Go to [https://mewgpaks.netlify.app/](https://mewgpaks.netlify.app/)
+2. Upload your `*.gpak` file
+3. Download `text/combined.csv` and any other files you need (items, abilities, mutations, etc.)
+4. Place them in the expected folder structure for rebuilding or reference
+
 ## Custom Game Data
 
 Default data folder:
