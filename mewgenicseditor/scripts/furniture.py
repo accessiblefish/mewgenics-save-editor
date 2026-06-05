@@ -76,6 +76,17 @@ def parse_furniture_gon(path: Path) -> dict[str, dict[str, Any]]:
     return furniture
 
 
+def furniture_gon_path() -> Path:
+    candidates = (
+        GAME_DATA_DIR / "furniture_effect.gon",
+        GAME_DATA_DIR / "furniture_effects.gon",
+    )
+    for candidate in candidates:
+        if candidate.exists():
+            return candidate
+    return candidates[0]
+
+
 def text_key(entry: dict[str, Any], field: str, furniture_id: str) -> str:
     value = entry.get(field)
     if isinstance(value, str) and value.startswith("FURNITURE_"):
@@ -90,7 +101,7 @@ def text_key(entry: dict[str, Any], field: str, furniture_id: str) -> str:
 def build() -> None:
     output_dir = PUBLIC_DIR / "furniture"
     csv_data = load_localized_csv(COMBINED_CSV)
-    base_furniture = parse_furniture_gon(GAME_DATA_DIR / "furniture_effects.gon")
+    base_furniture = parse_furniture_gon(furniture_gon_path())
 
     for locale in LOCALES:
         localized = {}

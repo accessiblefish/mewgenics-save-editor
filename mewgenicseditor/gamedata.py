@@ -16,6 +16,8 @@ PROJECT_ROOT = Path(__file__).resolve().parent
 
 def default_game_data_dir() -> Path:
     candidates = (
+        Path.cwd() / "data",
+        REPO_ROOT / "data",
         REPO_ROOT / "docs" / "GameData",
         Path.cwd() / "docs" / "GameData",
     )
@@ -26,16 +28,27 @@ def default_game_data_dir() -> Path:
 
 
 GAME_DATA_DIR = default_game_data_dir()
-CSV_DIR = GAME_DATA_DIR / "csv"
-COMBINED_CSV = CSV_DIR / "combined.csv"
 PUBLIC_DIR = REPO_ROOT / "data"
 
 
+def combined_csv_path(game_data_dir: Path) -> Path:
+    candidates = (
+        game_data_dir / "text" / "combined.csv",
+        game_data_dir / "csv" / "combined.csv",
+    )
+    for candidate in candidates:
+        if candidate.exists():
+            return candidate
+    return candidates[0]
+
+
+COMBINED_CSV = combined_csv_path(GAME_DATA_DIR)
+
+
 def set_game_data_dir(path: Path) -> None:
-    global GAME_DATA_DIR, CSV_DIR, COMBINED_CSV
+    global GAME_DATA_DIR, COMBINED_CSV
     GAME_DATA_DIR = path
-    CSV_DIR = GAME_DATA_DIR / "csv"
-    COMBINED_CSV = CSV_DIR / "combined.csv"
+    COMBINED_CSV = combined_csv_path(GAME_DATA_DIR)
 
 CSV_TO_LOCALE = {
     "en": "en",

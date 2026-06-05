@@ -9,13 +9,6 @@ cd mewgenics-save-editor
 python3 main.py parse /path/to/steamcampaign01.sav
 ```
 
-Or install globally:
-
-```bash
-python3 -m pip install .
-mewgenics-save parse /path/to/steamcampaign01.sav
-```
-
 Example output:
 
 ```
@@ -120,12 +113,87 @@ Multiple stats:
 
 ## Get Game Data
 
-If you need to extract or rebuild the game data files:
+The editor ships with generated JSON in `gamedata/`. You only need this section when you want to refresh that JSON from a newer game build.
 
-1. Go to [https://mewgpaks.netlify.app/](https://mewgpaks.netlify.app/)
-2. Upload your `*.gpak` file
-3. Download `text/combined.csv` and any other files you need (items, abilities, mutations, etc.)
-4. Place them in the expected folder structure for rebuilding or reference
+### Step 1: Find the `resources.gpak`
+
+In Steam:
+
+1. Right-click Mewgenics
+2. Select `Manage`
+3. Select `Browse local files`
+
+This opens the game install folder. Find: `resources.gpak`.
+
+### Step 2: Unpack the `resources.gpak`
+
+1. Open [https://mewgpaks.netlify.app/](https://mewgpaks.netlify.app/)
+2. Upload the `resources.gpak`
+3. Wait for the website to extract the data
+4. Save the extracted `data` folder into this project folder
+
+### Step 3: Check the extracted `data` folder
+
+The extracted folder should contain these files and folders:
+
+```
+data/
+  text/
+    combined.csv
+  items/
+    *.gon
+  abilities/
+    *.gon
+  mutations/
+    *.gon
+  passives/
+    *.gon
+  furniture_effect.gon
+```
+
+Required files:
+
+- `data/text/combined.csv`
+- `data/items/*.gon`
+- `data/abilities/*.gon`
+- `data/mutations/*.gon`
+- `data/passives/*.gon`
+- `data/furniture_effect.gon`
+
+Keep this folder structure exactly. Do not move all `.gon` files into one folder.
+
+### Step 4: Rebuild `gamedata`
+
+Run this from the project folder:
+
+```bash
+python3 main.py rebuild
+```
+
+This updates:
+
+```
+gamedata/items/items.json
+gamedata/furniture/furniture.json
+gamedata/mutations/all.json
+gamedata/abilities/*.json
+```
+
+### Notes
+
+The rebuild command also accepts older source names:
+
+```
+csv/combined.csv
+mutation/*.gon
+furniture_effects.gon
+```
+
+If your extracted `data` folder is somewhere else:
+
+```bash
+python3 main.py rebuild --source-game-data-dir /path/to/data
+```
 
 ## Custom Game Data
 

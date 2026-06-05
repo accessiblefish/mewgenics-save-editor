@@ -82,7 +82,7 @@ def build_cli_game_data(
     items = items_builder.localized_items(locale, csv_data, items_builder.parse_items())
     furniture = {}
     for furniture_id, entry in furniture_builder.parse_furniture_gon(
-        furniture_builder.GAME_DATA_DIR / "furniture_effects.gon"
+        furniture_builder.furniture_gon_path()
     ).items():
         localized = dict(entry)
         name_key = furniture_builder.text_key(entry, "name", furniture_id)

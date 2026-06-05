@@ -33,6 +33,13 @@ MUTATION_PARTS = (
 )
 
 
+def mutation_dir() -> Path:
+    for candidate in (GAME_DATA_DIR / "mutations", GAME_DATA_DIR / "mutation"):
+        if candidate.exists():
+            return candidate
+    return GAME_DATA_DIR / "mutations"
+
+
 def parse_mutation_part(path: Path) -> tuple[str, dict[str, dict]]:
     top_blocks = top_level_blocks(path)
     if not top_blocks:
@@ -58,8 +65,9 @@ def mutation_name_from_source(path: Path, mutation_id: str) -> str:
 
 def build_base_mutations() -> dict[str, dict[str, dict]]:
     all_mutations = {}
+    source_dir = mutation_dir()
     for part in MUTATION_PARTS:
-        path = GAME_DATA_DIR / "mutation" / f"{part}.gon"
+        path = source_dir / f"{part}.gon"
         if not path.exists():
             raise FileNotFoundError(path)
         parsed_part, entries = parse_mutation_part(path)

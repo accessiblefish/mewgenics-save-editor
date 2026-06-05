@@ -147,9 +147,18 @@ def build_parser() -> argparse.ArgumentParser:
     rebuild.add_argument("--locale", default="en")
     rebuild.add_argument(
         "--source-game-data-dir",
-        help="Optional path to original docs/GameData when rebuilding JSON from GON/CSV.",
+        help="Optional path to extracted data folder when rebuilding JSON from GON/CSV.",
     )
     rebuild.set_defaults(func=cmd_game_data_rebuild)
+
+    rebuild_short = subparsers.add_parser("rebuild")
+    rebuild_short.add_argument("--output-dir", default=str(DEFAULT_GAMEDATA_DIR))
+    rebuild_short.add_argument("--locale", default="en")
+    rebuild_short.add_argument(
+        "--source-game-data-dir",
+        help="Optional path to extracted data folder when rebuilding JSON from GON/CSV.",
+    )
+    rebuild_short.set_defaults(func=cmd_game_data_rebuild)
 
     item = subparsers.add_parser("item")
     item_sub = item.add_subparsers(dest="item_command", required=True)
