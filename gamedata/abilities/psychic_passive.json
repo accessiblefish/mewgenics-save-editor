@@ -1,0 +1,252 @@
+[
+  {
+    "name": "Antigravity",
+    "desc": "You have Flying Movement. When you use a Gravity element ability gain +1 [img:spd].\nGravity element spells cost -1 mana.",
+    "key": "Flying"
+  },
+  {
+    "name": "Antigravity2",
+    "desc": "You have Flying Movement. When you use a Gravity element ability gain +2 [img:spd].\nGravity element spells cost -2 mana.",
+    "key": "Flying2"
+  },
+  {
+    "name": "Soul Shatter",
+    "desc": "When you kill a unit, deal 1 damage to all enemies.",
+    "key": "SoulShatter"
+  },
+  {
+    "name": "SoulShatter2",
+    "desc": "When you kill a unit, deal 2 damage to all enemies.",
+    "key": "SoulShatter2"
+  },
+  {
+    "name": "Glow",
+    "desc": "Your basic attack inflicts Blind.",
+    "key": "Glow"
+  },
+  {
+    "name": "Glow2",
+    "desc": "All damage you deal inflicts Blind.",
+    "key": "Glow2"
+  },
+  {
+    "name": "Blink",
+    "desc": "33% chance to teleport to a random tile when targeted by an enemy.",
+    "key": "Blink"
+  },
+  {
+    "name": "Blink2",
+    "desc": "50% chance to teleport to a random tile when targeted by an enemy.",
+    "key": "Blink2"
+  },
+  {
+    "name": "Full Power",
+    "desc": "While at full mana, your basic attack deals triple damage and has +3 Knockback.",
+    "key": "FullPower"
+  },
+  {
+    "name": "FullPower2",
+    "desc": "While at full mana, your basic attack deals triple damage and has +3 Knockback.\nBonus Ability: Grow Head.",
+    "key": "FullPower2"
+  },
+  {
+    "name": "Reality Shatter",
+    "desc": "Gravity element abilities spawn Floating Glass.",
+    "key": "RealityShatter"
+  },
+  {
+    "name": "RealityShatter2",
+    "desc": "Gravity element abilities spawn Floating Glass and inflict Bleed 1.",
+    "key": "RealityShatter2"
+  },
+  {
+    "name": "Mental Storm",
+    "desc": "Gain +1 Charge when you cast a spell.",
+    "key": "MentalStorm"
+  },
+  {
+    "name": "MentalStorm2",
+    "desc": "Gain +2 Charge when you cast a spell.",
+    "key": "MentalStorm2"
+  },
+  {
+    "name": "Wither",
+    "desc": "Gravity element abilities inflict a random negative status effect when used on enemies.",
+    "key": "Wither"
+  },
+  {
+    "name": "Wither2",
+    "desc": "Gravity element abilities inflict a random negative status effect when used on enemies. When you inflict a negative status effect, inflict +1 of that status effect.",
+    "key": "Wither2"
+  },
+  {
+    "name": "Flourish",
+    "desc": "Gravity element abilities do not harm allies. Gravity element abilities give a random positive status effect when used on allies. When you inflict a positive status effect, inflict +1 of that status effect.",
+    "key": "Flourish"
+  },
+  {
+    "name": "Flourish2",
+    "desc": "Gravity element abilities do not harm allies. Gravity element abilities give a random positive status effect when used on allies. When you inflict a positive status effect, inflict +2 of that status effect.",
+    "key": "Flourish2"
+  },
+  {
+    "name": "Psy Smack",
+    "desc": "Knockback damage you and your allies deal is doubled.",
+    "key": "PsySmack"
+  },
+  {
+    "name": "PsySmack2",
+    "desc": "Knockback damage and distance you and your allies deal is doubled and has Chain Knockback.",
+    "key": "PsySmack2"
+  },
+  {
+    "name": "Beckon",
+    "desc": "Your basic attack has +4 Knockback.",
+    "key": "Beckon"
+  },
+  {
+    "name": "Beckon2",
+    "desc": "Your basic attack has +4 Knockback and Chain Knockback.",
+    "key": "Beckon2"
+  },
+  {
+    "name": "Mind Tempest",
+    "desc": "After every sixth spell you cast, gain All Stats Up and +1 Magic Damage.",
+    "key": "MindTempest"
+  },
+  {
+    "name": "MindTempest2",
+    "desc": "After every sixth spell you cast, gain All Stats Up, +1 Magic Damage, and reduce the cost of your spells by 1 mana.",
+    "key": "MindTempest2"
+  },
+  {
+    "name": "Overflow",
+    "desc": "While at full mana, gain +2 Brace and Flying Movement. Your mana is uncapped.",
+    "key": "Overflow"
+  },
+  {
+    "name": "Overflow2",
+    "desc": "While at full mana, gain +2 Brace and Teleportation. Your mana is uncapped.",
+    "key": "Overflow2"
+  },
+  {
+    "name": "Omniscience",
+    "desc": "You can see EVERYTHING. Line of sight restrictions are ignored.",
+    "key": "Omniscience"
+  },
+  {
+    "name": "Omniscience2",
+    "desc": "You can see EVERYTHING. Line of sight restrictions are ignored.",
+    "key": "Omniscience2"
+  },
+  {
+    "name": "Psionic Repel",
+    "desc": "Units that attack or contact you get knocked back 10 tiles.",
+    "key": "PsionicRepel"
+  },
+  {
+    "name": "PsionicRepel2",
+    "desc": "Units that attack or contact you get knocked back 10 tiles and are Immobilized.",
+    "key": "PsionicRepel2"
+  },
+  {
+    "name": "Enlightened",
+    "desc": "While at full mana, the first spell you cast each turn is free.",
+    "key": "Enlightened"
+  },
+  {
+    "name": "Enlightened2",
+    "desc": "While at full mana, all of your spells are free to cast once a turn.",
+    "key": "Enlightened2"
+  },
+  {
+    "name": "Mad Visage",
+    "desc": "All injuries you get are Disfigured.\nWhile at full mana, your basic action inflicts Madness.\nWhile you have 0 or less [img:cha] you can attack an additional time each turn.",
+    "key": "MadVisage"
+  },
+  {
+    "name": "MadVisage2",
+    "desc": "All injuries you get are Disfigured.\nUnits that contact or attack you get Madness.\nWhile at full mana, your basic attack inflicts Madness.\nWhile at 0 [img:cha] you can attack 2 additional times each turn.",
+    "key": "MadVisage2"
+  },
+  {
+    "name": "Power Up",
+    "desc": "When you gain excess mana, gain +1 Magic Damage and +1 [img:int].",
+    "key": "PowerUp"
+  },
+  {
+    "name": "PowerUp2",
+    "desc": "When you gain excess mana, gain +1 Magic Damage, +1 [img:int]. and +1 [img:divineshield].",
+    "key": "PowerUp2"
+  },
+  {
+    "name": "True Sight",
+    "desc": "You and your allies can't miss enemies within your line of sight.",
+    "key": "TrueSight"
+  },
+  {
+    "name": "TrueSight2",
+    "desc": "You and your allies can't miss enemies within your line of sight. Allied physical attacks gain +50% critical hit chance against those enemies.",
+    "key": "TrueSight2"
+  },
+  {
+    "name": "Braingeyser",
+    "desc": "When you gain excess mana, emit that many Sparkles.",
+    "key": "Radiation"
+  },
+  {
+    "name": "Braingeyser2",
+    "desc": "When you gain excess mana, emit that many Sparkles and remove all your debuffs.",
+    "key": "Radiation2"
+  },
+  {
+    "name": "Gravity Well",
+    "desc": "When a unit is knocked through a tile adjacent to you, stop it and inflict Stun.",
+    "key": "GravityWell"
+  },
+  {
+    "name": "GravityWell2",
+    "desc": "When a unit is knocked through a tile adjacent to you, stop it, inflict Stun and deal 5 damage to it.",
+    "key": "GravityWell2"
+  },
+  {
+    "name": "Drag",
+    "desc": "Units that you knockback take 1 damage for each tile they pass through.",
+    "key": "Drag"
+  },
+  {
+    "name": "Drag2",
+    "desc": "Units that you knockback take 2 damage for each tile they pass through.",
+    "key": "Drag2"
+  },
+  {
+    "name": "Twiddle",
+    "desc": "Your basic attack deals 0 damage, but you can use it 2 additional times each turn.",
+    "key": "Twiddle"
+  },
+  {
+    "name": "Twiddle2",
+    "desc": "Start each battle with +5 Bonus Attacks. Your basic attack deals 0 damage, but you can use it 2 additional times each turn.",
+    "key": "Twiddle2"
+  },
+  {
+    "name": "Repressed Memories",
+    "desc": "When you spend mana, cast a random Psychic spell that costs less than the mana spent.",
+    "key": "RepressedMemories"
+  },
+  {
+    "name": "RepressedMemories2",
+    "desc": "When you spend mana, cast a random spell from any class that costs less than the mana spent.",
+    "key": "RepressedMemories2"
+  },
+  {
+    "name": "Eldritch Visage",
+    "desc": "At the start of your turn, inflict Magic Weakness 1 on all enemies in your line of sight.",
+    "key": "EldritchVisage"
+  },
+  {
+    "name": "EldritchVisage2",
+    "desc": "At the start of your turn, inflict Magic Weakness 1 and Marked on all enemies in your line of sight.",
+    "key": "EldritchVisage2"
+  }
+]

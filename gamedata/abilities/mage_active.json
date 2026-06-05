@@ -1,0 +1,532 @@
+[
+  {
+    "name": "Surf",
+    "desc": "A water spell that deals damage and knockback in a large area.",
+    "key": "Surf"
+  },
+  {
+    "name": "Surf2",
+    "desc": "A water spell that deals more damage and knockback in a larger area.",
+    "key": "Surf2"
+  },
+  {
+    "name": "Bolt",
+    "desc": "A lightning bolt that has a 25% chance to Stun.",
+    "key": "Bolt"
+  },
+  {
+    "name": "Bolt2",
+    "desc": "A stronger lightning bolt that has a 50% chance to Stun.",
+    "key": "Bolt2"
+  },
+  {
+    "name": "Fire Blast",
+    "desc": "A fireblast that inflicts Burn 2 in an area.",
+    "key": "Fireball"
+  },
+  {
+    "name": "Fireball2",
+    "desc": "A more damaging fireblast that inflicts Burn 3 in an area.",
+    "key": "Fireball2"
+  },
+  {
+    "name": "Frost Blast",
+    "desc": "Shoot a blast of ice in a line that freezes the first unit it hits.",
+    "key": "FreezeRay"
+  },
+  {
+    "name": "FreezeRay2",
+    "desc": "Shoot a blast of ice in a line that freezes every unit it hits.",
+    "key": "FreezeRay2"
+  },
+  {
+    "name": "Energy Blast",
+    "desc": "A high damage spell that hits a single target.",
+    "key": "Blast"
+  },
+  {
+    "name": "Blast2",
+    "desc": "A high damage spell that hits a single target and deals extra damage equal to your [img:int].",
+    "key": "Blast2"
+  },
+  {
+    "name": "Magic Missile",
+    "desc": "Shoot an infinite-range projectile that can't miss.",
+    "key": "MagicMissile"
+  },
+  {
+    "name": "MagicMissile2",
+    "desc": "Shoot an infinite-range projectile that can't miss. Emit 3 Sparkles.",
+    "key": "MagicMissile2"
+  },
+  {
+    "name": "Wall of Fire",
+    "desc": "A fire spell that inflicts Burn 1 and spawns fires in a perpendicular line.",
+    "key": "WallOfFire"
+  },
+  {
+    "name": "WallOfFire2",
+    "desc": "A fire spell that damages, inflicts Burn 3 and spawns fires in a perpendicular line.",
+    "key": "WallOfFire2"
+  },
+  {
+    "name": "Hyper Beam",
+    "desc": "Target a tile. At the start of your next turn, unleash an extremely high damage mega beam on that tile.\n[s:.7](Castable once per turn.)[/s]",
+    "key": "HyperBeam"
+  },
+  {
+    "name": "HyperBeam2",
+    "desc": "Target a tile. At the start of your next turn, unleash an extremely high damage mega beam on that tile.",
+    "key": "HyperBeam2"
+  },
+  {
+    "name": "Meteor Storm",
+    "desc": "Summon meteors that hit random tiles in a large area. These meteors have a chance to stun, spawn fires, or leave rocks behind.",
+    "key": "MeteorStorm"
+  },
+  {
+    "name": "MeteorStorm2",
+    "desc": "Summon meteors that hit random tiles in a larger area. These meteors have a chance to stun, spawn fires, or leave rocks behind.",
+    "key": "MeteorStorm2"
+  },
+  {
+    "name": "Mega Blast",
+    "desc": "Deal high damage in a cone.",
+    "key": "MegaBlast"
+  },
+  {
+    "name": "MegaBlast2",
+    "desc": "Deal high damage in a larger cone.",
+    "key": "MegaBlast2"
+  },
+  {
+    "name": "Chill",
+    "desc": "Inflict Slow on a unit.",
+    "key": "Slow"
+  },
+  {
+    "name": "Slow2",
+    "desc": "Inflict Slow on units in an area.",
+    "key": "Slow2"
+  },
+  {
+    "name": "Enlarge",
+    "desc": "Get big.",
+    "key": "Enlarge"
+  },
+  {
+    "name": "Enlarge2",
+    "desc": "Get big.",
+    "key": "Enlarge2"
+  },
+  {
+    "name": "Wind Slash",
+    "desc": "A wind spell that hits an entire line with Knockback 1.",
+    "key": "WindSlash"
+  },
+  {
+    "name": "WindSlash2",
+    "desc": "A wind spell that hits a wide line with Knockback 2.",
+    "key": "WindSlash2"
+  },
+  {
+    "name": "Warp",
+    "desc": "Teleport diagonally any distance.",
+    "key": "Warp"
+  },
+  {
+    "name": "Warp2",
+    "desc": "Teleport diagonally any distance.\n[s:.7](This spell costs less.)[/s]",
+    "key": "Warp2"
+  },
+  {
+    "name": "Teleport",
+    "desc": "Teleport to any tile.",
+    "key": "MageTeleport"
+  },
+  {
+    "name": "MageTeleport2",
+    "desc": "Teleport to any tile.\r\n[s:.7](This spell costs less.)[/s]",
+    "key": "MageTeleport2"
+  },
+  {
+    "name": "Switch",
+    "desc": "Switch positions with any unit.",
+    "key": "MageSwap"
+  },
+  {
+    "name": "MageSwap2",
+    "desc": "Switch positions with any unit.\r\n[s:.7](This spell costs less.)[/s]",
+    "key": "MageSwap2"
+  },
+  {
+    "name": "Absorb",
+    "desc": "Spend all of your mana and heal that much HP.",
+    "key": "Absorb"
+  },
+  {
+    "name": "Absorb2",
+    "desc": "Spend all of your mana and heal that much HP. Excess healing is converted into [img:shield].",
+    "key": "Absorb2"
+  },
+  {
+    "name": "Ice Armor",
+    "desc": "-",
+    "key": "IceArmor"
+  },
+  {
+    "name": "IceArmor2",
+    "desc": "-",
+    "key": "IceArmor2"
+  },
+  {
+    "name": "Fire Armor",
+    "desc": "-",
+    "key": "FireArmor"
+  },
+  {
+    "name": "Fire Armor",
+    "desc": "-",
+    "key": "FireArmor2"
+  },
+  {
+    "name": "Mana Meld",
+    "desc": "Give all of your mana to a unit in range 3.",
+    "key": "ManaMeld"
+  },
+  {
+    "name": "ManaMeld2",
+    "desc": "Give all of your mana plus 2 to a unit.",
+    "key": "ManaMeld2"
+  },
+  {
+    "name": "Inspire",
+    "desc": "Give 2 mana to a unit.",
+    "key": "Inspire"
+  },
+  {
+    "name": "Inspire2",
+    "desc": "Give 4 mana to a unit.",
+    "key": "Inspire2"
+  },
+  {
+    "name": "Telefrag",
+    "desc": "Teleport onto a unit, dealing damage to yourself and that unit.",
+    "key": "Telefrag"
+  },
+  {
+    "name": "Telefrag2",
+    "desc": "Teleport onto a unit, dealing damage to that unit.",
+    "key": "Telefrag2"
+  },
+  {
+    "name": "Chaos Teleport",
+    "desc": "Teleport to a random tile.",
+    "key": "ChaosTeleport"
+  },
+  {
+    "name": "ChaosTeleport2",
+    "desc": "Teleport to a random tile. Deal damage to units adjacent to the tile you teleport to.",
+    "key": "ChaosTeleport2"
+  },
+  {
+    "name": "Cryo-Heal",
+    "desc": "Heal and inflict Freeze 1 on a unit in range 3.",
+    "key": "CryoHeal"
+  },
+  {
+    "name": "CryoHeal2",
+    "desc": "Heal and inflict Freeze 1 on any unit.\n[s:.7](This spell costs less.)[/s]",
+    "key": "CryoHeal2"
+  },
+  {
+    "name": "Gust",
+    "desc": "Knock back each unit adjacent to a chosen tile 1 space.",
+    "key": "Gust"
+  },
+  {
+    "name": "Gust2",
+    "desc": "Knock back each unit adjacent to a chosen tile 3 spaces, at infinite range.",
+    "key": "Gust2"
+  },
+  {
+    "name": "Blizzard",
+    "desc": "Deal ice damage in a wide line with Knockback 1 that inflicts Freeze.",
+    "key": "Blizzard"
+  },
+  {
+    "name": "Blizzard2",
+    "desc": "Deal more ice damage in a wide line with Knockback 10 that inflicts Freeze.",
+    "key": "Blizzard2"
+  },
+  {
+    "name": "Inferno",
+    "desc": "Deal fire damage and inflict Burn 8 to all units in a large circle around you.",
+    "key": "Inferno"
+  },
+  {
+    "name": "Inferno2",
+    "desc": "Deal more fire damage and inflict Burn 10 to all units in a large circle around you.",
+    "key": "Inferno2"
+  },
+  {
+    "name": "Thunderburst",
+    "desc": "Shoot lightning bolts in eight directions with a 50% chance to Stun.",
+    "key": "Thunderburst"
+  },
+  {
+    "name": "Thunderburst2",
+    "desc": "Shoot stronger lightning bolts in eight directions with a 100% chance to Stun.",
+    "key": "Thunderburst2"
+  },
+  {
+    "name": "Deal with the Devil",
+    "desc": "Injure yourself, then restore 15 mana.\n[s:.7](Castable once per battle.)[/s]",
+    "key": "DealWithTheDevil"
+  },
+  {
+    "name": "Deal with the Devil",
+    "desc": "Injure yourself, then restore all your mana.\n[s:.7](Castable once per battle.)[/s]",
+    "key": "DealWithTheDevil2"
+  },
+  {
+    "name": "Forbidden Flame",
+    "desc": "Damage and inflict Burn 7 on all enemies and light the map on fire. There will be permanent consequences for casting this spell…\n[s:.7](Castable once per battle.)[/s]",
+    "key": "ForbiddenFlame"
+  },
+  {
+    "name": "ForbiddenFlame2",
+    "desc": "Heavily damage and inflict Burn 10 on all enemies and light the map on fire. There will be permanent consequences for casting this spell…\n[s:.7](Castable once per battle.)[/s]",
+    "key": "ForbiddenFlame2"
+  },
+  {
+    "name": "Forbidden Flood",
+    "desc": "Knock back and damage all enemies, then flood the entire map. There will be permanent consequences for casting this spell…\n[s:.7](Castable once per battle.)[/s]",
+    "key": "ForbiddenFlood"
+  },
+  {
+    "name": "ForbiddenFlood2",
+    "desc": "Knock back and damage all enemies, heal all allies, then flood the entire map. There will be permanent consequences for casting this spell…\n[s:.7](Castable once per battle.)[/s]",
+    "key": "ForbiddenFlood2"
+  },
+  {
+    "name": "Whirlpool",
+    "desc": "Create a whirlpool that spins units and inflicts Confusion on them.",
+    "key": "WaterSphere"
+  },
+  {
+    "name": "WaterSphere2",
+    "desc": "Create a larger whirlpool that spins units and inflicts Confusion on them.",
+    "key": "WaterSphere2"
+  },
+  {
+    "name": "Chain Lightning",
+    "desc": "Shoot lightning that chains randomly to other nearby units up to 2 tiles away.",
+    "key": "ChainLightning"
+  },
+  {
+    "name": "ChainLightning2",
+    "desc": "Shoot lightning that chains randomly to other nearby enemies up to 3 tiles away.",
+    "key": "ChainLightning2"
+  },
+  {
+    "name": "Shatter",
+    "desc": "A melee attack that instantly kills frozen units. If used on a boss, it instead removes Frozen to deal 15 damage and inflict Slow 2.",
+    "key": "Shatter"
+  },
+  {
+    "name": "Shatter",
+    "desc": "A spell that instantly kills frozen units in an area. If used on a boss, it instead removes Frozen to deal 15 damage and inflict Slow 2.",
+    "key": "Shatter2"
+  },
+  {
+    "name": "Forbidden Fulmination",
+    "desc": "Strike all enemies with lightning, inflicting Stun. There will be permanent consequences for casting this spell…\r\n[s:.7](Castable once per battle.)[/s]",
+    "key": "ForbiddenFulmination"
+  },
+  {
+    "name": "ForbiddenFulmination2",
+    "desc": "Strike all enemies with lightning, inflicting Stun 2. There will be permanent consequences for casting this spell…\r\n[s:.7](Castable once per battle.)[/s]",
+    "key": "ForbiddenFulmination2"
+  },
+  {
+    "name": "Firebolt",
+    "desc": "Cast a fire/electric spell that inflicts Burn 1 and has a 15% chance to inflict Stun in an X shaped area.",
+    "key": "FireBolt"
+  },
+  {
+    "name": "FireBolt2",
+    "desc": "Cast a fire/electric spell that inflicts Burn 2 and has a 30% chance to inflict Stun in an X shaped area.",
+    "key": "FireBolt2"
+  },
+  {
+    "name": "Icicle Zapper",
+    "desc": "Shoot an ice/electric bolt in a straight line. It inflicts Slow 2, has a 25% chance to Stun and a 25% chance to Freeze.",
+    "key": "IcicleTaser"
+  },
+  {
+    "name": "IcicleTaser2",
+    "desc": "Shoot 2 ice/electric bolts in a straight line. They inflict Slow 2, have a 25% chance to Stun and a 25% chance to Freeze.",
+    "key": "IcicleTaser2"
+  },
+  {
+    "name": "Freezer Burn",
+    "desc": "Cast a fire/ice spell that inflicts Burn 2, Slow 2 and Knockback 2 on all units around you.",
+    "key": "FreezerBurn"
+  },
+  {
+    "name": "FreezerBurn2",
+    "desc": "Cast a fire/ice spell that inflicts Burn 3, Slow 3 and Knockback 3 on all units around you in a larger area.",
+    "key": "FreezerBurn2"
+  },
+  {
+    "name": "Corrupt",
+    "desc": "Injure yourself, then gain +3 Magic Damage.",
+    "key": "Corrupt"
+  },
+  {
+    "name": "Corrupt2",
+    "desc": "Injure yourself, then gain +3 Magic Damage and emit a Sparkle.",
+    "key": "Corrupt2"
+  },
+  {
+    "name": "Jolt",
+    "desc": "Shoot a lightning bolt that deals 1 damage and knocks the unit it hits 3 tiles in the direction it's facing.",
+    "key": "Jolt"
+  },
+  {
+    "name": "Jolt2",
+    "desc": "Shoot a lightning bolt that deals 2 damage and knocks the unit it hits 6 tiles in the direction it's facing.",
+    "key": "Jolt2"
+  },
+  {
+    "name": "Smolder",
+    "desc": "Inflict Burn 1 and +1 [img:spd] to a unit in range.",
+    "key": "Smolder"
+  },
+  {
+    "name": "Smolder2",
+    "desc": "Inflict Burn 1 and +1 [img:spd] to any unit.\r\n[s:.7](This spell costs less.)[/s]",
+    "key": "Smolder2"
+  },
+  {
+    "name": "Fire Surge",
+    "desc": "A fire spell that increases its range, area, damage, and Burn by 1 every turn.",
+    "key": "FireSurge"
+  },
+  {
+    "name": "FireSurge2",
+    "desc": "A fire spell that increases its range, area, damage, and Burn by 1 every turn. Starts stronger.",
+    "key": "FireSurge2"
+  },
+  {
+    "name": "Ice Surge",
+    "desc": "An ice spell that increases its range and Slow every turn. At 2 turns, it gains Immobilize 1. At 3 turns, it gains Freeze 1.\n[s:.7](Current turns: {v0})[/s]",
+    "key": "IceSurge"
+  },
+  {
+    "name": "IceSurge2",
+    "desc": "An ice spell that increases its range, damage, and Slow every turn. At 2 turns, it gains Immobilize 1. At 3 turns, it gains Freeze 1.\n[s:.7](Current turns: {v0})[/s]",
+    "key": "IceSurge2"
+  },
+  {
+    "name": "Lightning Surge",
+    "desc": "An electric spell that increases its range and damage by 2 every turn, and its stun chance by 10%.",
+    "key": "LightningSurge"
+  },
+  {
+    "name": "LightningSurge2",
+    "desc": "An electric spell that increases its range and damage by 3 every turn, and its stun chance by 10%.",
+    "key": "LightningSurge2"
+  },
+  {
+    "name": "Crescendo",
+    "desc": "This spell gains +1 damage, range and area, and -1 mana cost each time you cast a spell.\nThis spell resets after you cast it.",
+    "key": "Creshendo"
+  },
+  {
+    "name": "Creshendo2",
+    "desc": "This spell gains +1 damage, range and area, and -1 mana cost each time you cast a spell.\nThis spell loses half its boosts after you cast it.",
+    "key": "Creshendo2"
+  },
+  {
+    "name": "Divide",
+    "desc": "Lose Damage equal to half of your basic attack's damage, rounded up. For the rest of the battle, you can attack an extra time each turn.\n[s:.7](This can't be cast if your basic attack's damage is 1 or less.)[/s]",
+    "key": "Divide"
+  },
+  {
+    "name": "Divide2",
+    "desc": "Lose Damage equal to 1/3rd of your basic attack's damage, rounded up. For the rest of the battle, you can attack an extra time each turn.\n[s:.7](This can't be cast if your basic attack's damage is 1 or less.)[/s]",
+    "key": "Divide2"
+  },
+  {
+    "name": "Forbidden Frost",
+    "desc": "Apply Freeze 2 to each unit except for yourself and 1 other chosen unit.\nDeal 10 Damage to enemies and heal each ally 10 HP.\nThere will be permanent consequences for casting this spell…\n[s:.7](Castable once per battle.)[/s]",
+    "key": "ForbiddenFrost"
+  },
+  {
+    "name": "ForbiddenFrost2",
+    "desc": "Apply Freeze 2 to each unit except for yourself and 1 other chosen unit.\nDeal 15 Damage to enemies and fully heal each ally.\nThere will be permanent consequences for casting this spell…\n[s:.7](Castable once per battle.)[/s]",
+    "key": "ForbiddenFrost2"
+  },
+  {
+    "name": "Black Magic",
+    "desc": "Drop to 1 HP. Gain mana equal to the HP lost.\n[s:.7](Castable once per turn.)[/s]",
+    "key": "BlackMagic"
+  },
+  {
+    "name": "Black Magic",
+    "desc": "Drop to 1 HP. Gain mana equal to the HP lost and gain All Stats Up 2.\n[s:.7](Castable once per turn.)[/s]",
+    "key": "BlackMagic2"
+  },
+  {
+    "name": "Teach",
+    "desc": "Reduce the cost of another unit's spells by 1 until the end of their turn.",
+    "key": "Teach"
+  },
+  {
+    "name": "Teach2",
+    "desc": "Reduce the cost of a unit's spells by 1 until the end of their turn. This can target yourself.",
+    "key": "Teach2"
+  },
+  {
+    "name": "Homing Blasts",
+    "desc": "Shoot 3 Magic Missiles at random enemies.",
+    "key": "HomingBlasts"
+  },
+  {
+    "name": "HomingBlasts2",
+    "desc": "Shoot 4 Magic Missiles at random enemies.",
+    "key": "HomingBlasts2"
+  },
+  {
+    "name": "Replicate",
+    "desc": "The next spell you cast is cast twice.",
+    "key": "Replicate"
+  },
+  {
+    "name": "Replicate",
+    "desc": "The next spell you or another unit casts is cast twice.",
+    "key": "Replicate2"
+  },
+  {
+    "name": "Magnify",
+    "desc": "Your basic attack gains +1 range and area until the end of the turn.",
+    "key": "Magnify"
+  },
+  {
+    "name": "Magnify2",
+    "desc": "Your basic attack gains +2 range and +1 area until the end of the turn.\n[s:.7](This spell costs less.)[/s]",
+    "key": "Magnify2"
+  },
+  {
+    "name": "Tri-Attack",
+    "desc": "A Fire / Ice / Electric spell that inflicts Burn 1, Slow 1, and has a 5% chance to inflict Stun.",
+    "key": "TriAttack"
+  },
+  {
+    "name": "TriAttack2",
+    "desc": "A Fire / Ice / Electric spell that inflicts Burn 1, Slow 1, and has a 5% chance to inflict Stun in an area.",
+    "key": "TriAttack2"
+  }
+]

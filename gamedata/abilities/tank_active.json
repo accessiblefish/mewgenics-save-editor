@@ -1,0 +1,557 @@
+[
+  {
+    "name": "Taunt",
+    "desc": "",
+    "key": "Taunt"
+  },
+  {
+    "name": "Taunt2",
+    "desc": "",
+    "key": "Taunt2"
+  },
+  {
+    "name": "Headbutt",
+    "desc": "A melee attack that inflicts Stun.",
+    "key": "HeadButt"
+  },
+  {
+    "name": "HeadButt2",
+    "desc": "A melee attack that inflicts Stun.\n[s:.7](This spell costs less.)[/s]",
+    "key": "HeadButt2"
+  },
+  {
+    "name": "Throw Scrap",
+    "desc": "Give +3 [img:shield] to a unit or spawn a scrap pickup on an empty tile.",
+    "key": "ThrowShield"
+  },
+  {
+    "name": "ThrowShield2",
+    "desc": "Give +3 [img:shield] to units in an area and spawn scrap pickups on the empty tiles in that area.",
+    "key": "ThrowShield2"
+  },
+  {
+    "name": "Chew Cud",
+    "desc": "Heal yourself.",
+    "key": "ChewCud"
+  },
+  {
+    "name": "ChewCud2",
+    "desc": "Heal yourself more.",
+    "key": "ChewCud2"
+  },
+  {
+    "name": "Ass Blast",
+    "desc": "Knock back units in an area near you 4 tiles.",
+    "key": "AssBlast"
+  },
+  {
+    "name": "AssBlast2",
+    "desc": "Knock back units in a larger area near you 10 tiles.",
+    "key": "AssBlast2"
+  },
+  {
+    "name": "Chew",
+    "desc": "A melee attack with Lifesteal.",
+    "key": "Chew"
+  },
+  {
+    "name": "Chew2",
+    "desc": "A melee attack with Lifesteal that inflicts Bleed 2 and ignores shield.",
+    "key": "Chew2"
+  },
+  {
+    "name": "Batter Up",
+    "desc": "Knock a unit back 10 tiles.",
+    "key": "BatterUp"
+  },
+  {
+    "name": "BatterUp2",
+    "desc": "Knock a unit back 10 tiles with Chain Knockback.",
+    "key": "BatterUp2"
+  },
+  {
+    "name": "Backbreaker",
+    "desc": "A melee attack that Immobilizes.",
+    "key": "BackBreaker"
+  },
+  {
+    "name": "BackBreaker2",
+    "desc": "A melee attack that Immobilizes and gives -2 [img:spd].",
+    "key": "BackBreaker2"
+  },
+  {
+    "name": "Suplex",
+    "desc": "Grab a unit in front of you and slam it into the tile behind you.",
+    "key": "Suplex"
+  },
+  {
+    "name": "Suplex2",
+    "desc": "Grab a unit in front of you and slam it into the tile behind you, inflicting Bruise 3 and Immobile.",
+    "key": "Suplex2"
+  },
+  {
+    "name": "Intimidate",
+    "desc": "Inflict Fear on an adjacent unit.",
+    "key": "Intimidate"
+  },
+  {
+    "name": "Intimidate2",
+    "desc": "Inflict Fear on a unit up to five tiles away.",
+    "key": "Intimidate2"
+  },
+  {
+    "name": "Toss",
+    "desc": "Throw an adjacent unit to an open tile.",
+    "key": "Toss"
+  },
+  {
+    "name": "Toss2",
+    "desc": "Throw an adjacent unit to a tile, dealing bonus damage if it collides with something.",
+    "key": "Toss2"
+  },
+  {
+    "name": "Toss",
+    "desc": "Throw an adjacent unit to an open tile.\r\n[s:.7](Castable once per turn.)[/s]",
+    "key": "BonusToss"
+  },
+  {
+    "name": "BonusToss2",
+    "desc": "Throw an adjacent unit to a tile, dealing bonus damage if it collides with something.\n[s:.7](Castable once per turn.)[/s]",
+    "key": "BonusToss2"
+  },
+  {
+    "name": "Toss",
+    "desc": "Throw your crippled friend to any tile.\n[s:.7](Castable once per turn.)[/s]",
+    "key": "NubbyToss"
+  },
+  {
+    "name": "Belly Flop",
+    "desc": "Jump to a tile and Immobilize anything you land on.",
+    "key": "BellyFlop"
+  },
+  {
+    "name": "BellyFlop2",
+    "desc": "Jump to a tile and Immobilize units in an area.",
+    "key": "BellyFlop2"
+  },
+  {
+    "name": "Jump",
+    "desc": "Jump to a tile and damage what you land on.",
+    "key": "ToadJump_BasicMove"
+  },
+  {
+    "name": "Jump",
+    "desc": "Jump to a tile and damage what you land on.",
+    "key": "BellyFlop_BasicMove"
+  },
+  {
+    "name": "Trample Dash",
+    "desc": "Dash forward with Trample, then spawn a rock.",
+    "key": "TankTrample"
+  },
+  {
+    "name": "TankTrample2",
+    "desc": "Dash forward with Trample, then spawn a rock. Deals more damage and has a 20% chance to inflict Stun.",
+    "key": "TankTrample2"
+  },
+  {
+    "name": "Swap",
+    "desc": "Swap positions with any ally.",
+    "key": "TankSwap"
+  },
+  {
+    "name": "TankSwap2",
+    "desc": "Swap positions with any unit.",
+    "key": "TankSwap2"
+  },
+  {
+    "name": "To the Rescue!",
+    "desc": "Jump to a tile adjacent to an ally. Damage and displace any units you land on.",
+    "key": "ToTheRescue"
+  },
+  {
+    "name": "ToTheRescue2",
+    "desc": "Jump to a tile adjacent to an ally. Damage and displace any units you land on, or are adjacent to.",
+    "key": "ToTheRescue2"
+  },
+  {
+    "name": "Tantrum",
+    "desc": "Hit all adjacent units, then spawn a rock.",
+    "key": "TankTantrum"
+  },
+  {
+    "name": "TankTantrum2",
+    "desc": "Hit all adjacent and diagonally adjacent units, then spawn a rock.",
+    "key": "TankTantrum2"
+  },
+  {
+    "name": "Earthquake",
+    "desc": "Deal damage in a cone with a 10% chance to Petrify. Has a chance to spawn rocks.\n[s:.7](This spell spawns rocks.)[/s]",
+    "key": "Earthquake"
+  },
+  {
+    "name": "Earthquake2",
+    "desc": "Deal more damage in a cone with a 20% chance to Petrify. Has a chance to spawn rocks.\n[s:.7](This spell spawns rocks.)[/s]",
+    "key": "Earthquake2"
+  },
+  {
+    "name": "Rock Toss",
+    "desc": "Throw a rock with a 10% chance to Stun.",
+    "key": "RockToss"
+  },
+  {
+    "name": "RockToss2",
+    "desc": "Throw a rock with a 33% chance to Stun.",
+    "key": "RockToss2"
+  },
+  {
+    "name": "Barbed Wire",
+    "desc": "Give a unit +5 Thorns until your next turn.\n[s:.7](You can target yourself.)[/s]",
+    "key": "BarbedWire"
+  },
+  {
+    "name": "Barbed Wire",
+    "desc": "Give a unit or object +5 Thorns until your next turn.\n[s:.7](You can target yourself.)[/s]",
+    "key": "BarbedWire2"
+  },
+  {
+    "name": "Goad",
+    "desc": "Force an enemy to move towards you.",
+    "key": "DrawAttention"
+  },
+  {
+    "name": "DrawAttention2",
+    "desc": "Force an enemy anywhere to move towards you.\n[s:.7](This spell costs less.)[/s]",
+    "key": "DrawAttention2"
+  },
+  {
+    "name": "Bowl Over",
+    "desc": "Trample over one tile diagonally.",
+    "key": "BowlOver"
+  },
+  {
+    "name": "BowlOver2",
+    "desc": "Trample over two tiles diagonally with a 10% chance to inflict Stun.",
+    "key": "BowlOver2"
+  },
+  {
+    "name": "Clap",
+    "desc": "Knock 2 enemies in front of you together.",
+    "key": "Clap"
+  },
+  {
+    "name": "Clap2",
+    "desc": "Knock 2 enemies in front of you together with +2 knockback damage.",
+    "key": "Clap2"
+  },
+  {
+    "name": "Rock Song",
+    "desc": "Levitate all rocks. They will automatically fling towards enemies that end movement in line with them.",
+    "key": "TankRockSong"
+  },
+  {
+    "name": "TankRockSong2",
+    "desc": "Levitate all rocks. They will automatically fling towards enemies that end movement in line with them.\n[s:.7](This spell costs less.)[/s]",
+    "key": "TankRockSong2"
+  },
+  {
+    "name": "Rock Crusher",
+    "desc": "Jump on top of a rock, exploding it. Deal damage and knock back all adjacent units.",
+    "key": "RockCrusher"
+  },
+  {
+    "name": "RockCrusher2",
+    "desc": "Jump on top of a rock, exploding it. Deal high damage and knock back all adjacent units.",
+    "key": "RockCrusher2"
+  },
+  {
+    "name": "Body Guard",
+    "desc": "The next time an ally is targeted by an enemy, switch places with that ally.",
+    "key": "BodyGuard"
+  },
+  {
+    "name": "BodyGuard2",
+    "desc": "The next time an ally is targeted by an enemy, switch places with that ally and gain +4 [img:shield].",
+    "key": "BodyGuard2"
+  },
+  {
+    "name": "Swap",
+    "desc": "{he} swap",
+    "key": "BodyGuardSwap"
+  },
+  {
+    "name": "Swap",
+    "desc": "{he} swap",
+    "key": "BodyGuardSwap2"
+  },
+  {
+    "name": "Gore",
+    "desc": "Dash 3 tiles, damage, inflict Bruise and throw what you hit towards your original tile.",
+    "key": "Gore"
+  },
+  {
+    "name": "Gore2",
+    "desc": "Dash 10 tiles, damage, inflict Bruise and throw what you hit towards your original tile.",
+    "key": "Gore2"
+  },
+  {
+    "name": "Rock Blast",
+    "desc": "Shoot a rock forward.",
+    "key": "RockBlast"
+  },
+  {
+    "name": "RockBlast2",
+    "desc": "Shoot a rock forward with Chain Knockback.\r\n[s:.7](This spell costs less.)[/s]",
+    "key": "RockBlast2"
+  },
+  {
+    "name": "Rock Tomb",
+    "desc": "Damage and Petrify a unit within 3 tiles of you.",
+    "key": "RockTomb"
+  },
+  {
+    "name": "RockTomb2",
+    "desc": "Damage and Petrify a unit within 5 tiles of you.\n[s:.7](This spell costs less.)[/s]",
+    "key": "RockTomb2"
+  },
+  {
+    "name": "Grab",
+    "desc": "Pull a unit within 2 tiles towards you, knocking it into you.",
+    "key": "BearHug"
+  },
+  {
+    "name": "BearHug2",
+    "desc": "Pull a unit within 4 tiles towards you, knocking it into you and inflicting Grappled.",
+    "key": "BearHug2"
+  },
+  {
+    "name": "Fissure",
+    "desc": "Pull all units in a wide line towards the center of that line. This has a 10% chance to Petrify.",
+    "key": "Fissure"
+  },
+  {
+    "name": "Fissure2",
+    "desc": "Pull all units in a wide line towards the center of that line. This has a 15% chance to Petrify and spawns rocks.",
+    "key": "Fissure2"
+  },
+  {
+    "name": "Big Rock",
+    "desc": "Drop a boulder on an adjacent tile, damaging and displacing units it lands on.",
+    "key": "BigRock"
+  },
+  {
+    "name": "BigRock2",
+    "desc": "Drop a boulder on an adjacent tile, damaging, Stunning and displacing units it lands on.",
+    "key": "BigRock2"
+  },
+  {
+    "name": "Flip Flop",
+    "desc": "Jump up to 3 tiles away, damage units you land on, then gain -1 [img:spd].\n[s:.7](This spell's mana cost is equal to your [img:spd].\nAt 0 [img:spd], this spell is Castable once per turn.)[/s]",
+    "key": "FlipFlop"
+  },
+  {
+    "name": "FlipFlop2",
+    "desc": "Jump up to 4 tiles away, damage units you land on, then gain -1 [img:spd].\nIf your [img:spd] is 0, this has increased range and damage.\n[s:.7](This spell's mana cost is equal to your [img:spd].\nAt 0 [img:spd], this spell is Castable once per turn.)[/s]",
+    "key": "FlipFlop2"
+  },
+  {
+    "name": "Lunge",
+    "desc": "Dash forward one tile and attack with Knockback.\nThis spell uses up your movement action.",
+    "key": "Lunge"
+  },
+  {
+    "name": "Lunge2",
+    "desc": "Dash forward one tile, attack with Knockback and inflict Stun.\nThis spell uses up your movement action.",
+    "key": "Lunge2"
+  },
+  {
+    "name": "Nudge",
+    "desc": "Push a unit back 1 tile.\r\n[s:.7](This spell costs 0 mana the first time it's used each turn.)[/s]",
+    "key": "Nudge"
+  },
+  {
+    "name": "Nudge2",
+    "desc": "Push a unit back 10 tiles.\r\n[s:.7](This spell costs 0 mana the first time it's used each turn.)[/s]",
+    "key": "Nudge2"
+  },
+  {
+    "name": "Stone Breath",
+    "desc": "Inflict Petrify on the first unit in a line.",
+    "key": "StoneGaze"
+  },
+  {
+    "name": "StoneGaze2",
+    "desc": "Inflict Petrify and Knockback on the first unit in a line.\n[s:.7](This spell costs less.)[/s]",
+    "key": "StoneGaze2"
+  },
+  {
+    "name": "Gorgon Glare",
+    "desc": "Inflict Petrify on all units in your line of sight.",
+    "key": "Medusa"
+  },
+  {
+    "name": "Medusa2",
+    "desc": "Inflict Petrify on all units in your line of sight.\r\n[s:.7](This spell costs less.)[/s]",
+    "key": "Medusa2"
+  },
+  {
+    "name": "Anchor",
+    "desc": "Gain +4 Brace until the next time you move.",
+    "key": "Anchor"
+  },
+  {
+    "name": "Anchor2",
+    "desc": "Gain +4 Brace until the next time you move.\nBonus Passive: Knockback immunity.",
+    "key": "Anchor2"
+  },
+  {
+    "name": "Eat Rock",
+    "desc": "Eat a rock to gain +5 [img:shield] and +1 [img:str].",
+    "key": "EatRock"
+  },
+  {
+    "name": "Eat Rock",
+    "desc": "Eat a rock to gain +5 [img:shield] and All Stats Up.",
+    "key": "EatRock2"
+  },
+  {
+    "name": "Plant Your Feet",
+    "desc": "Gain +5 [img:shield] and -1 [img:spd]. \nIf you are at 0 [img:spd], instead cleanse all of your debuffs.\n[s:.7](Castable once per turn.)[/s]",
+    "key": "PlantFeet"
+  },
+  {
+    "name": "PlantFeet2",
+    "desc": "Gain +6 [img:shield] and -1 [img:spd].\nIf you are at 0 [img:spd], instead cleanse all of your debuffs and gain All Stats Up.\n[s:.7](Castable once per turn.)[/s]",
+    "key": "PlantFeet2"
+  },
+  {
+    "name": "Iron Head",
+    "desc": "Dash forward up to 3 tiles, gain +4 [img:shield] then damage and knock back adjacent units.",
+    "key": "IronHead"
+  },
+  {
+    "name": "IronHead2",
+    "desc": "Dash forward up to 10 tiles, gain +4 [img:shield] then damage and knock back adjacent units with +5 knockback damage.",
+    "key": "IronHead2"
+  },
+  {
+    "name": "Gang Up",
+    "desc": "Toss a unit to an empty tile within 3 tiles of you, then your allies attack it if they can.",
+    "key": "GangUp"
+  },
+  {
+    "name": "GangUp2",
+    "desc": "Toss a unit to an empty tile within 6 tiles of you and inflict Bruise, then your allies attack it if they can.",
+    "key": "GangUp2"
+  },
+  {
+    "name": "Aftershock",
+    "desc": "All units on dirt tiles get tossed to random nearby tiles and take damage when they land.",
+    "key": "Aftershock"
+  },
+  {
+    "name": "Aftershock2",
+    "desc": "All units on dirt tiles get tossed to random tiles and take damage when they land.\nBonus Passive: All of your spells have Earth element.",
+    "key": "Aftershock2"
+  },
+  {
+    "name": "Steelskin",
+    "desc": "Gain +99 Brace until your next turn, then disable this spell until you take a total of 25 damage.",
+    "key": "SteelSkin"
+  },
+  {
+    "name": "SteelSkin2",
+    "desc": "Gain +99 Brace until your next turn, then disable this spell until you take a total of 15 damage.",
+    "key": "SteelSkin2"
+  },
+  {
+    "name": "Fault Line",
+    "desc": "Fling all units in a straight line onto nearby tiles.",
+    "key": "FaultLine"
+  },
+  {
+    "name": "FaultLine2",
+    "desc": "Fling all units in a straight line onto nearby tiles, dealing more damage.",
+    "key": "FaultLine2"
+  },
+  {
+    "name": "Demolish",
+    "desc": "Turn a tile into a dirt tile, smashing any inanimate objects into rocks.",
+    "key": "Demolish"
+  },
+  {
+    "name": "Demolish2",
+    "desc": "Turn 3 tiles into dirt tiles, smashing any inanimate objects into rocks.",
+    "key": "Demolish2"
+  },
+  {
+    "name": "Cat-A-Pult!",
+    "desc": "Get flung to a tile and deal damage to anything you land on.\nThis doesn't use up your movement action.",
+    "key": "CatapultJump"
+  },
+  {
+    "name": "CatapultJump2",
+    "desc": "Get flung to a tile and deal damage to anything you land on.\nThis doesn't use up your movement action.",
+    "key": "CatapultJump2"
+  },
+  {
+    "name": "Push Through",
+    "desc": "Trample over 2 tiles in a straight line destroying any inanimate objects.",
+    "key": "PushThrough"
+  },
+  {
+    "name": "PushThrough2",
+    "desc": "Trample over 4 tiles in a straight line destroying any inanimate objects and inflicting Bruise 1 on units you trample.",
+    "key": "PushThrough2"
+  },
+  {
+    "name": "Pincushion",
+    "desc": "Gain +3 Thorns. \nThis spell uses up your movement action.",
+    "key": "Spur"
+  },
+  {
+    "name": "Spur2",
+    "desc": "Gain +3 Thorns and +1 Brace.\nThis spell uses up your movement action.",
+    "key": "Spur2"
+  },
+  {
+    "name": "Supper",
+    "desc": "Heal 15 HP and gain -2 [img:spd].\n[s:.7](Castable once per battle.)[/s]",
+    "key": "Supper"
+  },
+  {
+    "name": "Supper2",
+    "desc": "Heal 15 HP, gain -2 [img:spd] and +5 Health Regeneration.\n[s:.7](Castable once per battle.)[/s]",
+    "key": "Supper2"
+  },
+  {
+    "name": "Full Force",
+    "desc": "Deal damage equal to your [img:con] and inflict Stun. Also stuns yourself.",
+    "key": "FullForce"
+  },
+  {
+    "name": "FullForce2",
+    "desc": "Deal damage equal to your [img:con] and inflict Stun and Bruise 4. Also stuns yourself.",
+    "key": "FullForce2"
+  },
+  {
+    "name": "Sandstorm",
+    "desc": "Start a sandstorm.\n(Sandstorm deals 1 damage to all units at the end of round.)\nIf a sandstorm was already active, increase its damage by 1.",
+    "key": "Sandstorm"
+  },
+  {
+    "name": "Sandstorm2",
+    "desc": "Start a sandstorm.\n(Sandstorm deals 1 damage to all units at the end of round.)\nIf a sandstorm was already active, increase its damage by 1.\n[s:.7](This spell costs 0 mana the first time you cast it each turn.)[/s]",
+    "key": "Sandstorm2"
+  },
+  {
+    "name": "Thicken",
+    "desc": "Gain +1 knockback damage and +1 knockback range until the end of the turn.",
+    "key": "Thicken"
+  },
+  {
+    "name": "Thicken2",
+    "desc": "Gain +1 [img:con].\nGain +1 knockback damage and +1 knockback range until the end of the turn.",
+    "key": "Thicken2"
+  }
+]

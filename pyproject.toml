@@ -1,0 +1,24 @@
+[project]
+name = "mewgenics-save-cli"
+version = "0.1.0"
+requires-python = ">=3.10"
+
+[project.scripts]
+mewgenics-save = "mewgenics_cli:main"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+py-modules = [
+  "build_abilities_json",
+  "build_cli_game_data",
+  "build_furniture_json",
+  "build_items_json",
+  "build_mutations_json",
+  "game_data_common",
+  "mewgenics_cli",
+  "parse_save",
+  "save_cli_core",
+]

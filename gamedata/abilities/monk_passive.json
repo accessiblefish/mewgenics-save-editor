@@ -1,0 +1,252 @@
+[
+  {
+    "name": "Safe Switching",
+    "desc": "When you switch stances, gain +2 [img:shield].",
+    "key": "SafeSwitching"
+  },
+  {
+    "name": "SafeSwitching2",
+    "desc": "When you switch stances, gain +3 [img:shield] and cleanse one stack of a random debuff.",
+    "key": "SafeSwitching2"
+  },
+  {
+    "name": "Mixup",
+    "desc": "When you switch stances, your next basic attack this turn is critical.",
+    "key": "Mixup"
+  },
+  {
+    "name": "Mixup2",
+    "desc": "When you switch stances, your next basic attack this turn is critical.\r\nCritical hits you land inflict Confusion 1.",
+    "key": "Mixup2"
+  },
+  {
+    "name": "Turnabout",
+    "desc": "Your basic melee attacks inflict Confusion 1 and make units face away from you.",
+    "key": "Turnabout"
+  },
+  {
+    "name": "Turnabout2",
+    "desc": "Your basic melee attacks inflict Confusion 1, make units face away from you, and have a 20% chance to inflict Stun 1.",
+    "key": "Turnabout2"
+  },
+  {
+    "name": "Monkey Style",
+    "desc": "15% chance to block damage and counter-attack.",
+    "key": "MonkeyStyle"
+  },
+  {
+    "name": "MonkeyStyle2",
+    "desc": "33% chance to block damage and counter-attack.",
+    "key": "MonkeyStyle2"
+  },
+  {
+    "name": "Brick Skin",
+    "desc": "Any [img:shield] you gain is increased by 2.",
+    "key": "BrickSkin"
+  },
+  {
+    "name": "BrickSkin2",
+    "desc": "Any [img:shield] you gain is increased by 2.",
+    "key": "BrickSkin2"
+  },
+  {
+    "name": "Jagged Edges",
+    "desc": "When you lose [img:shield], gain +1 Thorns.",
+    "key": "JaggedEdges"
+  },
+  {
+    "name": "JaggedEdges2",
+    "desc": "When you lose [img:shield], gain that many Thorns.",
+    "key": "JaggedEdges2"
+  },
+  {
+    "name": "Mind Breaker",
+    "desc": "Your basic attack inflicts Magic Weakness 1.",
+    "key": "MindBreaker"
+  },
+  {
+    "name": "MindBreaker2",
+    "desc": "Your basic attack inflicts Magic Weakness 2.",
+    "key": "MindBreaker2"
+  },
+  {
+    "name": "Cobra Style",
+    "desc": "When an enemy moves into an adjacent tile, perform a weak melee attack on it.",
+    "key": "CobraStyle"
+  },
+  {
+    "name": "CobraStyle2",
+    "desc": "When an enemy moves into an adjacent tile, perform a weak melee attack on it, twice!",
+    "key": "CobraStyle2"
+  },
+  {
+    "name": "Tenderize",
+    "desc": "Your basic melee attacks inflict Bruise 1.",
+    "key": "Tenderize"
+  },
+  {
+    "name": "Tenderize2",
+    "desc": "Your basic melee attacks inflict Bruise 1 and have a 15% chance to inflict Stun 1.",
+    "key": "Tenderize2"
+  },
+  {
+    "name": "Long Arms",
+    "desc": "+1 Range and +1 Reach.",
+    "key": "LongArms"
+  },
+  {
+    "name": "LongArms2",
+    "desc": "+1 Range and +1 Reach.",
+    "key": "LongArms2"
+  },
+  {
+    "name": "Spread the Pain",
+    "desc": "Deal 2 extra damage the first time you damage each unit each turn.",
+    "key": "SpreadThePain"
+  },
+  {
+    "name": "SpreadthePain2",
+    "desc": "Deal 2 extra damage with 100% crit chance the first time you damage each unit each turn.",
+    "key": "SpreadThePain2"
+  },
+  {
+    "name": "Harden",
+    "desc": "When you gain [img:shield], also gain temporary Brace 1.",
+    "key": "Harden"
+  },
+  {
+    "name": "Harden2",
+    "desc": "When you gain [img:shield], also gain temporary Brace 1.\nGain +1 [img:shield] when you hit a unit with your basic attack.",
+    "key": "Harden2"
+  },
+  {
+    "name": "Iron Skin Technique",
+    "desc": "Gain +2 [img:shield] when you land a critical hit. +10% critical chance.",
+    "key": "IronSkin"
+  },
+  {
+    "name": "IronSkinTechnique2",
+    "desc": "Gain +3 [img:shield] when you land a critical hit. +25% critical chance.",
+    "key": "IronSkin2"
+  },
+  {
+    "name": "Jet Fists",
+    "desc": "Your melee attacks and abilities blow wind through the tiles they hit.",
+    "key": "JetFists"
+  },
+  {
+    "name": "JetFists2",
+    "desc": "Your melee attacks and abilities blow wind through the tiles they hit in a large cone.",
+    "key": "JetFists2"
+  },
+  {
+    "name": "Energy Fists",
+    "desc": "Emit a Sparkle when you use your basic attack.",
+    "key": "EnergyFists"
+  },
+  {
+    "name": "EnergyFists2",
+    "desc": "Emit two Sparkles when you use your basic attack.",
+    "key": "EnergyFists2"
+  },
+  {
+    "name": "Unstoppable!",
+    "desc": "You're immune to knockback, Stun, Slow, and other mobility debuffs.",
+    "key": "Unstoppable"
+  },
+  {
+    "name": "Unstoppable2",
+    "desc": "You're immune to knockback and debuffs.",
+    "key": "Unstoppable2"
+  },
+  {
+    "name": "Unburdened Motion",
+    "desc": "+1 [img:spd] and +10% dodge chance for each empty armor slot. If all of your armor slots are empty, you can use your movement action an extra time.",
+    "key": "UnburdenedMotion"
+  },
+  {
+    "name": "UnburdenedMotion2",
+    "desc": "+2 [img:spd] and +15% dodge chance for each empty armor slot. If all of your armor slots are empty, you gain flying and can use your movement action an extra time.",
+    "key": "UnburdenedMotion2"
+  },
+  {
+    "name": "Unburdened Strikes",
+    "desc": "+10% critical hit chance and +25% critical hit damage for each empty armor slot. If all of your armor slots are empty, counter-attack whenever you get hit.",
+    "key": "UnburdenedStrikes"
+  },
+  {
+    "name": "UnburdenedStrikes2",
+    "desc": "+10% critical hit chance and +25% critical hit damage for each empty armor slot. If all of your armor slots are empty your critical hits inflict bruise, and counter-attack whenever you get hit.",
+    "key": "UnburdenedStrikes2"
+  },
+  {
+    "name": "Unburdened Thoughts",
+    "desc": "+1 [img:int] and +1 [img:cha] for each empty armor slot. If all of your armor slots are empty, your spells cost 1 less mana.",
+    "key": "UnburdenedThoughts"
+  },
+  {
+    "name": "UnburdenedThoughts2",
+    "desc": "+1 [img:int], +1 [img:cha], and +1 Kinetic Spikes for each empty armor slot. If all of your armor slots are empty, you have +2 Magic Damage and your spells cost 1 less mana.",
+    "key": "UnburdenedThoughts2"
+  },
+  {
+    "name": "Running Jab",
+    "desc": "When you end your movement, automatically use your basic attack if an enemy is in range.",
+    "key": "RunningJab"
+  },
+  {
+    "name": "RunningJab2",
+    "desc": "When you end your movement, automatically use your basic attack if an enemy is in range. You can move an extra time each turn.",
+    "key": "RunningJab2"
+  },
+  {
+    "name": "Perfect Technique",
+    "desc": "While in ranged stance, You have +1 Range and +2 Magic Damage. While in melee stance, you have +1 Brace.",
+    "key": "PerfectTechnique"
+  },
+  {
+    "name": "PerfectTechnique2",
+    "desc": "While in ranged stance, You have +1 Range, +2 Kinetic Spikes, and +2 Magic Damage. While in melee stance, you have +2 Brace and +2 Health Regeneration.",
+    "key": "PerfectTechnique2"
+  },
+  {
+    "name": "Rapid Flow",
+    "desc": "When you switch stances, do a spin attack that hits all adjacent units.",
+    "key": "RapidFlow"
+  },
+  {
+    "name": "RapidFlow2",
+    "desc": "When you switch stances, do a double spin attack that hits all adjacent units.",
+    "key": "RapidFlow2"
+  },
+  {
+    "name": "Counter Barrage",
+    "desc": "When you take damage from an enemy attack, gain +1 Bonus Attack.",
+    "key": "CounterBarrage"
+  },
+  {
+    "name": "CounterBarrage2",
+    "desc": "When you take damage from an enemy attack, gain +1 Bonus Attack and +1 Bonus Move.",
+    "key": "CounterBarrage2"
+  },
+  {
+    "name": "Flow State",
+    "desc": "When you deal damage to another unit, gain +1 [img:str] and +2 [img:dex] until the end of the turn.",
+    "key": "FlowState"
+  },
+  {
+    "name": "FlowState2",
+    "desc": "When you deal damage to another unit, gain +2 [img:str], +2 [img:dex], and +2 [img:lck] until the end of the turn.",
+    "key": "FlowState2"
+  },
+  {
+    "name": "Dancing Lights",
+    "desc": "When you switch stances, for each empty armor slot, emit a Sparkle. If all slots are empty gain +1 to a random stat.",
+    "key": "DancingLights"
+  },
+  {
+    "name": "DancingLights2",
+    "desc": "When you switch stances, for each empty armor slot, emit a Sparkle. If all slots are empty gain +1 to a random stat.\nWhile all armor slots are empty, you have +1 Magic Damage.",
+    "key": "DancingLights2"
+  }
+]

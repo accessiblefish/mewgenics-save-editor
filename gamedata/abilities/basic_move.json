@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Move",
+    "desc": "{he} go",
+    "key": "DefaultMove"
+  },
+  {
+    "name": "Jump",
+    "desc": "{he} jump",
+    "key": "BasicJump"
+  },
+  {
+    "name": "Teleport",
+    "desc": "{he} teleport",
+    "key": "Teleport"
+  },
+  {
+    "name": "Dig",
+    "desc": "{he} dig",
+    "key": "BasicDig"
+  },
+  {
+    "name": "Shadowstep",
+    "desc": "{he} teleport",
+    "key": "Shadowstep"
+  },
+  {
+    "name": "Swap",
+    "desc": "{he} swap",
+    "key": "SwapPositions"
+  },
+  {
+    "name": "Move",
+    "desc": "{he} go",
+    "key": "SwimmerMove"
+  },
+  {
+    "name": "Move",
+    "desc": "{he} go",
+    "key": "TrampleMove"
+  },
+  {
+    "name": "Move",
+    "desc": "{he} go",
+    "key": "TrampleMoveOne"
+  },
+  {
+    "name": "Teleport",
+    "desc": "{he} teleport",
+    "key": "MaxTeleport"
+  },
+  {
+    "name": "Move",
+    "desc": "{he} go",
+    "key": "FloatMove"
+  }
+]

@@ -1,0 +1,1127 @@
+[
+  {
+    "name": "Block",
+    "desc": "Gain +2 [img:shield].",
+    "key": "Block"
+  },
+  {
+    "name": "Block2",
+    "desc": "Gain +5 [img:shield].",
+    "key": "Block2"
+  },
+  {
+    "name": "Rest",
+    "desc": "Heal some HP, then fall asleep.",
+    "key": "Rest"
+  },
+  {
+    "name": "Rest2",
+    "desc": "Heal a lot of HP, then fall asleep.",
+    "key": "Rest2"
+  },
+  {
+    "name": "Brace",
+    "desc": "Gain +1 temporary Brace until your next turn.",
+    "key": "Brace"
+  },
+  {
+    "name": "Brace",
+    "desc": "Gain +1 temporary Brace and +1 temporary Thorns until your next turn.",
+    "key": "Brace2"
+  },
+  {
+    "name": "Groom",
+    "desc": "Remove all of the debuffs on yourself or an adjacent unit.",
+    "key": "Groom"
+  },
+  {
+    "name": "Groom2",
+    "desc": "Remove all of the debuffs and heal a little HP to yourself or an adjacent unit.",
+    "key": "Groom2"
+  },
+  {
+    "name": "Roll",
+    "desc": "Roll up to three tiles in a straight line.",
+    "key": "Roll"
+  },
+  {
+    "name": "Roll2",
+    "desc": "Roll up to ten tiles in a straight line.",
+    "key": "Roll2"
+  },
+  {
+    "name": "Sharpen Claws",
+    "desc": "Gain +1 [img:str].",
+    "key": "SharpenClaws"
+  },
+  {
+    "name": "SharpenClaws2",
+    "desc": "Gain +1 [img:str].\nBonus Passive: Your basic attack inflicts Bleed.",
+    "key": "SharpenClaws2"
+  },
+  {
+    "name": "Reach",
+    "desc": "Your next basic attack has +1 range.",
+    "key": "Reach"
+  },
+  {
+    "name": "Reach2",
+    "desc": "Your next basic attack has +3 range.",
+    "key": "Reach2"
+  },
+  {
+    "name": "Borrow Mana",
+    "desc": "Steal up to 5 mana from an ally.\n[s:.7](Castable once per turn.)[/s]",
+    "key": "ManaDrain"
+  },
+  {
+    "name": "ManaDrain2",
+    "desc": "Steal all of an ally's mana.\n[s:.7](Castable once per turn.)[/s]",
+    "key": "ManaDrain2"
+  },
+  {
+    "name": "Soothing Glow",
+    "desc": "Heal yourself 1.",
+    "key": "SoothingGlow"
+  },
+  {
+    "name": "SoothingGlow2",
+    "desc": "Heal yourself 1 and gain +1 to a random stat.",
+    "key": "SoothingGlow2"
+  },
+  {
+    "name": "Ponder",
+    "desc": "Gain +1 [img:int].",
+    "key": "Ponder"
+  },
+  {
+    "name": "Ponder2",
+    "desc": "Gain +1 [img:int] and conjure a random bonus ability.",
+    "key": "Ponder2"
+  },
+  {
+    "name": "Focus",
+    "desc": "Gain +1 [img:dex].",
+    "key": "Focus"
+  },
+  {
+    "name": "Focus2",
+    "desc": "Gain +1 [img:dex].\nBonus Passive: +25% critical hit chance.",
+    "key": "Focus2"
+  },
+  {
+    "name": "Metabolize",
+    "desc": "Gain +1 [img:con].",
+    "key": "Metabolize"
+  },
+  {
+    "name": "Metabolize2",
+    "desc": "Gain +1 [img:con].\nBonus Passive: +3 Health Regeneration.",
+    "key": "Metabolize2"
+  },
+  {
+    "name": "Brainstorm",
+    "desc": "Reduce the costs of your other spells by 1 mana.",
+    "key": "Brainstorm"
+  },
+  {
+    "name": "Brainstorm",
+    "desc": "Reduce the cost of ALL of your spells by 1 mana.",
+    "key": "Brainstorm2"
+  },
+  {
+    "name": "Momentum",
+    "desc": "",
+    "key": "Momentum"
+  },
+  {
+    "name": "TapLand",
+    "desc": "",
+    "key": "TapLand"
+  },
+  {
+    "name": "Claws Out",
+    "desc": "Gain +1 Thorns.",
+    "key": "GainThorns"
+  },
+  {
+    "name": "GainThorns2",
+    "desc": "Gain +1 Thorns.\r\n[s:.7](This spell costs less.)[/s]",
+    "key": "GainThorns2"
+  },
+  {
+    "name": "HolyStep",
+    "desc": "",
+    "key": "HolyStep"
+  },
+  {
+    "name": "LoveTap",
+    "desc": "",
+    "key": "LoveTap"
+  },
+  {
+    "name": "Hop",
+    "desc": "Hop up to 2 tiles away.",
+    "key": "PrepareToJump"
+  },
+  {
+    "name": "PrepareToJump2",
+    "desc": "Hop up to 4 tiles away.",
+    "key": "PrepareToJump2"
+  },
+  {
+    "name": "Boost",
+    "desc": "Gain +1 Magic Damage until end of turn.",
+    "key": "BoostSpellRange"
+  },
+  {
+    "name": "BoostSpellRange2",
+    "desc": "Gain +1 Magic Damage until end of turn.\r\n[s:.7](This spell costs less.)[/s]",
+    "key": "BoostSpellRange2"
+  },
+  {
+    "name": "Steam Roller",
+    "desc": "Trample over 1 tile.",
+    "key": "PushMove"
+  },
+  {
+    "name": "PushMove2",
+    "desc": "Trample over 3 tiles.",
+    "key": "PushMove2"
+  },
+  {
+    "name": "Gamble",
+    "desc": "Gain +2% critical hit chance. If your next attack is critical, deal +100% more damage and spawn coins.",
+    "key": "Gamble"
+  },
+  {
+    "name": "Gamble2",
+    "desc": "Gain +2% critical hit chance. If your next attack is critical, deal +200% more damage and spawn more coins.",
+    "key": "Gamble2"
+  },
+  {
+    "name": "Soul Reap",
+    "desc": "Deal 1 damage to a unit within five tiles. If this kills it, gain 5 mana.",
+    "key": "SoulReap"
+  },
+  {
+    "name": "SoulReap2",
+    "desc": "Deal 1 damage to any unit. If this kills it, gain 5 mana.",
+    "key": "SoulReap2"
+  },
+  {
+    "name": "Hunt",
+    "desc": "A ranged attack that turns anything it kills into meat.",
+    "key": "Hunt"
+  },
+  {
+    "name": "Hunt2",
+    "desc": "A stronger ranged attack that turns anything it kills into meat.",
+    "key": "Hunt2"
+  },
+  {
+    "name": "Flex",
+    "desc": "Gain +1 temporary Brace until your next turn and deal 1 knockback to each adjacent unit.",
+    "key": "Flex"
+  },
+  {
+    "name": "Flex2",
+    "desc": "Gain +1 temporary Brace until your next turn and deal 3 knockback to each adjacent unit.\n[s:.7](This spell costs less.)[/s]",
+    "key": "Flex2"
+  },
+  {
+    "name": "HolyBlood",
+    "desc": "",
+    "key": "HolyBlood"
+  },
+  {
+    "name": "Dart",
+    "desc": "Throw a nail that ignores shield.",
+    "key": "Dart"
+  },
+  {
+    "name": "Dart2",
+    "desc": "Throw a stronger nail that ignores shield.\n[s:.7](This spell costs less.)[/s]",
+    "key": "Dart2"
+  },
+  {
+    "name": "Smack",
+    "desc": "A weak melee attack.",
+    "key": "Smack"
+  },
+  {
+    "name": "Smack2",
+    "desc": "A weak melee attack with a chance to repeat.",
+    "key": "Smack2"
+  },
+  {
+    "name": "Spit",
+    "desc": "Spit attack with infinite range that deals 1 damage.",
+    "key": "Spit"
+  },
+  {
+    "name": "Spit2",
+    "desc": "Spit attack with infinite range that deals 2 damage in an area.",
+    "key": "Spit2"
+  },
+  {
+    "name": "Minihook",
+    "desc": "Pull a unit towards you.",
+    "key": "MiniHook"
+  },
+  {
+    "name": "MiniHook2",
+    "desc": "Pull a unit towards you. Deal 1 damage and inflict 1 Bleed on them.",
+    "key": "MiniHook2"
+  },
+  {
+    "name": "Over There!",
+    "desc": "Adjacent units turn away from you.",
+    "key": "MiniDistract"
+  },
+  {
+    "name": "MiniDistract2",
+    "desc": "Units within three tiles of you turn away from you.",
+    "key": "MiniDistract2"
+  },
+  {
+    "name": "Butt Scoot",
+    "desc": "Move 1 tile, leaving a maggot familiar behind you.",
+    "key": "ButtScoot"
+  },
+  {
+    "name": "ButtScoot2",
+    "desc": "Move up to 3 tiles, leaving a maggot familiar behind you.",
+    "key": "ButtScoot2"
+  },
+  {
+    "name": "Confusion",
+    "desc": "Inflict Confusion 2 on a unit.",
+    "key": "Confusion"
+  },
+  {
+    "name": "Confusion2",
+    "desc": "Inflict Confusion 4 on units in an area.",
+    "key": "Confusion2"
+  },
+  {
+    "name": "Play Dead",
+    "desc": "Down yourself. You don't get injured.",
+    "key": "PlayDead"
+  },
+  {
+    "name": "PlayDead2",
+    "desc": "Down yourself. You don't get injured. Revive at the end of the next round at full HP.",
+    "key": "PlayDead2"
+  },
+  {
+    "name": "Reflect",
+    "desc": "Reflect the next projectile that hits you back at the attacker.",
+    "key": "Reflect"
+  },
+  {
+    "name": "Reflect2",
+    "desc": "You or another unit reflects the next projectile that hits them back at the attacker.",
+    "key": "Reflect2"
+  },
+  {
+    "name": "Healing Bolt",
+    "desc": "A lightning bolt that heals and has a chance to Stun.",
+    "key": "HealBolt"
+  },
+  {
+    "name": "Healing Bolt",
+    "desc": "A lightning bolt that heals allies and has a chance to Stun enemies.",
+    "key": "HealBolt2"
+  },
+  {
+    "name": "Slip Through",
+    "desc": "Roll up to two tiles in a diagonal line.",
+    "key": "SlipThrough"
+  },
+  {
+    "name": "SlipThrough2",
+    "desc": "Roll any number of tiles in a diagonal line.",
+    "key": "SlipThrough2"
+  },
+  {
+    "name": "Dump",
+    "desc": "Spawn a poop on an adjacent tile.",
+    "key": "Dump"
+  },
+  {
+    "name": "Dump2",
+    "desc": "Spawn a poop on an adjacent tile. Inflict Poison 3 and a 15% chance to Stun if you poop on a unit.",
+    "key": "Dump2"
+  },
+  {
+    "name": "Snacks",
+    "desc": "Heal yourself or another unit within four tiles 1 HP.",
+    "key": "Snacks"
+  },
+  {
+    "name": "Snacks2",
+    "desc": "Heal yourself or another unit 1 HP. 50% chance to also give +1 [img:con].",
+    "key": "Snacks2"
+  },
+  {
+    "name": "Feather Feet",
+    "desc": "Gain +1 [img:spd].",
+    "key": "FeatherFeet"
+  },
+  {
+    "name": "FeatherFeet2",
+    "desc": "Gain +1 [img:spd].\nBonus Passive: You're unaffected by tile effects.",
+    "key": "FeatherFeet2"
+  },
+  {
+    "name": "Reduce",
+    "desc": "Gain +20% dodge chance, +4 [img:spd], and -2 Damage.\n[s:.7](Castable once per battle.)[/s]",
+    "key": "Reduce"
+  },
+  {
+    "name": "Reduce2",
+    "desc": "Gain +20% dodge chance, +4 [img:spd], and -2 Damage.\n[s:.7](This spell costs 0 mana. Castable once per battle.)[/s]",
+    "key": "Reduce2"
+  },
+  {
+    "name": "Nerf",
+    "desc": "Inflict -1 Damage on a unit.",
+    "key": "Nerf"
+  },
+  {
+    "name": "Nerf2",
+    "desc": "Inflict -1 Damage and -1 [img:con] on a unit.",
+    "key": "Nerf2"
+  },
+  {
+    "name": "Trip",
+    "desc": "Immobilize an adjacent unit.\n[s:.7]This only has a 25% chance to work on boss units and large enemies.[/s]",
+    "key": "Trip"
+  },
+  {
+    "name": "Trip",
+    "desc": "Immobilize a unit in range 4.\n[s:.7]This only has a 25% chance to work on boss units and large enemies.[/s]",
+    "key": "Trip2"
+  },
+  {
+    "name": "Copycat",
+    "desc": "This spell is a copy of the most recent spell an allied cat cast.",
+    "key": "Copycat"
+  },
+  {
+    "name": "Copycat2",
+    "desc": "This spell is an upgraded copy of the most recent spell an allied cat cast.",
+    "key": "Copycat2"
+  },
+  {
+    "name": "Metronome",
+    "desc": "Cast a random spell.",
+    "key": "Metronome"
+  },
+  {
+    "name": "Metronome2",
+    "desc": "Cast a random upgraded spell.",
+    "key": "Metronome2"
+  },
+  {
+    "name": "Doll Up",
+    "desc": "Gain +1 [img:cha].",
+    "key": "DollUp"
+  },
+  {
+    "name": "DollUp2",
+    "desc": "Gain +1 [img:cha].\nBonus Passive: You have a chance to inflict Charm on units that contact or attack you. This chance increases with your [img:cha].",
+    "key": "DollUp2"
+  },
+  {
+    "name": "Stack the Deck",
+    "desc": "Gain +1 [img:lck].",
+    "key": "StackTheDeck"
+  },
+  {
+    "name": "StackTheDeck2",
+    "desc": "Gain +1 [img:lck]. You have +99 [img:lck] during your next action.",
+    "key": "StackTheDeck2"
+  },
+  {
+    "name": "Tunnel",
+    "desc": "Dig to any open tile.\r\n[s:.7](Castable once per battle.)[/s]",
+    "key": "Infiltrate"
+  },
+  {
+    "name": "Infiltrate2",
+    "desc": "Dig to any open tile.\r\n[s:.7](Castable once per battle. This spell costs 0 mana.)[/s]",
+    "key": "Infiltrate2"
+  },
+  {
+    "name": "Burst",
+    "desc": "Fire a magical blast.\r\n[s:.7](Castable once per battle.)[/s]",
+    "key": "Burst"
+  },
+  {
+    "name": "Burst2",
+    "desc": "Fire a magical blast.\r\n[s:.7](This spell costs 0 mana. Castable once per battle.)[/s]",
+    "key": "Burst2"
+  },
+  {
+    "name": "Stun",
+    "desc": "Chuck a rock at a unit, inflicting Stun on that unit.\r\n[s:.7](Castable once per battle.)[/s]",
+    "key": "Suppress"
+  },
+  {
+    "name": "Suppress2",
+    "desc": "Chuck a rock at a unit, inflicting Stun on that unit.\r\n[s:.7](This spell costs 0 mana. Castable once per battle.)[/s]",
+    "key": "Suppress2"
+  },
+  {
+    "name": "Second Wind",
+    "desc": "Refresh your basic attack, movement, weapon, and trinket action.\n[s:.7](Castable once per battle.)[/s]",
+    "key": "Endeavor"
+  },
+  {
+    "name": "Endeavor2",
+    "desc": "Refresh your basic attack, movement, weapon, and trinket action.\n[s:.7](This spell costs 0 mana. Castable once per battle.)[/s]",
+    "key": "Endeavor2"
+  },
+  {
+    "name": "Rat Roulette",
+    "desc": "Deal 1 damage to a random unit. If you kill that unit, take an extra turn.",
+    "key": "LotteryShottery"
+  },
+  {
+    "name": "LotteryShottery2",
+    "desc": "Deal 2 damage to a random unit. If you kill that unit, take an extra turn.\n[s:.7](This spell costs less.)[/s]",
+    "key": "LotteryShottery2"
+  },
+  {
+    "name": "Cat Nap",
+    "desc": "Remove all of your debuffs, then fall asleep.",
+    "key": "CatNap"
+  },
+  {
+    "name": "CatNap2",
+    "desc": "Remove all of your debuffs, gain All Stats Up, then fall asleep.",
+    "key": "CatNap2"
+  },
+  {
+    "name": "Number One",
+    "desc": "Spawn \"water\" tiles in an area around yourself.",
+    "key": "PissYourself"
+  },
+  {
+    "name": "PissYourself2",
+    "desc": "Spawn \"water\" tiles in a larger area around yourself.",
+    "key": "PissYourself2"
+  },
+  {
+    "name": "Find a Rock",
+    "desc": "Dig up a small rock.",
+    "key": "FindARock"
+  },
+  {
+    "name": "FindARock2",
+    "desc": "Dig up a small rock.\n[s:.7](This spell costs less.)[/s]",
+    "key": "FindARock2"
+  },
+  {
+    "name": "Ass Blast",
+    "desc": "Knock back all adjacent units.",
+    "key": "Gassy_AssBlast"
+  },
+  {
+    "name": "Gassy_AssBlast2",
+    "desc": "Knock back all adjacent units 3 tiles and inflict Poison 1.",
+    "key": "Gassy_AssBlast2"
+  },
+  {
+    "name": "Burgeoning Blast",
+    "desc": "A spell that deals {v0} damage. Increase this spell's damage by 2 at the end of each turn.\n[s:.7](Castable once per battle.)[/s]",
+    "key": "BurgeoningBlast"
+  },
+  {
+    "name": "BurgeoningBlast2",
+    "desc": "A spell that deals {v0} damage. Increase this spell's damage by 3 at the end of each turn.\n[s:.7](Castable once per battle.)[/s]",
+    "key": "BurgeoningBlast2"
+  },
+  {
+    "name": "Burgeoning Barrier",
+    "desc": "Gain {v0} [img:shield]. Increase this spell's [img:shield] by 2 at the end of each turn.\n[s:.7](Castable once per battle.)[/s]",
+    "key": "BurgeoningBarrier"
+  },
+  {
+    "name": "BurgeoningBarrier2",
+    "desc": "Gain {v0} [img:shield]. Increase this spell's [img:shield] by 3 at the end of each turn.\n[s:.7](Castable once per battle.)[/s]",
+    "key": "BurgeoningBarrier2"
+  },
+  {
+    "name": "Burgeoning Battery",
+    "desc": "Gain {v0} mana. Increase this spell's mana gain by 2 at the end of each turn.\n[s:.7](Castable once per battle.)[/s]",
+    "key": "BurgeoningBattery"
+  },
+  {
+    "name": "BurgeoningBattery2",
+    "desc": "Gain {v0} mana. Increase this spell's mana gain by 3 at the end of each turn.\n[s:.7](Castable once per battle.)[/s]",
+    "key": "BurgeoningBattery2"
+  },
+  {
+    "name": "Hose Off",
+    "desc": "Spray a unit with water, cleansing its debuffs and making a puddle.\n[s:.7](Castable once per battle.)[/s]",
+    "key": "HoseOff"
+  },
+  {
+    "name": "HoseOff2",
+    "desc": "Spray a unit with water, cleansing its debuffs and making a puddle.\n[s:.7](This spell costs 0 mana. Castable once per battle.)[/s]",
+    "key": "HoseOff2"
+  },
+  {
+    "name": "Proliferate",
+    "desc": "Double a unit's Poison, Bleed, and Burn.\r\n[s:.7](Castable once per battle.)[/s]",
+    "key": "Taint"
+  },
+  {
+    "name": "Taint2",
+    "desc": "Double a unit's Poison, Bleed, and Burn.\r\n[s:.7](This spell costs 0 mana. Castable once per battle.)[/s]",
+    "key": "Taint2"
+  },
+  {
+    "name": "Sudden Affliction",
+    "desc": "Trigger the Poison, Bleed, and Burn effects on a unit.",
+    "key": "PokeWound"
+  },
+  {
+    "name": "PokeWound2",
+    "desc": "Trigger the Poison, Bleed, and Burn effects on a unit. If that unit isn't Poisoned, Bleeding, or Burning, they gain 1 of each.",
+    "key": "PokeWound2"
+  },
+  {
+    "name": "Waste Time",
+    "desc": "Do nothing.",
+    "key": "WasteTime"
+  },
+  {
+    "name": "WasteTime2",
+    "desc": "Gain 1 Charge.",
+    "key": "WasteTime2"
+  },
+  {
+    "name": "Desecrate",
+    "desc": "Destroy a body.",
+    "key": "Desecrate"
+  },
+  {
+    "name": "Desecrate2",
+    "desc": "Destroy a body and gain 2 mana.",
+    "key": "Desecrate2"
+  },
+  {
+    "name": "Invert",
+    "desc": "Swap your highest and lowest stats.\n[s:.7](Ties are chosen at random)[/s]",
+    "key": "Contort"
+  },
+  {
+    "name": "Contort2",
+    "desc": "Swap a unit's highest and lowest stats.\n[s:.7](Ties are chosen at random)[/s]",
+    "key": "Contort2"
+  },
+  {
+    "name": "Russian Shorthair Roulette",
+    "desc": "There is a 1 in 6 chance this will kill you. If it doesn't, gain +1 to a random stat and 1-2 coins.",
+    "key": "RussianRoulette"
+  },
+  {
+    "name": "RussianRoulette2",
+    "desc": "There is a 1 in 6 chance this will kill you. If it doesn't, gain +2 to a random stat and 2-4 coins.",
+    "key": "RussianRoulette2"
+  },
+  {
+    "name": "Step",
+    "desc": "Move one tile.\n[s:.7](Castable once per turn.)[/s]",
+    "key": "Step"
+  },
+  {
+    "name": "Step2",
+    "desc": "Move two tiles.\n[s:.7](Castable once per turn.)[/s]",
+    "key": "Step2"
+  },
+  {
+    "name": "Interchange",
+    "desc": "Exchange your movement action for an additional basic attack, and vice versa.",
+    "key": "Interchange"
+  },
+  {
+    "name": "Interchange2",
+    "desc": "Exchange your movement action for an additional basic attack, and vice versa.\n[s:.7](This spell costs 0 mana the first time you cast it each turn.)[/s]",
+    "key": "Interchange2"
+  },
+  {
+    "name": "Look at me!",
+    "desc": "Each unit turns to face you.",
+    "key": "LookAtMe"
+  },
+  {
+    "name": "LookAtMe2",
+    "desc": "Each unit turns to face you. 20% chance to Confuse enemies.",
+    "key": "LookAtMe2"
+  },
+  {
+    "name": "Rouse",
+    "desc": "Give an adjacent unit +2 Charge.\r\n[s:.7](Castable once per turn.)[/s]",
+    "key": "Rouse"
+  },
+  {
+    "name": "Rouse2",
+    "desc": "Give any unit +2 Charge.\r\n[s:.7](Castable once per turn.)[/s]",
+    "key": "Rouse2"
+  },
+  {
+    "name": "Shift",
+    "desc": "Swap positions with an adjacent unit.\r\n[s:.7](Castable once per turn.)[/s]",
+    "key": "Shift"
+  },
+  {
+    "name": "Shift2",
+    "desc": "Swap positions with any unit.\r\n[s:.7](Castable once per turn.)[/s]",
+    "key": "Shift2"
+  },
+  {
+    "name": "Make a Wish",
+    "desc": "Spend a coin to spawn a random pickup on a random tile.\r\n[s:.7](Castable once per turn.)[/s]",
+    "key": "Donate"
+  },
+  {
+    "name": "Donate2",
+    "desc": "Spend a coin to spawn a random pickup on an empty tile of your choice.\r\n[s:.7](Castable once per turn.)[/s]",
+    "key": "Donate2"
+  },
+  {
+    "name": "Magnet",
+    "desc": "Pull a pickup one tile toward you.\r\n[s:.7](Castable once per turn.)[/s]",
+    "key": "Magnet"
+  },
+  {
+    "name": "Magnet2",
+    "desc": "Pull a pickup all the way toward you.\n[s:.7](Castable once per turn)[/s]",
+    "key": "Magnet2"
+  },
+  {
+    "name": "Shrug It Off",
+    "desc": "Heal yourself HP equal to half your [img:str], rounded up.",
+    "key": "ScuffItOff"
+  },
+  {
+    "name": "ScuffItOff2",
+    "desc": "Heal yourself HP equal to half your [img:str], rounded up.\n[s:.7](This spell costs less.)[/s]",
+    "key": "ScuffItOff2"
+  },
+  {
+    "name": "Barf Ball",
+    "desc": "A ranged attack that deals damage equal to half your [img:con], rounded up.",
+    "key": "BarfBall"
+  },
+  {
+    "name": "BarfBall2",
+    "desc": "A ranged attack that deals damage equal to half your [img:con], rounded up.\n[s:.7](This spell costs less.)[/s]",
+    "key": "BarfBall2"
+  },
+  {
+    "name": "Dexterous Hit",
+    "desc": "A melee attack that deals damage equal to half your [img:dex], rounded up.",
+    "key": "DexterousHit"
+  },
+  {
+    "name": "DexterousHit2",
+    "desc": "A melee attack that deals damage equal to half your [img:dex], rounded up.\n[s:.7](This spell costs less.)[/s]",
+    "key": "DexterousHit2"
+  },
+  {
+    "name": "Randomize",
+    "desc": "Spawn a random tile anywhere.",
+    "key": "Till"
+  },
+  {
+    "name": "Till2",
+    "desc": "Tiles in an area become random tiles.",
+    "key": "Till2"
+  },
+  {
+    "name": "Path of the Mage",
+    "desc": "Transform this spell into a random Mage spell permanently.",
+    "key": "PathOfTheMage"
+  },
+  {
+    "name": "PathOfTheMage2",
+    "desc": "Transform this spell into a random upgraded Mage spell permanently.",
+    "key": "PathOfTheMage2"
+  },
+  {
+    "name": "Path of the Hunter",
+    "desc": "A lobbed attack that deals 1 damage. If this kills an enemy, this spell becomes a random Hunter spell permanently.",
+    "key": "PathOfTheHunter"
+  },
+  {
+    "name": "Path of the Hunter",
+    "desc": "Transform this spell into a random upgraded Hunter spell permanently.",
+    "key": "PathOfTheHunter2"
+  },
+  {
+    "name": "Path of the Thief",
+    "desc": "A straight shot attack that deals 1 damage. If this makes a critical hit, this spell becomes a random Thief spell permanently.",
+    "key": "PathOfTheThief"
+  },
+  {
+    "name": "Path of the Thief",
+    "desc": "Transform this spell into a random upgraded Thief spell permanently.",
+    "key": "PathOfTheThief2"
+  },
+  {
+    "name": "Path of the Fighter",
+    "desc": "Your [img:int] becomes 0 until the end of the battle, then this spell becomes a random Fighter spell permanently.",
+    "key": "PathOfTheFighter"
+  },
+  {
+    "name": "Path of the Fighter",
+    "desc": "Transform this spell into a random upgraded Fighter spell permanently.",
+    "key": "PathOfTheFighter2"
+  },
+  {
+    "name": "Path of the Tank",
+    "desc": "Transform this spell into a random Tank spell permanently. Castable only if you have 5 or less health.",
+    "key": "PathOfTheTank"
+  },
+  {
+    "name": "PathOfTheTank2",
+    "desc": "Transform this spell into a random upgraded Tank spell permanently.",
+    "key": "PathOfTheTank2"
+  },
+  {
+    "name": "Path of the Cleric",
+    "desc": "Give an enemy All Stats Up and fully heal it, then this spell becomes a random Cleric spell permanently.",
+    "key": "PathOfTheCleric"
+  },
+  {
+    "name": "Path of the Cleric",
+    "desc": "Transform this spell into a random upgraded Cleric spell permanently.",
+    "key": "PathOfTheCleric2"
+  },
+  {
+    "name": "Path of the Butcher",
+    "desc": "Collect an adjacent food pickup, then this spell becomes a random Butcher spell permanently.",
+    "key": "PathOfTheButcher"
+  },
+  {
+    "name": "Path of the Butcher",
+    "desc": "Transform this spell into a random upgraded Butcher spell permanently.",
+    "key": "PathOfTheButcher2"
+  },
+  {
+    "name": "Path of the Psychic",
+    "desc": "This spell becomes a random Psychic spell permanently. Castable only if you have full mana.",
+    "key": "PathOfThePsychic"
+  },
+  {
+    "name": "PathOfThePsychic2",
+    "desc": "Transform this spell into a random upgraded Psychic spell permanently.",
+    "key": "PathOfThePsychic2"
+  },
+  {
+    "name": "Path of the Tinkerer",
+    "desc": "Destroy your weapon, then this spell becomes a random Tinkerer spell permanently.",
+    "key": "PathOfTheTinkerer"
+  },
+  {
+    "name": "Path of the Tinkerer",
+    "desc": "Transform this spell into a random upgraded Tinkerer spell permanently.",
+    "key": "PathOfTheTinkerer2"
+  },
+  {
+    "name": "Path of the Monk",
+    "desc": "Gain All Stats Down, then this spell becomes a random Monk spell permanently.",
+    "key": "PathOfTheMonk"
+  },
+  {
+    "name": "Path of the Monk",
+    "desc": "This spell becomes a random upgraded Monk spell permanently.",
+    "key": "PathOfTheMonk2"
+  },
+  {
+    "name": "Path of the Druid",
+    "desc": "Plant flowers on the tile you're standing on, then this spell becomes a random Druid spell permanently. Castable only if you're standing on a grass tile.",
+    "key": "PathOfTheDruid"
+  },
+  {
+    "name": "Path of the Druid",
+    "desc": "Transform this spell into a random upgraded Druid spell permanently.",
+    "key": "PathOfTheDruid2"
+  },
+  {
+    "name": "Path of the Necromancer",
+    "desc": "Destroy a corpse, then this spell becomes a random Necromancer spell permanently.",
+    "key": "PathOfTheNecromancer"
+  },
+  {
+    "name": "Path of the Necromancer",
+    "desc": "Transform this spell into a random Necromancer spell permanently.",
+    "key": "PathOfTheNecromancer2"
+  },
+  {
+    "name": "Itch",
+    "desc": "Deal 1 damage to yourself. 50% chance to spawn a friendly flea.",
+    "key": "Itch"
+  },
+  {
+    "name": "Itch2",
+    "desc": "Deal 1 damage to yourself. Spawn a friendly flea.",
+    "key": "Itch2"
+  },
+  {
+    "name": "Meow",
+    "desc": "Your closest ally moves toward you.",
+    "key": "Meow"
+  },
+  {
+    "name": "Meow",
+    "desc": "A target ally moves toward you.",
+    "key": "Meow2"
+  },
+  {
+    "name": "Swat",
+    "desc": "Knockback a unit 3 tiles.",
+    "key": "Swat"
+  },
+  {
+    "name": "Swat2",
+    "desc": "Knockback a unit 10 tiles.\n[s:.7](This spell costs less.)[/s]",
+    "key": "Swat2"
+  },
+  {
+    "name": "Lick",
+    "desc": "Heal an adjacent unit by 2 HP.",
+    "key": "LickHeal"
+  },
+  {
+    "name": "LickHeal2",
+    "desc": "Heal an adjacent unit by 2 HP. Healed enemies gain Confusion 3.",
+    "key": "LickHeal2"
+  },
+  {
+    "name": "Purr",
+    "desc": "Remove 1 stack of a random debuff from yourself and all adjacent units.",
+    "key": "Purr"
+  },
+  {
+    "name": "Purr2",
+    "desc": "Remove 1 stack of a random debuff from and heal 1 HP to yourself and all adjacent units.",
+    "key": "Purr2"
+  },
+  {
+    "name": "Hiss",
+    "desc": "Adjacent units move away from you. You have a 25% chance to inflict Fear on them.",
+    "key": "Hiss"
+  },
+  {
+    "name": "Hiss2",
+    "desc": "Adjacent units move away from you. Inflict fear on them.",
+    "key": "Hiss2"
+  },
+  {
+    "name": "Knead",
+    "desc": "Knead another unit. Allies gain +1 Damage, enemies gain Weakness 1.",
+    "key": "Knead"
+  },
+  {
+    "name": "Knead2",
+    "desc": "Knead another unit. Allies gain +2 Damage, enemies gain Weakness 2.",
+    "key": "Knead2"
+  },
+  {
+    "name": "Buy Catnip",
+    "desc": "Spend 5 coins, gain 10 mana.\r\n[s:.7](Castable once per turn.)[/s]",
+    "key": "BuyCatnip"
+  },
+  {
+    "name": "BuyCatnip2",
+    "desc": "Spend 5 coins, gain 15 mana.\r\n[s:.7](Castable once per turn.)[/s]",
+    "key": "BuyCatnip2"
+  },
+  {
+    "name": "Vet Visit",
+    "desc": "Spend 5 coins, heal 10 HP.\r\n[s:.7](Castable once per turn.)[/s]",
+    "key": "VetVisit"
+  },
+  {
+    "name": "VetVisit2",
+    "desc": "Spend 5 coins, heal 15 HP.\r\n[s:.7](Castable once per turn.)[/s]",
+    "key": "VetVisit2"
+  },
+  {
+    "name": "Hire Hitman",
+    "desc": "Spend 7 coins, summon a bounty hunter.\r\n[s:.7](Castable once per turn.)[/s]",
+    "key": "HireHitman"
+  },
+  {
+    "name": "HireHitman2",
+    "desc": "Spend 7 coins, summon a bounty hunter with All Stats Up 2.\n[s:.7](Castable once per turn.)[/s]",
+    "key": "HireHitman2"
+  },
+  {
+    "name": "Subway Ride",
+    "desc": "Spend 5 coins, teleport to any tile.\r\n[s:.7](Castable once per turn.)[/s]",
+    "key": "SubwayRide"
+  },
+  {
+    "name": "SubwayRide2",
+    "desc": "Spend 2 coins, teleport to any tile.\r\n[s:.7](Castable once per turn.)[/s]",
+    "key": "SubwayRide2"
+  },
+  {
+    "name": "Gym Membership",
+    "desc": "Spend 5 coins, gain All Stats Up.\n[s:.7](Castable once per turn.)[/s]",
+    "key": "GymMembership"
+  },
+  {
+    "name": "GymMembership2",
+    "desc": "Spend 5 coins, gain All Stats Up and refresh your basic attack and movement actions.\n[s:.7](Castable once per turn.)[/s]",
+    "key": "GymMembership2"
+  },
+  {
+    "name": "Super Crate Box",
+    "desc": "Spawn a crate on an adjacent tile.",
+    "key": "SuperCrateBox"
+  },
+  {
+    "name": "SuperCrateBox2",
+    "desc": "Spawn a crate within range 5.",
+    "key": "SuperCrateBox2"
+  },
+  {
+    "name": "BBQ",
+    "desc": "Spawn a cooked meat pickup.",
+    "key": "BBQ"
+  },
+  {
+    "name": "BBQ2",
+    "desc": "Spawn a big cooked meat pickup.",
+    "key": "BBQ2"
+  },
+  {
+    "name": "CPR",
+    "desc": "Revive an adjacent body to 1 HP.",
+    "key": "CPR"
+  },
+  {
+    "name": "CPR2",
+    "desc": "Revive an adjacent body to 5 HP.\n[s:.7](This spell costs less.)[/s]",
+    "key": "CPR2"
+  },
+  {
+    "name": "Blow",
+    "desc": "Blow units in a cone back 1 tile.",
+    "key": "Blow"
+  },
+  {
+    "name": "Blow2",
+    "desc": "Blow units in a larger cone back 1 tile.",
+    "key": "Blow2"
+  },
+  {
+    "name": "Toast",
+    "desc": "Inflict Burn 1 on an adjacent unit.",
+    "key": "Toast"
+  },
+  {
+    "name": "Toast2",
+    "desc": "Inflict Burn 1 on a unit in range 5.",
+    "key": "Toast2"
+  },
+  {
+    "name": "Landscape",
+    "desc": "Turn an adjacent tile into a small grass tile.",
+    "key": "Landscape"
+  },
+  {
+    "name": "Landscape2",
+    "desc": "Turn any tile into a small grass tile.",
+    "key": "Landscape2"
+  },
+  {
+    "name": "Zap",
+    "desc": "Deal 1 electric damage at infinite range.",
+    "key": "Zap"
+  },
+  {
+    "name": "Zap2",
+    "desc": "Deal 1 electric damage with a 25% chance to Stun at infinite range.",
+    "key": "Zap2"
+  },
+  {
+    "name": "Sunburn",
+    "desc": "Inflicts Burn 1 and Blind 1 at infinite range.",
+    "key": "Sunburn"
+  },
+  {
+    "name": "Sunburn2",
+    "desc": "Inflict Burn 1 and Blind 1 in an area at infinite range.",
+    "key": "Sunburn2"
+  },
+  {
+    "name": "Cold Shoulder",
+    "desc": "Deal 1 ice damage and inflict Slow 1 at infinite range.",
+    "key": "ColdShoulder"
+  },
+  {
+    "name": "ColdShoulder2",
+    "desc": "Deal 1 ice damage and inflict Slow 1 at infinite range.\r\n[s:.7](This spell costs less.)[/s]",
+    "key": "ColdShoulder2"
+  },
+  {
+    "name": "Blow Kiss",
+    "desc": "Heal another unit by 1 HP at infinite range.",
+    "key": "BlowKiss"
+  },
+  {
+    "name": "BlowKiss2",
+    "desc": "Heal another unit by 2 HP at infinite range.",
+    "key": "BlowKiss2"
+  },
+  {
+    "name": "Forbidden Fart",
+    "desc": "Damage, Inflict Poison 4 and Knock Up nearby units.\nThere will be permanent consequences for casting this spell…\n[s:.7](Castable once per turn.)[/s]",
+    "key": "ForbiddenFart"
+  },
+  {
+    "name": "ForbiddenFart2",
+    "desc": "Damage, Inflict Poison 6 and Knock Up nearby units in a larger area.\nThere will be permanent consequences for casting this spell…\n[s:.7](Castable once per turn.)[/s]",
+    "key": "ForbiddenFart2"
+  },
+  {
+    "name": "Wet Hairball",
+    "desc": "Shoot a wet hairball that deals damage in an area.",
+    "key": "WetHairball"
+  },
+  {
+    "name": "WetHairball2",
+    "desc": "Shoot a wet hairball that deals more damage in an area.",
+    "key": "WetHairball2"
+  },
+  {
+    "name": "Path Of The Void",
+    "desc": "Conjure a random Collarless spell into your bonus spell slot.",
+    "key": "PathOfTheVoid"
+  },
+  {
+    "name": "PathOfTheVoid2",
+    "desc": "Conjure a random upgraded Collarless spell into your bonus spell slot.",
+    "key": "PathOfTheVoid2"
+  },
+  {
+    "name": "Path of the Jester",
+    "desc": "Gain 10 random stat ups and 5 random stat downs, then transform this spell into a random class spell permanently.",
+    "key": "PathOfTheJester"
+  },
+  {
+    "name": "Path of the Jester",
+    "desc": "Gain 10 random stat ups, then transform this spell into a random upgraded class spell permanently.",
+    "key": "PathOfTheJester2"
+  }
+]

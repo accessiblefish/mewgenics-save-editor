@@ -1,0 +1,552 @@
+[
+  {
+    "name": "Bull Rush",
+    "desc": "Dash forward and attack with knockback.",
+    "key": "Dash"
+  },
+  {
+    "name": "Dash2",
+    "desc": "Dash forward and attack with knockback. Repeat this if you hit something.",
+    "key": "Dash2"
+  },
+  {
+    "name": "Spin",
+    "desc": "Attack everything around you 3 times.",
+    "key": "Spin"
+  },
+  {
+    "name": "Spin2",
+    "desc": "Attack everything around you in a wide area 3 times.",
+    "key": "Spin2"
+  },
+  {
+    "name": "Fire Punch",
+    "desc": "A melee attack that inflicts Burn 3.",
+    "key": "FirePunch"
+  },
+  {
+    "name": "FirePunch2",
+    "desc": "A melee attack that inflicts more Burn the more [img:str] you have.",
+    "key": "FirePunch2"
+  },
+  {
+    "name": "Ice Punch",
+    "desc": "A melee attack that inflicts Freeze.",
+    "key": "IcePunch"
+  },
+  {
+    "name": "IcePunch2",
+    "desc": "A much stronger melee attack that inflicts Freeze.",
+    "key": "IcePunch2"
+  },
+  {
+    "name": "Thunder Punch",
+    "desc": "A melee attack that has a 25% chance to inflict Stun.",
+    "key": "ThunderPunch"
+  },
+  {
+    "name": "ThunderPunch2",
+    "desc": "A melee attack that inflicts Stun.",
+    "key": "ThunderPunch2"
+  },
+  {
+    "name": "Fury Swipes",
+    "desc": "A weak melee attack that has a chance to hit multiple times.",
+    "key": "FurySwipes"
+  },
+  {
+    "name": "FurySwipes2",
+    "desc": "A melee attack that has a chance to hit multiple times.",
+    "key": "FurySwipes2"
+  },
+  {
+    "name": "Side Slash",
+    "desc": "An attack that hits a half circle around you.",
+    "key": "SideSlash"
+  },
+  {
+    "name": "SideSlash2",
+    "desc": "An attack that hits a half circle around you and inflicts Bruise.",
+    "key": "SideSlash2"
+  },
+  {
+    "name": "Leap",
+    "desc": "Jump to an open tile within range, then inflict Bruise on all adjacent units.",
+    "key": "FighterLeap"
+  },
+  {
+    "name": "FighterLeap2",
+    "desc": "Jump to an open tile within range, then damage and inflict Bruise on all adjacent units.",
+    "key": "FighterLeap2"
+  },
+  {
+    "name": "Uppercut",
+    "desc": "Punch a unit into the air, lobbing it back 3 tiles.",
+    "key": "Uppercut"
+  },
+  {
+    "name": "Uppercut2",
+    "desc": "Punch a unit into the air, lobbing it back 3 tiles.\nRefresh your movement action.",
+    "key": "Uppercut2"
+  },
+  {
+    "name": "Counter",
+    "desc": "Counterattack all attacks until your next turn.",
+    "key": "Counter"
+  },
+  {
+    "name": "Counter",
+    "desc": "Preemptively counterattack all attacks until your next turn.",
+    "key": "Counter2"
+  },
+  {
+    "name": "Tail Whip",
+    "desc": "An attack that hits 2 tiles in front of and behind you.",
+    "key": "TailWhip"
+  },
+  {
+    "name": "TailWhip2",
+    "desc": "An attack that hits 4 tiles in front of and behind you.",
+    "key": "TailWhip2"
+  },
+  {
+    "name": "Poke",
+    "desc": "A melee attack that deals 1 damage.",
+    "key": "Poke"
+  },
+  {
+    "name": "Poke2",
+    "desc": "A melee attack that deals 1 damage.\n[s:.7](This spell costs less.)[/s]",
+    "key": "Poke2"
+  },
+  {
+    "name": "Nip",
+    "desc": "Inflict Bruise on a unit.",
+    "key": "Nip"
+  },
+  {
+    "name": "Nip2",
+    "desc": "Deal 1 damage and inflict Bruise on a unit.",
+    "key": "Nip2"
+  },
+  {
+    "name": "Push",
+    "desc": "Knockback a unit 2 tiles.",
+    "key": "Push"
+  },
+  {
+    "name": "Push2",
+    "desc": "Turn an adjacent unit around and knock it back 2 tiles.",
+    "key": "Push2"
+  },
+  {
+    "name": "Falcon Punch",
+    "desc": "Charge up a mega punch.\n[s:.7](This punch will be unleashed on your next turn.)[/s]\n[s:.7](Castable once per turn.)[/s]",
+    "key": "FalconPunch"
+  },
+  {
+    "name": "Falcon Punch",
+    "desc": "Charge up a mega dash attack.\n[s:.7](This punch will be unleashed on your next turn.)[/s]\n[s:.7](Castable once per turn.)[/s]",
+    "key": "FalconPunch2"
+  },
+  {
+    "name": "Exert",
+    "desc": "Refresh your basic attack and movement action.\r\nFall asleep at the end of the turn.",
+    "key": "Exert"
+  },
+  {
+    "name": "Exert",
+    "desc": "Refresh your basic attack and movement action.\nGain +2 [img:str] and +4 [img:spd] until end of turn.\nFall asleep at the end of the turn.",
+    "key": "Exert2"
+  },
+  {
+    "name": "Enrage",
+    "desc": "Give a unit +4 [img:str] and Confusion 2.",
+    "key": "Enrage"
+  },
+  {
+    "name": "Enrage2",
+    "desc": "Give a unit on any tile +4 [img:str] and Confusion 2.",
+    "key": "Enrage2"
+  },
+  {
+    "name": "Tumble",
+    "desc": "Move one tile diagonally.",
+    "key": "Tumble"
+  },
+  {
+    "name": "Tumble2",
+    "desc": "Move two tiles diagonally.",
+    "key": "Tumble2"
+  },
+  {
+    "name": "Confront",
+    "desc": "Move in front of an enemy.",
+    "key": "Confront"
+  },
+  {
+    "name": "Confront2",
+    "desc": "Move in front of an enemy.\nYour next action has +30% critical chance.\n[s:.7](This spell costs less.)[/s]",
+    "key": "Confront2"
+  },
+  {
+    "name": "Juiced",
+    "desc": "Your movement range is doubled until the end of the turn.",
+    "key": "Juiced"
+  },
+  {
+    "name": "Juiced2",
+    "desc": "Your movement range is doubled and you get +4 [img:str] until the end of the turn.",
+    "key": "Juiced2"
+  },
+  {
+    "name": "Cosmic Punch",
+    "desc": "Punch a unit into SPACE!\n[s:.7]They will fall back down at the end of the round.[/s]",
+    "key": "CosmicPunch"
+  },
+  {
+    "name": "CosmicPunch2",
+    "desc": "Punch a unit into SPACE!\n[s:.7]They will fall back down at the end of the round.\n(This spell costs less.)[/s]",
+    "key": "CosmicPunch2"
+  },
+  {
+    "name": "Taunt!",
+    "desc": "All enemies within 3 tiles move toward you.",
+    "key": "FighterTaunt"
+  },
+  {
+    "name": "FighterTaunt2",
+    "desc": "All enemies within 5 tiles move toward you.",
+    "key": "FighterTaunt2"
+  },
+  {
+    "name": "Gravity Slam",
+    "desc": "Jump to a tile and pull enemies toward you when you land.",
+    "key": "GravitySlam"
+  },
+  {
+    "name": "GravitySlam2",
+    "desc": "Jump to a tile and pull enemies toward you when you land.\n[s:.7](This spell costs less.)[/s]",
+    "key": "GravitySlam2"
+  },
+  {
+    "name": "Berserk",
+    "desc": "Gain +5 [img:str] and Bruise 5. This ability becomes Berserker Dash.",
+    "key": "Berserk"
+  },
+  {
+    "name": "Berserk2",
+    "desc": "Gain +7 [img:str] and Bruise 3. This ability becomes Berserker Dash+.",
+    "key": "Berserk2"
+  },
+  {
+    "name": "Berserker Dash",
+    "desc": "A short range dash attack.",
+    "key": "BerserkDash"
+  },
+  {
+    "name": "BerserkDash2",
+    "desc": "A dash attack with infinite range.",
+    "key": "BerserkDash2"
+  },
+  {
+    "name": "Mock",
+    "desc": "Force a unit to move towards you.\nRELOAD: Kill something.",
+    "key": "Challenge"
+  },
+  {
+    "name": "Challenge2",
+    "desc": "Force a unit to move towards you.\nRELOAD: Kill something.\nBonus Ability: Slap.",
+    "key": "Challenge2"
+  },
+  {
+    "name": "Slap",
+    "desc": "A weak melee attack.\r\nRELOAD: Kill something.",
+    "key": "Slap"
+  },
+  {
+    "name": "Stoopzerk",
+    "desc": "Your [img:int] becomes 0. You can attack an extra time each turn for the rest of the battle.\nThis ability becomes MORE ANGRIER!!!",
+    "key": "Stoopzerk"
+  },
+  {
+    "name": "Stoopzerk2",
+    "desc": "Your [img:int] becomes 0. You can attack an extra time each turn for the rest of the battle.\nThis ability becomes MORE ANGRIER!!!+",
+    "key": "Stoopzerk2"
+  },
+  {
+    "name": "MORE ANGRIER!!!",
+    "desc": "Lose all of your mana and gain that much [img:str] until the end of the turn.",
+    "key": "LastThought"
+  },
+  {
+    "name": "LastThought2",
+    "desc": "Lose all of your mana and gain that much [img:str], [img:dex], and [img:spd] until the end of the turn.",
+    "key": "LastThought2"
+  },
+  {
+    "name": "Sleeper Hold",
+    "desc": "Inflict Sleep on an adjacent unit.",
+    "key": "SleeperHold"
+  },
+  {
+    "name": "SleeperHold2",
+    "desc": "Inflict Sleep and Bruise on an adjacent unit.",
+    "key": "SleeperHold2"
+  },
+  {
+    "name": "Grapple",
+    "desc": "Immobilize an adjacent unit for as long as you remain adjacent.",
+    "key": "Grapple"
+  },
+  {
+    "name": "Grapple2",
+    "desc": "Immobilize an adjacent unit for as long as you remain adjacent.\n[s:.7](This spell costs less.)[/s]",
+    "key": "Grapple2"
+  },
+  {
+    "name": "Think Too Hard",
+    "desc": "Take damage equal to your [img:int].\r\nThe next spell you cast this turn is free.",
+    "key": "ThinkTooHard"
+  },
+  {
+    "name": "ThinkTooHard2",
+    "desc": "Take damage equal to your [img:int], then your [img:int] becomes 0.\r\nThe next spell you cast this turn is free.",
+    "key": "ThinkTooHard2"
+  },
+  {
+    "name": "Zoomzerk",
+    "desc": "Your movement action becomes a dash attack.\nThis ability becomes Reposition.",
+    "key": "Zoomzerk"
+  },
+  {
+    "name": "Zoomzerk2",
+    "desc": "Your movement action becomes a dash attack. Restore all your mana.\nThis ability becomes Reposition+.",
+    "key": "Zoomzerk2"
+  },
+  {
+    "name": "Reposition",
+    "desc": "Move up to two tiles.",
+    "key": "Reposition"
+  },
+  {
+    "name": "Reposition2",
+    "desc": "Move up to two tiles.",
+    "key": "Reposition2"
+  },
+  {
+    "name": "Throw Weapon",
+    "desc": "Throw your weapon at a unit. The weapon breaks.\r\n[s:.7](Castable once per turn.)[/s]",
+    "key": "FighterBonusThrow"
+  },
+  {
+    "name": "Bloodzerk",
+    "desc": "Drop to 1 HP.\nDamage you deal to bleeding units has Lifesteal.\nThis spell becomes Lacerate.",
+    "key": "Bloodzerk"
+  },
+  {
+    "name": "Bloodzerk2",
+    "desc": "Drop to 1 HP.\nDamage you deal to bleeding units has Lifesteal.\nThis spell becomes Lacerate+.\n[s:.7](This spell costs 0 mana.)[/s]",
+    "key": "Bloodzerk2"
+  },
+  {
+    "name": "Lacerate",
+    "desc": "A melee attack that inflicts Bleed 2.",
+    "key": "Lacerate"
+  },
+  {
+    "name": "Lacerate2",
+    "desc": "A stronger melee attack that inflicts Bleed 2.",
+    "key": "Lacerate2"
+  },
+  {
+    "name": "Exhausting Blow",
+    "desc": "Dash forward one tile and attack with knockback.\n[s:.7](This spell's mana cost increases by 2 at the end of each of your turns.)[/s]",
+    "key": "ExhaustingBlow"
+  },
+  {
+    "name": "ExhaustingBlow2",
+    "desc": "Dash forward any number of tiles and attack with knockback.\n[s:.7](This spell's mana cost increases by 2 at the end of each of your turns.)[/s]",
+    "key": "ExhaustingBlow2"
+  },
+  {
+    "name": "Chaos Rampage",
+    "desc": "Take an extra turn. You have Madness 1 and Confusion 1 on that turn.\r\n[s:.7](This spell can't be cast on extra turns.)[/s]",
+    "key": "ChaosRampage"
+  },
+  {
+    "name": "Chaos Rampage",
+    "desc": "Take an extra turn. You have Madness 1 on that turn.\r\n[s:.7](This spell can't be cast on extra turns.)[/s]",
+    "key": "ChaosRampage2"
+  },
+  {
+    "name": "Meteor Slam",
+    "desc": "Jump up to 2 tiles.\r\nDamage, knockback, and inflict Burn 3 on the unit you land on and all adjacent units.\r\n[s:.7](Adjacent units take half damage.)[/s]",
+    "key": "MeteorSlam"
+  },
+  {
+    "name": "MeteorSlam2",
+    "desc": "Jump up to 5 tiles.\nDamage, knockback, and inflict Burn 3 on the unit you land on and all adjacent units.",
+    "key": "MeteorSlam2"
+  },
+  {
+    "name": "Muscle Memory",
+    "desc": "A melee attack that deals 8 damage.\n[s:.7](This spell's damage is reduced by 1 and mana cost is reduced by 2 each time it's cast.)[/s]",
+    "key": "MuscleMemory"
+  },
+  {
+    "name": "MuscleMemory2",
+    "desc": "A melee attack that deals 8 damage and inflicts Bruise.\n[s:.7](This spell's damage is reduced by 1 and mana cost is reduced by 2 each time it's cast.)[/s]",
+    "key": "MuscleMemory2"
+  },
+  {
+    "name": "Inhale",
+    "desc": "Suck all units in a straight line 1 tile toward you.",
+    "key": "Inhale"
+  },
+  {
+    "name": "Inhale2",
+    "desc": "Suck all units in a straight line 3 tiles toward you.",
+    "key": "Inhale2"
+  },
+  {
+    "name": "One-Two Punch",
+    "desc": "A melee attack that hits twice. Each punch inflicts Bruise 1.",
+    "key": "OneTwoPunch"
+  },
+  {
+    "name": "OneTwoPunch2",
+    "desc": "A melee attack that hits thrice! Each punch inflicts Bruise 1.",
+    "key": "OneTwoPunch2"
+  },
+  {
+    "name": "Synchro Spin",
+    "desc": "You and each allied cat do a spin attack at the same time.",
+    "key": "TeamSpin"
+  },
+  {
+    "name": "TeamSpin2",
+    "desc": "You and each allied cat do a spin attack at the same time.\r\n[s:.7](This spell costs less.)[/s]",
+    "key": "TeamSpin2"
+  },
+  {
+    "name": "Flex Off",
+    "desc": "You and each allied cat gain +2 [img:shield] and knockback adjacent units 2 tiles.",
+    "key": "TeamFlex"
+  },
+  {
+    "name": "TeamFlex2",
+    "desc": "You and each allied cat gain +2 [img:shield], +2 temporary Brace, and knockback adjacent units 2 tiles.",
+    "key": "TeamFlex2"
+  },
+  {
+    "name": "Huddle",
+    "desc": "You and each allied cat give adjacent units +1 Damage and +2 [img:spd].",
+    "key": "Huddle"
+  },
+  {
+    "name": "Huddle2",
+    "desc": "You and each allied cat give adjacent units +1 Damage and +2 [img:spd].\n[s:.7](This spell is free the first time it's cast each battle.)[/s]",
+    "key": "Huddle2"
+  },
+  {
+    "name": "Rage Punch",
+    "desc": "A melee attack that increases its damage by 1 each time you take damage.",
+    "key": "RagePunch"
+  },
+  {
+    "name": "RagePunch2",
+    "desc": "A melee attack that increases its damage by 1 each time you take damage.\n[s:.7](This spell starts at 5 damage.)[/s]",
+    "key": "RagePunch2"
+  },
+  {
+    "name": "Breaking Point",
+    "desc": "Deal damage, knockback, and knockback damage equal to your [img:str].\nReduce this spell's mana cost by 1 each time you take damage.\n[s:.7](Castable once per turn.)[/s]",
+    "key": "BreakingPoint"
+  },
+  {
+    "name": "BreakingPoint2",
+    "desc": "Deal damage, knockback, and knockback damage equal to your [img:str].\nReduce this spell's mana cost by 2 each time you take damage.\n[s:.7](Castable once per turn.)[/s]",
+    "key": "BreakingPoint2"
+  },
+  {
+    "name": "Assert Dominance",
+    "desc": "A weak melee attack. If this kills anything, you become the Alpha. If you are the Alpha, this spell deals 5 additional damage and inflicts Bruise.",
+    "key": "AssertDominance"
+  },
+  {
+    "name": "AssertDominance2",
+    "desc": "A weak melee attack. If this kills anything, you become the Alpha and gain +2 [img:str]. If you are the Alpha, this spell deals 5 additional damage and inflicts Bruise.",
+    "key": "AssertDominance2"
+  },
+  {
+    "name": "1D Chess",
+    "desc": "Move toward the closest enemy. The dumber you are, the farther you move.",
+    "key": "DumbMove"
+  },
+  {
+    "name": "DumbMove2",
+    "desc": "Move toward the closest enemy. The dumber you are, the farther you move.\r\n[s:.7](This spell costs less.)[/s]",
+    "key": "DumbMove2"
+  },
+  {
+    "name": "Sucker Punch",
+    "desc": "The next time an enemy moves through an adjacent tile, cancel its movement and attack it.",
+    "key": "SuckerPunch"
+  },
+  {
+    "name": "SuckerPunch2",
+    "desc": "The next time an enemy moves through an adjacent tile, cancel its movement and attack it.\nBonus Passive: While it's not your turn, your basic attack inflicts Bruise 2.",
+    "key": "SuckerPunch2"
+  },
+  {
+    "name": "Stick!",
+    "desc": "Equip a temporary Stick!\r\n[s:.7](Your weapon slot must be empty.)[/s]",
+    "key": "Stick"
+  },
+  {
+    "name": "Stick2",
+    "desc": "Equip a temporary Stick! Maybe even a big one?\r\n[s:.7](Your weapon slot must be empty.)[/s]\r\n[s:.7](This spell costs less.)[/s]",
+    "key": "Stick2"
+  },
+  {
+    "name": "Hurl",
+    "desc": "Toss an adjacent unit at a random unit.",
+    "key": "Hurl"
+  },
+  {
+    "name": "Hurl2",
+    "desc": "Toss an adjacent unit at a random unit.\r\n[s:.7](This spell costs less.)[/s]",
+    "key": "Hurl2"
+  },
+  {
+    "name": "Big Punch",
+    "desc": "A melee attack.\r\nThis spell's mana cost increases by 2 each time it's cast.",
+    "key": "BigPunch"
+  },
+  {
+    "name": "BigPunch2",
+    "desc": "A melee attack.\r\nThis spell's mana cost increases by 1 each time it's cast.",
+    "key": "BigPunch2"
+  },
+  {
+    "name": "Paw Breaker",
+    "desc": "A huge punch that breaks your paw... (You get -1 [img:str] permanently.)",
+    "key": "Pawbreaker"
+  },
+  {
+    "name": "Pawbreaker2",
+    "desc": "A huge punch that inflicts Bruise and Stun, and breaks your paw... (You get -1 [img:str] permanently.)",
+    "key": "Pawbreaker2"
+  },
+  {
+    "name": "Ram",
+    "desc": "Knock back a unit 4 tiles, then dash forward and attack it.",
+    "key": "Ram"
+  },
+  {
+    "name": "Ram2",
+    "desc": "Knock back a unit 10 tiles, then dash forward and attack it.",
+    "key": "Ram2"
+  }
+]

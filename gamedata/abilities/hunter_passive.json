@@ -1,0 +1,252 @@
+[
+  {
+    "name": "Take Aim",
+    "desc": "Gain +1 range and damage at the start of each turn. You lose this when you move.",
+    "key": "TakeAim"
+  },
+  {
+    "name": "TakeAim2",
+    "desc": "Gain +2 range and damage at the start of each turn. You lose this when you move.",
+    "key": "TakeAim2"
+  },
+  {
+    "name": "Tower Defense",
+    "desc": "When an enemy comes within range, shoot them for 1 damage.",
+    "key": "TowerDefense"
+  },
+  {
+    "name": "TowerDefense2",
+    "desc": "When an enemy comes within range, use your basic attack on them.",
+    "key": "TowerDefense2"
+  },
+  {
+    "name": "Hunter's Boon",
+    "desc": "The first time you kill a unit each turn, gain 5 mana.",
+    "key": "HuntersBoon"
+  },
+  {
+    "name": "HuntersBoon2",
+    "desc": "The first time you kill a unit each turn, restore all your mana.",
+    "key": "HuntersBoon2"
+  },
+  {
+    "name": "Brood Mother",
+    "desc": "Your familiars and units you charm gain +2 Damage and +5 HP.",
+    "key": "BroodMother"
+  },
+  {
+    "name": "BroodMother2",
+    "desc": "Your familiars and units you charm gain +3 Damage, +10 HP, and inflict Poison.",
+    "key": "BroodMother2"
+  },
+  {
+    "name": "Tainted Mother",
+    "desc": "Your familiars and units you charm gain +4 [img:spd] and inflict Poison and Bleed.",
+    "key": "TaintedMother"
+  },
+  {
+    "name": "TaintedMother2",
+    "desc": "Your familiars and units you charm gain +4 [img:spd] and inflict Poison and Bleed.\nStart each battle with 4 fly familiars.",
+    "key": "TaintedMother2"
+  },
+  {
+    "name": "Quiver",
+    "desc": "Save unused basic attacks for future turns.",
+    "key": "Quiver"
+  },
+  {
+    "name": "Quiver2",
+    "desc": "Save unused basic attacks for future turns.\r\nIf you haven't attacked this battle, the number you save is doubled.",
+    "key": "Quiver2"
+  },
+  {
+    "name": "Split Shot",
+    "desc": "Your basic attack has +1 area but deals 50% less damage.",
+    "key": "SplitShot"
+  },
+  {
+    "name": "SplitShot2",
+    "desc": "Your basic attack has +2 area but deals 50% less damage.",
+    "key": "SplitShot2"
+  },
+  {
+    "name": "Hazardous",
+    "desc": "Tile damage and effects are doubled.",
+    "key": "Hazardous"
+  },
+  {
+    "name": "Hazardous2",
+    "desc": "Tile damage and effects are doubled.\nAllies are immune to tile damage and effects.",
+    "key": "Hazardous2"
+  },
+  {
+    "name": "Thorn Arrows",
+    "desc": "Your basic attack spawns brambles.",
+    "key": "ThornArrows"
+  },
+  {
+    "name": "ThornArrows2",
+    "desc": "Your basic attack spawns brambles in an area.",
+    "key": "ThornArrows2"
+  },
+  {
+    "name": "Traps",
+    "desc": "Your basic attack spawns a bear trap if you shoot an empty tile.\nWhenever one of your traps triggers, gain +2 [img:dex].",
+    "key": "Traps"
+  },
+  {
+    "name": "Traps2",
+    "desc": "Your basic attack spawns a bear trap if you shoot an empty tile.\nWhenever one of your traps triggers, gain +2 [img:dex] and +1 Bonus Attack.",
+    "key": "Traps2"
+  },
+  {
+    "name": "Catch Projectiles",
+    "desc": "33% chance to block enemy projectiles and a 100% chance to block allied projectiles. If you block a projectile, gain +1 Bonus Attack.",
+    "key": "CatchProjectiles"
+  },
+  {
+    "name": "CatchProjectiles2",
+    "desc": "50% chance to block enemy projectiles and a 100% chance to block allied projectiles. If you block a projectile, gain +1 Bonus Attack and +1 All Stats Up.",
+    "key": "CatchProjectiles2"
+  },
+  {
+    "name": "Tricky Traps",
+    "desc": "Damage and effects from your traps are doubled.",
+    "key": "TrickyTraps"
+  },
+  {
+    "name": "TrickyTraps2",
+    "desc": "Damage and effects from your traps are doubled.\r\nAllies don't trigger your traps.",
+    "key": "TrickyTraps2"
+  },
+  {
+    "name": "Gravity Falls",
+    "desc": "Your basic attack deals +1 damage for each tile you shoot beyond range 3.",
+    "key": "GravityFalls"
+  },
+  {
+    "name": "GravityFalls2",
+    "desc": "+2 range.\nYour basic attack deals +1 damage for each tile you shoot beyond range 3.",
+    "key": "GravityFalls2"
+  },
+  {
+    "name": "Bullseye",
+    "desc": "Your ranged attacks never miss.\r\n+25% critical hit chance.",
+    "key": "HawkEye"
+  },
+  {
+    "name": "Bullseye2",
+    "desc": "Your ranged attacks never miss.\r\n+25% critical hit chance.\r\nGain +1 [img:lck] each time you make a critical hit.",
+    "key": "HawkEye2"
+  },
+  {
+    "name": "Spotters",
+    "desc": "Your basic attack can target tiles adjacent to allies.",
+    "key": "Spotters"
+  },
+  {
+    "name": "Spotters2",
+    "desc": "Your basic attack and spells can target tiles adjacent to allies.",
+    "key": "Spotters2"
+  },
+  {
+    "name": "Luck Swing",
+    "desc": "+50% critical hit chance but +25% chance to miss.",
+    "key": "LuckSwing"
+  },
+  {
+    "name": "LuckSwing2",
+    "desc": "+50% critical hit chance but +25% chance to miss.",
+    "key": "LuckSwing2"
+  },
+  {
+    "name": "Host",
+    "desc": "Start each battle with 2 tiny spider familiars. A spider egg parasite is added to your inventory. You can unequip parasites freely.",
+    "key": "Host"
+  },
+  {
+    "name": "Host2",
+    "desc": "Start each battle with 2 tiny spider familiars. A spider webber parasite is added to your inventory. You can unequip parasites freely.",
+    "key": "Host2"
+  },
+  {
+    "name": "Sniper",
+    "desc": "Critical hits deal +100% more damage and have a 25% chance to inflict Stun.",
+    "key": "Sniper"
+  },
+  {
+    "name": "Sniper2",
+    "desc": "Critical hits deal +200% more damage and have a 33% chance to inflict Stun.",
+    "key": "Sniper2"
+  },
+  {
+    "name": "Rubber Arrows",
+    "desc": "Your projectiles bounce to another enemy within 3 tiles.",
+    "key": "RubberArrows"
+  },
+  {
+    "name": "RubberArrows2",
+    "desc": "Your projectiles bounce to another enemy within 4 tiles, twice!",
+    "key": "RubberArrows2"
+  },
+  {
+    "name": "Talk to Animals",
+    "desc": "Your basic attack inflicts Charm 5 the first time you use it each battle.",
+    "key": "TalkToAnimals"
+  },
+  {
+    "name": "TalktoAnimals2",
+    "desc": "Your basic attack inflicts Charm 5 the first time you use it each battle.\r\nYour basic attack has a 25% chance to inflict Charm 1.",
+    "key": "TalkToAnimals2"
+  },
+  {
+    "name": "Animal Control",
+    "desc": "Your basic attack causes units to immediately attack an enemy in range.",
+    "key": "AnimalControl"
+  },
+  {
+    "name": "AnimalControl2",
+    "desc": "Your basic attack causes units to immediately attack an enemy in range. Your basic attack can heal allies.",
+    "key": "AnimalControl2"
+  },
+  {
+    "name": "Sleep Darts",
+    "desc": "At the start of each battle, you and all allies that don't have weapons gains a temporary Sleep Dart.",
+    "key": "SleepDarts"
+  },
+  {
+    "name": "SleepDarts2",
+    "desc": "At the start of each battle, you and all allies that don't have weapons gains a temporary Sleep Dart with 2 uses.",
+    "key": "SleepDarts2"
+  },
+  {
+    "name": "Survivalist",
+    "desc": "6 healing consumables and a full water bottle are added to your inventory.\r\nYou can use consumables on allies.\r\nStore +2 food at the end of each battle.",
+    "key": "Survivalist"
+  },
+  {
+    "name": "Survivalist2",
+    "desc": "4 large healing consumables are added to your inventory.\r\nYou can use consumables on allies.\r\nStore +20 food at the end of each battle.",
+    "key": "Survivalist2"
+  },
+  {
+    "name": "Fleabag",
+    "desc": "At the end of your turn, spawn Flea familiars equal to the number of enemies you've killed this battle.",
+    "key": "Fleabag"
+  },
+  {
+    "name": "Fleabag2",
+    "desc": "At the end of your turn, spawn Flea familiars equal to the number of enemies you've killed this battle plus two.",
+    "key": "Fleabag2"
+  },
+  {
+    "name": "Thrill of the Hunt",
+    "desc": "At the end of each battle, if you killed at least 3 enemies, gain +1 [img:dex] permanently and find a random consumable item.",
+    "key": "ThrillOfTheHunt"
+  },
+  {
+    "name": "ThrilloftheHunt2",
+    "desc": "At the end of each battle, if you killed at least 3 enemies, gain +1 [img:dex] permanently and find a random consumable item. +1 Range and +1 Health Regeneration for every 5 [img:dex] you have.",
+    "key": "ThrillOfTheHunt2"
+  }
+]

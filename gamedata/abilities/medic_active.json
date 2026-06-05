@@ -1,0 +1,522 @@
+[
+  {
+    "name": "Healing Word",
+    "desc": "Heal a unit at range.",
+    "key": "RangedHeal"
+  },
+  {
+    "name": "RangedHeal2",
+    "desc": "Heal other units in an area at range.",
+    "key": "RangedHeal2"
+  },
+  {
+    "name": "Cure Wounds",
+    "desc": "Heal an adjacent unit.",
+    "key": "MeleeHeal"
+  },
+  {
+    "name": "MeleeHeal2",
+    "desc": "Heal all adjacent units.",
+    "key": "MeleeHeal2"
+  },
+  {
+    "name": "Malaise",
+    "desc": "Inflict Weakness on units in an area.",
+    "key": "Malaise"
+  },
+  {
+    "name": "Malaise2",
+    "desc": "Inflict Weakness and Poison on units in an area.",
+    "key": "Malaise2"
+  },
+  {
+    "name": "Open Wounds",
+    "desc": "A spell that deals more damage the less health the target unit has.\n[s:.7](based on their health percent)[/s]",
+    "key": "OpenWounds"
+  },
+  {
+    "name": "OpenWounds2",
+    "desc": "A spell that deals even more damage the less health the target unit has.\n[s:.7](based on their health percent)[/s]",
+    "key": "OpenWounds2"
+  },
+  {
+    "name": "Prayer",
+    "desc": "Heal units in an area.",
+    "key": "Prayer"
+  },
+  {
+    "name": "Prayer2",
+    "desc": "Heal units in a larger area. Infinite range.",
+    "key": "Prayer2"
+  },
+  {
+    "name": "Convert",
+    "desc": "Inflict Charm 2 on an adjacent unit.",
+    "key": "Convert"
+  },
+  {
+    "name": "Convert2",
+    "desc": "Inflict Charm 2 on an adjacent unit. Non-boss enemies with less than 25% health join your party.",
+    "key": "Convert2"
+  },
+  {
+    "name": "Cleanse",
+    "desc": "Remove all debuffs from a unit.",
+    "key": "Cleanse"
+  },
+  {
+    "name": "Cleanse2",
+    "desc": "Remove all debuffs from units in an area.",
+    "key": "Cleanse2"
+  },
+  {
+    "name": "Purge",
+    "desc": "Remove all buffs from a unit.",
+    "key": "Purge"
+  },
+  {
+    "name": "Purge2",
+    "desc": "Remove all buffs from a unit. Deal 3 damage to that unit for each unique status effect removed.",
+    "key": "Purge2"
+  },
+  {
+    "name": "Heretic Mark",
+    "desc": "Inflict Ostracized 2 on a unit.",
+    "key": "HereticMark"
+  },
+  {
+    "name": "HereticMark2",
+    "desc": "Inflict Ostracized 4 on a unit.",
+    "key": "HereticMark2"
+  },
+  {
+    "name": "Zealot",
+    "desc": "Gain +1 [img:divineshield].",
+    "key": "Zealot"
+  },
+  {
+    "name": "Zealot2",
+    "desc": "Gain +1 [img:divineshield].\r\n[s:.7](This spell costs less.)[/s]",
+    "key": "Zealot2"
+  },
+  {
+    "name": "Haste",
+    "desc": "Give a unit +10 [img:spd] until the end of its next turn.",
+    "key": "Haste"
+  },
+  {
+    "name": "Haste2",
+    "desc": "Give units in an area +10 [img:spd] until the end of their next turns.",
+    "key": "Haste2"
+  },
+  {
+    "name": "Rally",
+    "desc": "Force a unit to attack one of its enemies.",
+    "key": "Rally"
+  },
+  {
+    "name": "Rally2",
+    "desc": "Force units in an area to each attack one of their enemies.",
+    "key": "Rally2"
+  },
+  {
+    "name": "Buddy Up",
+    "desc": "Jump to an open tile next to an ally.",
+    "key": "BuddyUp"
+  },
+  {
+    "name": "BuddyUp2",
+    "desc": "Jump to an open tile next to an ally.\n[s:.7](This spell costs less.)[/s]",
+    "key": "BuddyUp2"
+  },
+  {
+    "name": "Healing Fall",
+    "desc": "Jump to an open tile, then heal each adjacent unit.",
+    "key": "HealingFall"
+  },
+  {
+    "name": "HealingFall2",
+    "desc": "Jump to an open tile, then heal each adjacent unit.\r\n[s:.7](This spell costs less.)[/s]",
+    "key": "HealingFall2"
+  },
+  {
+    "name": "Holy Dash",
+    "desc": "Dash forward, heal a unit and give it a random stat up.",
+    "key": "RallyCharge"
+  },
+  {
+    "name": "RallyCharge2",
+    "desc": "Dash forward, heal a unit and give it 3 random stat ups.",
+    "key": "RallyCharge2"
+  },
+  {
+    "name": "Reverse Damage",
+    "desc": "Reverse the last damage an adjacent unit took.",
+    "key": "ReverseDamage"
+  },
+  {
+    "name": "ReverseDamage2",
+    "desc": "Reverse the last damage a unit within range took.",
+    "key": "ReverseDamage2"
+  },
+  {
+    "name": "Rebuke",
+    "desc": "Deal damage to a unit equal to the damage that unit last dealt.",
+    "key": "Rebuke"
+  },
+  {
+    "name": "Rebuke2",
+    "desc": "Deal damage to a unit equal to twice the damage that unit last dealt.",
+    "key": "Rebuke2"
+  },
+  {
+    "name": "Wish",
+    "desc": "Target an area. At the beginning of your next turn, heal all units in that area.\n[s:.7](Castable once per turn.)[/s]",
+    "key": "Wish"
+  },
+  {
+    "name": "Wish2",
+    "desc": "Target an area. At the beginning of your next turn, heal all units in that area. This spell tracks its target if you directly targeted a unit.\n[s:.7](Castable once per turn.)[/s]",
+    "key": "Wish2"
+  },
+  {
+    "name": "Witch Hunt",
+    "desc": "Put a bounty on a unit. When that unit dies, its killer gains All Stats Up.",
+    "key": "WitchHunt"
+  },
+  {
+    "name": "WitchHunt2",
+    "desc": "Put a bounty on a unit. When that unit dies, it becomes meat and its killer gains All Stats Up.\n[s:.7](This spell costs less.)[/s]",
+    "key": "WitchHunt2"
+  },
+  {
+    "name": "Friend or Foe",
+    "desc": "A ranged spell that heals allies and damages enemies.",
+    "key": "FriendOrFoe"
+  },
+  {
+    "name": "FriendOrFoe2",
+    "desc": "An infinitely ranged spell that heals allies and damages enemies.",
+    "key": "FriendOrFoe2"
+  },
+  {
+    "name": "Revive",
+    "desc": "Revive a body to 50% HP and cure one of its injuries.",
+    "key": "Revive"
+  },
+  {
+    "name": "Revive2",
+    "desc": "Revive a body to 100% HP and cure one of its injuries. If it was an enemy, it gets charmed.",
+    "key": "Revive2"
+  },
+  {
+    "name": "Holy Light",
+    "desc": "Heal allies and damage enemies in an area. This spell has half effect outside its center.",
+    "key": "HolyLight"
+  },
+  {
+    "name": "HolyLight2",
+    "desc": "Heal allies and damage enemies in an area. This spell has half effect outside its center.\n[s:.7](This spell costs less.)[/s]",
+    "key": "HolyLight2"
+  },
+  {
+    "name": "Ethereal",
+    "desc": "Gain 4 [img:divineshield], 3 [img:shield], heal 2 HP, and Brace 1.",
+    "key": "Ethereal"
+  },
+  {
+    "name": "Ethereal2",
+    "desc": "Gain Thorns 6, Reflect 5, 4 [img:divineshield],\n3 [img:shield], heal 2 HP and Brace 1.",
+    "key": "Ethereal2"
+  },
+  {
+    "name": "Born Again",
+    "desc": "Revive a body to 100% HP and give it All Stats Up, then you fall asleep.",
+    "key": "BornAgain"
+  },
+  {
+    "name": "Born Again",
+    "desc": "Revive a body to 100% HP and give it All Stats Up.",
+    "key": "BornAgain2"
+  },
+  {
+    "name": "Benediction",
+    "desc": "Heal EVERYTHING for 2 HP.",
+    "key": "Benediction"
+  },
+  {
+    "name": "Benediction2",
+    "desc": "Heal EVERYTHING for 2 HP.\r\n[s:.7](This spell costs less.)[/s]",
+    "key": "Benediction2"
+  },
+  {
+    "name": "Crusade",
+    "desc": "You and your allies move toward the nearest enemy.",
+    "key": "Crusade"
+  },
+  {
+    "name": "Crusade2",
+    "desc": "You and your allies move toward the nearest enemy and gain +1 [img:str].",
+    "key": "Crusade2"
+  },
+  {
+    "name": "Hallowed Ground",
+    "desc": "Spawn a blessing pickup on an empty tile in range.",
+    "key": "HallowedGround"
+  },
+  {
+    "name": "HallowedGround2",
+    "desc": "Spawn a blessing pickup on any empty tile.",
+    "key": "HallowedGround2"
+  },
+  {
+    "name": "Enlighten",
+    "desc": "Another unit's next spell is free.",
+    "key": "Enlighten"
+  },
+  {
+    "name": "Enlighten2",
+    "desc": "Another unit's next spell is free. Infinite range.\r\n[s:.7](This spell costs less.)[/s]",
+    "key": "Enlighten2"
+  },
+  {
+    "name": "Anoint",
+    "desc": "Give +2 Diminishing Health Regeneration and +1 to a random stat to an adjacent unit.",
+    "key": "Anoint"
+  },
+  {
+    "name": "Anoint2",
+    "desc": "Give +2 Diminishing Health Regeneration and +1 to 2 random stats to any unit.",
+    "key": "Anoint2"
+  },
+  {
+    "name": "An Eye for an Eye",
+    "desc": "A melee attack that inflicts Blind 5 and Bleed 1.",
+    "key": "EyeForAnEye"
+  },
+  {
+    "name": "EyeForAnEye2",
+    "desc": "A melee attack that inflicts Blind 5, Bleed 1, and Madness 1.",
+    "key": "EyeForAnEye2"
+  },
+  {
+    "name": "Wrath of God",
+    "desc": "Deal holy damage and inflict Blind to everything except for a safe circle around you. This vaporizes units it kills.",
+    "key": "WrathOfGod"
+  },
+  {
+    "name": "WrathOfGod2",
+    "desc": "Deal holy damage and inflict Blind to all enemies. This vaporizes units it kills.",
+    "key": "WrathOfGod2"
+  },
+  {
+    "name": "Adoubment",
+    "desc": "Heal a unit and remove its debuffs. That unit gets +1 to a random stat and becomes the Alpha.\nIf there is an Alpha, this spell has infinite range and must target it.",
+    "key": "Adoubement"
+  },
+  {
+    "name": "Adoubement2",
+    "desc": "Heal or revive a unit and remove its debuffs. That unit gets +1 to 3 random stats and becomes the Alpha.\nIf there is an Alpha, this spell has infinite range and must target it.",
+    "key": "Adoubement2"
+  },
+  {
+    "name": "Divine Protection",
+    "desc": "Give a unit +1 [img:divineshield] and +1 Kinetic Spikes. That unit becomes the Alpha.\r\nIf there is an Alpha, this spell costs less and must target it.",
+    "key": "DivineProtection"
+  },
+  {
+    "name": "DivineProtection2",
+    "desc": "Give a unit anywhere +1 [img:divineshield] and +2 Kinetic Spikes. That unit becomes the Alpha.\nIf there is an Alpha, this spell costs less and must target it.",
+    "key": "DivineProtection2"
+  },
+  {
+    "name": "Chosen Warrior",
+    "desc": "Give a unit +1 Damage. That unit becomes the Alpha.\nIf there is an Alpha, this spell must target it and it gives +1 bonus attack.",
+    "key": "ChosenWarrior"
+  },
+  {
+    "name": "ChosenWarrior2",
+    "desc": "Give a unit +1 Damage and +1 Magic Damage. That unit becomes the Alpha.\nIf there is an Alpha, this spell must target it and it gives +1 bonus attack.\n[s:.7](This spell costs less.)[/s]",
+    "key": "ChosenWarrior2"
+  },
+  {
+    "name": "Swift Servant",
+    "desc": "Give a unit +1 Bonus Move. That unit becomes the Alpha.\nIf there is an Alpha, this spell must target it and it gives you +1 Bonus Move too.",
+    "key": "SwiftSanctify"
+  },
+  {
+    "name": "SwiftSanctify2",
+    "desc": "Give a unit +1 Bonus Move. That unit becomes the Alpha.\nIf there is an Alpha, this spell has infinite range, costs less and must target it, and it gives you +1 Bonus Move too.",
+    "key": "SwiftSanctify2"
+  },
+  {
+    "name": "Divine Gift",
+    "desc": "Gain All Stats Up. This spell costs 1 mana less for each HP you healed other units this turn.\n[s:.7](Castable once per turn.)[/s]",
+    "key": "DivineGift"
+  },
+  {
+    "name": "DivineGift2",
+    "desc": "Gain All Stats Up and +1 [img:divineshield]. This spell costs 1 mana less for each HP you healed other units this turn.\n[s:.7](Castable once per turn.)[/s]",
+    "key": "DivineGift2"
+  },
+  {
+    "name": "Holy Weapon",
+    "desc": "A dash attack with range, damage, and knockback equal to the amount of HP you healed other units this turn.\r\n[s:.7](Castable once per turn.)[/s]",
+    "key": "HolyWeapon"
+  },
+  {
+    "name": "HolyWeapon2",
+    "desc": "A dash attack with range, damage, and knockback equal to twice the amount of HP you healed other units this turn.\r\n[s:.7](Castable once per turn.)[/s]",
+    "key": "HolyWeapon2"
+  },
+  {
+    "name": "Stand In",
+    "desc": "Swap positions with any unit. That unit becomes the Alpha.\r\nIf there is an Alpha, this spell must target it.",
+    "key": "GetDown"
+  },
+  {
+    "name": "GetDown2",
+    "desc": "Swap positions with any unit and heal it by 1 HP. That unit becomes the Alpha.\r\nIf there is an Alpha, this spell must target it.",
+    "key": "GetDown2"
+  },
+  {
+    "name": "Obey",
+    "desc": "",
+    "key": "MedicObey"
+  },
+  {
+    "name": "Awaken",
+    "desc": "Revive a body to 1 HP.",
+    "key": "Awaken"
+  },
+  {
+    "name": "Awaken2",
+    "desc": "Revive a body to 1 HP. Give that unit +1 [img:divineshield] and All Stats Up.",
+    "key": "Awaken2"
+  },
+  {
+    "name": "Fury Heal",
+    "desc": "Heal an adjacent unit 2 to 6 times.",
+    "key": "Baptism"
+  },
+  {
+    "name": "Baptism2",
+    "desc": "Heal an adjacent unit 2 to 6 times. Each heal gives +1 to a random stat.",
+    "key": "Baptism2"
+  },
+  {
+    "name": "Pray",
+    "desc": "Give another unit +5 [img:lck] until the end of its next turn.",
+    "key": "Pray"
+  },
+  {
+    "name": "Pray",
+    "desc": "Give allies +5 [img:lck] and enemies -5 [img:lck] until the end of their next turns, in an area.",
+    "key": "Pray2"
+  },
+  {
+    "name": "Emergency",
+    "desc": "Run next to the ally with the most missing health. Trample all in the way.",
+    "key": "Emergency"
+  },
+  {
+    "name": "Emergency2",
+    "desc": "Run next to the ally with the most missing health. Trample all in the way.\n[s:.7](This spell costs less.)[/s]",
+    "key": "Emergency2"
+  },
+  {
+    "name": "Guardian Angel",
+    "desc": "Make a unit The Alpha.\nBonus Passive: The Alpha has +50% dodge chance.",
+    "key": "GuardianAngel"
+  },
+  {
+    "name": "GuardianAngel2",
+    "desc": "Make a unit anywhere The Alpha.\n[s:.7](This spell costs less.)[/s]\nBonus Passive: The Alpha has +50% dodge chance.",
+    "key": "GuardianAngel2"
+  },
+  {
+    "name": "Booster",
+    "desc": "Heal an adjacent unit. Excess healing is converted to an equal amount of random stat ups.",
+    "key": "Booster"
+  },
+  {
+    "name": "Booster2",
+    "desc": "Heal a unit at range. Excess healing is converted to an equal amount of random stat ups.",
+    "key": "Booster2"
+  },
+  {
+    "name": "Stimulants",
+    "desc": "You and adjacent units gain +2 [img:spd].",
+    "key": "Stimulants"
+  },
+  {
+    "name": "Stimulants2",
+    "desc": "You and adjacent units gain +2 [img:spd] and +1 [img:int].",
+    "key": "Stimulants2"
+  },
+  {
+    "name": "Blinding Lights",
+    "desc": "Inflict Blind 1 on each unit in an area.",
+    "key": "BlindingLight"
+  },
+  {
+    "name": "BlindingLight2",
+    "desc": "Inflict Blind 2 on each unit in a larger area.",
+    "key": "BlindingLight2"
+  },
+  {
+    "name": "Circle of Protection",
+    "desc": "Give +1 [img:divineshield] to each unit within 2 tiles of you.",
+    "key": "CircleOfProtection"
+  },
+  {
+    "name": "CircleOfProtection2",
+    "desc": "Give +1 [img:divineshield] and +1 Health Regeneration to each unit within 2 tiles of you.\n[s:.7](This spell costs less.)[/s]",
+    "key": "CircleOfProtection2"
+  },
+  {
+    "name": "Call Over",
+    "desc": "Make an ally move toward you.",
+    "key": "CallOver"
+  },
+  {
+    "name": "CallOver2",
+    "desc": "Make an ally move toward you. Infinite range.",
+    "key": "CallOver2"
+  },
+  {
+    "name": "Grace",
+    "desc": "You or an adjacent unit gains a random positive effect.",
+    "key": "Grace"
+  },
+  {
+    "name": "Grace",
+    "desc": "You or an adjacent unit heals a random amount of HP, gains +1 to a random stat, and gains a random positive effect.",
+    "key": "Grace2"
+  },
+  {
+    "name": "Turn Foe",
+    "desc": "Force a nearby unit to move away from you.",
+    "key": "TurnFoe"
+  },
+  {
+    "name": "TurnFoe2",
+    "desc": "Force a nearby unit to move away from you. If it was an enemy, inflict Madness 1 and Confusion 1.",
+    "key": "TurnFoe2"
+  },
+  {
+    "name": "Healing Salve",
+    "desc": "You or an adjacent unit gains +1 Health Regeneration.",
+    "key": "HealingSalve"
+  },
+  {
+    "name": "HealingSalve2",
+    "desc": "You or an adjacent unit gains +2 Health Regeneration.",
+    "key": "HealingSalve2"
+  },
+  {
+    "name": "Heathens!",
+    "desc": "",
+    "key": "Heathens"
+  }
+]

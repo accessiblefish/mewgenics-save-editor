@@ -1,0 +1,582 @@
+[
+  {
+    "name": "Decompose",
+    "desc": "Explode a body and spawn 3 Leeches.",
+    "key": "MaggotArmy"
+  },
+  {
+    "name": "Decompose",
+    "desc": "Explode a body and spawn 5 Leeches.",
+    "key": "MaggotArmy2"
+  },
+  {
+    "name": "Reanimate",
+    "desc": "Resurrect a body to half HP. It becomes a Zombie and joins your team.",
+    "key": "Reanimate"
+  },
+  {
+    "name": "Reanimate2",
+    "desc": "Resurrect a body to full HP. It becomes a Zombie and joins your team.",
+    "key": "Reanimate2"
+  },
+  {
+    "name": "Rebirth",
+    "desc": "Teleport into a body, destroying it to heal 4 HP, gain +1 [img:int] and +1 [img:con].",
+    "key": "Rebirth"
+  },
+  {
+    "name": "Rebirth",
+    "desc": "Teleport into a body, destroying it to heal 4 HP and gain All Stats Up.",
+    "key": "Rebirth2"
+  },
+  {
+    "name": "Pestilence",
+    "desc": "Deal 1 damage to all units.",
+    "key": "Pestilence"
+  },
+  {
+    "name": "Pestilence2",
+    "desc": "Deal 1 damage to all units.\r\n[s:.7](This spell costs less.)[/s]",
+    "key": "Pestilence2"
+  },
+  {
+    "name": "Weakness",
+    "desc": "Inflict Weakness 5 on a unit.",
+    "key": "Weakness"
+  },
+  {
+    "name": "Weakness2",
+    "desc": "Give a unit Weakness 5 and All Stats Down.",
+    "key": "Weakness2"
+  },
+  {
+    "name": "Dark Ritual",
+    "desc": "Destroy an adjacent body. The next spell you cast costs 0 mana.",
+    "key": "SoulSuck"
+  },
+  {
+    "name": "SoulSuck2",
+    "desc": "Destroy an adjacent body. The next 2 spells you cast cost 0 mana.",
+    "key": "SoulSuck2"
+  },
+  {
+    "name": "Evil Incarnate",
+    "desc": "Inflict Fear on all enemies.",
+    "key": "EvilIncarnate"
+  },
+  {
+    "name": "EvilIncarnate2",
+    "desc": "Inflict Fear 1 and Weakness 2 on all enemies.",
+    "key": "EvilIncarnate2"
+  },
+  {
+    "name": "Soul Link",
+    "desc": "Inflict Soul Link on units in an area.",
+    "key": "SoulLink"
+  },
+  {
+    "name": "SoulLink2",
+    "desc": "Inflict Soul Link on units in a large area.",
+    "key": "SoulLink2"
+  },
+  {
+    "name": "We Are One",
+    "desc": "Inflict Soul Link on yourself and every enemy.",
+    "key": "WeAreOne"
+  },
+  {
+    "name": "WeAreOne2",
+    "desc": "Inflict Soul Link on yourself and every enemy. Gain +2 [img:con] and heal 8 HP.",
+    "key": "WeAreOne2"
+  },
+  {
+    "name": "Blood Rain",
+    "desc": "Take 1 damage and heal all allies 1 HP.",
+    "key": "BloodRain"
+  },
+  {
+    "name": "BloodRain2",
+    "desc": "Take 1 damage, heal all allies 1 HP and give them +1 mana.",
+    "key": "BloodRain2"
+  },
+  {
+    "name": "Eternal Servitude",
+    "desc": "Resurrect an enemy body to full HP. It joins your team.",
+    "key": "AnimateDead"
+  },
+  {
+    "name": "AnimateDead2",
+    "desc": "Resurrect an enemy body to full HP. It joins your team and takes an extra turn after this one.",
+    "key": "AnimateDead2"
+  },
+  {
+    "name": "Death Bloom",
+    "desc": "Explode a body, dealing damage and Knockback to adjacent units.",
+    "key": "DeathBloom"
+  },
+  {
+    "name": "Death Bloom",
+    "desc": "Explode a body, dealing damage and Knockback to units in a large area.",
+    "key": "DeathBloom2"
+  },
+  {
+    "name": "Scare",
+    "desc": "Teleport in front of an enemy then Knockback each adjacent unit 4 tiles.",
+    "key": "Scare"
+  },
+  {
+    "name": "Scare2",
+    "desc": "Teleport in front of an enemy then inflict Knockback 4 and Fear on each adjacent unit.",
+    "key": "Scare2"
+  },
+  {
+    "name": "Soul Transfer",
+    "desc": "Give a unit +1 [img:con] and heal it 4 HP. You gain -1 [img:con] and lose 4 health.",
+    "key": "SoulTransfer"
+  },
+  {
+    "name": "SoulTransfer2",
+    "desc": "Give a unit +1 [img:con] and heal it 4 HP. You gain -1 [img:con] and lose 4 health.\nThis spell can revive units. If the unit revived was an enemy it gets charmed for the battle.",
+    "key": "SoulTransfer2"
+  },
+  {
+    "name": "Slit Wrists",
+    "desc": "Deal 2 damage to yourself.",
+    "key": "SlitWrists"
+  },
+  {
+    "name": "Whisper",
+    "desc": "Inflict Fear and Madness on an adjacent unit.",
+    "key": "Whisper"
+  },
+  {
+    "name": "Whisper2",
+    "desc": "Inflict Fear 1 and Madness 2 on a unit in range 4.",
+    "key": "Whisper2"
+  },
+  {
+    "name": "Summon Shade",
+    "desc": "Spawn a shadow copy of yourself that fades after its first turn.\n[s:.7](The copy can't cast this ability or give extra turns to units.)[/s]",
+    "key": "SummonShade"
+  },
+  {
+    "name": "SummonShade2",
+    "desc": "Spawn a shadow copy of yourself that fades after its second turn.\n[s:.7](The copy can't cast this ability or give extra turns to units.)[/s]",
+    "key": "SummonShade2"
+  },
+  {
+    "name": "Dark Step",
+    "desc": "Teleport to an open tile.",
+    "key": "DarkStep"
+  },
+  {
+    "name": "DarkStep2",
+    "desc": "Teleport to a tile. If you teleport into a unit you both take 5 damage, then inflict Fear on it.",
+    "key": "DarkStep2"
+  },
+  {
+    "name": "Leeches",
+    "desc": "Inflict Leech 1 on a unit.",
+    "key": "Leeches"
+  },
+  {
+    "name": "Leeches2",
+    "desc": "Inflict Leech 1 and Mana Leech 1 on a unit.",
+    "key": "Leeches2"
+  },
+  {
+    "name": "Shriek",
+    "desc": "Inflict Fear 1, Confusion 2, and Madness 2 on units within a cone.",
+    "key": "Shriek"
+  },
+  {
+    "name": "Shriek2",
+    "desc": "Inflict Fear 1, Confusion 2, Madness 2 and drain 2 HP from units within a cone.",
+    "key": "Shriek2"
+  },
+  {
+    "name": "Seppuku",
+    "desc": "Down yourself.",
+    "key": "Seppuku"
+  },
+  {
+    "name": "Full Moon",
+    "desc": "Give Lifesteal 1 to units in an area.",
+    "key": "FullMoon"
+  },
+  {
+    "name": "FullMoon2",
+    "desc": "Give Lifesteal 3 to units in an area.",
+    "key": "FullMoon2"
+  },
+  {
+    "name": "Unearth",
+    "desc": "Dig up a body. It reanimates at the end of the round.",
+    "key": "Unearth"
+  },
+  {
+    "name": "Unearth2",
+    "desc": "Dig up a body. It reanimates at the end of the round.\r\n[s:.7](This spell costs less.)[/s]",
+    "key": "Unearth2"
+  },
+  {
+    "name": "Blood Geyser",
+    "desc": "Take damage equal to half of your max HP, then deal that much damage and inflict Fear 2 on another unit.",
+    "key": "BloodGeyser"
+  },
+  {
+    "name": "BloodGeyser2",
+    "desc": "Take damage equal to half of your max HP, then deal that much damage and inflict Fear 2 on units in an area.",
+    "key": "BloodGeyser2"
+  },
+  {
+    "name": "Flatline",
+    "desc": "Down yourself. You don't get injured. Spawn a shadow copy of yourself that fades after its first turn.\n[s:.7]The copy can't cast this ability or give extra turns to units.[/s]",
+    "key": "Flatline"
+  },
+  {
+    "name": "Flatline2",
+    "desc": "Down yourself. You don't get injured. Spawn a shadow copy of yourself that fades after its first turn.\n[s:.7]The copy can't cast this ability or give extra turns to units.[/s]\n[s:.7](This spell costs 0 mana.)[/s]",
+    "key": "Flatline2"
+  },
+  {
+    "name": "Replace",
+    "desc": "Teleport into a familiar and destroy it. Refresh your basic attack.",
+    "key": "Replace"
+  },
+  {
+    "name": "Replace2",
+    "desc": "Teleport into a familiar and destroy it. Refresh your basic attack and heal 5 HP.",
+    "key": "Replace2"
+  },
+  {
+    "name": "Summon Bones",
+    "desc": "Summon a skeleton from a body.",
+    "key": "SummonBones"
+  },
+  {
+    "name": "SummonBones2",
+    "desc": "Summon a skeleton from a body, anywhere.\n[s:.7](This spell costs less.)[/s]",
+    "key": "SummonBones2"
+  },
+  {
+    "name": "Giga Drain",
+    "desc": "Spend all of your mana, then drain that much HP from an adjacent unit. Ignores shield.",
+    "key": "GigaDrain"
+  },
+  {
+    "name": "GigaDrain2",
+    "desc": "Spend all of your mana, then drain that much HP from a unit in range 3. Ignores shield.",
+    "key": "GigaDrain2"
+  },
+  {
+    "name": "Bloodletting",
+    "desc": "Remove all status effects from another unit, then inflict Bleed 5 on it.",
+    "key": "Bloodletting"
+  },
+  {
+    "name": "Bloodletting2",
+    "desc": "Remove all status effects from another unit, then inflict Bleed 5 on it.\r\n[s:.7](This spell costs less.)[/s]",
+    "key": "Bloodletting2"
+  },
+  {
+    "name": "Mass Psychosis",
+    "desc": "Inflict Madness on all enemies.",
+    "key": "MassPsychosis"
+  },
+  {
+    "name": "MassPsychosis2",
+    "desc": "Inflict Madness on all enemies.\n[s:.7](This spell costs less.)[/s]",
+    "key": "MassPsychosis2"
+  },
+  {
+    "name": "Debone",
+    "desc": "Deal damage and inflict Weakness on an adjacent unit. If you have no weapon, equip a bone.",
+    "key": "Debone"
+  },
+  {
+    "name": "Debone2",
+    "desc": "Deal damage, inflict Weakness and Immobile on an adjacent unit. If you have no weapon, equip a bone.",
+    "key": "Debone2"
+  },
+  {
+    "name": "Reap",
+    "desc": "Teleport into a unit with 5 or less health and destroy it.",
+    "key": "Reap"
+  },
+  {
+    "name": "Reap2",
+    "desc": "Teleport into a unit with 10 or less health and destroy it.\n[s:.7](This spell costs less.)[/s]",
+    "key": "Reap2"
+  },
+  {
+    "name": "Haunt",
+    "desc": "Damage any unit and inflict Fear.\n[s:.7]Castable while downed.[/s]",
+    "key": "Haunt"
+  },
+  {
+    "name": "Spook",
+    "desc": "Deal damage to any unit. This has a 25% chance to inflict Fear.\n[s:.7]Castable while downed.[/s]",
+    "key": "Spook"
+  },
+  {
+    "name": "Carrion Shot",
+    "desc": "Deal 1 damage and inflict Leech 1.\n[s:.7]This spell is stronger and castable while you're downed.[/s]",
+    "key": "CarrionShot"
+  },
+  {
+    "name": "Carrion Shot",
+    "desc": "Deal 1 damage and inflict Leech 1.\n[s:.7]This spell is stronger and castable while you're downed.[/s]",
+    "key": "CarrionShot_Afterlife"
+  },
+  {
+    "name": "CarrionShot2",
+    "desc": "Deal 2 damage and inflict Leech 2.\n[s:.7]This spell is stronger and castable while you're downed.[/s]",
+    "key": "CarrionShot2"
+  },
+  {
+    "name": "CarrionShot_Afterlife2",
+    "desc": "Deal 2 damage and inflict Leech 2.\n[s:.7]This spell is stronger and castable while you're downed.[/s]",
+    "key": "CarrionShot_Afterlife2"
+  },
+  {
+    "name": "Lifedrain",
+    "desc": "Drain 2 HP at melee range.\n[s:.7]This spell is much stronger and castable while you're downed. If this kills a unit, revive with 50% hp.[/s]",
+    "key": "LifeDrain"
+  },
+  {
+    "name": "Lifedrain",
+    "desc": "Drain 2 HP at melee range.\n[s:.7]This spell is much stronger and castable while you're downed. If this kills a unit, revive with 50% hp.[/s]",
+    "key": "LifeDrain_Afterlife"
+  },
+  {
+    "name": "LifeDrain2",
+    "desc": "Drain 2 HP at melee range.\n[s:.7]This spell is much stronger and castable while you're downed. If this kills a unit, revive with max hp.[/s]",
+    "key": "LifeDrain2"
+  },
+  {
+    "name": "LifeDrain_Afterlife2",
+    "desc": "Drain 2 HP at melee range.\n[s:.7]This spell is much stronger and castable while you're downed. If this kills a unit, revive with max hp.[/s]",
+    "key": "LifeDrain_Afterlife2"
+  },
+  {
+    "name": "Coffin Flop",
+    "desc": "Jump to an open tile in range 2.\n[s:.7]This spell is stronger and castable while you're downed. When downed you can land on units dealing damage and inflicting Madness. [/s]",
+    "key": "CoffinFlop"
+  },
+  {
+    "name": "Coffin Flop",
+    "desc": "Jump to an open tile in range 2.\n[s:.7]This spell is stronger and castable while you're downed. When downed you can land on units dealing damage and inflicting Madness. [/s]",
+    "key": "CoffinFlop_Afterlife"
+  },
+  {
+    "name": "CoffinFlop2",
+    "desc": "Jump to an open tile in range 3.\n[s:.7]This spell is stronger and castable while you're downed. When downed you can land on units anywhere dealing damage and inflicting Madness 2. [/s]",
+    "key": "CoffinFlop2"
+  },
+  {
+    "name": "CoffinFlop_Afterlife2",
+    "desc": "Jump to an open tile in range 3.\n[s:.7]This spell is stronger and castable while you're downed. When downed you can land on units anywhere dealing damage and inflicting Madness 2. [/s]",
+    "key": "CoffinFlop_Afterlife2"
+  },
+  {
+    "name": "Donate Blood",
+    "desc": "Heal a unit 5 HP, then take 10 damage.\n[s:.7]Castable while you're downed. If you do, take no damage and give what you heal All Stats Up.[/s]",
+    "key": "DonateBlood"
+  },
+  {
+    "name": "Donate Blood",
+    "desc": "Heal a unit 5 HP, then take 10 damage.\n[s:.7]Castable while you're downed. If you do, take no damage and give what you heal All Stats Up.[/s]",
+    "key": "DonateBlood_Afterlife"
+  },
+  {
+    "name": "DonateBlood2",
+    "desc": "Heal all units in an area 5 HP, then take 10 damage.\n[s:.7]Castable while you're downed. If you do, take no damage and give what you heal All Stats Up.[/s]",
+    "key": "DonateBlood2"
+  },
+  {
+    "name": "DonateBlood_Afterlife2",
+    "desc": "Heal all units in an area 5 HP, then take 10 damage.\n[s:.7]Castable while you're downed. If you do, take no damage and give what you heal All Stats Up.[/s]",
+    "key": "DonateBlood_Afterlife2"
+  },
+  {
+    "name": "Seance",
+    "desc": "Spawn a ghost Familiar that fades after its first turn.\n[s:.7]Castable while you're downed. If you do, spawn a shadow copy of yourself instead.[/s]",
+    "key": "Seance"
+  },
+  {
+    "name": "Seance",
+    "desc": "Spawn a ghost Familiar that fades after its first turn.\n[s:.7]Castable while you're downed. If you do, spawn a shadow copy of yourself instead.[/s]",
+    "key": "Seance_Afterlife"
+  },
+  {
+    "name": "Seance2",
+    "desc": "Spawn a ghost Familiar that fades after its second turn.\n[s:.7]Castable while you're downed. If you do, spawn a shadow copy of yourself instead.[/s]",
+    "key": "Seance2"
+  },
+  {
+    "name": "Seance_Afterlife2",
+    "desc": "Spawn a ghost Familiar that fades after its second turn.\n[s:.7]Castable while you're downed. If you do, spawn a shadow copy of yourself instead.[/s]",
+    "key": "Seance_Afterlife2"
+  },
+  {
+    "name": "Go Limp",
+    "desc": "Until your next turn, you won't get injured if you're downed.",
+    "key": "GoLimp"
+  },
+  {
+    "name": "GoLimp2",
+    "desc": "Until your next turn, you won't get injured if you're downed.\nWhen downed, inflict Confusion 10 on the unit that downed you.",
+    "key": "GoLimp2"
+  },
+  {
+    "name": "Demonic Pact",
+    "desc": "Injure yourself and take an extra turn.\r\n[s:.7](This spell can't be cast on extra turns.)[/s]",
+    "key": "DemonicPact"
+  },
+  {
+    "name": "DemonicPact2",
+    "desc": "Injure yourself and take an extra turn.\r\n[s:.7](This spell costs less. This spell can't be cast on extra turns.)[/s]",
+    "key": "DemonicPact2"
+  },
+  {
+    "name": "Curse",
+    "desc": "Give a unit -4 [img:lck].",
+    "key": "Curse"
+  },
+  {
+    "name": "Curse2",
+    "desc": "Give a unit -4 [img:lck].\n[s:.7](This spell has increased range)[/s]",
+    "key": "Curse2"
+  },
+  {
+    "name": "Leech Swarm",
+    "desc": "Inflict Leech 3 on all units, except yourself.",
+    "key": "LeechSwarm"
+  },
+  {
+    "name": "LeechSwarm2",
+    "desc": "Inflict Leech 1 on each allied unit and Leech 3 on all other units, except yourself.",
+    "key": "LeechSwarm2"
+  },
+  {
+    "name": "Feed",
+    "desc": "Destroy an adjacent body. Your basic attack inflicts +1 Leech for the rest of the battle.",
+    "key": "Feed"
+  },
+  {
+    "name": "Feed",
+    "desc": "Destroy a body at range. Your basic attack inflicts +1 Leech for the rest of the battle.",
+    "key": "Feed2"
+  },
+  {
+    "name": "Hush",
+    "desc": "Inflict Sleep 1 on an adjacent unit.",
+    "key": "Hush"
+  },
+  {
+    "name": "Hush2",
+    "desc": "Inflict Sleep 1 on a unit in range 4.",
+    "key": "Hush2"
+  },
+  {
+    "name": "Reaper Step",
+    "desc": "Teleport to an open tile in range 1. Whenever a unit dies, this spell's range increases by 1.",
+    "key": "ReaperStep"
+  },
+  {
+    "name": "ReaperStep2",
+    "desc": "Teleport to a tile in range 1, dealing damage to units you land on. Whenever a unit dies, this spell's range and damage increase by 1.",
+    "key": "ReaperStep2"
+  },
+  {
+    "name": "Forbidden Famine",
+    "desc": "Inflict Weakness 5, Poison 2, and Madness 2 on all enemies.\r\nThere are permanent consequences for casting this spell… but maybe not for you. \r\n[s:.7](Castable once per battle.)[/s]",
+    "key": "ForbiddenFamine"
+  },
+  {
+    "name": "ForbiddenFamine2",
+    "desc": "Inflict Leech 2, Weakness 5, Poison 2, and Madness 2 on all enemies.\r\nThere are permanent consequences for casting this spell… but maybe not for you. \r\n[s:.7](Castable once per battle.)[/s]",
+    "key": "ForbiddenFamine2"
+  },
+  {
+    "name": "Flesh Golem",
+    "desc": "You and all allies lose 7 HP. Summon a flesh golem with one random spell from each of those units.\n[s:.7](Castable once per battle.)[/s]",
+    "key": "FleshGolem"
+  },
+  {
+    "name": "FleshGolem2",
+    "desc": "You and all allies lose 7 HP. Summon a flesh golem with one random spell and random passives from each of those units.\n[s:.7](Castable once per battle.)[/s]",
+    "key": "FleshGolem2"
+  },
+  {
+    "name": "Trade Life",
+    "desc": "Swap HP with an ally in range 3.\n[s:.7]Castable while you're downed. If this spell downs you or the ally, neither are injured.[/s]",
+    "key": "TradeLife"
+  },
+  {
+    "name": "TradeLife2",
+    "desc": "Swap HP with any ally.\n[s:.7]Castable while you're downed. If this spell downs you or the ally, neither are injured.[/s]",
+    "key": "TradeLife2"
+  },
+  {
+    "name": "Trade Life",
+    "desc": "Swap HP with an ally in range 3.\n[s:.7]Castable while you're downed. If this spell downs you or the ally, neither are injured.[/s]",
+    "key": "TradeLife_Afterlife"
+  },
+  {
+    "name": "TradeLife_Afterlife2",
+    "desc": "Swap HP with any ally.\n[s:.7]Castable while you're downed. If this spell downs you or the ally, neither are injured.[/s]",
+    "key": "TradeLife_Afterlife2"
+  },
+  {
+    "name": "Absorb Soul",
+    "desc": "Down an ally in range 5 and steal their mana. It doesn't get injured.\n[s:.7](Castable once per turn.)[/s]",
+    "key": "AbsorbSoul"
+  },
+  {
+    "name": "AbsorbSoul2",
+    "desc": "Down any ally and steal their mana. It doesn't get injured.\n[s:.7](Castable once per turn.)[/s]",
+    "key": "AbsorbSoul2"
+  },
+  {
+    "name": "Gravecrawl",
+    "desc": "Dig to any tile and unearth a body.",
+    "key": "Gravecrawl"
+  },
+  {
+    "name": "Gravecrawl",
+    "desc": "Dig to any tile and unearth 1-3 bodies.\r\n[s:.7](This spell costs less.)[/s]",
+    "key": "Gravecrawl2"
+  },
+  {
+    "name": "Dig Up the Dead",
+    "desc": "Dig to any tile and unearth 4 zombies.",
+    "key": "DigUpTheDead"
+  },
+  {
+    "name": "DigUpTheDead2",
+    "desc": "Dig to any tile and unearth 4 zombies.\r\n[s:.7](This spell costs less.)[/s]",
+    "key": "DigUpTheDead2"
+  },
+  {
+    "name": "Spider Egg",
+    "desc": "Inflict Infested 1 on a unit in range 3.",
+    "key": "SpiderEgg"
+  },
+  {
+    "name": "SpiderEgg2",
+    "desc": "Deal 1 damage and inflict Infested 1 on any unit.",
+    "key": "SpiderEgg2"
+  },
+  {
+    "name": "Clew of Leeches",
+    "desc": "Surround a unit with leeches.",
+    "key": "ClewOfLeeches"
+  },
+  {
+    "name": "ClewOfLeeches2",
+    "desc": "Surround a unit with beefy leeches.",
+    "key": "ClewOfLeeches2"
+  }
+]

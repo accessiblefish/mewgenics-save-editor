@@ -1,0 +1,527 @@
+[
+  {
+    "name": "Line Shot",
+    "desc": "An attack that hits all units in a straight line.",
+    "key": "LineShot"
+  },
+  {
+    "name": "LineShot2",
+    "desc": "A stronger attack that hits all units in a straight line.",
+    "key": "LineShot2"
+  },
+  {
+    "name": "Hail of Nails",
+    "desc": "An attack that hits all units in a perpendicular line.",
+    "key": "HailOfNails"
+  },
+  {
+    "name": "HailOfNails2",
+    "desc": "An attack that hits and Immobilizes all units in a perpendicular line.",
+    "key": "HailOfNails2"
+  },
+  {
+    "name": "Spawn Maggot Friend",
+    "desc": "Spawn a maggot familiar.",
+    "key": "SpawnMaggotFriend"
+  },
+  {
+    "name": "SpawnMaggotFriend2",
+    "desc": "Spawn a [img:champion] maggot familiar.",
+    "key": "SpawnMaggotFriend2"
+  },
+  {
+    "name": "Spawn Pooter Friend",
+    "desc": "Spawn a pooter familiar.",
+    "key": "SpawnPooterFriend"
+  },
+  {
+    "name": "SpawnPooterFriend2",
+    "desc": "Spawn 2 pooter familiars.",
+    "key": "SpawnPooterFriend2"
+  },
+  {
+    "name": "Marked",
+    "desc": "Inflict Marked on a unit.",
+    "key": "Marked"
+  },
+  {
+    "name": "Marked",
+    "desc": "Inflict Marked on a unit and all other units of the same type.",
+    "key": "Marked2"
+  },
+  {
+    "name": "Scatter Shot",
+    "desc": "Fire a bunch of shots randomly in an area.",
+    "key": "ScatterShot"
+  },
+  {
+    "name": "ScatterShot2",
+    "desc": "Fire a bunch of shots randomly in a large area.",
+    "key": "ScatterShot2"
+  },
+  {
+    "name": "Bramble Shot",
+    "desc": "Fire a shot that spawns brambles in an area.",
+    "key": "BrambleShot"
+  },
+  {
+    "name": "BrambleShot2",
+    "desc": "Fire a shot that spawns brambles in a large area.",
+    "key": "BrambleShot2"
+  },
+  {
+    "name": "Bear Trap",
+    "desc": "Set a trap within 5 tiles that damages and immobilizes units that walk over it.",
+    "key": "BearTrap"
+  },
+  {
+    "name": "BearTrap2",
+    "desc": "Set a trap on any tile that damages and immobilizes units that walk over it.",
+    "key": "BearTrap2"
+  },
+  {
+    "name": "Harpoon",
+    "desc": "Hook onto something in a straight line and drag yourself to it.",
+    "key": "Harpoon"
+  },
+  {
+    "name": "Harpoon2",
+    "desc": "Hook onto something in a straight line and drag yourself to it.\r\n[s:.7](This spell costs less.)[/s]",
+    "key": "Harpoon2"
+  },
+  {
+    "name": "Twin Shot",
+    "desc": "Shoot twice.",
+    "key": "TwinShot"
+  },
+  {
+    "name": "TwinShot2",
+    "desc": "Shoot thrice.",
+    "key": "TwinShot2"
+  },
+  {
+    "name": "Cross Shot",
+    "desc": "Shoot four projectiles in an X shape.",
+    "key": "CrossShot"
+  },
+  {
+    "name": "CrossShot2",
+    "desc": "Shoot four penetrating projectiles in an X shape.",
+    "key": "CrossShot2"
+  },
+  {
+    "name": "Bait Trap",
+    "desc": "Set a bait trap that attracts enemies.",
+    "key": "SpawnBaitTrap"
+  },
+  {
+    "name": "SpawnBaitTrap2",
+    "desc": "Set a bait trap that attracts enemies and inflicts Poison and Slow when eaten.",
+    "key": "SpawnBaitTrap2"
+  },
+  {
+    "name": "Bomb Shot",
+    "desc": "Toss a bomb that explodes and knocks units away.",
+    "key": "BombShot"
+  },
+  {
+    "name": "BombShot2",
+    "desc": "Toss a large bomb that explodes and knocks units away.",
+    "key": "BombShot2"
+  },
+  {
+    "name": "Summon Brambles",
+    "desc": "Spawn brambles on any tile.",
+    "key": "SummonBrambles"
+  },
+  {
+    "name": "SummonBrambles2",
+    "desc": "Spawn brambles in an area.",
+    "key": "SummonBrambles2"
+  },
+  {
+    "name": "Fire Shot",
+    "desc": "Shoot a projectile that inflicts Burn 2 and lights fires.",
+    "key": "FireShot"
+  },
+  {
+    "name": "FireShot2",
+    "desc": "Shoot a projectile with infinite range that inflicts Burn 4 and lights fires.",
+    "key": "FireShot2"
+  },
+  {
+    "name": "Trail Blazer",
+    "desc": "Increase your movement. You're unaffected by tile effects until the end of the turn.",
+    "key": "TrailBlazer"
+  },
+  {
+    "name": "TrailBlazer2",
+    "desc": "Double your movement.  You're unaffected by tile effects until the end of the turn.",
+    "key": "TrailBlazer2"
+  },
+  {
+    "name": "Focus Shot",
+    "desc": "Aim at a unit. On your next turn, shoot a projectile that always crits and ignores shield at that unit.",
+    "key": "FocusShot"
+  },
+  {
+    "name": "FocusShot2",
+    "desc": "Shoot a projectile that always crits and ignores shield.",
+    "key": "FocusShot2"
+  },
+  {
+    "name": "Shards",
+    "desc": "Shoot a projectile that spawns glass.",
+    "key": "Shards"
+  },
+  {
+    "name": "Shards2",
+    "desc": "Shoot a projectile that spawns glass in an area and inflicts Bleed 2.",
+    "key": "Shards2"
+  },
+  {
+    "name": "Terrain Walk",
+    "desc": "Teleport to any grass or water tile.",
+    "key": "TerrainWalk"
+  },
+  {
+    "name": "TerrainWalk2",
+    "desc": "Teleport to any grass or water tile. Gain Stealth.",
+    "key": "TerrainWalk2"
+  },
+  {
+    "name": "Extend",
+    "desc": "Give a unit +3 range and reach until the end of their next turn.",
+    "key": "Extend"
+  },
+  {
+    "name": "Extend",
+    "desc": "Give a unit +20 range and reach until the end of their next turn.",
+    "key": "Extend2"
+  },
+  {
+    "name": "Chaos Shot",
+    "desc": "Shoot a random unit within range.",
+    "key": "ChaosShot"
+  },
+  {
+    "name": "ChaosShot2",
+    "desc": "Shoot a random unit within range, twice!",
+    "key": "ChaosShot2"
+  },
+  {
+    "name": "Needle Shot",
+    "desc": "Shoot a needle that deals damage, gives Thorns, and ignores shield.",
+    "key": "NeedleShot"
+  },
+  {
+    "name": "NeedleShot2",
+    "desc": "Shoot a needle that deals damage, gives Thorns, and ignores shield. This deals extra damage to enemies and gives extra Thorns to allies.",
+    "key": "NeedleShot2"
+  },
+  {
+    "name": "Spike Trap",
+    "desc": "Set a trap that deals 8 damage.",
+    "key": "SpikeTrap"
+  },
+  {
+    "name": "SpikeTrap2",
+    "desc": "Set a trap that deals 13 damage.",
+    "key": "SpikeTrap2"
+  },
+  {
+    "name": "Flea Shot",
+    "desc": "Shoot a flea at a unit.",
+    "key": "FleaShot"
+  },
+  {
+    "name": "FleaShot2",
+    "desc": "Shoot a [img:champion] flea at a unit.",
+    "key": "FleaShot2"
+  },
+  {
+    "name": "Web Trap",
+    "desc": "Set a trap that webs non-bug units that walk through it.",
+    "key": "WebTrap"
+  },
+  {
+    "name": "WebTrap2",
+    "desc": "Set a web trap on any tile that webs non-bug units that walk through it.",
+    "key": "WebTrap2"
+  },
+  {
+    "name": "Last Hit",
+    "desc": "Deal 1 damage to a unit. If this kills it, refresh your basic attack.",
+    "key": "LastHit"
+  },
+  {
+    "name": "LastHit2",
+    "desc": "Deal 1 damage to a unit. If this kills it, refresh your basic attack. This ignores shield and can't miss.\n[s:.7](This spell costs less.)[/s]",
+    "key": "LastHit2"
+  },
+  {
+    "name": "Cupid's Arrow",
+    "desc": "A shot that damages and inflicts Charm.",
+    "key": "CupidsArrow"
+  },
+  {
+    "name": "CupidsArrow2",
+    "desc": "A shot that damages and inflicts Charm 2.\n[s:.7](This spell costs less.)[/s]",
+    "key": "CupidsArrow2"
+  },
+  {
+    "name": "Arrow Flurry",
+    "desc": "Shoot 5 weak shots, each one has a 50% chance to miss.",
+    "key": "ArrowFlurry"
+  },
+  {
+    "name": "ArrowFlurry2",
+    "desc": "Shoot 5 weak shots, each one has a 50% chance to miss and 50% chance to crit!",
+    "key": "ArrowFlurry2"
+  },
+  {
+    "name": "Heavy Shot",
+    "desc": "Shoot a high damage shot with a 50% chance to miss.",
+    "key": "HeavyShot"
+  },
+  {
+    "name": "HeavyShot2",
+    "desc": "Shoot a high damage shot with a 50% chance to miss and a 50% chance to crit.\n[s:.7](This spell has increased range.)[/s]",
+    "key": "HeavyShot2"
+  },
+  {
+    "name": "Stake Out",
+    "desc": "End your turn. On your next turn, your ranged abilities deal double damage.\n[s:.7](Castable only if you haven't taken any other actions this turn.)[/s]",
+    "key": "StakeOut"
+  },
+  {
+    "name": "StakeOut2",
+    "desc": "End your turn. On your next turn, your ranged abilities deal double damage.\n[s:.7](Costs 0 mana. Castable only if you haven't taken any other actions this turn other than your movement action.)[/s]",
+    "key": "StakeOut2"
+  },
+  {
+    "name": "Ball of Spiders",
+    "desc": "Throw a spider egg that spawns 3 spiderlings on impact.",
+    "key": "BallOfSpiders"
+  },
+  {
+    "name": "BallOfSpiders2",
+    "desc": "Throw a stronger spider egg that spawns 3 spiderlings on impact.",
+    "key": "BallOfSpiders2"
+  },
+  {
+    "name": "Snipe",
+    "desc": "Fire a shot exactly 6 tiles away that ignores shield and can't miss.",
+    "key": "Snipe"
+  },
+  {
+    "name": "Snipe2",
+    "desc": "Fire a stronger shot exactly 6 tiles away that ignores shield, can't miss, and has a 50% chance to crit.",
+    "key": "Snipe2"
+  },
+  {
+    "name": "Diversion",
+    "desc": "Shoot a pebble. All enemies within 3 tiles move toward it.",
+    "key": "Diversion"
+  },
+  {
+    "name": "Diversion2",
+    "desc": "Shoot a pebble. All enemies within 3 tiles move toward it and gain Confusion.",
+    "key": "Diversion2"
+  },
+  {
+    "name": "Arrowsmith",
+    "desc": "Gain +1 Bonus Attack at the start of your next turn.",
+    "key": "ArrowSmith"
+  },
+  {
+    "name": "ArrowSmith2",
+    "desc": "You or another unit gains +1 Bonus Attack at the start of their next turn.",
+    "key": "ArrowSmith2"
+  },
+  {
+    "name": "Tactical Retreat",
+    "desc": "Teleport up to 5 tiles away. Set a bear trap on the tile you teleported from.",
+    "key": "TacticalRetreat"
+  },
+  {
+    "name": "TacticalRetreat2",
+    "desc": "Teleport up to 5 tiles away. Set a baited bear trap on the tile you teleported from.",
+    "key": "TacticalRetreat2"
+  },
+  {
+    "name": "Infest",
+    "desc": "Toss a spider egg that deals low damage and inflicts Infested.",
+    "key": "Infest"
+  },
+  {
+    "name": "Infest2",
+    "desc": "Toss a spider egg that deals low damage and inflicts Infested 2.",
+    "key": "Infest2"
+  },
+  {
+    "name": "Collect Pelt",
+    "desc": "Destroy a body. Equip a piece of Cat Hide armor to an empty armor slot.",
+    "key": "CollectPelt"
+  },
+  {
+    "name": "CollectPelt2",
+    "desc": "Destroy a body. Create a big food pickup and equip a piece of Cat Hide armor to an empty armor slot.",
+    "key": "CollectPelt2"
+  },
+  {
+    "name": "Sentry Mode",
+    "desc": "The next time an enemy ends movement in your basic attack range, attack it.",
+    "key": "SentryMode"
+  },
+  {
+    "name": "Sentry Mode",
+    "desc": "Until your next turn, whenever an enemy ends movement in your basic attack range, attack it.",
+    "key": "SentryMode2"
+  },
+  {
+    "name": "Pheromones",
+    "desc": "Inflict Charm on a unit. If it's an enemy, it takes an extra turn immediately.",
+    "key": "Pheromones"
+  },
+  {
+    "name": "Pheromones",
+    "desc": "Inflict Charm on a unit. It takes an extra turn immediately.",
+    "key": "Pheromones2"
+  },
+  {
+    "name": "Call of the Wild",
+    "desc": "Spawn a charmed Tom Tom.",
+    "key": "SpawnTomTomFriend"
+  },
+  {
+    "name": "SpawnTomTomFriend2",
+    "desc": "Spawn a charmed Tom Tom on any tile.",
+    "key": "SpawnTomTomFriend2"
+  },
+  {
+    "name": "Scout Me",
+    "desc": "Until next turn, allied cats gain a bonus ability that can let you shoot a tile of their choice.\n[s:.7](Castable once per turn.)[/s]",
+    "key": "ScoutMe"
+  },
+  {
+    "name": "ScoutMe2",
+    "desc": "Until next turn, allied cats gain a bonus ability that can let you shoot a tile of their choice.\n[s:.7](Castable once per turn. This spell costs 0 mana.)[/s]",
+    "key": "ScoutMe2"
+  },
+  {
+    "name": "Shoot Here!",
+    "desc": "Instructs your friend to shoot an adjacent tile!\n[s:.7](Castable once per turn.)[/s]",
+    "key": "ShootHere"
+  },
+  {
+    "name": "Craft Arrow",
+    "desc": "Collect an adjacent pickup and gain +1 Bonus Attack instead of its normal effects.",
+    "key": "CraftArrow"
+  },
+  {
+    "name": "CraftArrow2",
+    "desc": "Collect all pickups within two tiles of you. Gain +1 Bonus Attack for each pickup instead of their normal effects.\n[s:.7](This spell costs 1 mana.)[/s]",
+    "key": "CraftArrow2"
+  },
+  {
+    "name": "Charm Trap",
+    "desc": "Spawn a trap that deals damage and inflicts Charm 1.",
+    "key": "CharmTrap"
+  },
+  {
+    "name": "CharmTrap2",
+    "desc": "Spawn a trap that deals damage and inflicts Charm 1.\r\n[s:.7](This spell costs less.)[/s]",
+    "key": "CharmTrap2"
+  },
+  {
+    "name": "Bounce Shot",
+    "desc": "Shoot a projectile that bounces everything adjacent to it back 3 tiles.",
+    "key": "BounceShot"
+  },
+  {
+    "name": "BounceShot2",
+    "desc": "Shoot a projectile that bounces everything adjacent to it back 3 tiles. They take 5 damage if they collide with something.",
+    "key": "BounceShot2"
+  },
+  {
+    "name": "Picnic",
+    "desc": "You and adjacent units each heal 5 HP.",
+    "key": "Picnic"
+  },
+  {
+    "name": "Picnic2",
+    "desc": "You and adjacent units each heal 5 HP and gain +1 Damage.",
+    "key": "Picnic2"
+  },
+  {
+    "name": "Soothing Shot",
+    "desc": "A ranged shot that heals and inflicts Charmed 1.",
+    "key": "SoothingShot"
+  },
+  {
+    "name": "Soothing Shot",
+    "desc": "A ranged shot that heals and inflicts Charmed 2.\nAgainst allies this cleanses debuffs and inflicts Charmed 1 instead.",
+    "key": "SoothingShot2"
+  },
+  {
+    "name": "Vivisect",
+    "desc": "A melee attack that spawns a baited bear trap if it kills a unit or destroys a body.",
+    "key": "Vivisect"
+  },
+  {
+    "name": "Vivisect",
+    "desc": "A lobbed attack that spawns a baited bear trap if it kills a unit or destroys a body.",
+    "key": "Vivisect2"
+  },
+  {
+    "name": "Poison Lace",
+    "desc": "Give yourself or an adjacent unit +1 Poison Lace.",
+    "key": "PoisonLace"
+  },
+  {
+    "name": "PoisonLace2",
+    "desc": "Give yourself or any other unit +1 Poison Lace.",
+    "key": "PoisonLace2"
+  },
+  {
+    "name": "Slop the Pigs",
+    "desc": "Each familiar in an area gains All Stats Up and heals 4 HP. Other units in the area gain +1 [img:con] and heal 2 HP.",
+    "key": "SlopThePigs"
+  },
+  {
+    "name": "SlopThePigs2",
+    "desc": "Each familiar in an area gains All Stats Up and heals 4 HP. Other units in the area gain +1 [img:con] and heal 2 HP.\n[s:.7](This spell costs less.)[/s]",
+    "key": "SlopThePigs2"
+  },
+  {
+    "name": "Egg Sac Trap",
+    "desc": "Spawn a spider egg trap that inflicts Infested 4.",
+    "key": "SpiderInjector"
+  },
+  {
+    "name": "SpiderInjector2",
+    "desc": "Spawn a spider egg trap that deals damage and inflicts Infested 4.",
+    "key": "SpiderInjector2"
+  },
+  {
+    "name": "Persistent Hunt",
+    "desc": "Inflict Marked 5 on a unit. \nRELOAD: Kill an enemy.",
+    "key": "PersistentHunt"
+  },
+  {
+    "name": "PersistentHunt2",
+    "desc": "Inflict Marked 5 on a unit.\nRELOAD: Kill an enemy.\nThis spell starts reloaded.",
+    "key": "PersistentHunt2"
+  },
+  {
+    "name": "Hedge In",
+    "desc": "Spawn bear traps on each adjacent tile.",
+    "key": "Bunker"
+  },
+  {
+    "name": "Bunker2",
+    "desc": "Spawn bear traps on each tile exactly 2 tiles away.",
+    "key": "Bunker2"
+  }
+]

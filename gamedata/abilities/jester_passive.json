@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Super Luck",
+    "desc": "",
+    "key": "SuperLuck"
+  },
+  {
+    "name": "SuperLuck2",
+    "desc": "",
+    "key": "SuperLuck2"
+  },
+  {
+    "name": "Goofball",
+    "desc": "Take an extra turn at the start of each round.",
+    "key": "Goofball"
+  },
+  {
+    "name": "Goofball2",
+    "desc": "Take 2 extra turns at the start of each round.",
+    "key": "Goofball2"
+  }
+]

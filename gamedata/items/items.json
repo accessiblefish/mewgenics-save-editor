@@ -1,0 +1,6915 @@
+{
+  "ScrapHat": {
+    "id": "ScrapHat",
+    "kind": "head",
+    "rarity": "common",
+    "name": "Scrap Metal Hat"
+  },
+  "ScrapMask": {
+    "id": "ScrapMask",
+    "kind": "face",
+    "rarity": "common",
+    "name": "Scrap Metal Mask"
+  },
+  "ScrapArmor": {
+    "id": "ScrapArmor",
+    "kind": "neck",
+    "rarity": "common",
+    "name": "Scrap Metal Armor"
+  },
+  "LeatherHat": {
+    "id": "LeatherHat",
+    "kind": "head",
+    "rarity": "common",
+    "name": "Leather Cap",
+    "desc": "+1 Brace."
+  },
+  "LeatherMask": {
+    "id": "LeatherMask",
+    "kind": "face",
+    "rarity": "common",
+    "name": "Leather Mask",
+    "desc": "+1 Brace."
+  },
+  "LeatherArmor": {
+    "id": "LeatherArmor",
+    "kind": "neck",
+    "rarity": "common",
+    "name": "Leather Choker",
+    "desc": "+1 Brace."
+  },
+  "RagHood": {
+    "id": "RagHood",
+    "kind": "head",
+    "rarity": "common",
+    "name": "Rag Hood",
+    "desc": "+15% Dodge Chance."
+  },
+  "RagMask": {
+    "id": "RagMask",
+    "kind": "face",
+    "rarity": "common",
+    "name": "Rag Mask",
+    "desc": "+15% Dodge Chance."
+  },
+  "RagArmor": {
+    "id": "RagArmor",
+    "kind": "neck",
+    "rarity": "common",
+    "name": "Rags",
+    "desc": "+15% Dodge Chance."
+  },
+  "RubberHat": {
+    "id": "RubberHat",
+    "kind": "head",
+    "rarity": "common",
+    "name": "Rubber Hat",
+    "desc": "Units that contact you are knocked back 2 tiles."
+  },
+  "RubberMask": {
+    "id": "RubberMask",
+    "kind": "face",
+    "rarity": "common",
+    "name": "Rubber Mask",
+    "desc": "Units that contact you are knocked back 2 tiles."
+  },
+  "RubberArmor": {
+    "id": "RubberArmor",
+    "kind": "neck",
+    "rarity": "common",
+    "name": "Tire",
+    "desc": "Units that contact you are knocked back 2 tiles."
+  },
+  "CatHideHat": {
+    "id": "CatHideHat",
+    "kind": "head",
+    "rarity": "common",
+    "name": "Cathide Hat",
+    "desc": "+1 Health Regen.\n5% chance to spawn a Flea Familiar at the end of your turn."
+  },
+  "CatHideMask": {
+    "id": "CatHideMask",
+    "kind": "face",
+    "rarity": "common",
+    "name": "Cathide Mask",
+    "desc": "+1 Health Regen.\n5% chance to spawn a Flea Familiar at the end of your turn."
+  },
+  "CatHideArmor": {
+    "id": "CatHideArmor",
+    "kind": "neck",
+    "rarity": "common",
+    "name": "Cathide Armor",
+    "desc": "+1 Health Regen.\n5% chance to spawn a Flea Familiar at the end of your turn."
+  },
+  "ThickHide": {
+    "id": "ThickHide",
+    "kind": "neck",
+    "rarity": "rare",
+    "name": "Thick Hide",
+    "desc": "+1 Brace. Immunity to Slow and Freeze."
+  },
+  "GutsHeart": {
+    "id": "GutsHeart",
+    "kind": "neck",
+    "rarity": "uncommon",
+    "name": "Heart",
+    "desc": "+1 Health Regen."
+  },
+  "GutsLiver": {
+    "id": "GutsLiver",
+    "kind": "head",
+    "rarity": "uncommon",
+    "name": "Liver",
+    "desc": "+1 Health Regen."
+  },
+  "GutsIntestines": {
+    "id": "GutsIntestines",
+    "kind": "face",
+    "rarity": "uncommon",
+    "name": "Intestines",
+    "desc": "+1 Health Regen."
+  },
+  "BonesHat": {
+    "id": "BonesHat",
+    "kind": "head",
+    "rarity": "common",
+    "name": "Skull Cap",
+    "desc": "Breaks when [img:shield] is depleted.\nWhen it breaks, gain +1 [img:int] and +3 Health Regen for the rest of the battle."
+  },
+  "BonesMask": {
+    "id": "BonesMask",
+    "kind": "face",
+    "rarity": "common",
+    "name": "Jawbone",
+    "desc": "Breaks when [img:shield] is depleted.\nWhen it breaks, gain +1 [img:str] and +3 Health Regen for the rest of the battle."
+  },
+  "BonesNeck": {
+    "id": "BonesNeck",
+    "kind": "neck",
+    "rarity": "common",
+    "name": "Bone Necklace",
+    "desc": "Breaks when [img:shield] is depleted.\nWhen it breaks, gain +1 [img:dex] and +3 Health Regen for the rest of the battle."
+  },
+  "DirtClodHat": {
+    "id": "DirtClodHat",
+    "kind": "head",
+    "rarity": "uncommon",
+    "name": "Dirt Clod Hat",
+    "desc": "+2 Mana Regen, +2 Health Regen.\nFragile and Brittle while wet."
+  },
+  "DirtClodMask": {
+    "id": "DirtClodMask",
+    "kind": "face",
+    "rarity": "uncommon",
+    "name": "Dirt Clod Mask",
+    "desc": "+2 Mana Regen, +2 Health Regen.\nFragile and Brittle while wet."
+  },
+  "DirtClodNeck": {
+    "id": "DirtClodNeck",
+    "kind": "neck",
+    "rarity": "uncommon",
+    "name": "Dirt Clod Necklace",
+    "desc": "+2 Mana Regen, +2 Health Regen.\nFragile and Brittle while wet."
+  },
+  "BarbedHat": {
+    "id": "BarbedHat",
+    "kind": "head",
+    "rarity": "common",
+    "name": "Barbed Hat",
+    "desc": "+1 Damage, +1 Thorns, -1 max HP."
+  },
+  "BarbedMask": {
+    "id": "BarbedMask",
+    "kind": "face",
+    "rarity": "common",
+    "name": "Barbed Mask",
+    "desc": "+1 Damage, +1 Thorns, -1 max HP."
+  },
+  "BarbedNeck": {
+    "id": "BarbedNeck",
+    "kind": "neck",
+    "rarity": "common",
+    "name": "Barbed Necklace",
+    "desc": "+1 Damage, +1 Thorns, -1 max HP."
+  },
+  "SludgeHat": {
+    "id": "SludgeHat",
+    "kind": "head",
+    "name": "Sludge Hat"
+  },
+  "SludgeMask": {
+    "id": "SludgeMask",
+    "kind": "face",
+    "name": "Sludge Mask"
+  },
+  "SludgeNeck": {
+    "id": "SludgeNeck",
+    "kind": "neck",
+    "name": "Sludge Necklace"
+  },
+  "CoolGlasses": {
+    "id": "CoolGlasses",
+    "kind": "face",
+    "rarity": "common",
+    "name": "Cool Glasses",
+    "desc": "Fragile"
+  },
+  "CoolShirt": {
+    "id": "CoolShirt",
+    "kind": "neck",
+    "rarity": "common",
+    "name": "Cool Shirt",
+    "desc": "Fragile"
+  },
+  "CoolHat": {
+    "id": "CoolHat",
+    "kind": "head",
+    "rarity": "common",
+    "name": "Cool Hat",
+    "desc": "Fragile"
+  },
+  "PaperHat": {
+    "id": "PaperHat",
+    "kind": "head",
+    "rarity": "common",
+    "name": "Paper Hat",
+    "desc": "+1 Bleed Thorns.\r\nYour basic attack inflicts Bleed.\r\nFragile, Brittle, Flammable, melts in water."
+  },
+  "PaperMask": {
+    "id": "PaperMask",
+    "kind": "face",
+    "rarity": "common",
+    "name": "Paper Mask",
+    "desc": "+1 Bleed Thorns.\r\nYour basic attack inflicts Bleed.\r\nFragile, Brittle, Flammable, melts in water."
+  },
+  "PaperArmor": {
+    "id": "PaperArmor",
+    "kind": "neck",
+    "rarity": "common",
+    "name": "Paper Shoulder Pads",
+    "desc": "+1 Bleed Thorns.\r\nYour basic attack inflicts Bleed.\r\nFragile, Brittle, Flammable, melts in water."
+  },
+  "CardboardHat": {
+    "id": "CardboardHat",
+    "kind": "head",
+    "rarity": "common",
+    "name": "Cardboard Hat",
+    "desc": "Fragile, Flammable, Brittle when wet."
+  },
+  "CardboardMask": {
+    "id": "CardboardMask",
+    "kind": "face",
+    "rarity": "common",
+    "name": "Cardboard Mask",
+    "desc": "Fragile, Flammable, Brittle when wet."
+  },
+  "CardboardArmor": {
+    "id": "CardboardArmor",
+    "kind": "neck",
+    "rarity": "common",
+    "name": "Cardboard Necklace",
+    "desc": "Fragile, Flammable, Brittle when wet."
+  },
+  "UsedHat": {
+    "id": "UsedHat",
+    "kind": "head",
+    "rarity": "common",
+    "name": "Used Hat"
+  },
+  "UsedMask": {
+    "id": "UsedMask",
+    "kind": "face",
+    "rarity": "common",
+    "name": "Used Glasses"
+  },
+  "UsedArmor": {
+    "id": "UsedArmor",
+    "kind": "neck",
+    "rarity": "common",
+    "name": "Used Shirt"
+  },
+  "WoodHat": {
+    "id": "WoodHat",
+    "kind": "head",
+    "rarity": "common",
+    "name": "Wood Hat",
+    "desc": "+1 Thorns.\r\nFragile, Flammable."
+  },
+  "WoodMask": {
+    "id": "WoodMask",
+    "kind": "face",
+    "rarity": "common",
+    "name": "Wood Mask",
+    "desc": "+1 Thorns.\r\nFragile, Flammable."
+  },
+  "WoodArmor": {
+    "id": "WoodArmor",
+    "kind": "neck",
+    "rarity": "common",
+    "name": "Wood Shoulder Pads",
+    "desc": "+1 Thorns.\r\nFragile, Flammable."
+  },
+  "RecycledHat": {
+    "id": "RecycledHat",
+    "kind": "head",
+    "rarity": "common",
+    "name": "Recycled Hat",
+    "desc": "Brittle. Find a common item when this breaks."
+  },
+  "RecycledMask": {
+    "id": "RecycledMask",
+    "kind": "face",
+    "rarity": "common",
+    "name": "Recycled Mask",
+    "desc": "Brittle. Find a common item when this breaks."
+  },
+  "RecycledArmor": {
+    "id": "RecycledArmor",
+    "kind": "neck",
+    "rarity": "common",
+    "name": "Recycled Necklace",
+    "desc": "Brittle. Find a common item when this breaks."
+  },
+  "RottenHat": {
+    "id": "RottenHat",
+    "kind": "head",
+    "rarity": "uncommon",
+    "name": "Rotten Meat Hat",
+    "desc": "Spawn a Charmed Maggot or Fly when you end your turn."
+  },
+  "RottenMask": {
+    "id": "RottenMask",
+    "kind": "face",
+    "rarity": "uncommon",
+    "name": "Rotten Meat Mask",
+    "desc": "Spawn a Charmed Maggot or Fly when you end your turn."
+  },
+  "RottenArmor": {
+    "id": "RottenArmor",
+    "kind": "neck",
+    "rarity": "uncommon",
+    "name": "Rotten Meat Armor",
+    "desc": "Spawn a Charmed Maggot or Fly when you end your turn."
+  },
+  "JankAlloyHat": {
+    "id": "JankAlloyHat",
+    "kind": "head",
+    "name": "Jank Alloy Armor",
+    "desc": "+1 Brace.\r\nBrittle."
+  },
+  "JankAlloyMask": {
+    "id": "JankAlloyMask",
+    "kind": "face",
+    "name": "Jank Alloy Mask",
+    "desc": "+1 Brace.\r\nBrittle."
+  },
+  "JankAlloyArmor": {
+    "id": "JankAlloyArmor",
+    "kind": "neck",
+    "name": "Jank Alloy Hat",
+    "desc": "+1 Brace.\r\nBrittle."
+  },
+  "AlloyHat": {
+    "id": "AlloyHat",
+    "kind": "head",
+    "name": "Alloy Mask",
+    "desc": "+1 Brace, +2 Thorns.\nBrittle."
+  },
+  "AlloyMask": {
+    "id": "AlloyMask",
+    "kind": "face",
+    "name": "Alloy Mask",
+    "desc": "+1 Brace, +2 Thorns.\nBrittle."
+  },
+  "AlloyArmor": {
+    "id": "AlloyArmor",
+    "kind": "neck",
+    "name": "Alloy Armor",
+    "desc": "+1 Brace, +2 Thorns.\nBrittle."
+  },
+  "AdvancedAlloyHat": {
+    "id": "AdvancedAlloyHat",
+    "kind": "head",
+    "name": "Advanced Alloy Hat",
+    "desc": "+2 Brace, +2 Thorns.\nBrittle."
+  },
+  "AdvancedAlloyMask": {
+    "id": "AdvancedAlloyMask",
+    "kind": "face",
+    "name": "Advanced Alloy Mask",
+    "desc": "+2 Brace, +2 Thorns.\r\nBrittle."
+  },
+  "AdvancedAlloyArmor": {
+    "id": "AdvancedAlloyArmor",
+    "kind": "neck",
+    "name": "Advanced Alloy Armor",
+    "desc": "+2 Brace, +2 Thorns.\r\nBrittle."
+  },
+  "EliteAlloyHat": {
+    "id": "EliteAlloyHat",
+    "kind": "head",
+    "name": "Elite Alloy Hat",
+    "desc": "+2 Brace, +3 Thorns, All Stats Up 1.\nBrittle."
+  },
+  "EliteAlloyMask": {
+    "id": "EliteAlloyMask",
+    "kind": "face",
+    "name": "Elite Alloy Mask",
+    "desc": "+2 Brace, +3 Thorns, All Stats Up 1.\nBrittle."
+  },
+  "EliteAlloyArmor": {
+    "id": "EliteAlloyArmor",
+    "kind": "neck",
+    "name": "Elite Alloy Armor",
+    "desc": "+2 Brace, +3 Thorns, All Stats Up 1.\nBrittle."
+  },
+  "TwineHat": {
+    "id": "TwineHat",
+    "kind": "head",
+    "rarity": "common",
+    "name": "Twine Hat",
+    "desc": "+50% chance to Grapple units that contact you.\nFlammable."
+  },
+  "TwineMask": {
+    "id": "TwineMask",
+    "kind": "face",
+    "rarity": "common",
+    "name": "Twine Mask",
+    "desc": "+50% chance to Grapple units that contact you.\nFlammable."
+  },
+  "TwineArmor": {
+    "id": "TwineArmor",
+    "kind": "neck",
+    "rarity": "common",
+    "name": "Twine Armor",
+    "desc": "+50% chance to Grapple units that contact you.\nFlammable."
+  },
+  "RockHat": {
+    "id": "RockHat",
+    "kind": "head",
+    "rarity": "uncommon",
+    "name": "Rock Hat",
+    "desc": "Brittle. Your basic attack has +1 Knockback. Gain coins when this breaks."
+  },
+  "RockMask": {
+    "id": "RockMask",
+    "kind": "face",
+    "rarity": "uncommon",
+    "name": "Rock Mask",
+    "desc": "Brittle. Your basic attack has +1 Knockback. Gain coins when this breaks."
+  },
+  "RockArmor": {
+    "id": "RockArmor",
+    "kind": "neck",
+    "rarity": "uncommon",
+    "name": "Rock Necklace",
+    "desc": "Brittle. Your basic attack has +1 Knockback. Gain coins when this breaks."
+  },
+  "MinerHat": {
+    "id": "MinerHat",
+    "kind": "head",
+    "rarity": "uncommon",
+    "name": "Miner Hat",
+    "desc": "Physical attacks can't miss."
+  },
+  "MinerMask": {
+    "id": "MinerMask",
+    "kind": "face",
+    "rarity": "uncommon",
+    "name": "Miner Mask",
+    "desc": "Poison Immunity."
+  },
+  "MinerArmor": {
+    "id": "MinerArmor",
+    "kind": "neck",
+    "rarity": "uncommon",
+    "name": "Miner Pack",
+    "desc": "Your basic attack has +1 Knockback.\n+1 Knockback damage."
+  },
+  "GemstoneHat": {
+    "id": "GemstoneHat",
+    "kind": "head",
+    "rarity": "uncommon",
+    "name": "Gemstone Crown",
+    "desc": "+1 Kinetic Spikes."
+  },
+  "GemstoneMask": {
+    "id": "GemstoneMask",
+    "kind": "face",
+    "rarity": "uncommon",
+    "name": "Gemstone Mask",
+    "desc": "+1 Kinetic Spikes."
+  },
+  "GemstoneArmor": {
+    "id": "GemstoneArmor",
+    "kind": "neck",
+    "rarity": "uncommon",
+    "name": "Gemstone Necklace",
+    "desc": "+1 Kinetic Spikes."
+  },
+  "VeinyHat": {
+    "id": "VeinyHat",
+    "kind": "head",
+    "rarity": "rare",
+    "name": "Veiny Hat",
+    "desc": "When you damage a Bleeding unit, gain +1 [img:spd]."
+  },
+  "VeinyMask": {
+    "id": "VeinyMask",
+    "kind": "face",
+    "rarity": "rare",
+    "name": "Veiny Mask",
+    "desc": "When you damage a Bleeding unit, gain +1 [img:str]."
+  },
+  "VeinyArmor": {
+    "id": "VeinyArmor",
+    "kind": "neck",
+    "rarity": "rare",
+    "name": "Veiny Necklace",
+    "desc": "When you damage a Bleeding unit, heal 3 HP."
+  },
+  "GimpHat": {
+    "id": "GimpHat",
+    "kind": "head",
+    "rarity": "uncommon",
+    "name": "Leather Hood",
+    "desc": "Gain +2 Charge when you take damage."
+  },
+  "GimpMask": {
+    "id": "GimpMask",
+    "kind": "face",
+    "rarity": "uncommon",
+    "name": "Ball Gag",
+    "desc": "Gain +2 Charge when you take damage."
+  },
+  "GimpArmor": {
+    "id": "GimpArmor",
+    "kind": "neck",
+    "rarity": "uncommon",
+    "name": "Leather Collar",
+    "desc": "Gain +2 Charge when you take damage."
+  },
+  "BionicHat": {
+    "id": "BionicHat",
+    "kind": "head",
+    "rarity": "uncommon",
+    "name": "Bionic Skull Plating",
+    "desc": "Fragile."
+  },
+  "BionicMask": {
+    "id": "BionicMask",
+    "kind": "face",
+    "rarity": "uncommon",
+    "name": "Bionic Face Plating",
+    "desc": "Fragile."
+  },
+  "BionicArmor": {
+    "id": "BionicArmor",
+    "kind": "neck",
+    "rarity": "uncommon",
+    "name": "Bionic Neck Plating",
+    "desc": "Fragile."
+  },
+  "CyborgHat": {
+    "id": "CyborgHat",
+    "kind": "head",
+    "rarity": "rare",
+    "name": "Frontal Lobe Implant",
+    "desc": "10% chance to teleport to a neighboring tile when targeted by an enemy."
+  },
+  "CyborgMask": {
+    "id": "CyborgMask",
+    "kind": "face",
+    "rarity": "rare",
+    "name": "Optic Nerve Implant",
+    "desc": "+1 range, +1 reach."
+  },
+  "CyborgArmor": {
+    "id": "CyborgArmor",
+    "kind": "neck",
+    "rarity": "rare",
+    "name": "Cerebellum Implant",
+    "desc": "+10% Crit Chance."
+  },
+  "LuckyHat": {
+    "id": "LuckyHat",
+    "kind": "head",
+    "rarity": "common",
+    "name": "Lucky Hat",
+    "desc": "Fragile."
+  },
+  "LuckyMask": {
+    "id": "LuckyMask",
+    "kind": "face",
+    "rarity": "common",
+    "name": "Lucky Clover",
+    "desc": "Fragile."
+  },
+  "LuckyArmor": {
+    "id": "LuckyArmor",
+    "kind": "neck",
+    "rarity": "common",
+    "name": "Lucky Horseshoe",
+    "desc": "Fragile."
+  },
+  "FlyHat": {
+    "id": "FlyHat",
+    "kind": "head",
+    "name": "Fly Hat",
+    "desc": "+10% Dodge Chance."
+  },
+  "FlyMask": {
+    "id": "FlyMask",
+    "kind": "face",
+    "name": "Fly Mask",
+    "desc": "+10% Dodge Chance."
+  },
+  "FlyNeck": {
+    "id": "FlyNeck",
+    "kind": "neck",
+    "name": "Fly Carapace",
+    "desc": "+10% Dodge Chance."
+  },
+  "FaceGrub": {
+    "id": "FaceGrub",
+    "kind": "face",
+    "rarity": "uncommon",
+    "name": "Face Grub",
+    "desc": "When your [img:shield] is depleted, this transforms into a Maggot familiar."
+  },
+  "HeadGrub": {
+    "id": "HeadGrub",
+    "kind": "head",
+    "rarity": "uncommon",
+    "name": "Head Grub",
+    "desc": "When your [img:shield] is depleted, this transforms into a Maggot familiar."
+  },
+  "NeckGrub": {
+    "id": "NeckGrub",
+    "kind": "neck",
+    "rarity": "uncommon",
+    "name": "Neck Grub",
+    "desc": "When your [img:shield] is depleted, this transforms into a Maggot familiar."
+  },
+  "CrimsonMask": {
+    "id": "CrimsonMask",
+    "kind": "face",
+    "rarity": "rare",
+    "name": "Crimson Mask",
+    "desc": "+1 Damage.\nGain +1 Damage when you kill an enemy."
+  },
+  "CrimsonMask_Cursed": {
+    "id": "CrimsonMask_Cursed",
+    "name": "CrimsonMask_Cursed"
+  },
+  "RedCap": {
+    "id": "RedCap",
+    "kind": "head",
+    "rarity": "rare",
+    "name": "Red Cap",
+    "desc": "+1 Damage.\nGain +1 Damage when you kill an enemy."
+  },
+  "RedCap_Cursed": {
+    "id": "RedCap_Cursed",
+    "name": "RedCap_Cursed"
+  },
+  "PoundOfFlesh": {
+    "id": "PoundOfFlesh",
+    "kind": "neck",
+    "rarity": "rare",
+    "name": "Pound of Flesh",
+    "desc": "+1 Damage.\nGain +1 Damage when you kill an enemy."
+  },
+  "PoundOfFlesh_Cursed": {
+    "id": "PoundOfFlesh_Cursed",
+    "name": "PoundOfFlesh_Cursed"
+  },
+  "FecalMask": {
+    "id": "FecalMask",
+    "kind": "face",
+    "rarity": "common",
+    "name": "Fecal Mask",
+    "desc": "Poisonous 1."
+  },
+  "FecalHood": {
+    "id": "FecalHood",
+    "kind": "head",
+    "rarity": "common",
+    "name": "Fecal Hood",
+    "desc": "Poisonous 1."
+  },
+  "FecalNecklace": {
+    "id": "FecalNecklace",
+    "kind": "neck",
+    "rarity": "common",
+    "name": "Fecal Necklace",
+    "desc": "Poisonous 1."
+  },
+  "FecalMask_Cursed": {
+    "id": "FecalMask_Cursed",
+    "name": "FecalMask_Cursed"
+  },
+  "FecalHood_Cursed": {
+    "id": "FecalHood_Cursed",
+    "name": "FecalHood_Cursed"
+  },
+  "FecalNecklace_Cursed": {
+    "id": "FecalNecklace_Cursed",
+    "name": "FecalNecklace_Cursed"
+  },
+  "LeafyMask": {
+    "id": "LeafyMask",
+    "kind": "face",
+    "rarity": "common",
+    "name": "Leafy Mask",
+    "desc": "While standing in tall grass, you have +40% Dodge Chance."
+  },
+  "LeafyHat": {
+    "id": "LeafyHat",
+    "kind": "head",
+    "rarity": "common",
+    "name": "Leafy Hat",
+    "desc": "While standing in tall grass, you have +3 Mana Regen and +1 Health Regen."
+  },
+  "LeafyNecklace": {
+    "id": "LeafyNecklace",
+    "kind": "neck",
+    "rarity": "common",
+    "name": "Leafy Necklace",
+    "desc": "While standing in tall grass, you have +3 Health Regen and +1 Mana Regen."
+  },
+  "CactusMask": {
+    "id": "CactusMask",
+    "kind": "face",
+    "rarity": "uncommon",
+    "name": "Cactus Mask",
+    "desc": "+3 Thorns, Brittle.\nGain +2 [img:con] permanently and heal 10 HP when this breaks."
+  },
+  "CactusHat": {
+    "id": "CactusHat",
+    "kind": "head",
+    "rarity": "uncommon",
+    "name": "Cactus Hat",
+    "desc": "+3 Thorns, Brittle.\nGain +2 [img:con] permanently and heal 10 HP when this breaks."
+  },
+  "CactusNecklace": {
+    "id": "CactusNecklace",
+    "kind": "neck",
+    "rarity": "uncommon",
+    "name": "Cactus Necklace",
+    "desc": "+3 Thorns, Brittle.\nGain +2 [img:con] permanently and heal 10 HP when this breaks."
+  },
+  "FaceWrap": {
+    "id": "FaceWrap",
+    "kind": "face",
+    "rarity": "uncommon",
+    "name": "FaceWrap"
+  },
+  "HeadWrap": {
+    "id": "HeadWrap",
+    "kind": "head",
+    "rarity": "uncommon",
+    "name": "HeadWrap"
+  },
+  "NeckWrap": {
+    "id": "NeckWrap",
+    "kind": "neck",
+    "rarity": "uncommon",
+    "name": "NeckWrap"
+  },
+  "ManGlasses": {
+    "id": "ManGlasses",
+    "kind": "face",
+    "rarity": "uncommon",
+    "name": "ManGlasses"
+  },
+  "ManHair": {
+    "id": "ManHair",
+    "kind": "head",
+    "rarity": "uncommon",
+    "name": "ManHair"
+  },
+  "ManTie": {
+    "id": "ManTie",
+    "kind": "neck",
+    "rarity": "uncommon",
+    "name": "ManTie"
+  },
+  "FlowerMask": {
+    "id": "FlowerMask",
+    "kind": "face",
+    "rarity": "uncommon",
+    "name": "FlowerMask"
+  },
+  "FlowerHat": {
+    "id": "FlowerHat",
+    "kind": "head",
+    "rarity": "uncommon",
+    "name": "FlowerHat"
+  },
+  "FlowerNecklace": {
+    "id": "FlowerNecklace",
+    "kind": "neck",
+    "rarity": "uncommon",
+    "name": "FlowerNecklace"
+  },
+  "HumanFleshMask": {
+    "id": "HumanFleshMask",
+    "kind": "face",
+    "rarity": "rare",
+    "name": "HumanFleshMask"
+  },
+  "HumanFleshHat": {
+    "id": "HumanFleshHat",
+    "kind": "head",
+    "rarity": "rare",
+    "name": "HumanFleshHat"
+  },
+  "HumanFleshArmor": {
+    "id": "HumanFleshArmor",
+    "kind": "neck",
+    "rarity": "rare",
+    "name": "HumanFleshArmor"
+  },
+  "TentacleMask": {
+    "id": "TentacleMask",
+    "kind": "face",
+    "rarity": "uncommon",
+    "name": "TentacleMask"
+  },
+  "TentacleHat": {
+    "id": "TentacleHat",
+    "kind": "head",
+    "rarity": "uncommon",
+    "name": "TentacleHat"
+  },
+  "TentacleNeck": {
+    "id": "TentacleNeck",
+    "kind": "neck",
+    "rarity": "uncommon",
+    "name": "TentacleNeck"
+  },
+  "ObeliskMask": {
+    "id": "ObeliskMask",
+    "kind": "face",
+    "rarity": "rare",
+    "name": "ObeliskMask"
+  },
+  "ObeliskHat": {
+    "id": "ObeliskHat",
+    "kind": "head",
+    "rarity": "rare",
+    "name": "ObeliskHat"
+  },
+  "ObeliskArmor": {
+    "id": "ObeliskArmor",
+    "kind": "neck",
+    "rarity": "rare",
+    "name": "ObeliskArmor"
+  },
+  "ExperimentalMask": {
+    "id": "ExperimentalMask",
+    "kind": "face",
+    "rarity": "common",
+    "name": "ExperimentalMask"
+  },
+  "ExperimentalHat": {
+    "id": "ExperimentalHat",
+    "kind": "head",
+    "rarity": "common",
+    "name": "ExperimentalHat"
+  },
+  "ExperimentalNeck": {
+    "id": "ExperimentalNeck",
+    "kind": "neck",
+    "rarity": "common",
+    "name": "ExperimentalNeck"
+  },
+  "RockyMask": {
+    "id": "RockyMask",
+    "kind": "face",
+    "rarity": "uncommon",
+    "name": "RockyMask"
+  },
+  "RockyHat": {
+    "id": "RockyHat",
+    "kind": "head",
+    "rarity": "uncommon",
+    "name": "RockyHat"
+  },
+  "RockyNecklace": {
+    "id": "RockyNecklace",
+    "kind": "neck",
+    "rarity": "uncommon",
+    "name": "RockyNecklace"
+  },
+  "SpaceHelmet": {
+    "id": "SpaceHelmet",
+    "kind": "face",
+    "rarity": "uncommon",
+    "name": "SpaceHelmet"
+  },
+  "SpaceAntenna": {
+    "id": "SpaceAntenna",
+    "kind": "head",
+    "rarity": "uncommon",
+    "name": "SpaceAntenna"
+  },
+  "SpaceBoosters": {
+    "id": "SpaceBoosters",
+    "kind": "neck",
+    "rarity": "uncommon",
+    "name": "SpaceBoosters"
+  },
+  "TinyPlanet": {
+    "id": "TinyPlanet",
+    "kind": "face",
+    "rarity": "uncommon",
+    "name": "TinyPlanet"
+  },
+  "MiniMoon": {
+    "id": "MiniMoon",
+    "kind": "head",
+    "rarity": "uncommon",
+    "name": "MiniMoon"
+  },
+  "AsteroidBelt": {
+    "id": "AsteroidBelt",
+    "kind": "neck",
+    "rarity": "uncommon",
+    "name": "AsteroidBelt"
+  },
+  "DebrisMask": {
+    "id": "DebrisMask",
+    "kind": "face",
+    "rarity": "common",
+    "name": "DebrisMask"
+  },
+  "DebrisHat": {
+    "id": "DebrisHat",
+    "kind": "head",
+    "rarity": "common",
+    "name": "DebrisHat"
+  },
+  "DebrisArmor": {
+    "id": "DebrisArmor",
+    "kind": "neck",
+    "rarity": "common",
+    "name": "DebrisArmor"
+  },
+  "DryBoneMask": {
+    "id": "DryBoneMask",
+    "kind": "face",
+    "rarity": "uncommon",
+    "name": "DryBoneMask"
+  },
+  "DryBoneHat": {
+    "id": "DryBoneHat",
+    "kind": "head",
+    "rarity": "uncommon",
+    "name": "DryBoneHat"
+  },
+  "DryBoneNecklace": {
+    "id": "DryBoneNecklace",
+    "kind": "neck",
+    "rarity": "uncommon",
+    "name": "DryBoneNecklace"
+  },
+  "ProtectionTransmitter": {
+    "id": "ProtectionTransmitter",
+    "kind": "head",
+    "rarity": "rare",
+    "name": "Protection Transmitter",
+    "desc": "Bruise 2.\nAll allies gain Brace 1."
+  },
+  "DamageTransmitter": {
+    "id": "DamageTransmitter",
+    "kind": "neck",
+    "rarity": "rare",
+    "name": "Damage Transmitter",
+    "desc": "-2 Damage.\nAll allies gain +1 Damage."
+  },
+  "EnergyTransmitter": {
+    "id": "EnergyTransmitter",
+    "kind": "face",
+    "rarity": "rare",
+    "name": "Energy Transmitter",
+    "desc": "All allies gain +2 [img:spd]."
+  },
+  "ThrummingCirclet": {
+    "id": "ThrummingCirclet",
+    "kind": "head",
+    "rarity": "rare",
+    "name": "Thrumming Circlet",
+    "desc": "If you end your turn without using your basic attack, gain +1 Damage and +1 Thorns."
+  },
+  "ThrummingSpectacles": {
+    "id": "ThrummingSpectacles",
+    "kind": "face",
+    "rarity": "rare",
+    "name": "Thrumming Spectacles",
+    "desc": "If you end your turn without using your movement action, gain +1 Health Regen and +1 [img:shield]."
+  },
+  "ThrummingCharm": {
+    "id": "ThrummingCharm",
+    "kind": "neck",
+    "rarity": "rare",
+    "name": "Thrumming Charm",
+    "desc": "If you end your turn without casting any spells, gain +1 Magic Damage and +1 Charge."
+  },
+  "WitchesHat": {
+    "id": "WitchesHat",
+    "kind": "head",
+    "rarity": "rare",
+    "name": "Witch's Hat",
+    "desc": "+1 Magic Damage."
+  },
+  "WitchesNose": {
+    "id": "WitchesNose",
+    "kind": "face",
+    "rarity": "rare",
+    "name": "Witch's Nose",
+    "desc": "+1 Magic Damage."
+  },
+  "WitchesCape": {
+    "id": "WitchesCape",
+    "kind": "neck",
+    "rarity": "rare",
+    "name": "Witch's Cape",
+    "desc": "+1 Magic Damage."
+  },
+  "StunningHaircut": {
+    "id": "StunningHaircut",
+    "kind": "head",
+    "rarity": "very_rare",
+    "name": "Stunning Haircut",
+    "desc": "Your face and neck item effects are doubled."
+  },
+  "StunningChain": {
+    "id": "StunningChain",
+    "kind": "neck",
+    "rarity": "very_rare",
+    "name": "Stunning Chain",
+    "desc": "Your head and face item effects are doubled."
+  },
+  "StunningBeard": {
+    "id": "StunningBeard",
+    "kind": "face",
+    "rarity": "very_rare",
+    "name": "Stunning Beard",
+    "desc": "Your head and neck item effects are doubled."
+  },
+  "SuperheroHat": {
+    "id": "SuperheroHat",
+    "kind": "head",
+    "rarity": "rare",
+    "name": "Superhero Hat",
+    "desc": "+2 Health Regen."
+  },
+  "SuperheroCape": {
+    "id": "SuperheroCape",
+    "kind": "neck",
+    "rarity": "rare",
+    "name": "Superhero Cape",
+    "desc": "Flying."
+  },
+  "SuperheroMask": {
+    "id": "SuperheroMask",
+    "kind": "face",
+    "rarity": "rare",
+    "name": "Superhero Mask",
+    "desc": "+1 Damage. Your basic attack knocks units into the air, lobbing them back 3 tiles."
+  },
+  "LeadHelmet": {
+    "id": "LeadHelmet",
+    "kind": "head",
+    "rarity": "uncommon",
+    "name": "Lead Helmet"
+  },
+  "LeadShoulderPads": {
+    "id": "LeadShoulderPads",
+    "kind": "neck",
+    "rarity": "uncommon",
+    "name": "Lead Shoulder Pads"
+  },
+  "LeadMask": {
+    "id": "LeadMask",
+    "kind": "face",
+    "rarity": "uncommon",
+    "name": "Lead Mask"
+  },
+  "ScaryBaby": {
+    "id": "ScaryBaby",
+    "kind": "face",
+    "rarity": "rare",
+    "name": "Scary Baby",
+    "desc": "Inflict Fear 2 on a random enemy at the start of each battle."
+  },
+  "CharmingBaby": {
+    "id": "CharmingBaby",
+    "kind": "head",
+    "rarity": "rare",
+    "name": "Charming Baby",
+    "desc": "Inflict Charmed 2 on a random enemy at the start of each battle."
+  },
+  "FreezingBaby": {
+    "id": "FreezingBaby",
+    "kind": "neck",
+    "rarity": "rare",
+    "name": "Freezing Baby",
+    "desc": "Inflict Freeze 2 on a random enemy at the start of each battle."
+  },
+  "Obi": {
+    "id": "Obi",
+    "kind": "neck",
+    "rarity": "uncommon",
+    "name": "Obi",
+    "desc": "Start battle with +2 bonus moves."
+  },
+  "Fukumen": {
+    "id": "Fukumen",
+    "kind": "face",
+    "rarity": "uncommon",
+    "name": "Fukumen",
+    "desc": "Counter the first 2 attacks you receive each battle."
+  },
+  "Zukin": {
+    "id": "Zukin",
+    "kind": "head",
+    "rarity": "uncommon",
+    "name": "Zukin",
+    "desc": "Start battle with +2 Backflip."
+  },
+  "ProwlersCap": {
+    "id": "ProwlersCap",
+    "kind": "head",
+    "rarity": "uncommon",
+    "name": "Prowler's Cap",
+    "desc": "Backstabs have +25% Crit Chance."
+  },
+  "ProwlersMask": {
+    "id": "ProwlersMask",
+    "kind": "face",
+    "rarity": "uncommon",
+    "name": "Prowler's Mask",
+    "desc": "Backstabs inflict Bleed 1."
+  },
+  "ProwlersVial": {
+    "id": "ProwlersVial",
+    "kind": "neck",
+    "rarity": "uncommon",
+    "name": "Prowler's Vial",
+    "desc": "Backstabs heal you by 2 HP."
+  },
+  "MageHat": {
+    "id": "MageHat",
+    "kind": "head",
+    "rarity": "rare",
+    "name": "Mage's Hat",
+    "desc": "Gain +1 Charge each time you cast a spell."
+  },
+  "MageRobe": {
+    "id": "MageRobe",
+    "kind": "face",
+    "rarity": "rare",
+    "name": "Mage's Robe",
+    "desc": "Gain +1 Charge when you deal damage with your basic attack."
+  },
+  "MageScarf": {
+    "id": "MageScarf",
+    "kind": "neck",
+    "rarity": "rare",
+    "name": "Mage's Scarf",
+    "desc": "Gain +1 Charge each time an enemy dies."
+  },
+  "ThiefHood": {
+    "id": "ThiefHood",
+    "kind": "head",
+    "rarity": "rare",
+    "name": "Thief's Hood",
+    "desc": "+5% Dodge Chance and +5% Crit Chance.\nYour basic attack inflicts Bleed."
+  },
+  "ThiefTattoo": {
+    "id": "ThiefTattoo",
+    "kind": "face",
+    "rarity": "rare",
+    "name": "Thief's Tattoo",
+    "desc": "+5% Dodge Chance and +5% Crit Chance.\nYour basic attack inflicts Poison."
+  },
+  "ThiefCloak": {
+    "id": "ThiefCloak",
+    "kind": "neck",
+    "rarity": "rare",
+    "name": "Thief's Cloak",
+    "desc": "+10% Dodge Chance and +10% Crit Chance."
+  },
+  "FighterHelm": {
+    "id": "FighterHelm",
+    "kind": "head",
+    "rarity": "rare",
+    "name": "Fighter's Helm",
+    "desc": "+15% chance to refresh your basic attack, movement, weapon and trinket actions when you get a kill."
+  },
+  "FighterScar": {
+    "id": "FighterScar",
+    "kind": "face",
+    "rarity": "rare",
+    "name": "Fighter's Scar",
+    "desc": "+15% chance to refresh your basic attack, movement, weapon and trinket actions when you get a kill."
+  },
+  "FighterShoulderPad": {
+    "id": "FighterShoulderPad",
+    "kind": "neck",
+    "rarity": "rare",
+    "name": "Fighter's Shoulder Pad",
+    "desc": "+15% chance to refresh your basic attack, movement, weapon and trinket actions when you get a kill."
+  },
+  "ClericHat": {
+    "id": "ClericHat",
+    "kind": "head",
+    "rarity": "rare",
+    "name": "Cleric's Mitre",
+    "desc": "Your heals heal for 2 extra."
+  },
+  "ClericTears": {
+    "id": "ClericTears",
+    "kind": "face",
+    "rarity": "rare",
+    "name": "Cleric's Tears",
+    "desc": "Gain +1 [img:divineshield] each time an ally is downed."
+  },
+  "ClericRelic": {
+    "id": "ClericRelic",
+    "kind": "neck",
+    "rarity": "rare",
+    "name": "Cleric's Relic",
+    "desc": "+1 Brace.\n+15% chance to inflict Fear on units that contact or attack you."
+  },
+  "TankHelmet": {
+    "id": "TankHelmet",
+    "kind": "head",
+    "rarity": "rare",
+    "name": "Tank's Helmet",
+    "desc": "+1 Knockback damage."
+  },
+  "TankTattoo": {
+    "id": "TankTattoo",
+    "kind": "face",
+    "rarity": "rare",
+    "name": "Tank's Tattoo",
+    "desc": "All Knockback inflicted by you is increased by 2."
+  },
+  "TankPads": {
+    "id": "TankPads",
+    "kind": "neck",
+    "rarity": "rare",
+    "name": "Tank's Pads",
+    "desc": "Your knockback damage has a +10% chance to inflict Stun."
+  },
+  "HunterCap": {
+    "id": "HunterCap",
+    "kind": "head",
+    "rarity": "rare",
+    "name": "Hunter's Cap",
+    "desc": "Your familiars gain All Stats Up."
+  },
+  "HunterMonocle": {
+    "id": "HunterMonocle",
+    "kind": "face",
+    "rarity": "rare",
+    "name": "Hunter's Monocle",
+    "desc": "+2 range."
+  },
+  "HunterQuiver": {
+    "id": "HunterQuiver",
+    "kind": "neck",
+    "rarity": "rare",
+    "name": "Hunter's Quiver",
+    "desc": "Start each battle with 2 bonus attacks."
+  },
+  "MysticEye": {
+    "id": "MysticEye",
+    "kind": "face",
+    "rarity": "rare",
+    "name": "MysticEye"
+  },
+  "TinfoilHat": {
+    "id": "TinfoilHat",
+    "kind": "head",
+    "rarity": "rare",
+    "name": "TinfoilHat"
+  },
+  "DivinersCloth": {
+    "id": "DivinersCloth",
+    "kind": "neck",
+    "rarity": "rare",
+    "name": "DivinersCloth"
+  },
+  "DeathMask": {
+    "id": "DeathMask",
+    "kind": "face",
+    "rarity": "rare",
+    "name": "DeathMask"
+  },
+  "SpiderHat": {
+    "id": "SpiderHat",
+    "kind": "head",
+    "rarity": "rare",
+    "name": "SpiderHat"
+  },
+  "LeechNecklace": {
+    "id": "LeechNecklace",
+    "kind": "neck",
+    "rarity": "rare",
+    "name": "LeechNecklace"
+  },
+  "FaceBrand": {
+    "id": "FaceBrand",
+    "kind": "face",
+    "rarity": "rare",
+    "name": "FaceBrand"
+  },
+  "HeadBrand": {
+    "id": "HeadBrand",
+    "kind": "head",
+    "rarity": "rare",
+    "name": "HeadBrand"
+  },
+  "PrayerBeads": {
+    "id": "PrayerBeads",
+    "kind": "neck",
+    "rarity": "rare",
+    "name": "PrayerBeads"
+  },
+  "ScrappersMask": {
+    "id": "ScrappersMask",
+    "kind": "face",
+    "rarity": "rare",
+    "name": "ScrappersMask"
+  },
+  "ScrappersHat": {
+    "id": "ScrappersHat",
+    "kind": "head",
+    "rarity": "rare",
+    "name": "ScrappersHat"
+  },
+  "ScrappersBackpack": {
+    "id": "ScrappersBackpack",
+    "kind": "neck",
+    "rarity": "rare",
+    "name": "ScrappersBackpack"
+  },
+  "IronJaw": {
+    "id": "IronJaw",
+    "kind": "face",
+    "rarity": "rare",
+    "name": "IronJaw"
+  },
+  "FleshShroud": {
+    "id": "FleshShroud",
+    "kind": "head",
+    "rarity": "rare",
+    "name": "FleshShroud"
+  },
+  "HookedNecklace": {
+    "id": "HookedNecklace",
+    "kind": "neck",
+    "rarity": "rare",
+    "name": "HookedNecklace"
+  },
+  "GreenmanMask": {
+    "id": "GreenmanMask",
+    "kind": "face",
+    "rarity": "rare",
+    "name": "GreenmanMask"
+  },
+  "MushroomHat": {
+    "id": "MushroomHat",
+    "kind": "head",
+    "rarity": "rare",
+    "name": "MushroomHat"
+  },
+  "RingOfMushrooms": {
+    "id": "RingOfMushrooms",
+    "kind": "neck",
+    "rarity": "rare",
+    "name": "RingOfMushrooms"
+  },
+  "CatWhiskers": {
+    "id": "CatWhiskers",
+    "kind": "face",
+    "rarity": "rare",
+    "name": "CatWhiskers"
+  },
+  "CatEars": {
+    "id": "CatEars",
+    "kind": "head",
+    "rarity": "rare",
+    "name": "CatEars"
+  },
+  "CatCollar": {
+    "id": "CatCollar",
+    "kind": "neck",
+    "rarity": "rare",
+    "name": "CatCollar"
+  },
+  "ClownMakeup": {
+    "id": "ClownMakeup",
+    "kind": "face",
+    "rarity": "very_rare",
+    "name": "Clown Makeup",
+    "desc": "Triple the effects of your Head armor."
+  },
+  "CapAndBells": {
+    "id": "CapAndBells",
+    "kind": "head",
+    "rarity": "very_rare",
+    "name": "Cap and Bells",
+    "desc": "Triple the effects of your Trinket."
+  },
+  "Ruffle": {
+    "id": "Ruffle",
+    "kind": "neck",
+    "rarity": "very_rare",
+    "name": "Ruffle",
+    "desc": "Triple the effects of your Face armor."
+  },
+  "FeatheredVeil": {
+    "id": "FeatheredVeil",
+    "kind": "face",
+    "rarity": "rare",
+    "name": "Feathered Veil",
+    "desc": "Counterattack melee attackers."
+  },
+  "FeatheredCap": {
+    "id": "FeatheredCap",
+    "kind": "head",
+    "rarity": "uncommon",
+    "name": "Feathered Cap"
+  },
+  "FeatheredNecklace": {
+    "id": "FeatheredNecklace",
+    "kind": "neck",
+    "rarity": "uncommon",
+    "name": "Feathered Necklace",
+    "desc": "+15% Dodge Chance."
+  },
+  "TheMind": {
+    "id": "TheMind",
+    "kind": "head",
+    "rarity": "very_rare",
+    "name": "The Mind"
+  },
+  "TheBody": {
+    "id": "TheBody",
+    "kind": "face",
+    "rarity": "very_rare",
+    "name": "The Body"
+  },
+  "TheSoul": {
+    "id": "TheSoul",
+    "kind": "neck",
+    "rarity": "very_rare",
+    "name": "The Soul"
+  },
+  "BrickHat": {
+    "id": "BrickHat",
+    "kind": "head",
+    "rarity": "common",
+    "name": "Brick Hat",
+    "desc": "Inflict Bruise 1 on units that contact you."
+  },
+  "BrickMask": {
+    "id": "BrickMask",
+    "kind": "face",
+    "rarity": "common",
+    "name": "Brick Mask",
+    "desc": "Inflict Bruise 1 on units that contact you."
+  },
+  "BrickNecklace": {
+    "id": "BrickNecklace",
+    "kind": "neck",
+    "rarity": "common",
+    "name": "Brick Necklace",
+    "desc": "Inflict Bruise 1 on units that contact you."
+  },
+  "SlimyHat": {
+    "id": "SlimyHat",
+    "kind": "head",
+    "rarity": "uncommon",
+    "name": "Slimy Hat",
+    "desc": "+15% chance to catch projectiles. Inflict Immobile 1 on units that contact you."
+  },
+  "SlimyMask": {
+    "id": "SlimyMask",
+    "kind": "face",
+    "rarity": "uncommon",
+    "name": "Slimy Mask",
+    "desc": "+15% chance to catch projectiles. Inflict Immobile 1 on units that contact you."
+  },
+  "SlimyNecklace": {
+    "id": "SlimyNecklace",
+    "kind": "neck",
+    "rarity": "uncommon",
+    "name": "Slimy Necklace",
+    "desc": "+15% chance to catch projectiles. Inflict Immobile 1 on units that contact you."
+  },
+  "RatHat": {
+    "id": "RatHat",
+    "kind": "head",
+    "rarity": "common",
+    "name": "Rat Hat",
+    "desc": "Start battle with a Charmed Pinky."
+  },
+  "RatMask": {
+    "id": "RatMask",
+    "kind": "face",
+    "rarity": "common",
+    "name": "Rat Mask",
+    "desc": "Start battle with a Charmed Pinky."
+  },
+  "RatNecklace": {
+    "id": "RatNecklace",
+    "kind": "neck",
+    "rarity": "common",
+    "name": "Rat Necklace",
+    "desc": "Start battle with a Charmed Pinky."
+  },
+  "CarapaceHat": {
+    "id": "CarapaceHat",
+    "kind": "head",
+    "rarity": "uncommon",
+    "name": "Carapace Hat",
+    "desc": "Cleanse 1 stack of a random negative status effect when you end your turn."
+  },
+  "CarapaceMask": {
+    "id": "CarapaceMask",
+    "kind": "face",
+    "rarity": "uncommon",
+    "name": "Carapace Mask",
+    "desc": "Cleanse 1 stack of a random negative status effect when you end your turn."
+  },
+  "CarapaceNecklace": {
+    "id": "CarapaceNecklace",
+    "kind": "neck",
+    "rarity": "uncommon",
+    "name": "Carapace Necklace",
+    "desc": "Cleanse 1 stack of a random negative status effect when you end your turn."
+  },
+  "RadioactiveHat": {
+    "id": "RadioactiveHat",
+    "kind": "head",
+    "rarity": "uncommon",
+    "name": "Radioactive Hat",
+    "desc": "Adjacent units get All Stats Down."
+  },
+  "RadioactiveMask": {
+    "id": "RadioactiveMask",
+    "kind": "face",
+    "rarity": "uncommon",
+    "name": "Radioactive Mask",
+    "desc": "Adjacent units get All Stats Down."
+  },
+  "RadioactiveNecklace": {
+    "id": "RadioactiveNecklace",
+    "kind": "neck",
+    "rarity": "uncommon",
+    "name": "Radioactive Necklace",
+    "desc": "Adjacent units get All Stats Down."
+  },
+  "MoltenHat": {
+    "id": "MoltenHat",
+    "kind": "head",
+    "rarity": "uncommon",
+    "name": "Molten Hat",
+    "desc": "Start with Burn 2. Your basic attack inflicts Burn 1. Inflict Burn 1 on units that contact you."
+  },
+  "MoltenMask": {
+    "id": "MoltenMask",
+    "kind": "face",
+    "rarity": "uncommon",
+    "name": "Molten Mask",
+    "desc": "Start with Burn 2. Your basic attack inflicts Burn 1. Inflict Burn 1 on units that contact you."
+  },
+  "MoltenNecklace": {
+    "id": "MoltenNecklace",
+    "kind": "neck",
+    "rarity": "uncommon",
+    "name": "Molten Necklace",
+    "desc": "Start with Burn 2. Your basic attack inflicts Burn 1. Inflict Burn 1 on units that contact you."
+  },
+  "MothersHat": {
+    "id": "MothersHat",
+    "kind": "head",
+    "rarity": "uncommon",
+    "name": "Mother's Hat",
+    "desc": "Spawn a Charmed Tiny Tumor at the start of each battle and whenever you're downed."
+  },
+  "MothersMask": {
+    "id": "MothersMask",
+    "kind": "face",
+    "rarity": "uncommon",
+    "name": "Mother's Mask",
+    "desc": "Spawn a Charmed Tiny Tumor at the start of each battle and whenever you're downed."
+  },
+  "MothersNecklace": {
+    "id": "MothersNecklace",
+    "kind": "neck",
+    "rarity": "uncommon",
+    "name": "Mother's Necklace",
+    "desc": "Spawn a Charmed Tiny Tumor at the start of each battle and whenever you're downed."
+  },
+  "NurseHat": {
+    "id": "NurseHat",
+    "kind": "head",
+    "rarity": "common",
+    "name": "Nurse Hat",
+    "desc": "+1 Health Regen. Your heals heal for 1 extra."
+  },
+  "NurseMask": {
+    "id": "NurseMask",
+    "kind": "face",
+    "rarity": "common",
+    "name": "Nurse Mask",
+    "desc": "+1 Health Regen. Your heals heal for 1 extra."
+  },
+  "NurseNecklace": {
+    "id": "NurseNecklace",
+    "kind": "neck",
+    "rarity": "common",
+    "name": "Nurse Necklace",
+    "desc": "+1 Health Regen. Your heals heal for 1 extra."
+  },
+  "HybridHat": {
+    "id": "HybridHat",
+    "kind": "head",
+    "rarity": "common",
+    "name": "Hybrid Hat",
+    "desc": "Start with a bonus move and Bleed 1."
+  },
+  "HybridMask": {
+    "id": "HybridMask",
+    "kind": "face",
+    "rarity": "common",
+    "name": "Hybrid Mask",
+    "desc": "Start with a bonus attack and Poison 1."
+  },
+  "HybridNecklace": {
+    "id": "HybridNecklace",
+    "kind": "neck",
+    "rarity": "common",
+    "name": "Hybrid Necklace",
+    "desc": "Start with +5 Charge and Bruise 1."
+  },
+  "FattyHat": {
+    "id": "FattyHat",
+    "kind": "head",
+    "rarity": "common",
+    "name": "Fatty Hat",
+    "desc": "Brace 1. Your basic attack has +1 Knockback."
+  },
+  "FattyMask": {
+    "id": "FattyMask",
+    "kind": "face",
+    "rarity": "common",
+    "name": "Fatty Mask",
+    "desc": "Brace 1. Your basic attack has +1 Knockback."
+  },
+  "FattyNecklace": {
+    "id": "FattyNecklace",
+    "kind": "neck",
+    "rarity": "common",
+    "name": "Fatty Necklace",
+    "desc": "Brace 1. Your basic attack has +1 Knockback."
+  },
+  "MedicalHat": {
+    "id": "MedicalHat",
+    "kind": "head",
+    "rarity": "uncommon",
+    "name": "Medical Hat",
+    "desc": "All of your stats are increased by 1 for each disorder you have."
+  },
+  "MedicalMask": {
+    "id": "MedicalMask",
+    "kind": "face",
+    "rarity": "uncommon",
+    "name": "Medical Mask",
+    "desc": "All of your stats are increased by 1 for each disorder you have."
+  },
+  "MedicalNecklace": {
+    "id": "MedicalNecklace",
+    "kind": "neck",
+    "rarity": "uncommon",
+    "name": "Medical Necklace",
+    "desc": "All of your stats are increased by 1 for each disorder you have."
+  },
+  "OcularChip": {
+    "id": "OcularChip",
+    "kind": "head",
+    "rarity": "uncommon",
+    "name": "Ocular Chip",
+    "desc": "Your spells cost -1 mana."
+  },
+  "CerebralChip": {
+    "id": "CerebralChip",
+    "kind": "face",
+    "rarity": "uncommon",
+    "name": "Cerebral Chip",
+    "desc": "Your spells cost -1 mana."
+  },
+  "SpinalChip": {
+    "id": "SpinalChip",
+    "kind": "neck",
+    "rarity": "uncommon",
+    "name": "Spinal Chip",
+    "desc": "Your spells cost -1 mana."
+  },
+  "DemonicHat": {
+    "id": "DemonicHat",
+    "kind": "head",
+    "rarity": "uncommon",
+    "name": "Demonic Hat",
+    "desc": "+3 Thorns. Trample.\nYou can no longer heal."
+  },
+  "DemonicMask": {
+    "id": "DemonicMask",
+    "kind": "face",
+    "rarity": "uncommon",
+    "name": "Demonic Mask",
+    "desc": "+3 Bleed Thorns.\nTrample. Bleed 3."
+  },
+  "DemonicNecklace": {
+    "id": "DemonicNecklace",
+    "kind": "neck",
+    "rarity": "uncommon",
+    "name": "Demonic Necklace",
+    "desc": "Bruise 1. When you take damage, gain +2 Damage."
+  },
+  "FrozenHat": {
+    "id": "FrozenHat",
+    "kind": "head",
+    "rarity": "common",
+    "name": "Frozen Hat",
+    "desc": "Your basic attack inflicts Slow and has a +10% chance to Freeze units. Units that contact you gain Slow and have a 10% chance to become Frozen."
+  },
+  "FrozenMask": {
+    "id": "FrozenMask",
+    "kind": "face",
+    "rarity": "common",
+    "name": "Frozen Mask",
+    "desc": "Your basic attack inflicts Slow and has a +10% chance to Freeze units. Units that contact you gain Slow and have a 10% chance to become Frozen."
+  },
+  "FrozenNecklace": {
+    "id": "FrozenNecklace",
+    "kind": "neck",
+    "rarity": "common",
+    "name": "Frozen Necklace",
+    "desc": "Your basic attack inflicts Slow and has a +10% chance to Freeze units. Units that contact you gain Slow and have a 10% chance to become Frozen."
+  },
+  "SaberToothedHat": {
+    "id": "SaberToothedHat",
+    "kind": "head",
+    "rarity": "common",
+    "name": "Sabertooth Hat",
+    "desc": "+2 Thorns. Ice immunity."
+  },
+  "CavemanBeard": {
+    "id": "CavemanBeard",
+    "kind": "face",
+    "rarity": "common",
+    "name": "Wooly Beard",
+    "desc": "Brace 2. Ice immunity."
+  },
+  "SaberToothedPelt": {
+    "id": "SaberToothedPelt",
+    "kind": "neck",
+    "rarity": "common",
+    "name": "Sabertooth Pelt",
+    "desc": "+2 Health Regen. Ice immunity."
+  },
+  "RuneofJera": {
+    "id": "RuneofJera",
+    "kind": "head",
+    "rarity": "rare",
+    "name": "Rune of Jera",
+    "desc": "Your trinket effects are doubled."
+  },
+  "RuneofHagalaz": {
+    "id": "RuneofHagalaz",
+    "kind": "face",
+    "rarity": "rare",
+    "name": "Rune of Hagalaz",
+    "desc": "Your Weapons hit twice."
+  },
+  "RuneofPerthro": {
+    "id": "RuneofPerthro",
+    "kind": "neck",
+    "rarity": "rare",
+    "name": "Rune of Perthro",
+    "desc": "This item counts for all item sets."
+  },
+  "CavemanWig": {
+    "id": "CavemanWig",
+    "kind": "head",
+    "rarity": "uncommon",
+    "name": "Caveman Wig",
+    "desc": "Spawn 1-3 Charmed Lice at the start of each battle."
+  },
+  "CavemanEyebrows": {
+    "id": "CavemanEyebrows",
+    "kind": "face",
+    "rarity": "uncommon",
+    "name": "Caveman Eyebrows",
+    "desc": "Your weapons deal double damage."
+  },
+  "CavemanNecklace": {
+    "id": "CavemanNecklace",
+    "kind": "neck",
+    "rarity": "uncommon",
+    "name": "Caveman Necklace",
+    "desc": "+33% crit damage."
+  },
+  "DinoHat": {
+    "id": "DinoHat",
+    "kind": "head",
+    "rarity": "uncommon",
+    "name": "Dino Hat",
+    "desc": "Allies gain +1 [img:str] at the start of each battle."
+  },
+  "DinoMask": {
+    "id": "DinoMask",
+    "kind": "face",
+    "rarity": "uncommon",
+    "name": "Dino Mask",
+    "desc": "Allies gain +1 [img:con] at the start of each battle."
+  },
+  "DinoNecklace": {
+    "id": "DinoNecklace",
+    "kind": "neck",
+    "rarity": "uncommon",
+    "name": "Dino Necklace",
+    "desc": "Allies gain +1 [img:spd] at the start of each battle."
+  },
+  "BigRockHat": {
+    "id": "BigRockHat",
+    "kind": "head",
+    "rarity": "uncommon",
+    "name": "Big Rock Hat",
+    "desc": "Brace 2."
+  },
+  "BigRockMask": {
+    "id": "BigRockMask",
+    "kind": "face",
+    "rarity": "uncommon",
+    "name": "Big Rock Mask",
+    "desc": "Brace 2."
+  },
+  "BigRockNecklace": {
+    "id": "BigRockNecklace",
+    "kind": "neck",
+    "rarity": "uncommon",
+    "name": "Big Rock Necklace",
+    "desc": "Brace 2."
+  },
+  "PhoenixHat": {
+    "id": "PhoenixHat",
+    "kind": "head",
+    "rarity": "uncommon",
+    "name": "Phoenix Hat",
+    "desc": "+10% Dodge Chance. Each time you end movement, gain +1 [img:spd] and Charge 2."
+  },
+  "PhoenixMask": {
+    "id": "PhoenixMask",
+    "kind": "face",
+    "rarity": "uncommon",
+    "name": "Phoenix Mask",
+    "desc": "+10% Dodge Chance. Each time you end movement, gain +1 [img:spd] and Charge 2."
+  },
+  "PhoenixNecklace": {
+    "id": "PhoenixNecklace",
+    "kind": "neck",
+    "rarity": "uncommon",
+    "name": "Phoenix Necklace",
+    "desc": "+10% Dodge Chance. Each time you end movement, gain +1 [img:spd] and Charge 2."
+  },
+  "AncestorsSkull": {
+    "id": "AncestorsSkull",
+    "kind": "head",
+    "rarity": "rare",
+    "name": "Ancestor's Skull",
+    "desc": "- {str_aux_passive_name} -\r\n{str_aux_passive_desc}"
+  },
+  "AncestorsJaw": {
+    "id": "AncestorsJaw",
+    "kind": "face",
+    "rarity": "rare",
+    "name": "Ancestor's Jaw",
+    "desc": "- {str_aux_passive_name} -\r\n{str_aux_passive_desc}"
+  },
+  "AncestorsBones": {
+    "id": "AncestorsBones",
+    "kind": "neck",
+    "rarity": "rare",
+    "name": "Ancestor's Bones",
+    "desc": "- {str_aux_passive_name} -\r\n{str_aux_passive_desc}"
+  },
+  "CopycatHat": {
+    "id": "CopycatHat",
+    "kind": "head",
+    "rarity": "rare",
+    "name": "Copycat Hat",
+    "desc": "Copies your trinket's passive effects."
+  },
+  "CopycatMask": {
+    "id": "CopycatMask",
+    "kind": "face",
+    "rarity": "rare",
+    "name": "Copycat Mask",
+    "desc": "Copies your trinket's passive effects."
+  },
+  "CopycatScarf": {
+    "id": "CopycatScarf",
+    "kind": "neck",
+    "rarity": "rare",
+    "name": "Copycat Scarf",
+    "desc": "Copies your trinket's passive effects."
+  },
+  "PersuasionDevice": {
+    "id": "PersuasionDevice",
+    "kind": "weapon",
+    "rarity": "sidequest",
+    "name": "Persuasion Device",
+    "desc": "Side Quest Item. Use to permanently charm a non-boss enemy. It joins your party.\n[s:.7](Usable once per battle.)[/s]"
+  },
+  "PersuasionDevice_Fixed": {
+    "id": "PersuasionDevice_Fixed",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "PersuasionDevice_Fixed",
+    "desc": "Use to permanently charm a non-boss enemy. It joins your party.\n[s:.7](Usable once per battle.)[/s]"
+  },
+  "ChaosDevice": {
+    "id": "ChaosDevice",
+    "kind": "head",
+    "rarity": "sidequest",
+    "name": "Chaos Device",
+    "desc": "Side Quest Item. When any cat levels up they are offered abilities from all classes."
+  },
+  "ChaosDevice_Fixed": {
+    "id": "ChaosDevice_Fixed",
+    "kind": "head",
+    "rarity": "rare",
+    "name": "Chaos Controller",
+    "desc": "Abilities from all classes are offered when you level up. You can reroll your levelup options thrice."
+  },
+  "MagicMirror": {
+    "id": "MagicMirror",
+    "kind": "face",
+    "rarity": "sidequest",
+    "name": "Magic Mirror (Broken)",
+    "desc": "Side Quest Item. Your team has very bad luck during events. +2 Thorns."
+  },
+  "MagicMirror_Fixed": {
+    "id": "MagicMirror_Fixed",
+    "kind": "face",
+    "rarity": "rare",
+    "name": "Magic Mirror",
+    "desc": "+20% chance to reflect projectiles. Spawn a friendly Spookie when downed."
+  },
+  "MeStone": {
+    "id": "MeStone",
+    "kind": "trinket",
+    "rarity": "sidequest",
+    "name": "Me Stone",
+    "desc": "Side Quest Item. This cat always levels up, and can level up even if it was downed."
+  },
+  "MeStone_Fixed": {
+    "id": "MeStone_Fixed",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Suck Stone",
+    "desc": "At the end of your turn, drain up to 5 mana from each of your allies."
+  },
+  "AngryFace": {
+    "id": "AngryFace",
+    "kind": "face",
+    "rarity": "sidequest",
+    "name": "Angry Face",
+    "desc": "Side Quest Item. Equipped cat is an enemy, must be downed to win the battle, and can still receive level ups. Can't be equipped to a Collarless cat."
+  },
+  "AngryFace_Fixed": {
+    "id": "AngryFace_Fixed",
+    "kind": "face",
+    "rarity": "rare",
+    "name": "Happy Face",
+    "desc": "Spawn near enemies and take an AI controlled bonus turn at the start of every battle."
+  },
+  "FartFace": {
+    "id": "FartFace",
+    "kind": "face",
+    "rarity": "sidequest",
+    "name": "Fart Face",
+    "desc": "Side Quest Item. Apply Poison 1 to everything at the start of the battle."
+  },
+  "FartFace_Fixed": {
+    "id": "FartFace_Fixed",
+    "kind": "face",
+    "rarity": "rare",
+    "name": "Robo Fart Face",
+    "desc": "Apply Poison 1 to all enemies at the start of the battle."
+  },
+  "SpiderInjector": {
+    "id": "SpiderInjector",
+    "kind": "head",
+    "rarity": "sidequest",
+    "name": "Spider Injector",
+    "desc": "Side Quest Item. Apply Infested 4 to all allies at the start of each battle."
+  },
+  "SpiderInjector_Fixed": {
+    "id": "SpiderInjector_Fixed",
+    "kind": "head",
+    "rarity": "rare",
+    "name": "Spider Baby",
+    "desc": "Apply Infested 1 to all enemies at the start of each battle."
+  },
+  "PartyDetonator": {
+    "id": "PartyDetonator",
+    "kind": "weapon",
+    "rarity": "sidequest",
+    "name": "Party Detonator",
+    "desc": "Side Quest Item. All units explode when they die.\nUse: Explode a random other unit, once per battle."
+  },
+  "PartyDetonator_Fixed": {
+    "id": "PartyDetonator_Fixed",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Party Detonator (Fixed)",
+    "desc": "Use: Explode a random unit within a target radius.\n[s:.7](Usable once per battle.)[/s]"
+  },
+  "AirHorn": {
+    "id": "AirHorn",
+    "kind": "weapon",
+    "rarity": "sidequest",
+    "name": "Air Horn",
+    "desc": "Side Quest Item. You are Ambushed every battle. Use to make some noise!"
+  },
+  "AirHorn_Fixed": {
+    "id": "AirHorn_Fixed",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Amplified Air Horn",
+    "desc": "Use: Apply Madness to a unit within 5 tiles in your line of sight.\n[s:.7](Usable once per battle.)[/s]"
+  },
+  "TheLoner": {
+    "id": "TheLoner",
+    "kind": "weapon",
+    "rarity": "sidequest",
+    "name": "The Loner",
+    "desc": "Side Quest Item. Kill all of your allies at the start of each battle."
+  },
+  "TheLoner_Fixed": {
+    "id": "TheLoner_Fixed",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "The Loner Mark 2",
+    "desc": "Use: Deals 5 damage to anything in your line of sight.\nRELOAD: Any ally dies."
+  },
+  "GlassCannon": {
+    "id": "GlassCannon",
+    "kind": "weapon",
+    "rarity": "sidequest",
+    "name": "Glass Cannon",
+    "desc": "Side Quest Item. Fill the map with glass at the start of each battle.\nUse: Shoot a glass ball."
+  },
+  "GlassCannon_Fixed": {
+    "id": "GlassCannon_Fixed",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Glass Cannon (Fixed)",
+    "desc": "Use: Shoot a glass ball anywhere."
+  },
+  "PrincessHat": {
+    "id": "PrincessHat",
+    "kind": "head",
+    "rarity": "sidequest",
+    "name": "Princess Hat",
+    "desc": "Side Quest Item. Fragile. Equipped cat cannot use any actions except Move."
+  },
+  "PrincessHat_Fixed": {
+    "id": "PrincessHat_Fixed",
+    "kind": "head",
+    "rarity": "rare",
+    "name": "Used Princess Hat"
+  },
+  "HardPill": {
+    "id": "HardPill",
+    "kind": "trinket",
+    "rarity": "sidequest",
+    "name": "Unidentified Pills",
+    "desc": "Side Quest Item. The adventure is harder!"
+  },
+  "HardPill_Fixed": {
+    "id": "HardPill_Fixed",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Truck Stop Pills",
+    "desc": "+3 Brace. You count as a rock."
+  },
+  "BubbleBoy": {
+    "id": "BubbleBoy",
+    "kind": "neck",
+    "rarity": "sidequest",
+    "name": "Bubble Boy",
+    "desc": "Side Quest Item. All units rebound with Knockback 5 on contact."
+  },
+  "BubbleBoy_Fixed": {
+    "id": "BubbleBoy_Fixed",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Bubbles",
+    "desc": "Use: Throw a bubble with Wind and Water Element that inflicts Confusion."
+  },
+  "Redacted": {
+    "id": "Redacted",
+    "kind": "face",
+    "rarity": "sidequest",
+    "name": "Redacted",
+    "desc": "Side Quest Item. Health bars and status icons are hidden in battle."
+  },
+  "Redacted_Fixed": {
+    "id": "Redacted_Fixed",
+    "kind": "face",
+    "rarity": "rare",
+    "name": "Paper Bag",
+    "desc": "Your [img:cha] is equal to your highest other stat."
+  },
+  "Stopwatch": {
+    "id": "Stopwatch",
+    "kind": "trinket",
+    "rarity": "sidequest",
+    "name": "Stopwatch",
+    "desc": "Side Quest Item. You have 5 seconds to make decisions in battle, otherwise cats will act randomly."
+  },
+  "Stopwatch_Fixed": {
+    "id": "Stopwatch_Fixed",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Stopwatch (Fixed)",
+    "desc": "Use: You or a target unit takes an AI controlled bonus turn.\n[s:.7](Usable once per battle.)[/s]"
+  },
+  "StorageLocker": {
+    "id": "StorageLocker",
+    "kind": "neck",
+    "rarity": "sidequest",
+    "name": "Storage Locker",
+    "desc": "Side Quest Item. Your team's active ability level ups offer rare items instead."
+  },
+  "StorageLocker_Fixed": {
+    "id": "StorageLocker_Fixed",
+    "kind": "neck",
+    "rarity": "rare",
+    "name": "Armory Key",
+    "desc": "Find an extra item after each battle."
+  },
+  "MysteriousDice": {
+    "id": "MysteriousDice",
+    "kind": "trinket",
+    "rarity": "sidequest",
+    "name": "Mysterious Dice",
+    "desc": "Side Quest Item. Your team's level up options are complete chaos!"
+  },
+  "MysteriousDice_Fixed": {
+    "id": "MysteriousDice_Fixed",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "The D6",
+    "desc": "Use: Permanently upgrade one of your active abilities at random."
+  },
+  "ExperimentalTreatment": {
+    "id": "ExperimentalTreatment",
+    "kind": "face",
+    "rarity": "sidequest",
+    "name": "Experimental Treatment",
+    "desc": "Side Quest Item. Your team's passive ability level ups offer disorders instead."
+  },
+  "ExperimentalTreatment_Fixed": {
+    "id": "ExperimentalTreatment_Fixed",
+    "kind": "face",
+    "rarity": "rare",
+    "name": "Disorder Decoder",
+    "desc": "Your spells cost 1 less for each disorder you have."
+  },
+  "UltraVision3000": {
+    "id": "UltraVision3000",
+    "kind": "face",
+    "rarity": "sidequest",
+    "name": "Ultra Vision 3000",
+    "desc": "Side Quest Item. Events are harder. All normal events trigger 2 extra events."
+  },
+  "UltraVision3000_Fixed": {
+    "id": "UltraVision3000_Fixed",
+    "kind": "face",
+    "rarity": "rare",
+    "name": "Ultra Vision 3000 v1.1",
+    "desc": "Your basic attack inflicts Marked."
+  },
+  "NuclearKnife": {
+    "id": "NuclearKnife",
+    "kind": "weapon",
+    "rarity": "sidequest",
+    "name": "Nuclear Knife",
+    "desc": "Side Quest Item. Use: Melee Attack with damage = charges ({aux}). Permanently gains 1 charge at the end of each turn.\nIf charges go above 10, this weapon explodes.\nLoses half of its charges when it gets a kill."
+  },
+  "NuclearKnife_Glowing": {
+    "id": "NuclearKnife_Glowing",
+    "kind": "weapon",
+    "rarity": "sidequest",
+    "name": "Nuclear Knife (Glowing)",
+    "desc": "Side Quest Item. It's about to explode! Get a kill with this now to quench it."
+  },
+  "NuclearKnife_Fixed": {
+    "id": "NuclearKnife_Fixed",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Nuclear Gun",
+    "desc": "Use: Deals 40 damage to a target and 20 damage to EVERYTHING ELSE. 20% chance to break on use."
+  },
+  "FoodMedium": {
+    "id": "FoodMedium",
+    "kind": "trinket",
+    "rarity": "consumable_common",
+    "name": "A Snack",
+    "desc": "Use: Heal {aux} HP."
+  },
+  "FoodBig": {
+    "id": "FoodBig",
+    "kind": "trinket",
+    "rarity": "consumable_common",
+    "name": "Cat Food",
+    "desc": "Use: Heal {aux} HP."
+  },
+  "Chicken": {
+    "id": "Chicken",
+    "kind": "trinket",
+    "rarity": "consumable_rare",
+    "name": "Rotisserie Chicken",
+    "desc": "Use: Heal {aux} HP."
+  },
+  "Catnip": {
+    "id": "Catnip",
+    "kind": "trinket",
+    "rarity": "consumable_common",
+    "name": "Small Catnip Baggy",
+    "desc": "Use: Gain {aux} mana."
+  },
+  "CatnipBig": {
+    "id": "CatnipBig",
+    "kind": "trinket",
+    "rarity": "consumable_common",
+    "name": "Large Catnip Baggy",
+    "desc": "Use: Gain {aux} mana."
+  },
+  "RoidRage": {
+    "id": "RoidRage",
+    "kind": "trinket",
+    "rarity": "consumable_common",
+    "name": "Roid Rage",
+    "desc": "Use: Gain +{aux} [img:str] for the rest of the battle."
+  },
+  "SpeedBall": {
+    "id": "SpeedBall",
+    "kind": "trinket",
+    "rarity": "consumable_common",
+    "name": "Speedball",
+    "desc": "Use: Gain +{aux} [img:dex] for the rest of the battle."
+  },
+  "BrainCandy": {
+    "id": "BrainCandy",
+    "kind": "trinket",
+    "rarity": "consumable_common",
+    "name": "Brain Candy",
+    "desc": "Use: Gain +{aux} [img:int] for the rest of the battle."
+  },
+  "DiscoBiscuit": {
+    "id": "DiscoBiscuit",
+    "kind": "trinket",
+    "rarity": "consumable_common",
+    "name": "Disco Biscuit",
+    "desc": "Use: Gain +{aux} [img:cha] for the rest of the battle and gain 6 mana."
+  },
+  "Clover": {
+    "id": "Clover",
+    "kind": "trinket",
+    "rarity": "consumable_common",
+    "name": "Clover",
+    "desc": "Use: Gain +{aux} [img:lck] for the rest of the battle."
+  },
+  "Upper": {
+    "id": "Upper",
+    "kind": "trinket",
+    "rarity": "consumable_common",
+    "name": "Upper",
+    "desc": "Use: Gain +{aux} [img:spd] for the rest of the battle."
+  },
+  "Percs": {
+    "id": "Percs",
+    "kind": "trinket",
+    "rarity": "consumable_common",
+    "name": "Percs",
+    "desc": "Use: Gain +{aux} [img:shield]."
+  },
+  "Antidote": {
+    "id": "Antidote",
+    "kind": "trinket",
+    "rarity": "consumable_common",
+    "name": "Antidote",
+    "desc": "Use: Cleanse all debuffs.\nThis can be used on adjacent units."
+  },
+  "Kidney": {
+    "id": "Kidney",
+    "kind": "trinket",
+    "name": "Kidney",
+    "desc": "Use: Use to heal 10, gain +2 Health Regen, and cleanse debuffs."
+  },
+  "Enema": {
+    "id": "Enema",
+    "kind": "trinket",
+    "rarity": "consumable_uncommon",
+    "name": "Enema",
+    "desc": "Use: Cleanse all buffs and debuffs."
+  },
+  "SitrusBerry": {
+    "id": "SitrusBerry",
+    "kind": "trinket",
+    "rarity": "consumable_uncommon",
+    "name": "Citrus Berry",
+    "desc": "Use: Heal 25% HP.\nAutomatically eaten if your HP drops below 50%."
+  },
+  "SmellingSalts": {
+    "id": "SmellingSalts",
+    "kind": "trinket",
+    "rarity": "consumable_uncommon",
+    "name": "Smelling Salts",
+    "desc": "Use: Revive an adjacent unit at 1 HP.\nAutomatically used on yourself at the end of the round if you're downed."
+  },
+  "Lard": {
+    "id": "Lard",
+    "kind": "trinket",
+    "rarity": "consumable_rare",
+    "name": "Big Bucket of Lard",
+    "desc": "Use: Heal yourself and all adjacent units to full HP."
+  },
+  "KiloOfCatnip": {
+    "id": "KiloOfCatnip",
+    "kind": "trinket",
+    "rarity": "consumable_rare",
+    "name": "Kilo of Catnip",
+    "desc": "Use: Restore all your mana."
+  },
+  "BagOfGrass": {
+    "id": "BagOfGrass",
+    "kind": "trinket",
+    "rarity": "consumable_rare",
+    "name": "Bag of Grass",
+    "desc": "Use: Gain {aux} mana."
+  },
+  "ViperBottle": {
+    "id": "ViperBottle",
+    "kind": "trinket",
+    "rarity": "consumable_rare",
+    "name": "Viper Bottle",
+    "desc": "Use: Take 5 damage and gain +1 to a random stat permanently.\nMay have side effects..."
+  },
+  "SuperBandage": {
+    "id": "SuperBandage",
+    "kind": "trinket",
+    "rarity": "consumable_rare",
+    "name": "Super Bandage",
+    "desc": "Use: Cure a random injury."
+  },
+  "RottenMeat": {
+    "id": "RottenMeat",
+    "kind": "trinket",
+    "rarity": "consumable_rare",
+    "name": "Rotten Meat",
+    "desc": "Use: Gain Poison 1, then your basic attack becomes Puke Shot.\n[s:.7](Usable once per battle.)[/s]"
+  },
+  "Mushrooms": {
+    "id": "Mushrooms",
+    "kind": "trinket",
+    "rarity": "consumable_uncommon",
+    "name": "Mushrooms",
+    "desc": "Use: Gain All Stats Up 2."
+  },
+  "Star": {
+    "id": "Star",
+    "kind": "trinket",
+    "rarity": "consumable_very_rare",
+    "name": "Star",
+    "desc": "Use: Gain Invincibility, +10 Thorns, and Trample until the start of your next turn. Refresh your movement action."
+  },
+  "Bullseye": {
+    "id": "Bullseye",
+    "kind": "trinket",
+    "rarity": "consumable_uncommon",
+    "name": "Bullseye",
+    "desc": "Use: All damage you deal until the end of the turn is critical and can't miss."
+  },
+  "StemCells": {
+    "id": "StemCells",
+    "kind": "trinket",
+    "rarity": "consumable_uncommon",
+    "name": "Stem Cells",
+    "desc": "Use: Gain +3 Health Regen until the end of the battle."
+  },
+  "Eyeball": {
+    "id": "Eyeball",
+    "kind": "trinket",
+    "rarity": "consumable_common",
+    "name": "Eyeball",
+    "desc": "Use: Heal {aux} HP."
+  },
+  "WitchsEye": {
+    "id": "WitchsEye",
+    "kind": "trinket",
+    "rarity": "consumable_uncommon",
+    "name": "Witch's Eye",
+    "desc": "Use: Gain Backflip 2."
+  },
+  "ForbiddenFruit": {
+    "id": "ForbiddenFruit",
+    "kind": "trinket",
+    "rarity": "consumable_very_rare",
+    "name": "Forbidden Fruit",
+    "desc": "Use: Heal to full, restore all your mana, and gain All Stats Up 2.\nThere will be permanent consequences for eating this fruit..."
+  },
+  "PCP": {
+    "id": "PCP",
+    "kind": "trinket",
+    "rarity": "consumable_uncommon",
+    "name": "PCP",
+    "desc": "Use: Gain +5 Damage and Madness 3.\nThis can be used on adjacent units."
+  },
+  "WishBone": {
+    "id": "WishBone",
+    "kind": "trinket",
+    "rarity": "consumable_very_rare",
+    "name": "Wish Bone",
+    "desc": "Use: Gain +99 [img:lck] until the end of the turn."
+  },
+  "MetalCoat": {
+    "id": "MetalCoat",
+    "kind": "trinket",
+    "rarity": "very_rare",
+    "name": "Metal Coat",
+    "desc": "Use: Make your weapon unbreakable for the rest of the adventure."
+  },
+  "ShoePolish": {
+    "id": "ShoePolish",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Shoe Polish",
+    "desc": "Use: Fully repair your weapon. Refresh your weapon action."
+  },
+  "Pearl": {
+    "id": "Pearl",
+    "kind": "trinket",
+    "name": "Pearl",
+    "desc": "Use: Gain 10-30 coins."
+  },
+  "BigToe": {
+    "id": "BigToe",
+    "kind": "trinket",
+    "name": "Big Toe",
+    "desc": "Use: Heal 6, gain +1 Health Regen and cleanse your debuffs."
+  },
+  "RaptorEgg": {
+    "id": "RaptorEgg",
+    "kind": "trinket",
+    "name": "Raptor Egg",
+    "desc": "Use: Heal to full.\n10% chance at the end of each turn to break and summon a Charmed Raptor Kitten."
+  },
+  "FighterSeal": {
+    "id": "FighterSeal",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Fighter Seal",
+    "desc": "Use: Permanently turn into a Fighter."
+  },
+  "HunterSeal": {
+    "id": "HunterSeal",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Hunter Seal",
+    "desc": "Use: Permanently turn into a Hunter."
+  },
+  "TankSeal": {
+    "id": "TankSeal",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Tank Seal",
+    "desc": "Use: Permanently turn into a Tank."
+  },
+  "ClericSeal": {
+    "id": "ClericSeal",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Cleric Seal",
+    "desc": "Use: Permanently turn into a Cleric."
+  },
+  "ThiefSeal": {
+    "id": "ThiefSeal",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Thief Seal",
+    "desc": "Use: Permanently turn into a Thief."
+  },
+  "MageSeal": {
+    "id": "MageSeal",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Mage Seal",
+    "desc": "Use: Permanently turn into a Mage."
+  },
+  "ColorlessSeal": {
+    "id": "ColorlessSeal",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Void Seal",
+    "desc": "Use: Permanently turn into a Collarless cat."
+  },
+  "PsychicSeal": {
+    "id": "PsychicSeal",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Psychic Seal",
+    "desc": "Use: Permanently turn into a Psychic."
+  },
+  "JesterSeal": {
+    "id": "JesterSeal",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Jester Seal",
+    "desc": "Use: Permanently turn into a Jester."
+  },
+  "TinkererSeal": {
+    "id": "TinkererSeal",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Tinkerer Seal",
+    "desc": "Use: Permanently turn into a Tinkerer."
+  },
+  "ButcherSeal": {
+    "id": "ButcherSeal",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Butcher Seal",
+    "desc": "Use: Permanently turn into a Butcher."
+  },
+  "DruidSeal": {
+    "id": "DruidSeal",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Druid Seal",
+    "desc": "Use: Permanently turn into a Druid."
+  },
+  "MonkSeal": {
+    "id": "MonkSeal",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Monk Seal",
+    "desc": "Use: Permanently turn into a Monk."
+  },
+  "NecromancerSeal": {
+    "id": "NecromancerSeal",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Necromancer Seal",
+    "desc": "Use: Permanently turn into a Necromancer."
+  },
+  "Turkey": {
+    "id": "Turkey",
+    "kind": "trinket",
+    "rarity": "consumable_rare",
+    "name": "Whole Turkey",
+    "desc": "Use: Heal {aux} HP."
+  },
+  "DeadHummingbird": {
+    "id": "DeadHummingbird",
+    "kind": "trinket",
+    "rarity": "consumable_very_rare",
+    "name": "Dead Hummingbird",
+    "desc": "Use: Gain +20 [img:spd] and +50% Dodge Chance."
+  },
+  "UnstableDNA": {
+    "id": "UnstableDNA",
+    "kind": "trinket",
+    "rarity": "consumable_rare",
+    "name": "Unstable DNA",
+    "desc": "Use: Gain 6 random stat ups and 3 random stat downs, then gain 3 Mutations at the end of combat."
+  },
+  "RedPill": {
+    "id": "RedPill",
+    "kind": "trinket",
+    "rarity": "consumable_rare",
+    "name": "Red Pill",
+    "desc": "Use: 50% chance to get Chungus (+4 [img:con]), otherwise take 8 damage."
+  },
+  "ForbiddenPill": {
+    "id": "ForbiddenPill",
+    "kind": "trinket",
+    "rarity": "consumable_very_rare",
+    "name": "Forbidden Pill",
+    "desc": "Use: Temporarily upgrade all of your active abilities.\nThere will be permanent consequences for taking this pill."
+  },
+  "MissingNipple": {
+    "id": "MissingNipple",
+    "kind": "trinket",
+    "rarity": "consumable_rare",
+    "name": "Missing Nipple",
+    "desc": "Use: Give an adjacent unit +1 Health Regen."
+  },
+  "Experimentx": {
+    "id": "Experimentx",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Experiment X",
+    "desc": "Use: ???"
+  },
+  "StevensConsumable1": {
+    "id": "StevensConsumable1",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Steven",
+    "desc": "Use: Permanently upgrade a random spell or passive ability."
+  },
+  "StevensConsumable2": {
+    "id": "StevensConsumable2",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Steven",
+    "desc": "Use: Spawn a controllable copy of yourself."
+  },
+  "JokerCard": {
+    "id": "JokerCard",
+    "kind": "trinket",
+    "rarity": "very_rare",
+    "name": "Joker Card",
+    "desc": "Use: Duplicate one of your equipped items."
+  },
+  "Gizzard": {
+    "id": "Gizzard",
+    "kind": "trinket",
+    "rarity": "consumable_rare",
+    "name": "Gizzard",
+    "desc": "Use: Enter Mockingbird Form. Gain a random bird mutation at the end of the battle."
+  },
+  "AlluringDoodie": {
+    "id": "AlluringDoodie",
+    "kind": "head",
+    "name": "Alluring Doodie",
+    "desc": "10% chance to eat poop and gain Poison 1 each turn."
+  },
+  "ChildSkull": {
+    "id": "ChildSkull",
+    "kind": "head",
+    "name": "Child's Skull",
+    "desc": "Your basic attack is a weak tear shot. You can use your basic attack an extra time each turn."
+  },
+  "PawShards": {
+    "id": "PawShards",
+    "kind": "weapon",
+    "name": "Paw Shards",
+    "desc": "Your basic attack inflicts Bleed 1. Gain +1 Bleed each time you use your basic attack."
+  },
+  "Splinters": {
+    "id": "Splinters",
+    "kind": "weapon",
+    "name": "Splinters"
+  },
+  "FaceShards": {
+    "id": "FaceShards",
+    "kind": "face",
+    "name": "Face Shards",
+    "desc": "+2 Thorns.\r\nGain +1 Bleed each time you take damage."
+  },
+  "BadSplinters": {
+    "id": "BadSplinters",
+    "kind": "neck",
+    "name": "Bad Splinters",
+    "desc": "+2 Thorns."
+  },
+  "CursedHairball": {
+    "id": "CursedHairball",
+    "kind": "trinket",
+    "name": "Cursed Hairball",
+    "desc": "Your basic attack inflicts Poison 2. Start each battle with Poison 3."
+  },
+  "MarkOfTheBeast": {
+    "id": "MarkOfTheBeast",
+    "kind": "face",
+    "name": "Mark of the Beast",
+    "desc": "+6 Damage. Holy Element heals damage you instead.\nWhen downed, your body is destroyed."
+  },
+  "PutridPile": {
+    "id": "PutridPile",
+    "kind": "trinket",
+    "rarity": "uncommon",
+    "name": "Putrid Pile",
+    "desc": "Adjacent units move away from you at the end of their turns.\nYour basic attack inflicts Poison."
+  },
+  "VibratingMeteorite": {
+    "id": "VibratingMeteorite",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Vibrating Meteorite",
+    "desc": "This item loses 1 of each stat at the end of each battle, permanently.\n[s:.7](This can go negative.)[/s]"
+  },
+  "CursedRock": {
+    "id": "CursedRock",
+    "kind": "trinket",
+    "name": "Cursed Rock"
+  },
+  "Clam": {
+    "id": "Clam",
+    "kind": "face",
+    "name": "Clam",
+    "desc": "5% chance to break when you take damage.\nWhen this breaks, find a Pearl."
+  },
+  "BirdPoopHat": {
+    "id": "BirdPoopHat",
+    "kind": "head",
+    "name": "Bird Poop",
+    "desc": "+50% chance for an extra bird to spawn at the start of each battle."
+  },
+  "Callus": {
+    "id": "Callus",
+    "kind": "face",
+    "rarity": "uncommon",
+    "name": "Callus",
+    "desc": "Permanently gain +2 [img:shield] each time you end a battle with 1 or more [img:shield]."
+  },
+  "SlagTight": {
+    "id": "SlagTight",
+    "kind": "head",
+    "name": "Slag Tight",
+    "desc": "Brace 1. Your basic attack inflicts Bruise 1."
+  },
+  "MetalRod": {
+    "id": "MetalRod",
+    "kind": "head",
+    "name": "Metal Rod",
+    "desc": "Use: A melee attack with Knockback 1 and a 10% chance to inflict Stun."
+  },
+  "BigToeCursed": {
+    "id": "BigToeCursed",
+    "kind": "trinket",
+    "name": "Big Toe",
+    "desc": "After your 3rd turn, spawn a Charmed Spookie with Madness on a random tile."
+  },
+  "GoldenIdol": {
+    "id": "GoldenIdol",
+    "kind": "trinket",
+    "name": "Golden Idol",
+    "desc": "Becomes {aux} coins when you return home."
+  },
+  "Mustache": {
+    "id": "Mustache",
+    "kind": "face",
+    "rarity": "common",
+    "name": "Mustache"
+  },
+  "Glasses": {
+    "id": "Glasses",
+    "kind": "face",
+    "rarity": "uncommon",
+    "name": "Glasses"
+  },
+  "Muzzle": {
+    "id": "Muzzle",
+    "kind": "face",
+    "rarity": "uncommon",
+    "name": "Muzzle"
+  },
+  "FaceCovering": {
+    "id": "FaceCovering",
+    "kind": "face",
+    "rarity": "common",
+    "name": "Face Covering"
+  },
+  "Bozo": {
+    "id": "Bozo",
+    "kind": "face",
+    "rarity": "uncommon",
+    "name": "Bozo",
+    "desc": "Your basic attack has a +15% chance to inflict Fear."
+  },
+  "Bandage": {
+    "id": "Bandage",
+    "kind": "face",
+    "rarity": "uncommon",
+    "name": "Bandage",
+    "desc": "+2 Health Regen."
+  },
+  "MysticalBlindfold": {
+    "id": "MysticalBlindfold",
+    "kind": "face",
+    "rarity": "rare",
+    "name": "Mystical Blindfold",
+    "desc": "Your physical attacks and abilities always miss."
+  },
+  "ThirdEye": {
+    "id": "ThirdEye",
+    "kind": "face",
+    "rarity": "rare",
+    "name": "Third Eye",
+    "desc": "+1 range.\nYour ranged attacks can't miss."
+  },
+  "Flower": {
+    "id": "Flower",
+    "kind": "face",
+    "rarity": "uncommon",
+    "name": "Flower",
+    "desc": "Spawn flowers under you when you end your turn.\n+1 Health Regen."
+  },
+  "HockeyMask": {
+    "id": "HockeyMask",
+    "kind": "face",
+    "rarity": "uncommon",
+    "name": "Hockey Mask",
+    "desc": "While downed, you have a 25% chance to revive with 1 HP at the end of the round."
+  },
+  "BanditMask": {
+    "id": "BanditMask",
+    "kind": "face",
+    "rarity": "common",
+    "name": "Bandit Mask",
+    "desc": "Your basic attack spawns 1 coin when it deals damage."
+  },
+  "InfamousMask": {
+    "id": "InfamousMask",
+    "kind": "face",
+    "rarity": "rare",
+    "name": "Infamous Mask",
+    "desc": "Block attacks from the front."
+  },
+  "BearTrapMask": {
+    "id": "BearTrapMask",
+    "kind": "face",
+    "rarity": "uncommon",
+    "name": "Bear Trap Mask",
+    "desc": "+1 Bleed Thorns."
+  },
+  "PinsAndNeedles": {
+    "id": "PinsAndNeedles",
+    "kind": "face",
+    "rarity": "uncommon",
+    "name": "Pins and Needles",
+    "desc": "+1 Thorns.\nGain +1 Charge when you take damage."
+  },
+  "NinjaBandana": {
+    "id": "NinjaBandana",
+    "kind": "face",
+    "rarity": "uncommon",
+    "name": "Ninja Bandana",
+    "desc": "You have a 10% chance to gain a bonus attack when you use your basic attack."
+  },
+  "Monocle": {
+    "id": "Monocle",
+    "kind": "face",
+    "rarity": "uncommon",
+    "name": "Monocle",
+    "desc": "Your physical attacks can't miss."
+  },
+  "PhantomMask": {
+    "id": "PhantomMask",
+    "kind": "face",
+    "rarity": "very_rare",
+    "name": "Phantom Mask",
+    "desc": "+10% chance to Block attacks.\nWhen you take damage, this becomes an invincible familiar."
+  },
+  "WhiteBelt": {
+    "id": "WhiteBelt",
+    "kind": "face",
+    "rarity": "common",
+    "name": "White Belt",
+    "desc": "+1 Brace."
+  },
+  "BrownBelt": {
+    "id": "BrownBelt",
+    "kind": "face",
+    "rarity": "uncommon",
+    "name": "Brown Belt",
+    "desc": "+1 Damage.\nIf you end your turn with unused basic attacks, gain that many Backflips."
+  },
+  "BlackBelt": {
+    "id": "BlackBelt",
+    "kind": "face",
+    "rarity": "rare",
+    "name": "Black Belt",
+    "desc": "25% chance to block attacks and counter attack."
+  },
+  "EyeOfRa": {
+    "id": "EyeOfRa",
+    "kind": "face",
+    "rarity": "very_rare",
+    "name": "Eye of Ra",
+    "desc": "Your basic attack inflicts Burn 1 and Blind 1.\nInflict Burn 1 and Blind 1 on units that contact or attack you."
+  },
+  "Bandages": {
+    "id": "Bandages",
+    "kind": "face",
+    "rarity": "rare",
+    "name": "Bandages",
+    "desc": "Heals heal you for twice as much."
+  },
+  "HorseBlinders": {
+    "id": "HorseBlinders",
+    "kind": "face",
+    "rarity": "rare",
+    "name": "Horse Blinders",
+    "desc": "Your abilities have 100% accuracy and +50% Crit Chance.\nYou are unable to hit any unit that isn't in a straight line directly in front of you."
+  },
+  "SurvivalistMask": {
+    "id": "SurvivalistMask",
+    "kind": "face",
+    "rarity": "uncommon",
+    "name": "Survivalist's Mask",
+    "desc": "Bodies you destroy spawn food, catnip and a coin."
+  },
+  "LeechBrood": {
+    "id": "LeechBrood",
+    "kind": "face",
+    "rarity": "rare",
+    "name": "Leech Brood",
+    "desc": "Inflict Leech 1 to all enemies at the start of each battle.\nStart each battle at 50% health."
+  },
+  "GlyphOfProtection": {
+    "id": "GlyphOfProtection",
+    "kind": "face",
+    "rarity": "very_rare",
+    "name": "Glyph of Protection",
+    "desc": "Gain +1 [img:shield] each time you cast a spell."
+  },
+  "FeatheredMask": {
+    "id": "FeatheredMask",
+    "kind": "face",
+    "rarity": "common",
+    "name": "Feathered Mask",
+    "desc": "+10% Dodge Chance."
+  },
+  "Debris": {
+    "id": "Debris",
+    "kind": "face",
+    "rarity": "common",
+    "name": "Debris",
+    "desc": "+1 Brace."
+  },
+  "MudMask": {
+    "id": "MudMask",
+    "kind": "face",
+    "rarity": "common",
+    "name": "Mud Mask",
+    "desc": "Fragile and Brittle while wet."
+  },
+  "VisionPlugin": {
+    "id": "VisionPlugin",
+    "kind": "face",
+    "rarity": "common",
+    "name": "Vision Plugin",
+    "desc": "+1 range."
+  },
+  "RubberBand": {
+    "id": "RubberBand",
+    "kind": "face",
+    "rarity": "uncommon",
+    "name": "Rubber Band",
+    "desc": "+1 reach."
+  },
+  "MuertosMask": {
+    "id": "MuertosMask",
+    "kind": "face",
+    "rarity": "common",
+    "name": "Muertos Mask",
+    "desc": "+6 Corpse Health."
+  },
+  "RhinestoneStickers": {
+    "id": "RhinestoneStickers",
+    "kind": "face",
+    "rarity": "common",
+    "name": "Rhinestone Stickers",
+    "desc": "Emit 4 Sparkles at the start of each battle."
+  },
+  "BlessedAshes": {
+    "id": "BlessedAshes",
+    "kind": "face",
+    "rarity": "uncommon",
+    "name": "Blessed Ashes",
+    "desc": "Gain +3 [img:shield] once per battle when your HP is 3 or less."
+  },
+  "AttractiveHairClip": {
+    "id": "AttractiveHairClip",
+    "kind": "face",
+    "rarity": "uncommon",
+    "name": "Attractive Hair Clip",
+    "desc": "After you're downed, the next time an allied cat takes a turn, they take an extra turn."
+  },
+  "ChampionsMask": {
+    "id": "ChampionsMask",
+    "kind": "face",
+    "rarity": "uncommon",
+    "name": "Champion's Mask",
+    "desc": "Gain +1 [img:{str_aux}] until the end of the battle each time you kill a unit."
+  },
+  "BarbedScrap": {
+    "id": "BarbedScrap",
+    "kind": "face",
+    "rarity": "very_rare",
+    "name": "Barbed Scrap",
+    "desc": "+1 Thorns, +1 Damage."
+  },
+  "LeatherHideMask": {
+    "id": "LeatherHideMask",
+    "kind": "face",
+    "rarity": "very_rare",
+    "name": "Leather Hide Mask",
+    "desc": "+1 Brace, +1 Health Regen, 5% chance to spawn a Charmed Flea each turn."
+  },
+  "RecycledGimpMask": {
+    "id": "RecycledGimpMask",
+    "kind": "face",
+    "rarity": "very_rare",
+    "name": "Recycled Ball Gag",
+    "desc": "Gain +2 Charge when you take damage.\nFind a common item when you are downed."
+  },
+  "GemstoneBones": {
+    "id": "GemstoneBones",
+    "kind": "face",
+    "rarity": "very_rare",
+    "name": "Gemstone Bones",
+    "desc": "+1 Kinetic Spikes. When you take damage, gain +1 [img:str]. When you are downed, emit 6 Sparkles."
+  },
+  "CoolRocks": {
+    "id": "CoolRocks",
+    "kind": "face",
+    "rarity": "very_rare",
+    "name": "Cool Rocks",
+    "desc": "Your basic attack has +1 Knockback.\nWhen you are downed, gain coins."
+  },
+  "MinerImplant": {
+    "id": "MinerImplant",
+    "kind": "face",
+    "rarity": "very_rare",
+    "name": "Miner Implant",
+    "desc": "+1 range, +1 reach.\nPoison Immunity."
+  },
+  "HolyTears": {
+    "id": "HolyTears",
+    "kind": "face",
+    "rarity": "very_rare",
+    "name": "Holy Tears",
+    "desc": "Allies gain 2 [img:divineshield] when you are downed.\nYour spells cost -1 mana."
+  },
+  "EyeOfGod": {
+    "id": "EyeOfGod",
+    "kind": "face",
+    "rarity": "very_rare",
+    "name": "Eye Of God",
+    "desc": "+10 range. \nYour ranged attacks can't miss."
+  },
+  "PeaceSymbolFacePaint": {
+    "id": "PeaceSymbolFacePaint",
+    "kind": "face",
+    "rarity": "rare",
+    "name": "Peace Symbol Face Paint",
+    "desc": "Damage you deal to allies is reduced to 0."
+  },
+  "HitlersMustache": {
+    "id": "HitlersMustache",
+    "kind": "face",
+    "rarity": "very_rare",
+    "name": "Hitler's Mustache",
+    "desc": "Permanent Madness.\nTake 2 extra turns at the start of each round."
+  },
+  "RadGlasses": {
+    "id": "RadGlasses",
+    "kind": "face",
+    "rarity": "very_rare",
+    "name": "Rad Glasses",
+    "desc": "Your explosions deal +1 damage and have +1 area."
+  },
+  "FleshKid": {
+    "id": "FleshKid",
+    "kind": "face",
+    "rarity": "very_rare",
+    "name": "Flesh Kid",
+    "desc": "You can't get injuries.\nWhen you're downed, revive at the end of the round.\nYour movement action is Jump."
+  },
+  "LilTumor": {
+    "id": "LilTumor",
+    "kind": "face",
+    "rarity": "rare",
+    "name": "Lil' Tumor",
+    "desc": "At the end of each battle, gain -1 to three random stats, then gain a mutation."
+  },
+  "ConjoinedAmeoba": {
+    "id": "ConjoinedAmeoba",
+    "kind": "face",
+    "rarity": "rare",
+    "name": "Conjoined Ameoba",
+    "desc": "Brace 2. +2 Health Regen. Units that contact you are knocked back 2 tiles.\n20% chance to spawn a Charmed Ameoba at the end of the turn."
+  },
+  "MinersBeard": {
+    "id": "MinersBeard",
+    "kind": "face",
+    "rarity": "rare",
+    "name": "Miner's Beard",
+    "desc": "When you take damage, spawn scrap.\nWhen you end turn, spawn a coin on a random tile."
+  },
+  "EtherealEyes": {
+    "id": "EtherealEyes",
+    "kind": "face",
+    "rarity": "rare",
+    "name": "Ethereal Eyes",
+    "desc": "+15% Dodge Chance.\nGain +5% Dodge Chance each time you take damage."
+  },
+  "DoodieMask": {
+    "id": "DoodieMask",
+    "kind": "face",
+    "rarity": "rare",
+    "name": "Doodie Mask",
+    "desc": "Spawn a Charmed Fly at the end of your turn."
+  },
+  "TinasFriend": {
+    "id": "TinasFriend",
+    "kind": "face",
+    "rarity": "very_rare",
+    "name": "Tina's Best Friend",
+    "desc": "Spawn a large Charmed Fly at the start of each battle."
+  },
+  "StevensFartFace": {
+    "id": "StevensFartFace",
+    "kind": "face",
+    "rarity": "very_rare",
+    "name": "Steven's Fart Face",
+    "desc": "At the end of your turn, inflict Poison 1 on all units. Repeat for each turn you've taken this battle."
+  },
+  "StevensMustache": {
+    "id": "StevensMustache",
+    "kind": "face",
+    "rarity": "very_rare",
+    "name": "Steven's Mustache"
+  },
+  "StevenMask1": {
+    "id": "StevenMask1",
+    "kind": "face",
+    "rarity": "very_rare",
+    "name": "Steven",
+    "desc": "Your musical abilities are always double cast."
+  },
+  "StevenMask2": {
+    "id": "StevenMask2",
+    "kind": "face",
+    "rarity": "very_rare",
+    "name": "Steven",
+    "desc": "While you're downed, spawn a random charmed enemy familiar at the end of each round."
+  },
+  "Intruder": {
+    "id": "Intruder",
+    "kind": "face",
+    "rarity": "very_rare",
+    "name": "Intruder",
+    "desc": "Is it your baby?"
+  },
+  "ChildOfTheGlowingOne2": {
+    "id": "ChildOfTheGlowingOne2",
+    "kind": "face",
+    "rarity": "very_rare",
+    "name": "Child of the Glowing One",
+    "desc": "Gain +1 Damage and heal 1 HP every time you use your basic attack."
+  },
+  "Antenna": {
+    "id": "Antenna",
+    "kind": "head",
+    "rarity": "uncommon",
+    "name": "Antenna",
+    "desc": "Units that contact or attack you get hit with a lightning bolt that has a 10% chance to Stun."
+  },
+  "Horns": {
+    "id": "Horns",
+    "kind": "head",
+    "rarity": "uncommon",
+    "name": "Horns",
+    "desc": "+1 Thorns."
+  },
+  "HappyHelmet": {
+    "id": "HappyHelmet",
+    "kind": "head",
+    "rarity": "rare",
+    "name": "Happy Helmet",
+    "desc": "Fragile. Gain Psychosis when this breaks."
+  },
+  "HeadSpring": {
+    "id": "HeadSpring",
+    "kind": "head",
+    "rarity": "common",
+    "name": "Head Spring",
+    "desc": "Units that contact you are knocked back 10 tiles."
+  },
+  "Wig": {
+    "id": "Wig",
+    "kind": "head",
+    "rarity": "common",
+    "name": "Wig"
+  },
+  "HeadCheese": {
+    "id": "HeadCheese",
+    "kind": "head",
+    "rarity": "uncommon",
+    "name": "Head Cheese",
+    "desc": "+2 Health Regen."
+  },
+  "DunceCap": {
+    "id": "DunceCap",
+    "kind": "head",
+    "rarity": "rare",
+    "name": "Dunce Cap",
+    "desc": "Your spells cost -1 mana."
+  },
+  "PoopHat": {
+    "id": "PoopHat",
+    "kind": "head",
+    "rarity": "rare",
+    "name": "Crown of Feculence",
+    "desc": "Poops you spawn are alive!"
+  },
+  "Magneto": {
+    "id": "Magneto",
+    "kind": "head",
+    "rarity": "rare",
+    "name": "Magneto",
+    "desc": "When you end your movement, pull all adjacent pickups towards you.\r\nWhen you gain coins, gain that much [img:shield]."
+  },
+  "BlackCandle": {
+    "id": "BlackCandle",
+    "kind": "head",
+    "rarity": "rare",
+    "name": "Black Candle",
+    "desc": "You can remove cursed items equipped on you, except this one."
+  },
+  "CamoHat": {
+    "id": "CamoHat",
+    "kind": "head",
+    "rarity": "rare",
+    "name": "Survivalist Hat",
+    "desc": "+25% chance to ambush when entering battle.\n10% chance to gain Stealth 1 at the end of each turn."
+  },
+  "JesterCap": {
+    "id": "JesterCap",
+    "kind": "head",
+    "rarity": "rare",
+    "name": "Jester Cap",
+    "desc": "You can reroll your options twice when you level up.\r\nAbilities from all classes are offered after rerolling."
+  },
+  "Halo": {
+    "id": "Halo",
+    "kind": "head",
+    "rarity": "rare",
+    "name": "Halo",
+    "desc": "+33% chance to gain +1 [img:divineshield] when you take damage."
+  },
+  "PropellerCap": {
+    "id": "PropellerCap",
+    "kind": "head",
+    "rarity": "uncommon",
+    "name": "Propeller Cap",
+    "desc": "Flying."
+  },
+  "BrainInAJar": {
+    "id": "BrainInAJar",
+    "kind": "head",
+    "rarity": "rare",
+    "name": "Brain In A Jar",
+    "desc": "The first spell you cast each turn is free."
+  },
+  "MangyWig": {
+    "id": "MangyWig",
+    "kind": "head",
+    "rarity": "uncommon",
+    "name": "Mangy Wig",
+    "desc": "Spawn a Spiderling for every 4 [img:lck] you have at the start of each battle."
+  },
+  "RisingSunBandana": {
+    "id": "RisingSunBandana",
+    "kind": "head",
+    "rarity": "rare",
+    "name": "Nisshōki Bandana",
+    "desc": "While at 5 or less health, you have +3 Damage and can move an extra time each turn."
+  },
+  "JewelOfDrog": {
+    "id": "JewelOfDrog",
+    "kind": "head",
+    "rarity": "rare",
+    "name": "Jewel of Drog",
+    "desc": "The first time you reach full mana each battle, gain +1 Magic Damage and reduce the cost of your spells by 1."
+  },
+  "LeakyBrain": {
+    "id": "LeakyBrain",
+    "kind": "head",
+    "rarity": "rare",
+    "name": "Leaky Brain",
+    "desc": "When you spend mana, adjacent allies gain that amount of mana."
+  },
+  "FryingPan": {
+    "id": "FryingPan",
+    "kind": "head",
+    "rarity": "uncommon",
+    "name": "Frying Pan",
+    "desc": "Block and counter Backstabs."
+  },
+  "CrownOfHorns": {
+    "id": "CrownOfHorns",
+    "kind": "head",
+    "rarity": "rare",
+    "name": "Crown of Horns",
+    "desc": "+4 Thorns. When you take damage while you have Thorns, lose 1 Thorns, then shoot needles that deal 2 damage in eight directions."
+  },
+  "TheRelic": {
+    "id": "TheRelic",
+    "kind": "head",
+    "rarity": "uncommon",
+    "name": "The Relic",
+    "desc": "When you lose [img:divineshield], emit a Sparkle for every point of damage blocked."
+  },
+  "FocusBand": {
+    "id": "FocusBand",
+    "kind": "head",
+    "rarity": "uncommon",
+    "name": "Focus Band",
+    "desc": "Your crits knock units back 10 tiles with Chain Knockback."
+  },
+  "MedicHat": {
+    "id": "MedicHat",
+    "kind": "head",
+    "rarity": "uncommon",
+    "name": "Medic Hat",
+    "desc": "-1 Damage. Your basic attack heals allies."
+  },
+  "KingsCrown": {
+    "id": "KingsCrown",
+    "kind": "head",
+    "rarity": "uncommon",
+    "name": "King's Crown",
+    "desc": "Become the Alpha at the start of each battle.\nThe Alpha has All Stats Up.\nLose Alpha status when you take damage."
+  },
+  "EmoWig": {
+    "id": "EmoWig",
+    "kind": "head",
+    "rarity": "rare",
+    "name": "Emo Wig",
+    "desc": "Adjacent units get All Stats Down 2.\nWhen you take damage, all units within 2 tiles heal 1 HP and gain a temporary +1 Damage."
+  },
+  "ToxicCanister": {
+    "id": "ToxicCanister",
+    "kind": "head",
+    "rarity": "rare",
+    "name": "Toxic Canister",
+    "desc": "Inflict Poison 1 on all units at the start of the battle.\nYour basic attack inflicts Poison 1.\nInflict Poison 1 on units that contact you."
+  },
+  "BrokenMirrorHat": {
+    "id": "BrokenMirrorHat",
+    "kind": "head",
+    "rarity": "rare",
+    "name": "Broken Mirror",
+    "desc": "+3 Bleed Thorns. Your basic attack inflicts +1 Bleed and spawns glass."
+  },
+  "TopHat": {
+    "id": "TopHat",
+    "kind": "head",
+    "rarity": "uncommon",
+    "name": "Top Hat",
+    "desc": "Start with a bomb if you have no weapon equipped.\nYour explosions have +1 area."
+  },
+  "Helmet": {
+    "id": "Helmet",
+    "kind": "head",
+    "rarity": "common",
+    "name": "Helmet"
+  },
+  "ConfusingHat": {
+    "id": "ConfusingHat",
+    "kind": "head",
+    "rarity": "rare",
+    "name": "Confusing Hat",
+    "desc": "Apply Confusion 2 to yourself and all enemies at the start of each battle."
+  },
+  "NightmareHat": {
+    "id": "NightmareHat",
+    "kind": "head",
+    "rarity": "uncommon",
+    "name": "Nightmare Hat",
+    "desc": "After you kill 3 units, you can attack an extra time each turn."
+  },
+  "CrownOfPestilence": {
+    "id": "CrownOfPestilence",
+    "kind": "head",
+    "rarity": "rare",
+    "name": "Crown of Pestilence",
+    "desc": "Your basic attack becomes Pestilence."
+  },
+  "RainHat": {
+    "id": "RainHat",
+    "kind": "head",
+    "rarity": "uncommon",
+    "name": "Rain Hat",
+    "desc": "You have All Stats Up while wet."
+  },
+  "SplinteredCrown": {
+    "id": "SplinteredCrown",
+    "kind": "head",
+    "rarity": "uncommon",
+    "name": "Splintered Crown",
+    "desc": "Gain +1 Thorns when you take damage."
+  },
+  "MedievalHelmet": {
+    "id": "MedievalHelmet",
+    "kind": "head",
+    "rarity": "uncommon",
+    "name": "Medieval Helmet",
+    "desc": "+2 Brace."
+  },
+  "ConjoinedEye": {
+    "id": "ConjoinedEye",
+    "kind": "head",
+    "rarity": "common",
+    "name": "Conjoined Eye",
+    "desc": "+10% Dodge Chance."
+  },
+  "StoneHelmet": {
+    "id": "StoneHelmet",
+    "kind": "head",
+    "rarity": "common",
+    "name": "Stone Helmet",
+    "desc": "+1 Brace."
+  },
+  "OakHelmet": {
+    "id": "OakHelmet",
+    "kind": "head",
+    "rarity": "common",
+    "name": "Oak Helmet",
+    "desc": "Flammable."
+  },
+  "RustingHelmet": {
+    "id": "RustingHelmet",
+    "kind": "head",
+    "rarity": "common",
+    "name": "Rusting Helmet",
+    "desc": "Gain +1 [img:shield] at the end of each turn."
+  },
+  "TrainingBand": {
+    "id": "TrainingBand",
+    "kind": "head",
+    "rarity": "common",
+    "name": "Training Band",
+    "desc": "+20% Crit Chance."
+  },
+  "SkullClamp": {
+    "id": "SkullClamp",
+    "kind": "head",
+    "rarity": "rare",
+    "name": "Skull Clamp",
+    "desc": "Brace 2 \n+25% chance to inflict Stun on units that contact you."
+  },
+  "BrainChip": {
+    "id": "BrainChip",
+    "kind": "head",
+    "rarity": "uncommon",
+    "name": "Brain Chip",
+    "desc": "Become AI controlled."
+  },
+  "SpareParts": {
+    "id": "SpareParts",
+    "kind": "head",
+    "rarity": "uncommon",
+    "name": "Spare Parts",
+    "desc": "When you move, spawn a scrap pickup where you moved from."
+  },
+  "SnakeskinHat": {
+    "id": "SnakeskinHat",
+    "kind": "head",
+    "rarity": "uncommon",
+    "name": "Snakeskin Hat",
+    "desc": "Spawn a Charmed Rattlesnek at the start of each battle."
+  },
+  "DeathShroud": {
+    "id": "DeathShroud",
+    "kind": "head",
+    "rarity": "rare",
+    "name": "Death Shroud",
+    "desc": "When you're downed, permanently gain +1 to a random stat."
+  },
+  "BlessedHalo": {
+    "id": "BlessedHalo",
+    "kind": "head",
+    "rarity": "very_rare",
+    "name": "Blessed Halo",
+    "desc": "50% chance to gain +1 [img:divineshield] when you take damage."
+  },
+  "CrownOfThorns": {
+    "id": "CrownOfThorns",
+    "kind": "head",
+    "rarity": "very_rare",
+    "name": "Crown Of Thorns",
+    "desc": "+1 Thorns. Gain +1 Thorns whenever you take damage."
+  },
+  "RottenGuts": {
+    "id": "RottenGuts",
+    "kind": "head",
+    "rarity": "very_rare",
+    "name": "Rotten Guts",
+    "desc": "+2 Health Regen. Spawn a Charmed Maggot or Fly when you end your turn."
+  },
+  "PaperRags": {
+    "id": "PaperRags",
+    "kind": "head",
+    "rarity": "very_rare",
+    "name": "Paper Rags",
+    "desc": "+20% Dodge Chance.\n+1 Bleed Thorns.\nYour basic attack inflicts Bleed."
+  },
+  "TieDyeBandana": {
+    "id": "TieDyeBandana",
+    "kind": "head",
+    "rarity": "rare",
+    "name": "Tie Dye Bandana",
+    "desc": "Spawn a Catnip pickup when you take damage."
+  },
+  "BungasCrown": {
+    "id": "BungasCrown",
+    "kind": "head",
+    "rarity": "very_rare",
+    "name": "Bunga's Crown",
+    "desc": "Your weapons always crit.\nEquip a Bone Club weapon when you kill a unit."
+  },
+  "Asteroid": {
+    "id": "Asteroid",
+    "kind": "head",
+    "rarity": "very_rare",
+    "name": "Asteroid",
+    "desc": "20% chance to call down a Meteor on a random enemy when you take damage."
+  },
+  "AlienStalk": {
+    "id": "AlienStalk",
+    "kind": "head",
+    "rarity": "very_rare",
+    "name": "Alien Stalk",
+    "desc": "Cast a random spell each time you take damage."
+  },
+  "FriendlyAmoeba": {
+    "id": "FriendlyAmoeba",
+    "kind": "head",
+    "rarity": "rare",
+    "name": "Friendly Amoeba",
+    "desc": "Brace 1, +2 Health Regen, Shield 3. Units that contact you get knocked back 1."
+  },
+  "SpiderBaby": {
+    "id": "SpiderBaby",
+    "kind": "head",
+    "rarity": "very_rare",
+    "name": "Spider Baby",
+    "desc": "Spawn a Spiderling when you take damage."
+  },
+  "BorisBrain": {
+    "id": "BorisBrain",
+    "kind": "head",
+    "rarity": "very_rare",
+    "name": "Boris' Brain",
+    "desc": "Trample. When you take damage, move 1 tile towards what damaged you."
+  },
+  "JohnnysUndies": {
+    "id": "JohnnysUndies",
+    "kind": "head",
+    "rarity": "very_rare",
+    "name": "Johnny's Undies",
+    "desc": "Spawn a Charmed Cultist at the start of each battle."
+  },
+  "QueensCrown": {
+    "id": "QueensCrown",
+    "kind": "head",
+    "rarity": "very_rare",
+    "name": "Queen's Crown",
+    "desc": "Your basic attack has Knockback and Chain Knockback."
+  },
+  "DustDevilsHorn": {
+    "id": "DustDevilsHorn",
+    "kind": "head",
+    "rarity": "very_rare",
+    "name": "Dust Devil's Horn",
+    "desc": "+1 Thorns. After you use your basic attack, do a dash attack that leaves a tornado behind."
+  },
+  "ChildOfTheGlowingOne": {
+    "id": "ChildOfTheGlowingOne",
+    "kind": "head",
+    "rarity": "very_rare",
+    "name": "Child of the Glowing One",
+    "desc": "Gain +1 [img:divineshield] every time you end your movement."
+  },
+  "SabertoothTigerPelt": {
+    "id": "SabertoothTigerPelt",
+    "kind": "head",
+    "rarity": "rare",
+    "name": "Pale Sabertooth Pelt",
+    "desc": "When you kill a unit, all nearby cats gain +1 Damage."
+  },
+  "CowSkull": {
+    "id": "CowSkull",
+    "kind": "head",
+    "rarity": "very_rare",
+    "name": "Cow Skull",
+    "desc": "+2 Thorns. Your basic attack is Push Attack."
+  },
+  "TrashCan": {
+    "id": "TrashCan",
+    "kind": "head",
+    "rarity": "very_rare",
+    "name": "TrashCan",
+    "desc": "Brace 4. Blind."
+  },
+  "ThrobbingCrown": {
+    "id": "ThrobbingCrown",
+    "kind": "head",
+    "rarity": "very_rare",
+    "name": "Throbbing Crown",
+    "desc": "Tentacles attack all adjacent tiles at the end of your turn."
+  },
+  "CrownOfChaos": {
+    "id": "CrownOfChaos",
+    "kind": "head",
+    "rarity": "very_rare",
+    "name": "Crown of Chaos",
+    "desc": "+2 level up Rerolls. Abilities from all classes are offered when you level up."
+  },
+  "ChildsCrown": {
+    "id": "ChildsCrown",
+    "kind": "head",
+    "rarity": "very_rare",
+    "name": "Child's Crown",
+    "desc": "Your basic attack becomes holy and can heal allies."
+  },
+  "TinasBellyButton": {
+    "id": "TinasBellyButton",
+    "kind": "head",
+    "rarity": "very_rare",
+    "name": "Tina's Belly Button",
+    "desc": "When you get a kill, gain +1 Health Regen."
+  },
+  "HitlersToupe": {
+    "id": "HitlersToupe",
+    "kind": "head",
+    "rarity": "very_rare",
+    "name": "Hitler's Toupe",
+    "desc": "Permanent Madness. Give Madness to a random enemy at the end of your turn."
+  },
+  "StevensHat": {
+    "id": "StevensHat",
+    "kind": "head",
+    "rarity": "very_rare",
+    "name": "Steven's Hat",
+    "desc": "Your spells cost 0. You can only cast each of your spells once per turn."
+  },
+  "StevensHelmet": {
+    "id": "StevensHelmet",
+    "kind": "head",
+    "rarity": "very_rare",
+    "name": "Steven's Helmet",
+    "desc": "When you are downed, give another allied cat 2 random disorders, or to yourself if you're alone."
+  },
+  "StevenHat1": {
+    "id": "StevenHat1",
+    "kind": "head",
+    "rarity": "very_rare",
+    "name": "Steven",
+    "desc": "Your explosions are much, much bigger!\nYou have explosion immunity."
+  },
+  "StevenHat2": {
+    "id": "StevenHat2",
+    "kind": "head",
+    "rarity": "very_rare",
+    "name": "Steven",
+    "desc": "Each time you cast a spell, gain +1 range and +1 reach until the end of the turn."
+  },
+  "LionMane": {
+    "id": "LionMane",
+    "kind": "neck",
+    "rarity": "uncommon",
+    "name": "Lion Mane"
+  },
+  "Gobbler": {
+    "id": "Gobbler",
+    "kind": "neck",
+    "rarity": "uncommon",
+    "name": "Gobbler",
+    "desc": "Units that contact you are knocked back 2 tiles."
+  },
+  "SpikedCollar": {
+    "id": "SpikedCollar",
+    "kind": "neck",
+    "rarity": "uncommon",
+    "name": "Spiked Collar",
+    "desc": "+2 Thorns."
+  },
+  "FrankBolts": {
+    "id": "FrankBolts",
+    "kind": "neck",
+    "rarity": "uncommon",
+    "name": "Frank Bolts",
+    "desc": "Electric immunity.\nElectric damage revives you when downed."
+  },
+  "FortuneNecklace": {
+    "id": "FortuneNecklace",
+    "kind": "neck",
+    "rarity": "common",
+    "name": "Fortune Necklace",
+    "desc": "Spawn 3-6 coins at the start of each battle.\r\nFragile."
+  },
+  "Scarf": {
+    "id": "Scarf",
+    "kind": "neck",
+    "rarity": "common",
+    "name": "Scarf",
+    "desc": "Ice immunity."
+  },
+  "BulletproofVest": {
+    "id": "BulletproofVest",
+    "kind": "neck",
+    "rarity": "uncommon",
+    "name": "Bulletproof Vest",
+    "desc": "Injury immunity."
+  },
+  "LuckyToe": {
+    "id": "LuckyToe",
+    "kind": "neck",
+    "rarity": "uncommon",
+    "name": "Lucky Toe"
+  },
+  "Bling": {
+    "id": "Bling",
+    "kind": "neck",
+    "rarity": "uncommon",
+    "name": "Bling"
+  },
+  "OddMedallion": {
+    "id": "OddMedallion",
+    "kind": "neck",
+    "rarity": "very_rare",
+    "name": "Odd Medallion",
+    "desc": "Deal 1 electric damage to units that contact or attack you.\r\n25% chance to poop every time you take damage."
+  },
+  "FishNecklace": {
+    "id": "FishNecklace",
+    "kind": "neck",
+    "rarity": "rare",
+    "name": "Fish Necklace",
+    "desc": "Poisonous 1.\nDamage you deal inflicts Rot 1.\nAllied flies have +2 Damage."
+  },
+  "TwoOfSpades": {
+    "id": "TwoOfSpades",
+    "kind": "neck",
+    "rarity": "uncommon",
+    "name": "Two of Spades",
+    "desc": "Double cast spells that cost 1 or 2 mana."
+  },
+  "ColostomyBag": {
+    "id": "ColostomyBag",
+    "kind": "neck",
+    "rarity": "uncommon",
+    "name": "Colostomy Bag",
+    "desc": "Spawn Charmed Dips randomly when you move over tiles.\nWhile downed, spawn a Charmed Dip at the end of each round."
+  },
+  "SurvivalistGaiter": {
+    "id": "SurvivalistGaiter",
+    "kind": "neck",
+    "rarity": "uncommon",
+    "name": "Survivalist's Gaiter",
+    "desc": "+40% Dodge Chance while standing in tall grass.\nStart each battle with Stealth 1. Lose this stealth when you use your basic attack."
+  },
+  "PeaceSymbol": {
+    "id": "PeaceSymbol",
+    "kind": "neck",
+    "rarity": "uncommon",
+    "name": "Peace Symbol",
+    "desc": "If you end your turn without dealing damage, gain +1 [img:divineshield]."
+  },
+  "EmptyGenerator": {
+    "id": "EmptyGenerator",
+    "kind": "neck",
+    "rarity": "uncommon",
+    "name": "Empty Generator",
+    "desc": "When you spend 12 or more mana in a turn, refresh your basic attack."
+  },
+  "DarkFriend": {
+    "id": "DarkFriend",
+    "kind": "neck",
+    "rarity": "rare",
+    "name": "Dark Friend",
+    "desc": "At the start of your turn, spawn a Shadow copy that mimics your basic attack and fades at the end of the turn.\nUnits that contact or attack you have a 15% chance to be Feared."
+  },
+  "FannyPack": {
+    "id": "FannyPack",
+    "kind": "neck",
+    "rarity": "common",
+    "name": "Fanny Pack",
+    "desc": "Spawn 1-2 extra pickups at the start of each battle.\nAfter you collect your 3rd pickup, you can move an extra time each turn."
+  },
+  "MorphineDrip": {
+    "id": "MorphineDrip",
+    "kind": "neck",
+    "rarity": "rare",
+    "name": "Morphine Drip",
+    "desc": "Damage you take is reduced by 3.\nDamage prevented this way is delayed and taken at the end of your turn, all at once."
+  },
+  "LeatherJacket": {
+    "id": "LeatherJacket",
+    "kind": "neck",
+    "rarity": "rare",
+    "name": "Leather Jacket",
+    "desc": "If you would take exactly 1 damage, take 0 instead."
+  },
+  "HealingGauze": {
+    "id": "HealingGauze",
+    "kind": "neck",
+    "rarity": "uncommon",
+    "name": "Healing Gauze",
+    "desc": "You have +3 Health Regen as long as you have [img:shield]."
+  },
+  "MarkIV": {
+    "id": "MarkIV",
+    "kind": "neck",
+    "rarity": "uncommon",
+    "name": "Mark IV",
+    "desc": "After every fourth spell you cast, gain +2 [img:int]."
+  },
+  "MamaLeech": {
+    "id": "MamaLeech",
+    "kind": "neck",
+    "rarity": "uncommon",
+    "name": "Mama Leech",
+    "desc": "After every third spell you cast, spawn a Leech familiar."
+  },
+  "FuryDice": {
+    "id": "FuryDice",
+    "kind": "neck",
+    "rarity": "uncommon",
+    "name": "Furry Dice",
+    "desc": "You can reroll your options when you level up."
+  },
+  "DNAMultiplier": {
+    "id": "DNAMultiplier",
+    "kind": "neck",
+    "rarity": "rare",
+    "name": "DNA Multiplier",
+    "desc": "Double all status effects that get applied to you."
+  },
+  "PackOfBlades": {
+    "id": "PackOfBlades",
+    "kind": "neck",
+    "rarity": "uncommon",
+    "name": "Pack of Blades",
+    "desc": "Whenever you backstab, gain +1 Serrated Claws."
+  },
+  "Backpack": {
+    "id": "Backpack",
+    "kind": "neck",
+    "rarity": "uncommon",
+    "name": "Backpack",
+    "desc": "50% chance to find an extra consumable item at the end of each battle.\r\nWhen you use up a consumable or trinket, equip a new consumable from your inventory if you have any."
+  },
+  "StoneOrbit": {
+    "id": "StoneOrbit",
+    "kind": "neck",
+    "rarity": "uncommon",
+    "name": "Stone Orbit",
+    "desc": "Spawn a small rock when you take damage."
+  },
+  "AngelicProtection": {
+    "id": "AngelicProtection",
+    "kind": "neck",
+    "rarity": "rare",
+    "name": "Angelic Protection",
+    "desc": "33% chance to teleport to a random tile when targeted by an enemy."
+  },
+  "ChefsApron": {
+    "id": "ChefsApron",
+    "kind": "neck",
+    "rarity": "uncommon",
+    "name": "Chef's Apron",
+    "desc": "At the end of each turn, gain +1 [img:con] and spawn a random food pickup within 2 tiles."
+  },
+  "RadarDish": {
+    "id": "RadarDish",
+    "kind": "neck",
+    "rarity": "uncommon",
+    "name": "Radar Dish",
+    "desc": "One random enemy becomes Marked at the start of each turn."
+  },
+  "ExtraSetOfEyes": {
+    "id": "ExtraSetOfEyes",
+    "kind": "neck",
+    "rarity": "rare",
+    "name": "Extra Set of Eyes",
+    "desc": "At the end of each turn, gain +1 Preemptive Counterattack."
+  },
+  "SharkTooth": {
+    "id": "SharkTooth",
+    "kind": "neck",
+    "rarity": "rare",
+    "name": "Large Shark Tooth",
+    "desc": "Your basic attack inflicts +1 Bleed. Take an extra turn at the end of the round for each Bleeding enemy. You are uncontrollable during these turns."
+  },
+  "SmallRune": {
+    "id": "SmallRune",
+    "kind": "neck",
+    "rarity": "common",
+    "name": "Small Rune",
+    "desc": "+10% Dodge Chance."
+  },
+  "QuartzNecklace": {
+    "id": "QuartzNecklace",
+    "kind": "neck",
+    "rarity": "common",
+    "name": "Quartz Necklace",
+    "desc": "+1 Brace."
+  },
+  "CinderBlock": {
+    "id": "CinderBlock",
+    "kind": "neck",
+    "rarity": "common",
+    "name": "Cinder Block"
+  },
+  "BoxingCharm": {
+    "id": "BoxingCharm",
+    "kind": "neck",
+    "rarity": "common",
+    "name": "Boxing Charm",
+    "desc": "Start with +1 bonus attack."
+  },
+  "Crucifix": {
+    "id": "Crucifix",
+    "kind": "neck",
+    "rarity": "common",
+    "name": "Crucifix"
+  },
+  "TatteredScrap": {
+    "id": "TatteredScrap",
+    "kind": "neck",
+    "rarity": "common",
+    "name": "Tattered Scrap",
+    "desc": "When you take damage, spawn a scrap pickup."
+  },
+  "MeekStone": {
+    "id": "MeekStone",
+    "kind": "neck",
+    "rarity": "common",
+    "name": "Meek Stone",
+    "desc": "You have All Stats Up while at 10 or less health."
+  },
+  "Stomach": {
+    "id": "Stomach",
+    "kind": "neck",
+    "rarity": "uncommon",
+    "name": "Stomach",
+    "desc": "Consumables you use have double the effect."
+  },
+  "WaterFeeder": {
+    "id": "WaterFeeder",
+    "kind": "neck",
+    "rarity": "common",
+    "name": "Water Feeder",
+    "desc": "+1 Health Regen.\nBecome wet at the start of your turn."
+  },
+  "Scrubs": {
+    "id": "Scrubs",
+    "kind": "neck",
+    "rarity": "uncommon",
+    "name": "Scrubs",
+    "desc": "Heals heal you for 2 extra."
+  },
+  "Scapular": {
+    "id": "Scapular",
+    "kind": "neck",
+    "rarity": "very_rare",
+    "name": "Scapular"
+  },
+  "DirtyBionicArmor": {
+    "id": "DirtyBionicArmor",
+    "kind": "neck",
+    "rarity": "very_rare",
+    "name": "Dirty Bionic Armor",
+    "desc": "+2 Mana Regen, +2 Health Regen."
+  },
+  "LuckyTwine": {
+    "id": "LuckyTwine",
+    "kind": "neck",
+    "rarity": "very_rare",
+    "name": "Lucky Twine",
+    "desc": "75% chance to Grapple units that make contact with you."
+  },
+  "RavenFeather": {
+    "id": "RavenFeather",
+    "kind": "neck",
+    "rarity": "rare",
+    "name": "Raven Feather",
+    "desc": "Inflict Soul Link on 2 random enemies at the start of each battle."
+  },
+  "LostSoul": {
+    "id": "LostSoul",
+    "kind": "neck",
+    "rarity": "very_rare",
+    "name": "Lost Soul",
+    "desc": "The first time you are downed each battle, revive to full HP."
+  },
+  "MothersTeeth": {
+    "id": "MothersTeeth",
+    "kind": "neck",
+    "rarity": "very_rare",
+    "name": "Mother's Teeth",
+    "desc": "+6 Bleed Thorns, +6 Thorns, +6 Bleed."
+  },
+  "MegaPoop": {
+    "id": "MegaPoop",
+    "kind": "neck",
+    "rarity": "rare",
+    "name": "Mega Poop",
+    "desc": "Leave poop behind when you move.\nSpawn 2-3 pickups whenever you destroy a poop."
+  },
+  "ZodiacsPoncho": {
+    "id": "ZodiacsPoncho",
+    "kind": "neck",
+    "rarity": "rare",
+    "name": "Zodiacs Poncho",
+    "desc": "+1 Range. During your turn, one random enemy has a Bounty."
+  },
+  "CoffinArmor": {
+    "id": "CoffinArmor",
+    "kind": "neck",
+    "rarity": "rare",
+    "name": "Coffin Armor",
+    "desc": "+1 Thorns."
+  },
+  "NubsCollar": {
+    "id": "NubsCollar",
+    "kind": "neck",
+    "rarity": "very_rare",
+    "name": "Nubs Collar",
+    "desc": "Your movement action is Belly Flop."
+  },
+  "ChubsCollar": {
+    "id": "ChubsCollar",
+    "kind": "neck",
+    "rarity": "rare",
+    "name": "Chub's Collar",
+    "desc": "Your basic attack is Spin Attack."
+  },
+  "Blubber": {
+    "id": "Blubber",
+    "kind": "neck",
+    "rarity": "rare",
+    "name": "Blubber"
+  },
+  "EtherealRings": {
+    "id": "EtherealRings",
+    "kind": "neck",
+    "rarity": "very_rare",
+    "name": "Ethereal Rings",
+    "desc": "Kinetic Spikes 3. Emit 3 Sparkles when you use your basic attack."
+  },
+  "WhiteRabbitPaw": {
+    "id": "WhiteRabbitPaw",
+    "kind": "neck",
+    "rarity": "very_rare",
+    "name": "White Rabbit Paw"
+  },
+  "GlowingPelt": {
+    "id": "GlowingPelt",
+    "kind": "neck",
+    "rarity": "very_rare",
+    "name": "Glowing Pelt",
+    "desc": "+5 Health Regen.\nWhen you're downed, revive at the end of the round."
+  },
+  "Polyp": {
+    "id": "Polyp",
+    "kind": "neck",
+    "rarity": "rare",
+    "name": "Polyp",
+    "desc": "+1 Health Regen. 25% chance to spawn a Charmed Clot when you take damage."
+  },
+  "RoboArm": {
+    "id": "RoboArm",
+    "kind": "neck",
+    "rarity": "rare",
+    "name": "Robo Arm",
+    "desc": "Start with +1 bonus attack. Collect all adjacent pickups when you end your turn."
+  },
+  "Brambles": {
+    "id": "Brambles",
+    "kind": "neck",
+    "rarity": "very_rare",
+    "name": "Brambles",
+    "desc": "+1 Thorns. Spawn brambles in adjacent tiles when you end your turn.\nYou are immune to tile effects."
+  },
+  "CrustySock": {
+    "id": "CrustySock",
+    "kind": "neck",
+    "rarity": "rare",
+    "name": "Crusty Sock",
+    "desc": "Spawn a Gamete familiar at the start of each battle."
+  },
+  "Tombstone": {
+    "id": "Tombstone",
+    "kind": "neck",
+    "rarity": "rare",
+    "name": "Tombstone",
+    "desc": "Your basic attack has +2 Knockback and a +10% chance to Stun."
+  },
+  "BrokenWindow": {
+    "id": "BrokenWindow",
+    "kind": "neck",
+    "rarity": "rare",
+    "name": "Broken Window",
+    "desc": "+3 Bleed Thorns. Bleed 1."
+  },
+  "PyrophinasToenail": {
+    "id": "PyrophinasToenail",
+    "kind": "neck",
+    "rarity": "very_rare",
+    "name": "Pyrophina's Toenail",
+    "desc": "Fire Immunity."
+  },
+  "ZaratanaTurd": {
+    "id": "ZaratanaTurd",
+    "kind": "neck",
+    "rarity": "very_rare",
+    "name": "Zaratana's Turd",
+    "desc": "Knockback immunity."
+  },
+  "StevensGobbler": {
+    "id": "StevensGobbler",
+    "kind": "neck",
+    "rarity": "very_rare",
+    "name": "Steven's Gobbler",
+    "desc": "Units that contact you get knocked back. Knockback you deal is increased by 10 and inflicts Bruise 1."
+  },
+  "StevensFriend": {
+    "id": "StevensFriend",
+    "kind": "neck",
+    "rarity": "very_rare",
+    "name": "Steven's Friend",
+    "desc": "Each time you cast a spell, spawn a Shadow copy of yourself that mimics your basic attack and fades at the end of your turn."
+  },
+  "StevenNeck1": {
+    "id": "StevenNeck1",
+    "kind": "neck",
+    "rarity": "very_rare",
+    "name": "Steven",
+    "desc": "Your Holy Element spells cost -1 mana."
+  },
+  "StevenNeck2": {
+    "id": "StevenNeck2",
+    "kind": "neck",
+    "rarity": "very_rare",
+    "name": "Steven",
+    "desc": "While you're downed, receiving any damage revives you."
+  },
+  "AFriendsFoot": {
+    "id": "AFriendsFoot",
+    "kind": "neck",
+    "rarity": "very_rare",
+    "name": "A Friends Foot",
+    "desc": "Gain +1 [img:lck] when you get a kill."
+  },
+  "RatTail": {
+    "id": "RatTail",
+    "kind": "trinket",
+    "rarity": "common",
+    "name": "Rat Tail"
+  },
+  "RatHeart": {
+    "id": "RatHeart",
+    "kind": "trinket",
+    "rarity": "common",
+    "name": "Rat Heart"
+  },
+  "RatBeezer": {
+    "id": "RatBeezer",
+    "kind": "trinket",
+    "rarity": "common",
+    "name": "Rat Bezoar",
+    "desc": "Poisonous 1."
+  },
+  "Book": {
+    "id": "Book",
+    "kind": "trinket",
+    "rarity": "common",
+    "name": "Book"
+  },
+  "Dumbell": {
+    "id": "Dumbell",
+    "kind": "trinket",
+    "rarity": "common",
+    "name": "Dumbbell"
+  },
+  "Jazzercise": {
+    "id": "Jazzercise",
+    "kind": "trinket",
+    "rarity": "common",
+    "name": "Jazzercise VHS Tape"
+  },
+  "OldShoe": {
+    "id": "OldShoe",
+    "kind": "trinket",
+    "rarity": "common",
+    "name": "Old Shoe"
+  },
+  "BodySpray": {
+    "id": "BodySpray",
+    "kind": "trinket",
+    "rarity": "common",
+    "name": "Body Spray"
+  },
+  "LuckyPenny": {
+    "id": "LuckyPenny",
+    "kind": "trinket",
+    "rarity": "common",
+    "name": "Lucky Penny"
+  },
+  "WizCheese": {
+    "id": "WizCheese",
+    "kind": "trinket",
+    "rarity": "common",
+    "name": "Wiz Cheese"
+  },
+  "SnaggleTooth": {
+    "id": "SnaggleTooth",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Snaggle Tooth",
+    "desc": "Your basic attack inflicts Bleed 1."
+  },
+  "JarOfLeeches": {
+    "id": "JarOfLeeches",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Jar of Leeches",
+    "desc": "Your basic attack inflicts Leech 1."
+  },
+  "BrassKnuckles": {
+    "id": "BrassKnuckles",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Brass Knuckles",
+    "desc": "Your basic attack inflicts Bruise 1."
+  },
+  "FlyLarva": {
+    "id": "FlyLarva",
+    "kind": "trinket",
+    "rarity": "uncommon",
+    "name": "Fly Larva",
+    "desc": "Your basic attack inflicts Rot 1."
+  },
+  "StrangeMarble": {
+    "id": "StrangeMarble",
+    "kind": "trinket",
+    "rarity": "uncommon",
+    "name": "Strange Marble",
+    "desc": "Your basic attack inflicts Mana Leech 1."
+  },
+  "VibratingSkull": {
+    "id": "VibratingSkull",
+    "kind": "trinket",
+    "rarity": "uncommon",
+    "name": "Vibrating Skull",
+    "desc": "Your basic attack inflicts Magic Weakness 1."
+  },
+  "BoneMarrow": {
+    "id": "BoneMarrow",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Bone Marrow",
+    "desc": "Heal to full at the end of each battle."
+  },
+  "Feather": {
+    "id": "Feather",
+    "kind": "trinket",
+    "rarity": "uncommon",
+    "name": "Feather",
+    "desc": "Take your turn earlier."
+  },
+  "Weight": {
+    "id": "Weight",
+    "kind": "trinket",
+    "rarity": "uncommon",
+    "name": "Weight",
+    "desc": "Trample. Take your turn later."
+  },
+  "MatchStick": {
+    "id": "MatchStick",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Match Stick",
+    "desc": "Your basic attack inflicts Burn 1."
+  },
+  "BeeStinger": {
+    "id": "BeeStinger",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Bee Stinger",
+    "desc": "Your basic attack inflicts Poison 1."
+  },
+  "PullTab": {
+    "id": "PullTab",
+    "kind": "trinket",
+    "rarity": "common",
+    "name": "Pull Tab"
+  },
+  "SelfDestructButton": {
+    "id": "SelfDestructButton",
+    "kind": "trinket",
+    "rarity": "very_rare",
+    "name": "Self-Destruct Button",
+    "desc": "Use: Vaporize yourself and deal 50 damage to adjacent units."
+  },
+  "EmptySyringe": {
+    "id": "EmptySyringe",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Empty Syringe",
+    "desc": "When you inflict Bleed or Poison, inflict +1 Bleed or Poison."
+  },
+  "LiquidNitrogen": {
+    "id": "LiquidNitrogen",
+    "kind": "trinket",
+    "rarity": "uncommon",
+    "name": "Liquid Nitrogen",
+    "desc": "Your Ice Element damage is increased by 2."
+  },
+  "Ember": {
+    "id": "Ember",
+    "kind": "trinket",
+    "rarity": "uncommon",
+    "name": "Ember",
+    "desc": "Your Fire Element damage is increased by 1 and inflicts +1 Burn."
+  },
+  "Conductor": {
+    "id": "Conductor",
+    "kind": "trinket",
+    "rarity": "uncommon",
+    "name": "Conductor",
+    "desc": "Your Electric Element damage is increased by 1 and has +10% chance to Stun."
+  },
+  "FeedBag": {
+    "id": "FeedBag",
+    "kind": "trinket",
+    "rarity": "uncommon",
+    "name": "Feed Bag",
+    "desc": "Familiars you spawn gain +2 max HP."
+  },
+  "Nightshade": {
+    "id": "Nightshade",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Nightshade",
+    "desc": "When you inflict Poison, inflict +2 Poison.\nStart with Poison 2."
+  },
+  "Neverstone": {
+    "id": "Neverstone",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Neverstone",
+    "desc": "Never level up."
+  },
+  "Pawn": {
+    "id": "Pawn",
+    "kind": "trinket",
+    "rarity": "common",
+    "name": "Pawn",
+    "desc": "Use: Move 1 tile toward the closest enemy."
+  },
+  "Knight": {
+    "id": "Knight",
+    "kind": "trinket",
+    "rarity": "uncommon",
+    "name": "Knight",
+    "desc": "Use: Jump in an L shape."
+  },
+  "Rook": {
+    "id": "Rook",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Rook",
+    "desc": "Use: Move any number of tiles in a straight line."
+  },
+  "Queen": {
+    "id": "Queen",
+    "kind": "trinket",
+    "rarity": "very_rare",
+    "name": "Queen",
+    "desc": "Use: Move any number of tiles in a straight or diagonal line."
+  },
+  "PetrifiedPoop": {
+    "id": "PetrifiedPoop",
+    "kind": "trinket",
+    "rarity": "uncommon",
+    "name": "Petrified Poop",
+    "desc": "Familiars you spawn gain +2 [img:shield]."
+  },
+  "FishHook": {
+    "id": "FishHook",
+    "kind": "trinket",
+    "rarity": "uncommon",
+    "name": "Fish Hook",
+    "desc": "If you would knockback a unit, instead deal extra damage to it equal to the knockback."
+  },
+  "HumanHand": {
+    "id": "HumanHand",
+    "kind": "trinket",
+    "rarity": "uncommon",
+    "name": "Human Hand"
+  },
+  "HumanBrain": {
+    "id": "HumanBrain",
+    "kind": "trinket",
+    "rarity": "uncommon",
+    "name": "Human Brain"
+  },
+  "HumanLeg": {
+    "id": "HumanLeg",
+    "kind": "trinket",
+    "rarity": "uncommon",
+    "name": "Human Leg Bone"
+  },
+  "HumanToe": {
+    "id": "HumanToe",
+    "kind": "trinket",
+    "rarity": "uncommon",
+    "name": "Human Toe"
+  },
+  "HumanHeart": {
+    "id": "HumanHeart",
+    "kind": "trinket",
+    "rarity": "uncommon",
+    "name": "Human Heart"
+  },
+  "HumanFoot": {
+    "id": "HumanFoot",
+    "kind": "trinket",
+    "rarity": "uncommon",
+    "name": "Human Foot"
+  },
+  "MysteriousEye": {
+    "id": "MysteriousEye",
+    "kind": "trinket",
+    "rarity": "uncommon",
+    "name": "Human Eye"
+  },
+  "D6": {
+    "id": "D6",
+    "kind": "trinket",
+    "rarity": "common",
+    "name": "D6",
+    "desc": "You can reroll your options when you level up."
+  },
+  "MetalSquare": {
+    "id": "MetalSquare",
+    "kind": "trinket",
+    "rarity": "uncommon",
+    "name": "Metal Plate",
+    "desc": "Gain +1 Brace when you kill an enemy."
+  },
+  "BlinkingEyeball": {
+    "id": "BlinkingEyeball",
+    "kind": "trinket",
+    "name": "Blinking Eyeball",
+    "desc": "Your line of sight restrictions are ignored."
+  },
+  "GoldenTooth": {
+    "id": "GoldenTooth",
+    "kind": "trinket",
+    "name": "Golden Tooth",
+    "desc": "Becomes {aux} coins when you return home."
+  },
+  "WaterBottle_Full": {
+    "id": "WaterBottle_Full",
+    "kind": "trinket",
+    "name": "Water Bottle",
+    "desc": "Use: Heal +5 HP and gain Heatwave immunity.\nRefills when affected by Water Element effects."
+  },
+  "WaterBottle_Half": {
+    "id": "WaterBottle_Half",
+    "kind": "trinket",
+    "name": "Water Bottle",
+    "desc": "Use: Heal +5 HP and gain Heatwave immunity.\nRefills when affected by Water Element effects."
+  },
+  "WaterBottle_Empty": {
+    "id": "WaterBottle_Empty",
+    "kind": "trinket",
+    "name": "Empty Water Bottle",
+    "desc": "Use: Throw it at something.\nRefills when affected by Water Element effects."
+  },
+  "BloodyCoin": {
+    "id": "BloodyCoin",
+    "kind": "trinket",
+    "rarity": "uncommon",
+    "name": "Bloody Coin",
+    "desc": "Use: Flip a coin.\nHeads: Refresh your basic attack.\nTails: Lose 50% of your HP."
+  },
+  "GlowingCoin": {
+    "id": "GlowingCoin",
+    "kind": "trinket",
+    "rarity": "uncommon",
+    "name": "Glowing Coin",
+    "desc": "Use: Flip a coin.\nHeads: Double your mana.\nTails: Lose 50% of your mana."
+  },
+  "ElectricCoin": {
+    "id": "ElectricCoin",
+    "kind": "trinket",
+    "rarity": "uncommon",
+    "name": "Electric Coin",
+    "desc": "Use: Flip a coin.\nHeads: Refresh your movement action.\nTails: Gain Slow 2."
+  },
+  "CounterfeitCoin": {
+    "id": "CounterfeitCoin",
+    "kind": "trinket",
+    "rarity": "uncommon",
+    "name": "Counterfeit Coin",
+    "desc": "Use: Flip a coin.\nHeads: Gain 5 coins.\nTails: Lose 5 coins."
+  },
+  "Whistle": {
+    "id": "Whistle",
+    "kind": "trinket",
+    "rarity": "common",
+    "name": "Whistle",
+    "desc": "Use: Summon a Fly, Maggot or Flea familiar.\n[s:.7](Usable once per battle.)[/s]"
+  },
+  "Metronome": {
+    "id": "Metronome",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Metronome",
+    "desc": "Use: Cast a random upgraded spell.\n[s:.7](Usable once per battle.)[/s]"
+  },
+  "TinkerTools": {
+    "id": "TinkerTools",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Tinker Tools",
+    "desc": "Repair 1 use to your items at the end of each battle."
+  },
+  "RingOfFrost": {
+    "id": "RingOfFrost",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Ring of Frost",
+    "desc": "Freezes tiles you walk over. +25% chance to inflict Freeze on units that contact or attack you.\nYour Ice Element damage is increased by 1."
+  },
+  "LuckyCoinPurse": {
+    "id": "LuckyCoinPurse",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Lucky Coin Purse",
+    "desc": "Gain +2 [img:lck] each time you gain a coin."
+  },
+  "RageJuice": {
+    "id": "RageJuice",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Rage Juice",
+    "desc": "Use: Gain +4 [img:str], +4 [img:spd], Brace 2 and Madness for the rest of the battle.\n[s:.7](Usable once per battle.)[/s]"
+  },
+  "PrayerCard": {
+    "id": "PrayerCard",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Prayer Card",
+    "desc": "33% chance to gain +1 [img:divineshield] each time you take damage."
+  },
+  "TankToy": {
+    "id": "TankToy",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Tank Toy",
+    "desc": "Trample."
+  },
+  "BagOfSeeds": {
+    "id": "BagOfSeeds",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Bag of Seeds",
+    "desc": "Use: Spawn grass, flowers, or brambles on an adjacent tile."
+  },
+  "Libra": {
+    "id": "Libra",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Libra",
+    "desc": "Balances all stats. This applies after all stat modifiers."
+  },
+  "BallOfBandages": {
+    "id": "BallOfBandages",
+    "kind": "trinket",
+    "rarity": "uncommon",
+    "name": "Ball of Bandages",
+    "desc": "Cleanse one stack of a random debuff at the end of each turn.\n+1 Health Regen."
+  },
+  "Natural20": {
+    "id": "Natural20",
+    "kind": "trinket",
+    "rarity": "uncommon",
+    "name": "Natural 20",
+    "desc": "Your weapons have +50% Crit Chance.\nYour basic attack has +10% Crit Chance."
+  },
+  "Technology": {
+    "id": "Technology",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Technology",
+    "desc": "Use: Shoot a laser beam.\n[s:.7](Usable once per battle.)[/s]\nRefreshes when affected by Electricity."
+  },
+  "Spring": {
+    "id": "Spring",
+    "kind": "trinket",
+    "rarity": "uncommon",
+    "name": "Spring",
+    "desc": "Your movement action is Jump."
+  },
+  "RedDrink": {
+    "id": "RedDrink",
+    "kind": "trinket",
+    "rarity": "uncommon",
+    "name": "Red Drink",
+    "desc": "Use: Heal 5 HP.\n[s:.7](Usable once per battle.)[/s]"
+  },
+  "GreenDrink": {
+    "id": "GreenDrink",
+    "kind": "trinket",
+    "rarity": "uncommon",
+    "name": "Green Drink",
+    "desc": "Use: Gain 5 mana.\n[s:.7](Usable once per battle.)[/s]"
+  },
+  "PurpleDrink": {
+    "id": "PurpleDrink",
+    "kind": "trinket",
+    "rarity": "uncommon",
+    "name": "Purple Drink",
+    "desc": "Use: Heal 2 HP, gain 2 mana and +1 [img:shield].\n[s:.7](Usable once per battle.)[/s]"
+  },
+  "LilBattery": {
+    "id": "LilBattery",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Lil' Battery",
+    "desc": "Use: Refresh all items and spells with a once per battle restriction.\nCan be used on allies.\n[s:.7](Usable once per battle. Can't be refreshed.)[/s]"
+  },
+  "CarvingKnife": {
+    "id": "CarvingKnife",
+    "kind": "trinket",
+    "rarity": "uncommon",
+    "name": "Carving Knife",
+    "desc": "Use: Take 2 damage and spawn a Meat pickup."
+  },
+  "RazorBlade": {
+    "id": "RazorBlade",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Razor Blade",
+    "desc": "Use: Take 5 damage and gain +2 [img:str] and +2 [img:dex]."
+  },
+  "Teleport": {
+    "id": "Teleport",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Teleport!",
+    "desc": "Use: Teleport to any open tile.\n[s:.7](Usable once per battle.)[/s]"
+  },
+  "SmallEye": {
+    "id": "SmallEye",
+    "kind": "trinket",
+    "rarity": "uncommon",
+    "name": "Small Eye",
+    "desc": "+15% Dodge Chance.\nYour basic attack has a +10% chance to inflict Fear."
+  },
+  "Stickman": {
+    "id": "Stickman",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Stickman",
+    "desc": "Gain All Stats Up when you deal damage to a party member."
+  },
+  "CursedStickman": {
+    "id": "CursedStickman",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Cursed Stickman",
+    "desc": "Gain All Stats Up when you deal damage to a party member.\n10% chance to gain Madness at the start of your turn."
+  },
+  "GlowingSeed": {
+    "id": "GlowingSeed",
+    "kind": "trinket",
+    "rarity": "uncommon",
+    "name": "Glowing Seed",
+    "desc": "Your basic attack spawns tall grass."
+  },
+  "MagicSeed": {
+    "id": "MagicSeed",
+    "kind": "trinket",
+    "rarity": "uncommon",
+    "name": "Magic Seed",
+    "desc": "Your basic attack spawns brambles."
+  },
+  "WeirdEgg": {
+    "id": "WeirdEgg",
+    "kind": "trinket",
+    "rarity": "uncommon",
+    "name": "Weird Egg",
+    "desc": "10% chance to spawn a controllable Fetus familiar at the end of each turn. It joins your party."
+  },
+  "SpottedMushroom": {
+    "id": "SpottedMushroom",
+    "kind": "trinket",
+    "rarity": "common",
+    "name": "Spotted Mushroom"
+  },
+  "MundaneStone": {
+    "id": "MundaneStone",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Mundane Stone",
+    "desc": "Your basic attack's damage is increased by your lowest stat minus 2."
+  },
+  "EmptySack": {
+    "id": "EmptySack",
+    "kind": "trinket",
+    "rarity": "uncommon",
+    "name": "Empty Sack",
+    "desc": "Spawn 3 pickups at the start of each battle.\nFind an extra common item at the end of each battle."
+  },
+  "AAABattery": {
+    "id": "AAABattery",
+    "kind": "trinket",
+    "rarity": "uncommon",
+    "name": "AAA Battery",
+    "desc": "Every time you cast 3 spells, gain +3 Charge."
+  },
+  "ToolBox": {
+    "id": "ToolBox",
+    "kind": "trinket",
+    "rarity": "uncommon",
+    "name": "Tool Box",
+    "desc": "Your items lose Brittle and Fragile.\nYour weapons have a 25% chance to repair 1 use when used."
+  },
+  "RubberCement": {
+    "id": "RubberCement",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Rubber Cement",
+    "desc": "Your projectiles bounce to another enemy within 2 tiles."
+  },
+  "CoinPurse": {
+    "id": "CoinPurse",
+    "kind": "trinket",
+    "rarity": "uncommon",
+    "name": "Coin Purse",
+    "desc": "When you collect a coin pickup, gain +1 coin.\nFind an extra coin at the end of each battle."
+  },
+  "Fork": {
+    "id": "Fork",
+    "kind": "trinket",
+    "rarity": "uncommon",
+    "name": "Fork",
+    "desc": "Heal 5 HP when you kill a unit or destroy a corpse."
+  },
+  "CatONineTails": {
+    "id": "CatONineTails",
+    "kind": "trinket",
+    "rarity": "uncommon",
+    "name": "Cat o' Nine Tails",
+    "desc": "Use: Take 1 damage and cleanse one random debuff."
+  },
+  "Glue": {
+    "id": "Glue",
+    "kind": "trinket",
+    "rarity": "uncommon",
+    "name": "Glue",
+    "desc": "Use: Gain +20% Dodge Chance, -1 [img:int] and Confusion 2."
+  },
+  "MyShadow": {
+    "id": "MyShadow",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "My Shadow",
+    "desc": "Use: Move 3 tiles, leaving a shadow copy behind that mimics your basic attack.\nThe shadow fades at the end of the turn."
+  },
+  "EggSack": {
+    "id": "EggSack",
+    "kind": "trinket",
+    "rarity": "uncommon",
+    "name": "Egg Sack",
+    "desc": "Use: Spawns Spiderlings in an area."
+  },
+  "GorgonsEye": {
+    "id": "GorgonsEye",
+    "kind": "trinket",
+    "rarity": "uncommon",
+    "name": "Gorgon's Eye",
+    "desc": "Use: Petrify all nearby units in your line of sight."
+  },
+  "HotLunch": {
+    "id": "HotLunch",
+    "kind": "trinket",
+    "rarity": "uncommon",
+    "name": "Hot Lunch",
+    "desc": "Spawn a Flaming Meat pickup."
+  },
+  "ButterBean": {
+    "id": "ButterBean",
+    "kind": "trinket",
+    "rarity": "common",
+    "name": "Butter Bean",
+    "desc": "Use: Fart at an adjacent unit, knocking it back 1 tile."
+  },
+  "MomsRing": {
+    "id": "MomsRing",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Mom's Ring",
+    "desc": "+1 Damage. Find a pill at the end of each battle."
+  },
+  "MindStone": {
+    "id": "MindStone",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Mind Stone",
+    "desc": "Your collarless spells cost -2 mana."
+  },
+  "SkillStone": {
+    "id": "SkillStone",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Skill Stone",
+    "desc": "Spells that match your class cost -1 mana."
+  },
+  "Multiplier": {
+    "id": "Multiplier",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Multiplier",
+    "desc": "You can use your weapon an extra time each turn."
+  },
+  "SacredHeart": {
+    "id": "SacredHeart",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Sacred Heart",
+    "desc": "+1 Damage. Emit 2 Sparkles when you use your basic attack."
+  },
+  "FetusInAJar": {
+    "id": "FetusInAJar",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Fetus in a Jar",
+    "desc": "At the the start of each battle, equip a temporary Bomb if your weapon slot is open.\nAt the end of each turn, if you didn't use your basic attack, equip another Bomb."
+  },
+  "Breakfast": {
+    "id": "Breakfast",
+    "kind": "trinket",
+    "rarity": "uncommon",
+    "name": "Breakfast",
+    "desc": "+2 Health Regen."
+  },
+  "DreamCatcher": {
+    "id": "DreamCatcher",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Dream Catcher",
+    "desc": "Whenever you fall asleep, gain All Stats Up, restore all your mana, and heal a random injury."
+  },
+  "EnchantingPoop": {
+    "id": "EnchantingPoop",
+    "kind": "trinket",
+    "name": "Enchanting Poop",
+    "desc": "Spawn a poop at the start of each battle."
+  },
+  "EnchantingPoop_Cursed": {
+    "id": "EnchantingPoop_Cursed",
+    "name": "EnchantingPoop_Cursed"
+  },
+  "LunchBox": {
+    "id": "LunchBox",
+    "kind": "trinket",
+    "rarity": "uncommon",
+    "name": "Lunch Box",
+    "desc": "Use: Heal 5 HP.\nWhenever you collect a food pickup, instead of its normal effects, add +1 use to this item."
+  },
+  "SatanicBible": {
+    "id": "SatanicBible",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Satanic Bible",
+    "desc": "Heal 3 HP and gain +3 Charge each time you damage a party member."
+  },
+  "TinyPebble": {
+    "id": "TinyPebble",
+    "kind": "trinket",
+    "rarity": "uncommon",
+    "name": "Tiny Pebble",
+    "desc": "+10% Dodge Chance.\nGain +2% Dodge Chance when you dodge an attack."
+  },
+  "ScrapBag": {
+    "id": "ScrapBag",
+    "kind": "trinket",
+    "rarity": "uncommon",
+    "name": "Scrap Bag",
+    "desc": "Craft a temporary weapon at the start of the battle if you don't have a weapon."
+  },
+  "Cookbook": {
+    "id": "Cookbook",
+    "kind": "trinket",
+    "rarity": "uncommon",
+    "name": "Cookbook",
+    "desc": "When you kill a unit or destroy a corpse, it becomes meat."
+  },
+  "TarotDeck": {
+    "id": "TarotDeck",
+    "kind": "trinket",
+    "rarity": "uncommon",
+    "name": "Tarot Deck",
+    "desc": "Use: Conjure a random, single-use spell as a bonus ability."
+  },
+  "TinyCage": {
+    "id": "TinyCage",
+    "kind": "trinket",
+    "rarity": "uncommon",
+    "name": "Tiny Cage",
+    "desc": "Spawn a random animal familiar at the start of each battle."
+  },
+  "SpellBook": {
+    "id": "SpellBook",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Spell Book",
+    "desc": "Use: Gain 10 mana and conjure a random Mage spell as a bonus ability."
+  },
+  "BagOfBags": {
+    "id": "BagOfBags",
+    "kind": "trinket",
+    "rarity": "uncommon",
+    "name": "Bag o' Bags",
+    "desc": "Use: Throw a trash bag on an adjacent tile."
+  },
+  "Steroids": {
+    "id": "Steroids",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Steroids",
+    "desc": "Use: Gain +1 [img:str], permanently. For the rest of the adventure, you have a +2% chance to gain Madness at the start of each turn."
+  },
+  "HolyWater": {
+    "id": "HolyWater",
+    "kind": "trinket",
+    "rarity": "uncommon",
+    "name": "Holy Water",
+    "desc": "Heal 2 HP in an area."
+  },
+  "TankJuice": {
+    "id": "TankJuice",
+    "kind": "trinket",
+    "rarity": "uncommon",
+    "name": "Tank Juice",
+    "desc": "Use: Gain -1 [img:spd], then, for the rest of the turn, all damage you deal has Knockback 2 and Chain Knockback."
+  },
+  "HuntersFlute": {
+    "id": "HuntersFlute",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Hunter's Flute",
+    "desc": "Spawn 2-3 random familiars on adjacent tiles.\r\n[s:.7](Usable once per battle.)[/s]"
+  },
+  "FriendshipBracelet": {
+    "id": "FriendshipBracelet",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Friendship Bracelet",
+    "desc": "Use: Permanently charm a non-boss enemy. It joins your party."
+  },
+  "CambionConception": {
+    "id": "CambionConception",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Cambion Conception",
+    "desc": "Use: Summon a half-sized copy of yourself that has 66% of your stats and is AI controlled."
+  },
+  "EmptyHand": {
+    "id": "EmptyHand",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Empty Hand",
+    "desc": "Use: Gain +3 [img:shield] for each empty armor slot you have.\nWhen this breaks, gain +1 [img:con] permanently."
+  },
+  "Fireworks": {
+    "id": "Fireworks",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Fireworks",
+    "desc": "Use: Emit 5 Sparkles.\nIf you end your turn with 0 mana, this gains +1 use."
+  },
+  "SackOfMeat": {
+    "id": "SackOfMeat",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Sack o' Meat",
+    "desc": "Use: Heal 4 HP.\nThis gains +1 use each time you destroy a corpse."
+  },
+  "DruidsWhistle": {
+    "id": "DruidsWhistle",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Druid's Whistle",
+    "desc": "Use: Spawn a random animal familiar on an adjacent tile.\n[s:.7](Usable once per battle.)[/s]"
+  },
+  "BallOfYarn": {
+    "id": "BallOfYarn",
+    "kind": "trinket",
+    "rarity": "uncommon",
+    "name": "Ball of Yarn",
+    "desc": "Spawn a Charmed Kitten with All Stats Up 2 at the start of each battle."
+  },
+  "BirdHead": {
+    "id": "BirdHead",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Bird Head",
+    "desc": "Your basic attack inflicts Soul Link."
+  },
+  "BrokenMirror": {
+    "id": "BrokenMirror",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Broken Mirror"
+  },
+  "Binoculars": {
+    "id": "Binoculars",
+    "kind": "trinket",
+    "rarity": "uncommon",
+    "name": "Binoculars",
+    "desc": "+2 range."
+  },
+  "Bishop": {
+    "id": "Bishop",
+    "kind": "trinket",
+    "rarity": "uncommon",
+    "name": "Bishop",
+    "desc": "Use: Move any number of tiles in a diagonal line."
+  },
+  "GoldenEgg": {
+    "id": "GoldenEgg",
+    "kind": "trinket",
+    "rarity": "uncommon",
+    "name": "Golden Egg",
+    "desc": "Find 3-5 extra coins at the end of each battle."
+  },
+  "BirdFeed": {
+    "id": "BirdFeed",
+    "kind": "trinket",
+    "rarity": "uncommon",
+    "name": "Bird Feed",
+    "desc": "+50% chance for an extra bird to spawn at the start of each battle."
+  },
+  "AngelWing": {
+    "id": "AngelWing",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Angel Wing",
+    "desc": "If an attack would down you, instead lower your HP to 1. While at 1 HP, this has no effect."
+  },
+  "SoulJar": {
+    "id": "SoulJar",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Soul Jar",
+    "desc": "When your body is destroyed, this item is recovered and permanently gains the ability to summon a ghost copy of you."
+  },
+  "SoulJar_Full": {
+    "id": "SoulJar_Full",
+    "kind": "trinket",
+    "rarity": "very_rare",
+    "name": "Soul Jar",
+    "desc": "Use: Summon a ghost copy of {aux_cat_name}.\n[s:.7](Usable once per battle.)[/s]"
+  },
+  "PetrifiedPinky": {
+    "id": "PetrifiedPinky",
+    "kind": "trinket",
+    "rarity": "uncommon",
+    "name": "Petrified Pinky",
+    "desc": "If an attack would down you, instead this breaks and you regain 50% of your max HP."
+  },
+  "CatRib": {
+    "id": "CatRib",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Cat Rib",
+    "desc": "When your body is destroyed, you are reborn as a kitten!"
+  },
+  "EstusFlask_Full": {
+    "id": "EstusFlask_Full",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Glowing Flask",
+    "desc": "Use: Heal 5 HP. This refills at the end of each battle."
+  },
+  "EstusFlask_Half": {
+    "id": "EstusFlask_Half",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Glowing Flask",
+    "desc": "Use: Heal 5 HP. This refills at the end of each battle."
+  },
+  "EstusFlask_Empty": {
+    "id": "EstusFlask_Empty",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Glowing Flask",
+    "desc": "Use: Heal 5 HP. This refills at the end of each battle."
+  },
+  "LuckyCoin": {
+    "id": "LuckyCoin",
+    "kind": "trinket",
+    "rarity": "uncommon",
+    "name": "Lucky Coin",
+    "desc": "Coins that spawn at the start of each battle are doubled."
+  },
+  "HeavyRock": {
+    "id": "HeavyRock",
+    "kind": "trinket",
+    "rarity": "uncommon",
+    "name": "Heavy Rock",
+    "desc": "Rocks you knock back deal +5 damage and have Chain Knockback."
+  },
+  "Ipecac": {
+    "id": "Ipecac",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Ipecac",
+    "desc": "Your basic attack is Explosive Shot."
+  },
+  "MeatCube": {
+    "id": "MeatCube",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Meat Cube",
+    "desc": "Start with a Flesh Lad familiar."
+  },
+  "SoyMilk": {
+    "id": "SoyMilk",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Soy Milk",
+    "desc": "Your basic attack cannot deal more than 1 damage.\nYou can attack 2 extra times each turn."
+  },
+  "SpoonBender": {
+    "id": "SpoonBender",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Spoon Bender",
+    "desc": "Your basic attack can't miss and emits a Sparkle when used."
+  },
+  "Cancer": {
+    "id": "Cancer",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Cancer",
+    "desc": "At the end of each battle, gain -1 to three random stats, then gain a mutation."
+  },
+  "Wafer": {
+    "id": "Wafer",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Wafer"
+  },
+  "LargeMeteor": {
+    "id": "LargeMeteor",
+    "kind": "trinket",
+    "rarity": "uncommon",
+    "name": "Large Meteor",
+    "desc": "- {str_aux_passive_name} -\r\n{str_aux_passive_desc}"
+  },
+  "BloodyRazor": {
+    "id": "BloodyRazor",
+    "kind": "trinket",
+    "rarity": "very_rare",
+    "name": "Bloody Razor",
+    "desc": "Use: Deal 5 damage to yourself to gain +3 Damage and +1 Magic Damage."
+  },
+  "ImmaculateHeart": {
+    "id": "ImmaculateHeart",
+    "kind": "trinket",
+    "rarity": "very_rare",
+    "name": "Immaculate Heart",
+    "desc": "+2 Damage, +1 Magic Damage. Emit 3 Sparkles when you use your basic attack."
+  },
+  "DybbuksRib": {
+    "id": "DybbuksRib",
+    "kind": "trinket",
+    "rarity": "very_rare",
+    "name": "Dybbuk's Rib",
+    "desc": "Charm a random enemy at the start of each battle."
+  },
+  "SnakeEyes": {
+    "id": "SnakeEyes",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Snake Eyes",
+    "desc": "While you are at exactly 2 HP, you have +222 [img:lck]"
+  },
+  "GreenWhistle": {
+    "id": "GreenWhistle",
+    "kind": "trinket",
+    "rarity": "very_rare",
+    "name": "Green Whistle",
+    "desc": "Use: Summon a really big Leg.\n[s:.7](Usable once per battle.)[/s]"
+  },
+  "MothersLove": {
+    "id": "MothersLove",
+    "kind": "trinket",
+    "rarity": "very_rare",
+    "name": "Mother's Love",
+    "desc": "+6 Health Regen."
+  },
+  "PentagramSigil": {
+    "id": "PentagramSigil",
+    "kind": "trinket",
+    "rarity": "very_rare",
+    "name": "Pentagram Sigil",
+    "desc": "Use: Take 5 damage and refresh your basic attack and movement actions."
+  },
+  "LuciferSigil": {
+    "id": "LuciferSigil",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Lucifer Sigil",
+    "desc": "Summon a Charmed Brute at the start of each battle."
+  },
+  "HexagramSigil": {
+    "id": "HexagramSigil",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Hexagram Sigil",
+    "desc": "+3 Magic Damage.\nYou are immune to buffs and debuffs.\nWhen you die, you don't leave a corpse."
+  },
+  "ChupacabraTongue": {
+    "id": "ChupacabraTongue",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Chupacabra Tongue",
+    "desc": "Your basic attack has Lifesteal."
+  },
+  "CharonsObal": {
+    "id": "CharonsObal",
+    "kind": "trinket",
+    "rarity": "very_rare",
+    "name": "Charon's Obol",
+    "desc": "+6 corpse health. Spawn a Charmed Reaper when you are downed."
+  },
+  "HumanHead": {
+    "id": "HumanHead",
+    "kind": "trinket",
+    "rarity": "very_rare",
+    "name": "Human Head"
+  },
+  "Glitch": {
+    "id": "Glitch",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Glitch",
+    "desc": "Use: Scramble the last spell you used. Permanently."
+  },
+  "VideoGameCart": {
+    "id": "VideoGameCart",
+    "kind": "trinket",
+    "rarity": "very_rare",
+    "name": "Video Game Cart",
+    "desc": "It's broken."
+  },
+  "TV": {
+    "id": "TV",
+    "kind": "trinket",
+    "rarity": "very_rare",
+    "name": "TV",
+    "desc": "Your bonus ability is Waste Time."
+  },
+  "Triachnid": {
+    "id": "Triachnid",
+    "kind": "trinket",
+    "rarity": "very_rare",
+    "name": "Triachnid",
+    "desc": "Spawn Triachnid at the start of each battle."
+  },
+  "GallonOfWater": {
+    "id": "GallonOfWater",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Gallon of Water",
+    "desc": "Use: Heal +5 HP and gain Heatwave immunity.\nRefills when affected by Water Element effects."
+  },
+  "ScorchedEarth": {
+    "id": "ScorchedEarth",
+    "kind": "trinket",
+    "rarity": "very_rare",
+    "name": "Scorched Earth",
+    "desc": "Your Earth and Fire Element spells cost -1 mana."
+  },
+  "LiquidMetal": {
+    "id": "LiquidMetal",
+    "kind": "trinket",
+    "rarity": "very_rare",
+    "name": "Liquid Metal",
+    "desc": "+25% Dodge Chance."
+  },
+  "StevenStone": {
+    "id": "StevenStone",
+    "kind": "trinket",
+    "rarity": "very_rare",
+    "name": "Steven Stone",
+    "desc": "Your collarless spells cost -2 mana."
+  },
+  "StevenMarrow": {
+    "id": "StevenMarrow",
+    "kind": "trinket",
+    "rarity": "very_rare",
+    "name": "Steven Marrow",
+    "desc": "Any [img:shield] you gain is increased by 4."
+  },
+  "StevenTrinket1": {
+    "id": "StevenTrinket1",
+    "kind": "trinket",
+    "rarity": "very_rare",
+    "name": "Steven",
+    "desc": "Your basic attack inflicts Slow and has a +10% chance to Freeze.\nYou can damage frozen units."
+  },
+  "StevenTrinket2": {
+    "id": "StevenTrinket2",
+    "kind": "trinket",
+    "rarity": "very_rare",
+    "name": "Steven",
+    "desc": "Your basic attack inflicts Confusion."
+  },
+  "NinnyStick": {
+    "id": "NinnyStick",
+    "kind": "trinket",
+    "rarity": "very_rare",
+    "name": "Ninny Stick",
+    "desc": "Reroll your other equipped items at the end of each battle.\nYou can reroll your options when you level up."
+  },
+  "SkillSplit": {
+    "id": "SkillSplit",
+    "kind": "trinket",
+    "rarity": "very_rare",
+    "name": "Skill Split",
+    "desc": "Gain a temporary copy of your first passive ability at the start of each battle."
+  },
+  "FurnitureBox": {
+    "id": "FurnitureBox",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Furniture Box",
+    "desc": "Breaks when [img:shield] is depleted.\r\nBecomes a random piece of furniture when you return home."
+  },
+  "FurnitureBox_Rare": {
+    "id": "FurnitureBox_Rare",
+    "kind": "trinket",
+    "rarity": "very_rare",
+    "name": "Rare Furniture Box",
+    "desc": "Breaks when [img:shield] is depleted.\r\nBecomes a random piece of rare furniture when you return home."
+  },
+  "Ankh": {
+    "id": "Ankh",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Ankh",
+    "desc": "While you're downed, you have a 50% chance to revive with 33% HP at the end of each round."
+  },
+  "TheBoxCardboard": {
+    "id": "TheBoxCardboard",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "The Box",
+    "desc": "Find an extra chapter item at the end of each battle."
+  },
+  "TheBoxChest": {
+    "id": "TheBoxChest",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "The bOx",
+    "desc": "Use: Spawn A lost Spirit. This gains +1 use whenever an allied cat dies.\n[s:.7](Usable once per battle.)[/s]"
+  },
+  "TheBox": {
+    "id": "TheBox",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "The boX",
+    "desc": "Use: Revive all bodies, fully heal all units, and clear all status effects.\n[s:.7](Usable once per battle.)[/s]"
+  },
+  "TheBlackBox": {
+    "id": "TheBlackBox",
+    "kind": "trinket",
+    "rarity": "very_rare",
+    "name": "the box",
+    "desc": "Use: Find and equip a random item into one of your empty item slots."
+  },
+  "SkullOfGlorg": {
+    "id": "SkullOfGlorg",
+    "kind": "trinket",
+    "rarity": "rare",
+    "name": "Skull Of Glorg",
+    "desc": "Your spells cost -1 mana for each parasite you have equipped."
+  },
+  "GlassShard": {
+    "id": "GlassShard",
+    "kind": "weapon",
+    "rarity": "common",
+    "name": "Shard of Glass",
+    "desc": "Use: A melee attack that inflicts Bleed."
+  },
+  "TinkererGlassShard": {
+    "id": "TinkererGlassShard",
+    "name": "TinkererGlassShard"
+  },
+  "RailSpikes": {
+    "id": "RailSpikes",
+    "kind": "weapon",
+    "rarity": "common",
+    "name": "Railroad Spikes",
+    "desc": "Use: A ranged attack."
+  },
+  "NailBoard": {
+    "id": "NailBoard",
+    "kind": "weapon",
+    "rarity": "uncommon",
+    "name": "Nail Board",
+    "desc": "Use: A wide melee attack."
+  },
+  "LilSlugger": {
+    "id": "LilSlugger",
+    "kind": "weapon",
+    "rarity": "common",
+    "name": "Lil' Slugger",
+    "desc": "Use: Knock back a unit 5 tiles."
+  },
+  "ChumBucket": {
+    "id": "ChumBucket",
+    "kind": "weapon",
+    "rarity": "common",
+    "name": "Chum Bucket",
+    "desc": "Use: A lobbed attack that creates a creep puddle."
+  },
+  "MeatHook": {
+    "id": "MeatHook",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Meat Hook",
+    "desc": "Use: Pull a unit toward you."
+  },
+  "Kebab": {
+    "id": "Kebab",
+    "kind": "weapon",
+    "rarity": "uncommon",
+    "name": "Kebab",
+    "desc": "Use: A melee attack with +1 reach that penetrates through units."
+  },
+  "Pipe": {
+    "id": "Pipe",
+    "kind": "weapon",
+    "rarity": "uncommon",
+    "name": "Pipe",
+    "desc": "Use: A melee attack with a 10% chance to inflict Stun."
+  },
+  "ObsidianChunk": {
+    "id": "ObsidianChunk",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Obsidian Chunk",
+    "desc": "Use: A melee attack.\nThis weapon gains +2 damage each time it's used.\nDamage resets at the end of the adventure."
+  },
+  "SoulClaw": {
+    "id": "SoulClaw",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Soul Claw",
+    "desc": "Use: A melee attack that deals damage equal to the number of uses this has left.\nWhen this weapon kills a unit, it gains +2 uses."
+  },
+  "Bomb": {
+    "id": "Bomb",
+    "kind": "weapon",
+    "rarity": "uncommon",
+    "name": "Bomb",
+    "desc": "Use: Throw a bomb that explodes."
+  },
+  "BoneClub": {
+    "id": "BoneClub",
+    "kind": "weapon",
+    "rarity": "uncommon",
+    "name": "Bone Club",
+    "desc": "Use: A melee attack.\nThis weapon has a 15% chance to break each time it's used."
+  },
+  "Molars": {
+    "id": "Molars",
+    "kind": "weapon",
+    "rarity": "common",
+    "name": "Molars",
+    "desc": "Use: A low-damage lobbed attack."
+  },
+  "Whetstone": {
+    "id": "Whetstone",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Whetstone",
+    "desc": "Use: Gain +1 Damage for the rest of the battle."
+  },
+  "Hairspray": {
+    "id": "Hairspray",
+    "kind": "weapon",
+    "rarity": "uncommon",
+    "name": "Modded Hairspray",
+    "desc": "Use: Deal fire damage in a cone."
+  },
+  "Lighter": {
+    "id": "Lighter",
+    "kind": "weapon",
+    "rarity": "common",
+    "name": "Lighter",
+    "desc": "Use: Inflict Burn 1 on an adjacent unit."
+  },
+  "SeedBombs": {
+    "id": "SeedBombs",
+    "kind": "weapon",
+    "rarity": "uncommon",
+    "name": "Seed Bombs",
+    "desc": "Use: A lobbed projectile that spawns tall grass."
+  },
+  "Battery": {
+    "id": "Battery",
+    "kind": "weapon",
+    "rarity": "uncommon",
+    "name": "Battery",
+    "desc": "Use: A ranged lightning attack with a 10% chance to Stun."
+  },
+  "TinkererBattery": {
+    "id": "TinkererBattery",
+    "name": "TinkererBattery"
+  },
+  "OldHose": {
+    "id": "OldHose",
+    "kind": "weapon",
+    "rarity": "common",
+    "name": "Old Hose",
+    "desc": "Use: A water attack that hits an entire line with Knockback 1."
+  },
+  "SixPack": {
+    "id": "SixPack",
+    "kind": "weapon",
+    "rarity": "uncommon",
+    "name": "Six Pack",
+    "desc": "Use: A lobbed water attack that deals splash damage."
+  },
+  "IceCubes": {
+    "id": "IceCubes",
+    "kind": "weapon",
+    "rarity": "uncommon",
+    "name": "Ice Cubes",
+    "desc": "Use: A lobbed attack that Freezes units.\n[s:.7](Usable once per battle.)[/s]"
+  },
+  "DryIce": {
+    "id": "DryIce",
+    "kind": "weapon",
+    "rarity": "uncommon",
+    "name": "Dry Ice",
+    "desc": "Use: An Ice Element melee attack that inflicts Slow."
+  },
+  "Bottles": {
+    "id": "Bottles",
+    "kind": "weapon",
+    "rarity": "common",
+    "name": "Bottles",
+    "desc": "Use: A lobbed attack that spawns a glass tile."
+  },
+  "TinkererBottles": {
+    "id": "TinkererBottles",
+    "name": "TinkererBottles"
+  },
+  "Stick": {
+    "id": "Stick",
+    "kind": "weapon",
+    "rarity": "common",
+    "name": "Stick",
+    "desc": "Use: A melee attack with +1 reach."
+  },
+  "TinkererStick": {
+    "id": "TinkererStick",
+    "name": "TinkererStick"
+  },
+  "TutorialStick": {
+    "id": "TutorialStick",
+    "name": "TutorialStick"
+  },
+  "RubberFist": {
+    "id": "RubberFist",
+    "kind": "weapon",
+    "rarity": "uncommon",
+    "name": "Rubber Fist",
+    "desc": "Use: A melee attack with Knockback 1 that inflicts Confusion."
+  },
+  "BarbedPaw": {
+    "id": "BarbedPaw",
+    "kind": "weapon",
+    "rarity": "uncommon",
+    "name": "Barbed Paw",
+    "desc": "Use: A melee attack that inflicts Bleed 1.\nPassive: +1 Thorns."
+  },
+  "GnarledClaw": {
+    "id": "GnarledClaw",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Gnarled Claw",
+    "desc": "Use: A melee attack.\nThis weapon gains +1 damage and +1 use when it gets a kill.\nDamage resets at the end of the adventure."
+  },
+  "Garbage": {
+    "id": "Garbage",
+    "kind": "weapon",
+    "name": "Garbage",
+    "desc": "Use: A lobbed attack that inflicts Poison 1."
+  },
+  "Shotgun": {
+    "id": "Shotgun",
+    "kind": "weapon",
+    "rarity": "very_rare",
+    "name": "Shotgun",
+    "desc": "Use: Fires 5 projectiles in a cone."
+  },
+  "Revolver": {
+    "id": "Revolver",
+    "kind": "weapon",
+    "rarity": "very_rare",
+    "name": "Revolver",
+    "desc": "Use: Fire a shot in a straight line that instakills units and deals 25 damage to bosses."
+  },
+  "Sniper": {
+    "id": "Sniper",
+    "kind": "weapon",
+    "rarity": "very_rare",
+    "name": "Sniper Rifle",
+    "desc": "Use: Fire a shot that instakills units and deals 25 damage to bosses."
+  },
+  "SmallBomb": {
+    "id": "SmallBomb",
+    "kind": "weapon",
+    "rarity": "common",
+    "name": "Small Bomb",
+    "desc": "Use: Throw a bomb that explodes."
+  },
+  "PogoStick": {
+    "id": "PogoStick",
+    "kind": "weapon",
+    "rarity": "uncommon",
+    "name": "Pogo Stick",
+    "desc": "Use: Jump to a tile and damage units you land on."
+  },
+  "Spitball": {
+    "id": "Spitball",
+    "kind": "weapon",
+    "rarity": "uncommon",
+    "name": "Spitball",
+    "desc": "Use: A ranged attack that inflicts Slow."
+  },
+  "MiniJetpack": {
+    "id": "MiniJetpack",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Mini Jetpack",
+    "desc": "Use: Fly to a random tile within a target area. If you land on a unit, explode dealing 5 damage in an area (including to yourself)."
+  },
+  "BigStick": {
+    "id": "BigStick",
+    "kind": "weapon",
+    "rarity": "uncommon",
+    "name": "Big Stick",
+    "desc": "Use: A melee attack with +2 reach."
+  },
+  "TinkererBigStick": {
+    "id": "TinkererBigStick",
+    "name": "TinkererBigStick"
+  },
+  "BiggestStick": {
+    "id": "BiggestStick",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Biggest Stick",
+    "desc": "Use: A melee attack with +3 reach."
+  },
+  "TinkererBiggestStick": {
+    "id": "TinkererBiggestStick",
+    "name": "TinkererBiggestStick"
+  },
+  "Log": {
+    "id": "Log",
+    "kind": "weapon",
+    "rarity": "very_rare",
+    "name": "Log",
+    "desc": "Use: A wide attack that hits all units in an area."
+  },
+  "TinkererLog": {
+    "id": "TinkererLog",
+    "name": "TinkererLog"
+  },
+  "Taser": {
+    "id": "Taser",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Zapper",
+    "desc": "Use: A ranged electric attack that inflicts Stun."
+  },
+  "TinkererTaser": {
+    "id": "TinkererTaser",
+    "name": "TinkererTaser"
+  },
+  "Deathbot": {
+    "id": "Deathbot",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Deathbot",
+    "desc": "Use: Spawn a Deathbot with a flamethrower."
+  },
+  "Crossbow": {
+    "id": "Crossbow",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Crossbow",
+    "desc": "Use: A ranged attack that ignores shield and inflicts Bleed 1."
+  },
+  "TinkererCrossbow": {
+    "id": "TinkererCrossbow",
+    "name": "TinkererCrossbow"
+  },
+  "BucketOfAcid": {
+    "id": "BucketOfAcid",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Vial of Acid",
+    "desc": "Use: A melee attack that inflicts random status effects."
+  },
+  "StunGun": {
+    "id": "StunGun",
+    "kind": "weapon",
+    "rarity": "uncommon",
+    "name": "Stun Gun",
+    "desc": "Use: An electric melee attack with a 50% chance to inflict Stun."
+  },
+  "SlingShot": {
+    "id": "SlingShot",
+    "kind": "weapon",
+    "rarity": "uncommon",
+    "name": "Slingshot",
+    "desc": "Use: A ranged attack with a 33% chance to inflict Blind 2."
+  },
+  "TinkererSlingShot": {
+    "id": "TinkererSlingShot",
+    "name": "TinkererSlingShot"
+  },
+  "Uzi": {
+    "id": "Uzi",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Submachine Gun",
+    "desc": "Use: Fire 5 shots in a straight line."
+  },
+  "BagOfRocks": {
+    "id": "BagOfRocks",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Bag of Rocks",
+    "desc": "Use: A melee attack that inflicts Bruise."
+  },
+  "Textbook": {
+    "id": "Textbook",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Textbook",
+    "desc": "Use: Gain +1 [img:int] for the rest of the battle."
+  },
+  "BucketOfLard": {
+    "id": "BucketOfLard",
+    "kind": "weapon",
+    "rarity": "uncommon",
+    "name": "Bucket of Lard",
+    "desc": "Use: Gain +2 [img:con] and -1 [img:spd], then heal 4 HP."
+  },
+  "NailGun": {
+    "id": "NailGun",
+    "kind": "weapon",
+    "rarity": "uncommon",
+    "name": "Nail Gun",
+    "desc": "Use: Fire a shot in a straight line that inflicts +1 Thorns."
+  },
+  "StrongMagnet": {
+    "id": "StrongMagnet",
+    "kind": "weapon",
+    "rarity": "uncommon",
+    "name": "Strong Magnet",
+    "desc": "Use: Pull a unit 2 tiles toward you."
+  },
+  "SawBlades": {
+    "id": "SawBlades",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Sawblades",
+    "desc": "Use: Throw a blade in a straight line that inflicts Bleed 1 and passes through units."
+  },
+  "OddRemote": {
+    "id": "OddRemote",
+    "kind": "weapon",
+    "rarity": "uncommon",
+    "name": "Odd Remote",
+    "desc": "Use: Cast a random spell."
+  },
+  "ButterflyKnife": {
+    "id": "ButterflyKnife",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Butterfly Knife",
+    "desc": "Use: A multi-hit melee attack that inflicts Bleed.\n[s:.7](Usable once per battle.)[/s]"
+  },
+  "BearTraps": {
+    "id": "BearTraps",
+    "kind": "weapon",
+    "rarity": "uncommon",
+    "name": "Bear Traps",
+    "desc": "Use: Place a Bear Trap."
+  },
+  "RustyRazor": {
+    "id": "RustyRazor",
+    "kind": "weapon",
+    "rarity": "uncommon",
+    "name": "Rusty Razor",
+    "desc": "Use: A melee attack that inflicts Poison 1 and Bleed 1."
+  },
+  "Bricks": {
+    "id": "Bricks",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Bricks",
+    "desc": "Use: A lobbed attack that inflicts Stun.\n[s:.7](Usable once per battle.)[/s]"
+  },
+  "Mjolnir": {
+    "id": "Mjolnir",
+    "kind": "weapon",
+    "rarity": "very_rare",
+    "name": "Mjolnir",
+    "desc": "Use: A ranged attack that passes through units and returns to you after you throw it. At its apex, it deals electric damage.\n[s:.7](Usable once per battle.)[/s]"
+  },
+  "Blackjack": {
+    "id": "Blackjack",
+    "kind": "weapon",
+    "rarity": "uncommon",
+    "name": "Blackjack",
+    "desc": "Use: A melee attack with a 5% chance to Stun.\nAutomatically use this when you stop next to an enemy or an enemy stops next to you."
+  },
+  "BigSpring": {
+    "id": "BigSpring",
+    "kind": "weapon",
+    "rarity": "uncommon",
+    "name": "Big Spring",
+    "desc": "Use: Throw an adjacent unit to a tile."
+  },
+  "Grenade": {
+    "id": "Grenade",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Grenade",
+    "desc": "Use: Throw a grenade that explodes and shreds 5 stacks of random buffs off of whatever it hits."
+  },
+  "Pinwheel": {
+    "id": "Pinwheel",
+    "kind": "weapon",
+    "rarity": "common",
+    "name": "Pinwheel",
+    "desc": "Use: A melee wind attack with Knockback 1.\nCan be used 3 times per turn."
+  },
+  "CrispPaper": {
+    "id": "CrispPaper",
+    "kind": "weapon",
+    "rarity": "uncommon",
+    "name": "Crisp Paper",
+    "desc": "Use: A ranged attack that inflicts Bleed 3.\n[s:.7](Usable once per battle.)[/s]"
+  },
+  "PurpleMushroom": {
+    "id": "PurpleMushroom",
+    "kind": "weapon",
+    "rarity": "common",
+    "name": "Purple Mushroom",
+    "desc": "Use: A ranged attack that inflicts Confusion 2.\n[s:.7](Usable once per battle.)[/s]"
+  },
+  "BlackMushroom": {
+    "id": "BlackMushroom",
+    "kind": "weapon",
+    "rarity": "common",
+    "name": "Black Mushroom",
+    "desc": "Use: A ranged attack that inflicts Weakness 2.\n[s:.7](Usable once per battle.)[/s]"
+  },
+  "RedMushroom": {
+    "id": "RedMushroom",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Red Mushroom",
+    "desc": "Use: A ranged attack that inflicts Charm 3.\n[s:.7](Usable once per battle.)[/s]"
+  },
+  "PoisonVial": {
+    "id": "PoisonVial",
+    "kind": "weapon",
+    "rarity": "common",
+    "name": "Les Toxin",
+    "desc": "Use: A ranged attack that inflicts Poison 2.\n[s:.7](Usable once per battle.)[/s]"
+  },
+  "PopCap": {
+    "id": "PopCap",
+    "kind": "weapon",
+    "rarity": "common",
+    "name": "Pop Cap",
+    "desc": "Use: A lobbed attack with Knockback 1."
+  },
+  "CreepyPhoto": {
+    "id": "CreepyPhoto",
+    "kind": "weapon",
+    "rarity": "uncommon",
+    "name": "Creepy Photo",
+    "desc": "Use: A melee attack that inflicts Fear 1.\n[s:.7](Usable once per battle.)[/s]"
+  },
+  "FingerBone": {
+    "id": "FingerBone",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Finger Bone",
+    "desc": "Use: A straight ranged attack that inflicts Immobile 3.\n[s:.7](Usable once per battle.)[/s]"
+  },
+  "SpringBoard": {
+    "id": "SpringBoard",
+    "kind": "weapon",
+    "rarity": "common",
+    "name": "Spring Board",
+    "desc": "Use: A melee attack that lobs a unit back 3 tiles."
+  },
+  "Shovel": {
+    "id": "Shovel",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Shovel",
+    "desc": "Use: A melee attack that lobs a unit back 2 tiles and digs up a corpse."
+  },
+  "Trowel": {
+    "id": "Trowel",
+    "kind": "weapon",
+    "rarity": "common",
+    "name": "Trowel",
+    "desc": "Use: A melee attack with Knockback 1 that spawns a rock."
+  },
+  "StaffOfFlame": {
+    "id": "StaffOfFlame",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Staff of Flame",
+    "desc": "Use: A fire attack that inflicts Burn 5.\n[s:.7](Usable once per battle.)[/s]"
+  },
+  "LacedNeedle": {
+    "id": "LacedNeedle",
+    "kind": "weapon",
+    "rarity": "uncommon",
+    "name": "Laced Needle",
+    "desc": "Use: A melee attack that inflicts Poison 1.\nCan be used 3 times per turn."
+  },
+  "BattleAxe": {
+    "id": "BattleAxe",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Battle Axe",
+    "desc": "Use: A melee spin attack.\nThis uses up both your movement and attack action."
+  },
+  "AnointingOil": {
+    "id": "AnointingOil",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Anointing Oil",
+    "desc": "Use: Cleanse debuffs from an adjacent unit or yourself.\n[s:.7](Usable once per battle.)[/s]"
+  },
+  "Girder": {
+    "id": "Girder",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Girder",
+    "desc": "Use: A melee attack with Knockback 10 and Chain Knockback.\n[s:.7](Usable once per battle.)[/s]\nPassive: +1 Brace while this weapon is usable."
+  },
+  "InfinityArrow": {
+    "id": "InfinityArrow",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Arrow of Infinity",
+    "desc": "Use: Your next basic attack has +5 range, +100% Crit Chance, ignores shield and can't miss.\n[s:.7](Usable once per battle.)[/s]"
+  },
+  "BentSpoon": {
+    "id": "BentSpoon",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Bent Spoon",
+    "desc": "Use: Pull any unit 1 tile toward you and deal 1 damage to it."
+  },
+  "UnderworldStaff": {
+    "id": "UnderworldStaff",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Staff of the Underworld",
+    "desc": "Use: A melee attack with Knockback 1.\nPassive: Start each battle with a Zombie Cat familiar."
+  },
+  "Bo": {
+    "id": "Bo",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Bo",
+    "desc": "Use: A melee attack. On hit, jump forward 2 tiles."
+  },
+  "BallPeenHammer": {
+    "id": "BallPeenHammer",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Ball-Peen Hammer",
+    "desc": "Use: A melee attack. If used on an ally, give +1 use to all of their items instead of dealing damage.\n5% chance to break when used to repair items."
+  },
+  "ButchersCleaver": {
+    "id": "ButchersCleaver",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Butcher's Cleaver",
+    "desc": "Use: A melee attack with Cleave that can hit diagonally."
+  },
+  "RainStaff": {
+    "id": "RainStaff",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Rain Staff",
+    "desc": "Use: Spawn a large puddle of water anywhere."
+  },
+  "LilKitty": {
+    "id": "LilKitty",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Lil' Kitty",
+    "desc": "Use: Spawn a Flea familiar."
+  },
+  "TractorBeam": {
+    "id": "TractorBeam",
+    "kind": "weapon",
+    "rarity": "uncommon",
+    "name": "Tractor Beam",
+    "desc": "Use: Pull a unit within 3 tiles all the way towards you. Requires line of sight."
+  },
+  "RollOfPennies": {
+    "id": "RollOfPennies",
+    "kind": "weapon",
+    "rarity": "uncommon",
+    "name": "Roll of Pennies",
+    "desc": "Use: A weak melee attack that has a 50% chance to spawn a coin. \n5% chance to break when used.\nGain a lot of coins when it breaks."
+  },
+  "GrapplingHook": {
+    "id": "GrapplingHook",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Grappling Hook",
+    "desc": "Use: Pull yourself toward a unit or object."
+  },
+  "Chainsaw": {
+    "id": "Chainsaw",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Chainsaw",
+    "desc": "Use: A multi-hit melee attack with a 25% chance to Cleave.\n[s:.7](Usable once per battle.)[/s]\nPassive: +2 Thorns."
+  },
+  "BurningCoal": {
+    "id": "BurningCoal",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Burning Coals",
+    "desc": "Use: A lobbed attack that inflicts Burn 2 and +2 [img:spd].\nPassive: Gain Burn 1 and +2 [img:spd] at the start of each turn."
+  },
+  "RainbowRemote": {
+    "id": "RainbowRemote",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Rainbow Remote",
+    "desc": "Use: Cast a targeted random spell.\n[s:.7](Usable once per battle.)[/s]"
+  },
+  "RubberBat": {
+    "id": "RubberBat",
+    "kind": "weapon",
+    "rarity": "uncommon",
+    "name": "Rubber Bat",
+    "desc": "Use: A melee attack that inflicts Confusion 1 and turns the unit to the right."
+  },
+  "RustedRod": {
+    "id": "RustedRod",
+    "kind": "weapon",
+    "rarity": "uncommon",
+    "name": "Rusted Rod",
+    "desc": "Use: A melee attack with damage equal to uses."
+  },
+  "MeatCleaver": {
+    "id": "MeatCleaver",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Meat Cleaver",
+    "desc": "Use: A melee attack with Cleave that deals damage equal to half the target's current HP.\nBosses take 1/6th of their current HP in damage instead.\n[s:.7](Usable once per battle.)[/s]"
+  },
+  "SharpStraw": {
+    "id": "SharpStraw",
+    "kind": "weapon",
+    "rarity": "uncommon",
+    "name": "Sharp Straw",
+    "desc": "Use: A weak melee attack.\nIf it kills a unit, heal 10 HP."
+  },
+  "BagOfGlass": {
+    "id": "BagOfGlass",
+    "kind": "weapon",
+    "rarity": "uncommon",
+    "name": "Bag o' Glass",
+    "desc": "Use: Spawn Glass on an adjacent tile.\n5% chance to break when used."
+  },
+  "BagOfMeat": {
+    "id": "BagOfMeat",
+    "kind": "weapon",
+    "rarity": "uncommon",
+    "name": "Bag o' Meat",
+    "desc": "Use: Spawn Meat on an adjacent tile.\n5% chance to break when used."
+  },
+  "BagOfGlitter": {
+    "id": "BagOfGlitter",
+    "kind": "weapon",
+    "rarity": "uncommon",
+    "name": "Bag o' Glitter",
+    "desc": "Use: Inflict Blind 2 on an adjacent unit.\n5% chance to break when used."
+  },
+  "BagOfStuff": {
+    "id": "BagOfStuff",
+    "kind": "weapon",
+    "rarity": "common",
+    "name": "Bag o' Stuff",
+    "desc": "Use: Spawn a random pickup on an adjacent tile.\n5% chance to break when used."
+  },
+  "Pickaxe": {
+    "id": "Pickaxe",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Pickaxe",
+    "desc": "Use: A melee attack that ignores shield.\nIf used on static or inanimate objects it destroys them and spawns a Rock. Restore 1 use when used this way."
+  },
+  "RocketLauncher": {
+    "id": "RocketLauncher",
+    "kind": "weapon",
+    "rarity": "very_rare",
+    "name": "Rocket Launcher",
+    "desc": "Use: Fire a rocket anywhere that explodes."
+  },
+  "FreyedWires": {
+    "id": "FreyedWires",
+    "kind": "weapon",
+    "rarity": "uncommon",
+    "name": "Frayed Wires",
+    "desc": "Use: An electric melee attack that can chain through adjacent units.\n[s:.7](Usable once per battle.)[/s]"
+  },
+  "OldExtinguisher": {
+    "id": "OldExtinguisher",
+    "kind": "weapon",
+    "rarity": "uncommon",
+    "name": "Old Extinguisher",
+    "desc": "Use: Extinguishes fires in a cone with Knockback 5.\n[s:.7](Usable once per battle.)[/s]"
+  },
+  "TrashCanLid": {
+    "id": "TrashCanLid",
+    "kind": "weapon",
+    "rarity": "uncommon",
+    "name": "Trash Can Lid",
+    "desc": "Use: A melee attack with Knockback 1."
+  },
+  "MiniNuke": {
+    "id": "MiniNuke",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Mini Nuke",
+    "desc": "Use: Throw a mini nuke that makes a HUGE explosion that spawns toxic sludge."
+  },
+  "Kandarian": {
+    "id": "Kandarian",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "The Kandarian",
+    "desc": "Use: A melee attack that always crits and inflicts Bleed 10."
+  },
+  "Geode": {
+    "id": "Geode",
+    "kind": "weapon",
+    "rarity": "common",
+    "name": "Geode",
+    "desc": "Use: A melee attack with a 5% chance to break when used.\nWhen it breaks, gain 15-30 coins."
+  },
+  "Rocks": {
+    "id": "Rocks",
+    "kind": "weapon",
+    "rarity": "common",
+    "name": "Rocks",
+    "desc": "Use: A lobbed attack."
+  },
+  "ExtraLimb": {
+    "id": "ExtraLimb",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Extra Limb",
+    "desc": "Use: An attack that copies your basic attack."
+  },
+  "GripTrainer": {
+    "id": "GripTrainer",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Grip Trainer",
+    "desc": "Use: Gain +1 [img:str]."
+  },
+  "ShoeHorn": {
+    "id": "ShoeHorn",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Shoe Horn",
+    "desc": "Use: Gain +2 [img:spd]."
+  },
+  "Cheese": {
+    "id": "Cheese",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Cheese",
+    "desc": "Use: Gain +1 [img:con] and heal 2 HP."
+  },
+  "LipFiller": {
+    "id": "LipFiller",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Lip Filler",
+    "desc": "Use: Gain +1 [img:cha] and 2 mana."
+  },
+  "EnergyDrink": {
+    "id": "EnergyDrink",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Energy Drink",
+    "desc": "Use: Gain +1 [img:dex] and +1 [img:spd]."
+  },
+  "CatPaw": {
+    "id": "CatPaw",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Cat Paw",
+    "desc": "Use: A melee attack that has a 25% chance to refresh itself when used."
+  },
+  "FlowerMix": {
+    "id": "FlowerMix",
+    "kind": "weapon",
+    "rarity": "uncommon",
+    "name": "Flower Mix",
+    "desc": "Use: Plant flowers in a large area. \n[s:.7](Usable once per battle.)[/s]"
+  },
+  "PuzzleBox": {
+    "id": "PuzzleBox",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Puzzle Box",
+    "desc": "Use: Shoot hooks in 8 directions that inflict Bleed 1 and pull units towards you.\n[s:.7](Usable once per battle.)[/s]"
+  },
+  "Crowbar": {
+    "id": "Crowbar",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Crowbar",
+    "desc": "Use: A melee attack that destroys trash bags and crates, scattering extra pickups."
+  },
+  "FireFlower": {
+    "id": "FireFlower",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Fire Flower",
+    "desc": "Use: Shoot a fireball that inflicts Burn 2 in an area.\n[s:.7](Usable once per battle.)[/s]"
+  },
+  "Bible": {
+    "id": "Bible",
+    "kind": "weapon",
+    "rarity": "uncommon",
+    "name": "The Bible",
+    "desc": "Use: Cleanse one stack of a random debuff from a unit at melee range. \nPassive: Your heals heal for 1 extra."
+  },
+  "CarBattery": {
+    "id": "CarBattery",
+    "kind": "weapon",
+    "rarity": "uncommon",
+    "name": "Car Battery",
+    "desc": "Use: An electric melee attack that has a 50% chance to chain to another enemy within 3 tiles. Can only be used while at full mana."
+  },
+  "ModelingClay": {
+    "id": "ModelingClay",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Modeling Clay",
+    "desc": "{str_aux_item_desc}\r\n[s:.7](This changes into a different weapon each time it's used.)[/s]"
+  },
+  "ModelingClay_Default": {
+    "id": "ModelingClay_Default",
+    "kind": "weapon",
+    "name": "Modeling Clay",
+    "desc": "Use: A lobbed attack."
+  },
+  "PharaohStaff": {
+    "id": "PharaohStaff",
+    "kind": "weapon",
+    "rarity": "very_rare",
+    "name": "Pharaoh's Staff",
+    "desc": "Use: Summon a swarm of charmed flies.\nWhen you destroy a corpse, restore this weapon's use."
+  },
+  "SlagMight": {
+    "id": "SlagMight",
+    "kind": "weapon",
+    "rarity": "very_rare",
+    "name": "Slag Might",
+    "desc": "Use: A melee attack with Bruise 1 and Knockback 5.\n[s:.7](Usable once per battle.)[/s]"
+  },
+  "MomsToeNail": {
+    "id": "MomsToeNail",
+    "kind": "weapon",
+    "name": "Mom's Toenail",
+    "desc": "Use: A melee attack."
+  },
+  "AlienBlaster": {
+    "id": "AlienBlaster",
+    "kind": "weapon",
+    "name": "Alien Blaster",
+    "desc": "Use: A laser attack. Gains +1 damage for the rest of the battle each time it's used."
+  },
+  "PolymorphRemote": {
+    "id": "PolymorphRemote",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Polymorph Remote",
+    "desc": "Use: Transform a non-boss enemy into another random enemy from the same chapter.\n[s:.7](Usable once per battle.)[/s]"
+  },
+  "MelonBaller": {
+    "id": "MelonBaller",
+    "kind": "weapon",
+    "rarity": "uncommon",
+    "name": "Melon Baller",
+    "desc": "Use: A melee attack that inflicts Blind 3 and gives you a random eye trinket if you don't have a trinket equipped."
+  },
+  "EtherSoakedRag": {
+    "id": "EtherSoakedRag",
+    "kind": "weapon",
+    "rarity": "uncommon",
+    "name": "Ether Soaked Rag",
+    "desc": "Use: Put an adjacent unit or yourself to sleep. That unit gets +5 Health Regen and +5 Mana Regen until it wakes up.\n[s:.7](Usable once per battle.)[/s]"
+  },
+  "DeathsScythe": {
+    "id": "DeathsScythe",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Death's Scythe",
+    "desc": "Use: A spin attack. After using this, die at the end of your turn."
+  },
+  "Necronomicon": {
+    "id": "Necronomicon",
+    "kind": "weapon",
+    "rarity": "uncommon",
+    "name": "Necronomicon",
+    "desc": "Use: Unearth 5 zombies. These zombies have a 33% chance of having Madness.\n[s:.7](Usable once per battle.)[/s]"
+  },
+  "Jitte": {
+    "id": "Jitte",
+    "kind": "weapon",
+    "rarity": "uncommon",
+    "name": "Jitte",
+    "desc": "Use: A melee attack that deals damage equal to half your [img:str] rounded up, inflicts Weakness 1, and gives you +1 [img:str] and +1 HP on hit."
+  },
+  "AnarchistCookbook": {
+    "id": "AnarchistCookbook",
+    "kind": "weapon",
+    "rarity": "uncommon",
+    "name": "Anarchist Cookbook",
+    "desc": "Use: Summon 3-5 grenades that explode at the end of the round or when destroyed."
+  },
+  "MomsKnife": {
+    "id": "MomsKnife",
+    "kind": "weapon",
+    "rarity": "very_rare",
+    "name": "Mom's Knife",
+    "desc": "Use: Throw a penetrating projectile that returns to you."
+  },
+  "MysteriousBone": {
+    "id": "MysteriousBone",
+    "kind": "weapon",
+    "rarity": "very_rare",
+    "name": "Mysterious Bone",
+    "desc": "Use: A melee attack with a 25% chance to inflict Charm."
+  },
+  "HolyGrail": {
+    "id": "HolyGrail",
+    "kind": "weapon",
+    "rarity": "very_rare",
+    "name": "Holy Grail",
+    "desc": "Use: Heal an adjacent unit or yourself for 5 HP."
+  },
+  "SpearOfDestiny": {
+    "id": "SpearOfDestiny",
+    "kind": "weapon",
+    "rarity": "very_rare",
+    "name": "Spear of Destiny",
+    "desc": "Use: A melee attack with +1 reach that penetrates through units.\nRELOAD: Collect a blessing pickup or get hit by a Holy Element spell."
+  },
+  "HeavyMace": {
+    "id": "HeavyMace",
+    "kind": "weapon",
+    "rarity": "very_rare",
+    "name": "Heavy Mace",
+    "desc": "Use: A melee attack with Knockback 2 that deals damage equal to your [img:str].\nCleaves and deals double damage to units with [img:shield]."
+  },
+  "UraniumRod": {
+    "id": "UraniumRod",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Uranium Rod",
+    "desc": "Use: A melee attack that inflicts -1 [img:con], Poison 2 and Weakness 1.\nAt the end of each battle, if you are downed, gain a random mutation."
+  },
+  "Ocarina": {
+    "id": "Ocarina",
+    "kind": "weapon",
+    "rarity": "uncommon",
+    "name": "Ocarina",
+    "desc": "Use: Cast a random musical spell."
+  },
+  "SmallMeteor": {
+    "id": "SmallMeteor",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Small Meteor",
+    "desc": "- {str_aux_active_name} -\r\n{str_aux_active_desc}"
+  },
+  "GlowingBone": {
+    "id": "GlowingBone",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Glowing Bone",
+    "desc": "- {str_aux_active_name} -\r\n{str_aux_active_desc}"
+  },
+  "IrradiatedObject": {
+    "id": "IrradiatedObject",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Irradiated Object",
+    "desc": "{str_aux_item_desc}"
+  },
+  "IrradiatedObject_Burn": {
+    "id": "IrradiatedObject_Burn",
+    "name": "IrradiatedObject_Burn",
+    "desc": "Use: A melee attack that inflicts Burn 1.\n{str_aux_item_desc}\n[s:.7](Usable once per battle.)[/s]"
+  },
+  "IrradiatedObject_Stun": {
+    "id": "IrradiatedObject_Stun",
+    "name": "IrradiatedObject_Stun",
+    "desc": "Use: A melee attack that inflicts Stun 1.\n{str_aux_item_desc}\n[s:.7](Usable once per battle.)[/s]"
+  },
+  "IrradiatedObject_Bleed": {
+    "id": "IrradiatedObject_Bleed",
+    "name": "IrradiatedObject_Bleed",
+    "desc": "Use: A melee attack that inflicts Bleed 1.\n{str_aux_item_desc}\n[s:.7](Usable once per battle.)[/s]"
+  },
+  "IrradiatedObject_Bruise": {
+    "id": "IrradiatedObject_Bruise",
+    "name": "IrradiatedObject_Bruise",
+    "desc": "Use: A melee attack that inflicts Bruise 1.\n{str_aux_item_desc}\n[s:.7](Usable once per battle.)[/s]"
+  },
+  "IrradiatedObject_Poison": {
+    "id": "IrradiatedObject_Poison",
+    "name": "IrradiatedObject_Poison",
+    "desc": "Use: A melee attack that inflicts Poison 1.\n{str_aux_item_desc}\n[s:.7](Usable once per battle.)[/s]"
+  },
+  "IrradiatedObject_Sleep": {
+    "id": "IrradiatedObject_Sleep",
+    "name": "IrradiatedObject_Sleep",
+    "desc": "Use: A melee attack that inflicts Sleep 1.\n{str_aux_item_desc}\n[s:.7](Usable once per battle.)[/s]"
+  },
+  "IrradiatedObject_Fear": {
+    "id": "IrradiatedObject_Fear",
+    "name": "IrradiatedObject_Fear",
+    "desc": "Use: A melee attack that inflicts Fear 1.\n{str_aux_item_desc}\n[s:.7](Usable once per battle.)[/s]"
+  },
+  "IrradiatedObject_Charmed": {
+    "id": "IrradiatedObject_Charmed",
+    "name": "IrradiatedObject_Charmed",
+    "desc": "Use: A melee attack that inflicts Charmed 1.\n{str_aux_item_desc}\n[s:.7](Usable once per battle.)[/s]"
+  },
+  "IrradiatedObject_Weakness": {
+    "id": "IrradiatedObject_Weakness",
+    "name": "IrradiatedObject_Weakness",
+    "desc": "Use: A melee attack that inflicts Weakness 1.\n{str_aux_item_desc}\n[s:.7](Usable once per battle.)[/s]"
+  },
+  "IrradiatedObject_Confusion": {
+    "id": "IrradiatedObject_Confusion",
+    "name": "IrradiatedObject_Confusion",
+    "desc": "Use: A melee attack that inflicts Confusion 1.\n{str_aux_item_desc}\n[s:.7](Usable once per battle.)[/s]"
+  },
+  "SteelBall": {
+    "id": "SteelBall",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Steel Ball",
+    "desc": "Use: Summon an invulnerable Fly familiar.\n[s:.7](Usable once per battle.)[/s]"
+  },
+  "USAShield": {
+    "id": "USAShield",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "USA Shield",
+    "desc": "Use: A ranged attack that inflicts Stun.\n[s:.7](Usable once per battle.)[/s]\nPassive: +2 Brace while this weapon is usable."
+  },
+  "TeslaCannon": {
+    "id": "TeslaCannon",
+    "kind": "weapon",
+    "rarity": "very_rare",
+    "name": "Tesla Cannon",
+    "desc": "Use: Fire a ranged electric shot that passes through units in a straight line with a 50% chance to Stun."
+  },
+  "MeatBomb": {
+    "id": "MeatBomb",
+    "kind": "weapon",
+    "rarity": "very_rare",
+    "name": "Meat Bomb",
+    "desc": "Use: Throw a bomb that explodes."
+  },
+  "BloodyStick": {
+    "id": "BloodyStick",
+    "kind": "weapon",
+    "rarity": "very_rare",
+    "name": "Bloody Stick",
+    "desc": "+1 Health Regen.\nUse: A melee attack with +1 reach."
+  },
+  "BucketOfBlood": {
+    "id": "BucketOfBlood",
+    "kind": "weapon",
+    "rarity": "very_rare",
+    "name": "Bucket of Blood",
+    "desc": "Use: Gain +2 [img:con] and -1 [img:spd], then heal 4 HP."
+  },
+  "BloodyButterflyKnife": {
+    "id": "BloodyButterflyKnife",
+    "kind": "weapon",
+    "rarity": "very_rare",
+    "name": "Bloody Knife",
+    "desc": "Use: A multi-hit melee attack with Lifesteal that inflicts Bleed.\n[s:.7](Usable once per battle.)[/s]"
+  },
+  "BloodyBearTraps": {
+    "id": "BloodyBearTraps",
+    "kind": "weapon",
+    "rarity": "very_rare",
+    "name": "Bloody Bear Traps",
+    "desc": "Use: Place a Bear Trap."
+  },
+  "BloodyBagOfGlass": {
+    "id": "BloodyBagOfGlass",
+    "kind": "weapon",
+    "rarity": "very_rare",
+    "name": "Bloody Bag of Glass",
+    "desc": "Use: Throw a projectile that creates glass."
+  },
+  "MeatSlugger": {
+    "id": "MeatSlugger",
+    "kind": "weapon",
+    "rarity": "very_rare",
+    "name": "Meat Slugger",
+    "desc": "Use: A melee attack with Knockback 10 that inflicts Bruise."
+  },
+  "BloodyMeatHook": {
+    "id": "BloodyMeatHook",
+    "kind": "weapon",
+    "rarity": "very_rare",
+    "name": "Bloody Meat Hook",
+    "desc": "Use: Pull a unit towards you, Cleaving and inflicting Bleed 1."
+  },
+  "BloodySoulClaw": {
+    "id": "BloodySoulClaw",
+    "kind": "weapon",
+    "rarity": "very_rare",
+    "name": "Bloody Soul Claw",
+    "desc": "Use: A melee attack that deals damage equal to the number of uses this has left.\nWhen this weapon kills a unit, it gains +2 uses and you heal 5 HP."
+  },
+  "BloodBucket": {
+    "id": "BloodBucket",
+    "kind": "weapon",
+    "rarity": "very_rare",
+    "name": "Blood Bucket",
+    "desc": "Use: A lobbed attack that creates a creep puddle."
+  },
+  "BloodySpikes": {
+    "id": "BloodySpikes",
+    "kind": "weapon",
+    "rarity": "very_rare",
+    "name": "Bloody Spikes",
+    "desc": "+1 Thorns.\nUse: A ranged attack."
+  },
+  "BottlesOfBlood": {
+    "id": "BottlesOfBlood",
+    "kind": "weapon",
+    "rarity": "very_rare",
+    "name": "Bottles of Blood",
+    "desc": "Use: A lobbed attack that creates glass tiles in an area."
+  },
+  "BlessedAnointingOil": {
+    "id": "BlessedAnointingOil",
+    "kind": "weapon",
+    "rarity": "very_rare",
+    "name": "Blessed Anointing Oil",
+    "desc": "Use: Cleanse debuffs and heal an adjacent unit or yourself."
+  },
+  "HarpysClaw": {
+    "id": "HarpysClaw",
+    "kind": "weapon",
+    "rarity": "very_rare",
+    "name": "Harpy's Claw",
+    "desc": "Use: A melee attack that inflicts Poison 1, Bleed 1, Confusion 1, Weakness 1, and Slow 1."
+  },
+  "RatBomb": {
+    "id": "RatBomb",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Rat Bomb",
+    "desc": "Use: Toss a Bomb that explodes at the end of the round."
+  },
+  "Spinnerets": {
+    "id": "Spinnerets",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Spinnerets",
+    "desc": "Use: A ranged attack that inflicts Webbed."
+  },
+  "ZodiacsSixshooter": {
+    "id": "ZodiacsSixshooter",
+    "kind": "weapon",
+    "rarity": "very_rare",
+    "name": "Zodiac's Six Shooter",
+    "desc": "Use: Fire a shot anywhere within your line of sight.\nAutomatically use this whenever an enemy ends movement within your line of sight.\nReloads at the end of each battle."
+  },
+  "GambitsDice": {
+    "id": "GambitsDice",
+    "kind": "weapon",
+    "rarity": "very_rare",
+    "name": "Gambit's Dice",
+    "desc": "Use: Throw a projectile that deals 1-6 damage at random.\nRELOAD: Cast a spell that costs exactly 6 mana."
+  },
+  "JohnnysStool": {
+    "id": "JohnnysStool",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Johnny's Stool",
+    "desc": "Use: A melee attack with Knockback 2.\nIf you end your turn with a unused movement actions, heal 3 HP and gain 3 Charge."
+  },
+  "AlienTech": {
+    "id": "AlienTech",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Alien Tech",
+    "desc": "Use: Target an area. Unleash a hyper beam attack in that area at the start of your next turn.\n[s:.7](Usable once per battle.)[/s]"
+  },
+  "Stacy100": {
+    "id": "Stacy100",
+    "kind": "weapon",
+    "rarity": "very_rare",
+    "name": "Stacy 100",
+    "desc": "Use: Spawn a Stacy.\n[s:.7](Usable once per battle.)[/s]"
+  },
+  "BungasBone": {
+    "id": "BungasBone",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Bunga's Bone",
+    "desc": "Use: A melee attack with Knockback 5."
+  },
+  "HitlersPistol": {
+    "id": "HitlersPistol",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Hitler's Pistol",
+    "desc": "Use: Fire a shot in a straight line."
+  },
+  "Bug": {
+    "id": "Bug",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Bug",
+    "desc": "Your basic attack is Metronome.\nUse: Cast a random spell."
+  },
+  "Fate": {
+    "id": "Fate",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Fate",
+    "desc": "Use: Summon meteors that hit random tiles everywhere. These meteors have a chance to stun, spawn fires, or leave rocks behind."
+  },
+  "MammothTusk": {
+    "id": "MammothTusk",
+    "kind": "weapon",
+    "rarity": "very_rare",
+    "name": "Mammoth Tusk",
+    "desc": "Use: A melee attack that inflicts Bruise 2 and Confusion. Become Drowsy after use.\n[s:.7](Usable once per battle.)[/s]"
+  },
+  "AmericanFlag": {
+    "id": "AmericanFlag",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "American Flag",
+    "desc": "Use: Force a unit to attack one of its enemies.\n[s:.7](Usable once per battle.)[/s]"
+  },
+  "BookOfBelial": {
+    "id": "BookOfBelial",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Book Of Belial",
+    "desc": "Use: Gain +3 Damage.\nRELOAD: Kill an enemy."
+  },
+  "MegaAlienBlaster": {
+    "id": "MegaAlienBlaster",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Mega Alien Blaster",
+    "desc": "Use: A laser attack. Gains +5 damage for the rest of the battle each time it's used.\nTake 5 damage when used."
+  },
+  "HellHook": {
+    "id": "HellHook",
+    "kind": "weapon",
+    "rarity": "very_rare",
+    "name": "Hell Hook",
+    "desc": "Use: Pull a unit toward you."
+  },
+  "DemonCore": {
+    "id": "DemonCore",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Demon Core",
+    "desc": "Start each battle with Poison 5. Inflict All Stats Down 2 on bosses and minibosses at the start of the battle.\nUse: A melee attack that causes a unit to die at the end of its next turn. Bosses fall asleep at the end of their next turn instead."
+  },
+  "BagOfChum": {
+    "id": "BagOfChum",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Bag Of Chum",
+    "desc": "Use: Spawn a Charmed Maggot."
+  },
+  "GoldenPickaxe": {
+    "id": "GoldenPickaxe",
+    "kind": "weapon",
+    "rarity": "very_rare",
+    "name": "Golden Pickaxe",
+    "desc": "Use: A melee attack that ignores shield.\nIf used on static or inanimate objects it destroys them and spawns a Coin.\nSpawn a coin on a random tile at the end of each turn."
+  },
+  "ManholeCover": {
+    "id": "ManholeCover",
+    "kind": "weapon",
+    "rarity": "very_rare",
+    "name": "Manhole Cover",
+    "desc": "Brace 2.\nUse: A ranged attack with Knockback 2 that passes through units and returns to you."
+  },
+  "TinasLarynx": {
+    "id": "TinasLarynx",
+    "kind": "weapon",
+    "rarity": "very_rare",
+    "name": "Tina's Larynx",
+    "desc": "Use: Inflict Fear on all enemies.\n[s:.7](Usable once per battle.)[/s]"
+  },
+  "RoboticArm": {
+    "id": "RoboticArm",
+    "kind": "weapon",
+    "rarity": "very_rare",
+    "name": "Robotic Arm",
+    "desc": "Use: A melee attack with a chance to repeat. Gains 1 damage for the rest of the battle each time it's used. Refreshes when affected by Electric element."
+  },
+  "StevensShotgun": {
+    "id": "StevensShotgun",
+    "kind": "weapon",
+    "rarity": "very_rare",
+    "name": "Steven's Shotgun",
+    "desc": "Use: Fires 5 projectiles in a cone. Using this recoils you 10 tiles backwards and Confuses you."
+  },
+  "StevensGristle": {
+    "id": "StevensGristle",
+    "kind": "weapon",
+    "rarity": "very_rare",
+    "name": "Steven's Gristle",
+    "desc": "Units don't leave corpses.\nUse: A melee attack.\nThis weapon gains +1 damage and +1 use when it gets a kill.\nDamage resets at the end of the adventure."
+  },
+  "StevensBagofRocks": {
+    "id": "StevensBagofRocks",
+    "kind": "weapon",
+    "rarity": "very_rare",
+    "name": "Steven's Bag of Rocks",
+    "desc": "Use: A melee attack with a chance to repeat that inflicts Bruise."
+  },
+  "StevensBottle": {
+    "id": "StevensBottle",
+    "kind": "weapon",
+    "rarity": "very_rare",
+    "name": "Steven's Bottle",
+    "desc": "Use: A ranged attack that creates a Tar tile."
+  },
+  "StevenWeapon1": {
+    "id": "StevenWeapon1",
+    "kind": "weapon",
+    "rarity": "very_rare",
+    "name": "Steven",
+    "desc": "Use: A melee attack. If this hits an allied cat, spawn a quarter-sized copy of them with 25% of their stats. The copy is AI controlled.\nRELOAD: An allied cat dies."
+  },
+  "StevenWeapon2": {
+    "id": "StevenWeapon2",
+    "kind": "weapon",
+    "rarity": "very_rare",
+    "name": "Steven",
+    "desc": "Use: A lobbed attack that inflicts Petrify.\nRELOAD: Kill a rock."
+  },
+  "ToyGun": {
+    "id": "ToyGun",
+    "kind": "weapon",
+    "rarity": "very_rare",
+    "name": "Toy Gun",
+    "desc": "Use: A melee attack with Knockback 10 and Chain Knockback that inflicts Bruise."
+  },
+  "Pliers": {
+    "id": "Pliers",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Pliers",
+    "desc": "Use: A melee attack that inflicts Weakness 3."
+  },
+  "FeatherDarts": {
+    "id": "FeatherDarts",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Feather Darts",
+    "desc": "Use: A ranged attack that can hit any unit in your line of sight.\nCan be used 3 times per turn."
+  },
+  "FeatheredWing": {
+    "id": "FeatheredWing",
+    "kind": "weapon",
+    "name": "Feathered Wing",
+    "desc": "Use: A wide wind attack with Knockback 3."
+  },
+  "MoneyBag_Small": {
+    "id": "MoneyBag_Small",
+    "kind": "weapon",
+    "rarity": "common",
+    "name": "Money Bag",
+    "desc": "Becomes {aux} coins when you return home.\nUse: A melee attack."
+  },
+  "MoneyBag_Medium": {
+    "id": "MoneyBag_Medium",
+    "kind": "weapon",
+    "rarity": "uncommon",
+    "name": "Money Bag",
+    "desc": "Becomes {aux} coins when you return home.\nUse: A melee attack."
+  },
+  "MoneyBag_Large": {
+    "id": "MoneyBag_Large",
+    "kind": "weapon",
+    "rarity": "rare",
+    "name": "Money Bag",
+    "desc": "Becomes {aux} coins when you return home.\nUse: A melee attack."
+  },
+  "MoneyBag_Huge": {
+    "id": "MoneyBag_Huge",
+    "kind": "weapon",
+    "rarity": "very_rare",
+    "name": "Money Bag",
+    "desc": "Becomes {aux} coins when you return home.\nUse: A melee attack."
+  },
+  "ThePact": {
+    "id": "ThePact",
+    "kind": "weapon",
+    "rarity": "very_rare",
+    "name": "The Pact",
+    "desc": "Use: Permanently lose 1 [img:con] to gain +1 [img:str], +2 [img:dex] and +2 [img:spd] for the rest of the battle."
+  },
+  "Probe": {
+    "id": "Probe",
+    "kind": "weapon",
+    "rarity": "very_rare",
+    "name": "Probe",
+    "desc": "Use: Inflict Charm 3. Can only hit from behind."
+  }
+}

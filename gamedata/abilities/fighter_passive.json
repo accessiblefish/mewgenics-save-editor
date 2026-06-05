@@ -1,0 +1,252 @@
+[
+  {
+    "name": "Frenzy",
+    "desc": "When you down a unit, gain +2 [img:str].",
+    "key": "BloodLust"
+  },
+  {
+    "name": "Frenzy2",
+    "desc": "When you down a unit, gain +2 [img:str] and +2 [img:spd].",
+    "key": "BloodLust2"
+  },
+  {
+    "name": "Avenger",
+    "desc": "When an allied cat is downed, gain All Stats Up 2 and heal 8.",
+    "key": "Avenger"
+  },
+  {
+    "name": "Avenger2",
+    "desc": "When an allied cat is downed, gain All Stats Up 2, heal 50% of your max HP, and take an extra turn.",
+    "key": "Avenger2"
+  },
+  {
+    "name": "Scars",
+    "desc": "+1 Brace.",
+    "key": "Scars"
+  },
+  {
+    "name": "Scars2",
+    "desc": "+3 Brace.",
+    "key": "Scars2"
+  },
+  {
+    "name": "Hulk Up",
+    "desc": "When you take damage, gain +2 [img:spd].",
+    "key": "FasterWhenHit"
+  },
+  {
+    "name": "HulkUp2",
+    "desc": "When you take damage, gain +2 [img:spd] and +10% dodge. This caps at 50%.",
+    "key": "FasterWhenHit2"
+  },
+  {
+    "name": "Fervor",
+    "desc": "When you down a unit, you heal 5 HP.",
+    "key": "KillsHeal"
+  },
+  {
+    "name": "Fervor2",
+    "desc": "When you down a unit, you heal 50% of your HP.",
+    "key": "KillsHeal2"
+  },
+  {
+    "name": "Vengeful",
+    "desc": "Your basic attack is always critical on enemies that have damaged you.",
+    "key": "Vengeful"
+  },
+  {
+    "name": "Vengeful2",
+    "desc": "Your basic attack is always critical on enemies units that have damaged you.\nInflict Marked on units that contact or attack you.",
+    "key": "Vengeful2"
+  },
+  {
+    "name": "Hamster Style",
+    "desc": "+1 Health Regeneration.\nStart with 2 Bonus Moves.",
+    "key": "HamsterStyle"
+  },
+  {
+    "name": "HamsterStyle2",
+    "desc": "+2 Health Regeneration.\nStart with 2 Bonus Moves.\nYour basic attack has a chance to attack multiple times.",
+    "key": "HamsterStyle2"
+  },
+  {
+    "name": "Weapon Master",
+    "desc": "Your weapon and item abilities deal +2 Damage and get +25% critical chance. A pipe is added to your inventory.",
+    "key": "WeaponMaster"
+  },
+  {
+    "name": "WeaponMaster2",
+    "desc": "Your weapon and item abilities deal +3 Damage and get +50% critical chance.\r\nIf you don't have a weapon, gain a random temporary weapon at the beginning of the battle.",
+    "key": "WeaponMaster2"
+  },
+  {
+    "name": "Shoulder Check",
+    "desc": "If you're facing a unit after you move, automatically attack it at 33% damage.",
+    "key": "ShoulderCheck"
+  },
+  {
+    "name": "ShoulderCheck2",
+    "desc": "If you're facing a unit after you move, automatically attack the unit.",
+    "key": "ShoulderCheck2"
+  },
+  {
+    "name": "Skullcrack",
+    "desc": "Your basic attack inflicts Bruise.",
+    "key": "SkullSmash"
+  },
+  {
+    "name": "Skullcrack2",
+    "desc": "Your basic attack inflicts Bruise 2.",
+    "key": "SkullSmash2"
+  },
+  {
+    "name": "Turtle Style",
+    "desc": "",
+    "key": "TurtleStyle"
+  },
+  {
+    "name": "TurtleStyle2",
+    "desc": "+2 Brace",
+    "key": "TurtleStyle2"
+  },
+  {
+    "name": "OVERPOWERED!!!",
+    "desc": "Excess damage you deal to units makes them explode, dealing the excess damage to units around it, except for you.",
+    "key": "Overpowered"
+  },
+  {
+    "name": "OVERPOWERED2",
+    "desc": "Excess damage you deal to units makes them explode, dealing the excess damage to units within 2 tiles of it, except for you.",
+    "key": "Overpowered2"
+  },
+  {
+    "name": "Underdog",
+    "desc": "You have +2 [img:str] and +1 Brace for each enemy adjacent to you.",
+    "key": "FightMe"
+  },
+  {
+    "name": "Underdog2",
+    "desc": "You have +3 [img:str] and +2 Brace for each enemy adjacent to you.",
+    "key": "FightMe2"
+  },
+  {
+    "name": "Math?",
+    "desc": "Your spells cost 3 mana to cast, but each can be cast only once per turn.",
+    "key": "HighAsYouCanCount"
+  },
+  {
+    "name": "Math2",
+    "desc": "Your spells cost 0 mana to cast, but each can be cast only once per turn.",
+    "key": "HighAsYouCanCount2"
+  },
+  {
+    "name": "Dumb Muscle",
+    "desc": "Lose 1 [img:int] each time you take damage.\nIf you have 4 or less [img:int], gain +2 [img:str] and your basic attack inflicts Bruise. at 0 [img:int], gain +100% critical hit chance.",
+    "key": "DumbMuscle"
+  },
+  {
+    "name": "DumbMuscle2",
+    "desc": "Lose 2 [img:int] each time you take damage.\nIf you have 4 or less [img:int], gain +2 [img:str] and your basic attack inflicts Bruise. At 0 [img:int], gain +100% critical hit chance. At -10 [img:int], you can use your basic move and attack an additional time each turn.",
+    "key": "DumbMuscle2"
+  },
+  {
+    "name": "Thick Skull",
+    "desc": "All injuries you get are Concussions.\nYou get +3 [img:shield] for each concussion you have. This caps at 30 [img:shield].",
+    "key": "ThickSkull"
+  },
+  {
+    "name": "ThickSkull2",
+    "desc": "All injuries you get are Concussions.\nYou get +3 [img:shield] and +1 [img:str] for each concussion you have. This caps at 30 [img:shield] and 10 [img:str].",
+    "key": "ThickSkull2"
+  },
+  {
+    "name": "Most Valuable Cat",
+    "desc": "When you or an ally downs another unit, they become the Alpha.\nIf you're the Alpha, take an extra turn at the end of each round.",
+    "key": "MostValuableCat"
+  },
+  {
+    "name": "MostValuableCat2",
+    "desc": "You start the battle as the Alpha.\nWhenever you or an ally downs another unit, they become the Alpha.\nIf you're the Alpha, take an extra turn at the end of each round.",
+    "key": "MostValuableCat2"
+  },
+  {
+    "name": "Rat Style",
+    "desc": "+10% dodge chance.",
+    "key": "RatStyle"
+  },
+  {
+    "name": "RatStyle2",
+    "desc": "+30% dodge chance.",
+    "key": "RatStyle2"
+  },
+  {
+    "name": "Boned",
+    "desc": "When you kill a unit, if you don't have a weapon, gain a Bone Club.",
+    "key": "Boned"
+  },
+  {
+    "name": "Boned2",
+    "desc": "When you kill a unit, if you don't have a weapon, gain a Bone Club.\r\nBonus Ability: Throw Weapon.",
+    "key": "Boned2"
+  },
+  {
+    "name": "Dual Wield",
+    "desc": "When you use your weapon, automatically use it again for free.",
+    "key": "DualWield"
+  },
+  {
+    "name": "DualWield2",
+    "desc": "When you use your weapon, automatically use it again for free, and then again! for free!",
+    "key": "DualWield2"
+  },
+  {
+    "name": "Patellar Reflex",
+    "desc": "When a unit damages you, counter-attack dealing 1 damage and inflicting Bruise.",
+    "key": "ReflexPunch"
+  },
+  {
+    "name": "PatellarReflex2",
+    "desc": "When a unit damages you, counter-attack with your basic attack and inflict Bruise.",
+    "key": "ReflexPunch2"
+  },
+  {
+    "name": "Hit Me",
+    "desc": "When you take damage from an ally, basic attack in the direction you're facing.\nDamage you take from allies is reduced to 1.",
+    "key": "HitMe"
+  },
+  {
+    "name": "HitMe2",
+    "desc": "When you take damage from an ally, basic attack in the direction you're facing.\nDamage you take from allies is reduced to 1.\nWhenever you take damage, gain +1 to a random stat.",
+    "key": "HitMe2"
+  },
+  {
+    "name": "Smash!",
+    "desc": "Your weapons deal triple damage, but they always break when you use them.\nThree Sticks are added to your inventory.",
+    "key": "Smash"
+  },
+  {
+    "name": "Smash2",
+    "desc": "Your weapons deal triple damage, but they have a 50% chance to break when you use them.\nThree more Sticks are added to your inventory.",
+    "key": "Smash2"
+  },
+  {
+    "name": "Punch Face",
+    "desc": "Your basic attacks are critical if they hit the front of a unit.",
+    "key": "PunchFace"
+  },
+  {
+    "name": "PunchFace2",
+    "desc": "Your physical attacks are critical if they hit the front of a unit.",
+    "key": "PunchFace2"
+  },
+  {
+    "name": "Merciless",
+    "desc": "When you deal 10 or more damage in a single hit, gain +2 [img:shield] and refresh your movement action.\n[s:.7](This doesn't trigger during your movement action.)[/s]",
+    "key": "Recoil"
+  },
+  {
+    "name": "Merciless2",
+    "desc": "When you deal 10 or more damage in a single hit, gain +2 [img:shield], All Stats Up, and refresh your movement action.\n[s:.7](This doesn't trigger during your movement action.)[/s]",
+    "key": "Recoil2"
+  }
+]

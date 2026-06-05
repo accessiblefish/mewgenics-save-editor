@@ -1,0 +1,262 @@
+[
+  {
+    "name": "Thorns",
+    "desc": "Thorns 2.",
+    "key": "Thorns"
+  },
+  {
+    "name": "Thorns2",
+    "desc": "Thorns 4.\nGain +1 Thorns when you take damage.",
+    "key": "Thorns2"
+  },
+  {
+    "name": "Heavy Handed",
+    "desc": "+2 Knockback Damage.",
+    "key": "HeavyHanded"
+  },
+  {
+    "name": "HeavyHanded2",
+    "desc": "+3 Knockback Damage.\r\nYour basic attack gains +3 Knockback.",
+    "key": "HeavyHanded2"
+  },
+  {
+    "name": "Slack Off",
+    "desc": "If you end your turn with unused movement actions, gain 8 HP.",
+    "key": "SlackOff"
+  },
+  {
+    "name": "SlackOff2",
+    "desc": "If you end your turn with unused movement actions, gain +2 [img:con], 8 HP and 5 mana.",
+    "key": "SlackOff2"
+  },
+  {
+    "name": "Scabs",
+    "desc": "Gain +2 Shield when you take damage from an ability.",
+    "key": "Scabs"
+  },
+  {
+    "name": "Scabs2",
+    "desc": "Gain +2 Shield when you take damage from any source.",
+    "key": "Scabs2"
+  },
+  {
+    "name": "EyeCatchin",
+    "desc": "",
+    "key": "EyeCatchin"
+  },
+  {
+    "name": "EyeCatchin2",
+    "desc": "",
+    "key": "EyeCatchin2"
+  },
+  {
+    "name": "Thunder Thighs",
+    "desc": "Trample.",
+    "key": "ThunderThighs"
+  },
+  {
+    "name": "ThunderThighs2",
+    "desc": "Trample 9.",
+    "key": "ThunderThighs2"
+  },
+  {
+    "name": "Plow",
+    "desc": "When you knock back a unit, leave a rock where that unit was.",
+    "key": "Plow"
+  },
+  {
+    "name": "Plow2",
+    "desc": "When you knock back a unit, leave a rock where that unit was.\r\nAll damage you deal has +1 Knockback.",
+    "key": "Plow2"
+  },
+  {
+    "name": "Pet Rocks",
+    "desc": "Rocks you spawn are alive!!\n...and have +3 HP. Spawn a rock at the start of the battle.",
+    "key": "PetRocks"
+  },
+  {
+    "name": "PetRocks2",
+    "desc": "Rocks you spawn are alive, and hot!!\n...and have +7 HP. Spawn a boulder at the start of the battle.",
+    "key": "PetRocks2"
+  },
+  {
+    "name": "Toad Style",
+    "desc": "Your movement action is a jump. Landing on a unit deals damage and displaces it.",
+    "key": "ToadStyle"
+  },
+  {
+    "name": "ToadStyle2",
+    "desc": "Your movement action is a jump. Landing on a unit deals damage and displaces it.",
+    "key": "ToadStyle2"
+  },
+  {
+    "name": "Chain Knockback",
+    "desc": "Your basic attack gains +1 Knockback.\r\nUnits you knockback will Knockback other units.",
+    "key": "ChainKnockback"
+  },
+  {
+    "name": "ChainKnockback2",
+    "desc": "Your basic attack gains +1 Knockback.\nAll knockback you deal is increased by 2 and deals +1 extra damage.\nUnits you knockback will Knockback other units further.",
+    "key": "ChainKnockback2"
+  },
+  {
+    "name": "Protective",
+    "desc": "Your allies have Brace 1.",
+    "key": "ProtectiveAura"
+  },
+  {
+    "name": "Protective2",
+    "desc": "Your allies have Brace 2.",
+    "key": "ProtectiveAura2"
+  },
+  {
+    "name": "Wrestlemaniac",
+    "desc": "Your basic attack becomes Suplex when adjacent to enemies.\nYou gain the ability Toss.",
+    "key": "Wrestlemaniac"
+  },
+  {
+    "name": "Wrestlemaniac2",
+    "desc": "Your basic attack is Suplex while you're next to a unit that can be suplexed and Your basic attack becomes Suplex when adjacent to enemies. +1 Bonus Move.\nYou gain the ability Toss+.",
+    "key": "Wrestlemaniac2"
+  },
+  {
+    "name": "Mountain Form",
+    "desc": "Knockback immunity.\r\nTiles you walk over become dirt and may spawn rocks.",
+    "key": "MountainForm"
+  },
+  {
+    "name": "MountainForm2",
+    "desc": "Trample. Knockback and Fire immunity.\r\nTiles you walk over become dirt and may spawn rocks.",
+    "key": "MountainForm2"
+  },
+  {
+    "name": "Home Run",
+    "desc": "Knockback you deal is increased by 10.",
+    "key": "HomeRun"
+  },
+  {
+    "name": "HomeRun2",
+    "desc": "Knockback you deal is increased by 10 and inflicts Bruise 1.",
+    "key": "HomeRun2"
+  },
+  {
+    "name": "Rock Aspect",
+    "desc": "Units that attack or contact you have a 10% chance to get Petrified.",
+    "key": "RockAspect"
+  },
+  {
+    "name": "RockAspect2",
+    "desc": "Units that attack or contact you have a 20% chance to get Petrified.",
+    "key": "RockAspect2"
+  },
+  {
+    "name": "Wide Load",
+    "desc": "When an adjacent ally is targeted by an enemy, swap places with the ally.",
+    "key": "WideLoad"
+  },
+  {
+    "name": "WideLoad2",
+    "desc": "When an adjacent ally is targeted by an enemy, gain +1 temp Thorns and temp Brace, then swap places with the ally.",
+    "key": "WideLoad2"
+  },
+  {
+    "name": "Hard Head",
+    "desc": "You block attacks from the front.",
+    "key": "HardHead"
+  },
+  {
+    "name": "HardHead2",
+    "desc": "You block attacks from the front. Your basic attack inflicts Bruise.",
+    "key": "HardHead2"
+  },
+  {
+    "name": "My Leg!",
+    "desc": "All injuries you get are Broken Legs.\nIf you have four broken legs, gain +4 Thorns, Trample, and adjacent allies have Toss as a bonus ability.",
+    "key": "MyLeg"
+  },
+  {
+    "name": "MyLeg2",
+    "desc": "All injuries you get are Broken Legs.\nIf you have four broken legs, gain +4 Thorns, +4 Brace, Trample, and adjacent allies have Toss as a bonus ability.",
+    "key": "MyLeg2"
+  },
+  {
+    "name": "Hardy",
+    "desc": "Heal to full HP at the start of each battle.",
+    "key": "Hardy"
+  },
+  {
+    "name": "Hardy2",
+    "desc": "Heal to full HP at the start of each battle. +3 Health Regeneration.",
+    "key": "Hardy2"
+  },
+  {
+    "name": "Slow and Steady",
+    "desc": "Gain -2 [img:spd] and +1 Range at the end of each turn. If your [img:spd] is 0, you can attack an extra time each turn.",
+    "key": "SlowAndSteady"
+  },
+  {
+    "name": "SlowandSteady2",
+    "desc": "Gain -2 [img:spd], +1 Range, +1 [img:str], and +1 [img:int] at the end of each turn. If your [img:spd] is 0, you can attack an extra time each turn.",
+    "key": "SlowAndSteady2"
+  },
+  {
+    "name": "Follow Up",
+    "desc": "After you use your basic attack, dash forward as far as you can.",
+    "key": "FollowUp"
+  },
+  {
+    "name": "FollowUp2",
+    "desc": "After you use your basic attack, dash forward as far as you can and do a melee attack.",
+    "key": "FollowUp2"
+  },
+  {
+    "name": "Cat-A-Pult",
+    "desc": "You can throw adjacent allies up to 4 tiles on their turns without using their movement action.",
+    "key": "CatAPult"
+  },
+  {
+    "name": "CatAPult2",
+    "desc": "You can throw adjacent allies to any tile on their turns without using their movement action.",
+    "key": "CatAPult2"
+  },
+  {
+    "name": "Shoving Match",
+    "desc": "When you knock a unit into an ally, or knock an ally into an enemy, that ally uses their basic attack on the other unit.\r\nYour basic attack has +1 Knockback.",
+    "key": "ShovingMatch"
+  },
+  {
+    "name": "ShovingMatch2",
+    "desc": "When you knock a unit into an ally, or knock an ally into an enemy, that ally uses their basic attack on the other unit.\nYour basic attack has +2 Knockback. You deal no damage to allies.",
+    "key": "ShovingMatch2"
+  },
+  {
+    "name": "Stoic",
+    "desc": "If you end your turn with unused movement actions, gain +2 Bonus Moves.",
+    "key": "Stoic"
+  },
+  {
+    "name": "Stoic2",
+    "desc": "If you end your turn with unused movement actions, gain +2 Bonus Moves, +2 [img:shield] and +1 Brace.",
+    "key": "Stoic2"
+  },
+  {
+    "name": "Priority Target",
+    "desc": "Enemies will attack you instead of your allies if they can.",
+    "key": "PriorityTarget"
+  },
+  {
+    "name": "PriorityTarget2",
+    "desc": "+2 Thorns, +2 Brace, and +2 Health Regeneration. Enemies will attack you instead of your allies if they can.",
+    "key": "PriorityTarget2"
+  },
+  {
+    "name": "Bouncer",
+    "desc": "When an ally takes damage, move 3 tiles toward the source of the damage and attack it if you can.",
+    "key": "Bouncer"
+  },
+  {
+    "name": "Bouncer2",
+    "desc": "When an ally takes damage, full move toward the source of the damage and attack it if you can.",
+    "key": "Bouncer2"
+  }
+]

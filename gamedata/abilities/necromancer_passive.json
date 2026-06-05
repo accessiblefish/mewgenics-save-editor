@@ -1,0 +1,252 @@
+[
+  {
+    "name": "Vampirism",
+    "desc": "Your basic attack has lifesteal.",
+    "key": "Vampirism"
+  },
+  {
+    "name": "Vampirism2",
+    "desc": "Your basic attack has lifesteal.\r\nYour spells have 50% lifesteal.",
+    "key": "Vampirism2"
+  },
+  {
+    "name": "One With Nothing",
+    "desc": "If you end your turn with 0 mana, your Mana Regeneration is doubled.",
+    "key": "OneWithNothing"
+  },
+  {
+    "name": "OneWithNothing2",
+    "desc": "If you end your turn with 0 mana, your Mana Regeneration is doubled.\r\nBonus ability: Slit Wrists",
+    "key": "OneWithNothing2"
+  },
+  {
+    "name": "Bed Bugs",
+    "desc": "You start battles with 2 beefy leech familiars.",
+    "key": "BedBugs"
+  },
+  {
+    "name": "BedBugs2",
+    "desc": "You start battles with 4 beefy leech familiars.",
+    "key": "BedBugs2"
+  },
+  {
+    "name": "Worm Lord",
+    "desc": "When you take damage, spawn a leech familiar.",
+    "key": "WormLord"
+  },
+  {
+    "name": "WormLord2",
+    "desc": "When you take damage, spawn a leech familiar.\r\nYour basic attack spawns leech familiars.",
+    "key": "WormLord2"
+  },
+  {
+    "name": "Infinite Rebirth",
+    "desc": "At the end of each round, if there is a body on the map and you're downed, you respawn on that tile with 1 HP and +10 temporary Speed. If that body was a party member, you spawn with full HP instead.",
+    "key": "InfiniteRebirth"
+  },
+  {
+    "name": "InfiniteRebirth2",
+    "desc": "At the end of each round, if there is a body on the map and you're downed, you respawn on that tile with 25% HP and +10 temporary Speed. If that body was a party member, you spawn with full HP instead.",
+    "key": "InfiniteRebirth2"
+  },
+  {
+    "name": "Sacrificial Lamb",
+    "desc": "When you're downed, allies gain All Stats Up and take an extra turn.",
+    "key": "SacrificialLamb"
+  },
+  {
+    "name": "SacrificialLamb2",
+    "desc": "When you're downed, allies gain All Stats Up and take an extra turn.\nYou can't get injuries.",
+    "key": "SacrificialLamb2"
+  },
+  {
+    "name": "Servus Mortem",
+    "desc": "Destroy a random non-boss enemy at the start of each battle.",
+    "key": "DeathIncarnate"
+  },
+  {
+    "name": "ServusMortem2",
+    "desc": "Destroy a random enemy at the start of each battle. If this hits a boss, deal 50 damage instead.",
+    "key": "DeathIncarnate2"
+  },
+  {
+    "name": "Offload Pain",
+    "desc": "When you heal, deal 1 damage to each enemy.",
+    "key": "OffloadPain"
+  },
+  {
+    "name": "OffloadPain2",
+    "desc": "When you heal, deal 2 damage to each enemy and you gain +1 Thorns.",
+    "key": "OffloadPain2"
+  },
+  {
+    "name": "Cambion Conception",
+    "desc": "When you're downed, spawn a demon kitten familiar.",
+    "key": "CambionConception"
+  },
+  {
+    "name": "CambionConception2",
+    "desc": "When you're downed, spawn 2 demon kitten familiars.",
+    "key": "CambionConception2"
+  },
+  {
+    "name": "Leech Mother",
+    "desc": "Your basic attack spawns a leech familiar.",
+    "key": "Leechmother"
+  },
+  {
+    "name": "LeechMother2",
+    "desc": "Your basic attack spawns a beefy leech familiar.",
+    "key": "Leechmother2"
+  },
+  {
+    "name": "Infected",
+    "desc": "When you down a unit, reanimate it with 50% HP.",
+    "key": "Infected"
+  },
+  {
+    "name": "Infected2",
+    "desc": "When you down a unit, reanimate it with full HP.",
+    "key": "Infected2"
+  },
+  {
+    "name": "Last Grasp",
+    "desc": "When you're downed, deal 6 damage to each enemy and heal 6 HP to all allies.\r\nBonus ability: Seppuku",
+    "key": "LastGasp"
+  },
+  {
+    "name": "LastGrasp2",
+    "desc": "When you're downed, deal 10 damage to each enemy and heal 10 HP to all allies.\r\nBonus ability: Seppuku",
+    "key": "LastGasp2"
+  },
+  {
+    "name": "Relentless Dead",
+    "desc": "At the end of each round, spawn a zombie kitten familiar onto a random tile.",
+    "key": "RelentlessDead"
+  },
+  {
+    "name": "RelentlessDead2",
+    "desc": "At the end of each round, spawn 2 zombie kitten familiars onto random tiles.",
+    "key": "RelentlessDead2"
+  },
+  {
+    "name": "Chains of Guilt",
+    "desc": "When an enemy downs you and it wasn't a boss, it joins your party permanently.",
+    "key": "ChainsOfGuilt"
+  },
+  {
+    "name": "ChainsofGuilt2",
+    "desc": "When an enemy downs you and it wasn't a boss, it joins your party permanently. If it was a boss, inflict Stun 3 on it.",
+    "key": "ChainsOfGuilt2"
+  },
+  {
+    "name": "Dark Priest",
+    "desc": "At the start of each battle, if you don't have a weapon, gain a temporary Soul Dagger weapon.",
+    "key": "DarkPriest"
+  },
+  {
+    "name": "DarkPriest2",
+    "desc": "At the start of each battle, if you don't have a weapon, gain a temporary Soul Dagger weapon. You can use your weapon action an extra time each turn.",
+    "key": "DarkPriest2"
+  },
+  {
+    "name": "Undeath",
+    "desc": "When you're downed, reanimate each ally to 33% HP. (Once per battle.)",
+    "key": "Undeath"
+  },
+  {
+    "name": "Undeath2",
+    "desc": "When you're downed, reanimate each ally to max HP. (Once per battle.)",
+    "key": "Undeath2"
+  },
+  {
+    "name": "Numbing Leeches",
+    "desc": "Your basic attack deals 0 damage but its status and hit effects are tripled.",
+    "key": "NumbingLeeches"
+  },
+  {
+    "name": "NumbingLeeches2",
+    "desc": "Your basic attack deals 0 damage, but its status and hit effects are tripled.\nYour basic attack inflicts Mana Leech.",
+    "key": "NumbingLeeches2"
+  },
+  {
+    "name": "Eternal Health",
+    "desc": "Suffer only Jinxed when downed. When your party wins a battle, if you were downed, heal to full.",
+    "key": "EternalHealth"
+  },
+  {
+    "name": "EternalHealth2",
+    "desc": "Suffer only Jinxed when downed. When your party wins a battle, if you were downed, heal to full. Your body is indestructible. When you're downed, allies get +1 [img:lck] for each Jinxed injury you have.",
+    "key": "EternalHealth2"
+  },
+  {
+    "name": "Torpor",
+    "desc": "While you're downed, your basic attack is Haunt. Your body gains +6 corpse HP.",
+    "key": "Torpor"
+  },
+  {
+    "name": "Torpor2",
+    "desc": "While you're downed, your basic attack is Haunt and your spells are Spook. Your body gains +6 corpse HP.",
+    "key": "Torpor2"
+  },
+  {
+    "name": "Soul Bond",
+    "desc": "Your basic attack inflicts Soul Link.",
+    "key": "SoulBound"
+  },
+  {
+    "name": "SoulBond2",
+    "desc": "Your basic attack inflicts Soul Link. Inflict Soul Link on a random enemy at the start of the battle.",
+    "key": "SoulBound2"
+  },
+  {
+    "name": "Superstition",
+    "desc": "Your basic attack inflicts -1[img:lck]. \nWhen a unit damages you, inflict -1[img:lck] on it.",
+    "key": "Superstition"
+  },
+  {
+    "name": "Superstition2",
+    "desc": "Your basic attack inflicts -1[img:lck] and has a 15% chance to inflict Fear.\nWhen a unit damages you, inflict -1[img:lck] and a 15% to Fear on it.",
+    "key": "Superstition2"
+  },
+  {
+    "name": "Immortal Leeches",
+    "desc": "When a unit you inflicted Leeches on dies or loses its leeches, your next basic attack inflicts that many additional leeches.",
+    "key": "ImmortalLeeches"
+  },
+  {
+    "name": "ImmortalLeeches2",
+    "desc": "When a unit you inflicted Leeches on dies or loses its leeches, your next basic attack inflicts that many additional leeches.\nYour basic attack inflicts +1 leech.",
+    "key": "ImmortalLeeches2"
+  },
+  {
+    "name": "Corpse Connoisseur",
+    "desc": "Start each battle with 2-3 corpses near you.\r\nWhen you destroy a corpse, heal 2 HP and spawn a food pickup.",
+    "key": "CorpseConnoisseur"
+  },
+  {
+    "name": "CorpseConnoisseur2",
+    "desc": "Start each battle with 3-4 corpses near you.\r\nWhen you destroy a corpse, heal 8 HP and spawn a food pickup.",
+    "key": "CorpseConnoisseur2"
+  },
+  {
+    "name": "Parasitic",
+    "desc": "When you gain health, spawn a leech familiar.",
+    "key": "Parasitic"
+  },
+  {
+    "name": "Parasitic2",
+    "desc": "When you gain health, spawn a leech familiar. 50% of the time, spawn a beefy leech instead.",
+    "key": "Parasitic2"
+  },
+  {
+    "name": "Spread Sorrow",
+    "desc": "When you inflict a debuff to an enemy, inflict that same debuff on another random enemy.",
+    "key": "SpreadSorrow"
+  },
+  {
+    "name": "SpreadSorrow2",
+    "desc": "When you inflict a debuff to an enemy, inflict that same debuff on 2 other random enemies.",
+    "key": "SpreadSorrow2"
+  }
+]

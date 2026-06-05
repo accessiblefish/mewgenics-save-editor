@@ -1,0 +1,251 @@
+{
+  "body": {
+    "300": {
+      "name": "Rock Bod"
+    },
+    "301": {
+      "name": "Cactus Bod",
+      "desc": "+1 Thorns."
+    },
+    "302": {
+      "name": "Turtle Bod"
+    },
+    "303": {
+      "name": "Snail Bod"
+    },
+    "304": {
+      "name": "Robot Body"
+    },
+    "305": {
+      "name": "Conjoined Bod"
+    },
+    "306": {
+      "name": "Skin & Bones"
+    },
+    "307": {
+      "name": "Udders"
+    },
+    "308": {
+      "name": "Beach Bod"
+    },
+    "309": {
+      "name": "Maggot Bod",
+      "desc": "Units that contact you get knocked back 2 tiles."
+    },
+    "310": {
+      "name": "Puffball Bod"
+    },
+    "311": {
+      "name": "Square Bod"
+    },
+    "312": {
+      "name": "Money Bag Bod",
+      "desc": "Spawn a coin when you take damage."
+    },
+    "313": {
+      "name": "Spike Bod",
+      "desc": "+1 Kinetic Spikes."
+    },
+    "314": {
+      "name": "Porcupine",
+      "desc": "+2 Thorns."
+    },
+    "315": {
+      "name": "Carapace",
+      "desc": "+1 Brace."
+    },
+    "316": {
+      "name": "Pangolin"
+    },
+    "317": {
+      "name": "Camel Hump",
+      "desc": "Immune to Heat Wave weather."
+    },
+    "318": {
+      "name": "Egg Sack Back",
+      "desc": "25% chance to spawn a Charmed Fly each turn."
+    },
+    "319": {
+      "name": "Fractured Bod",
+      "desc": "When you take damage from an attack, gain a random buff."
+    },
+    "320": {
+      "name": "Brick Bod"
+    },
+    "321": {
+      "name": "Kitten Bod",
+      "desc": "Spawn a Charmed Kitten familiar when you get downed."
+    },
+    "322": {
+      "name": "Backpack",
+      "desc": "Gain an extra consumable item at the end of each battle."
+    },
+    "323": {
+      "name": "Fatty",
+      "desc": "Trample. When damaged, move 1 tile in a random direction."
+    },
+    "324": {
+      "name": "Eyeball",
+      "desc": "Gain +1 range when you get a kill."
+    },
+    "750": {
+      "name": "spike body",
+      "desc": "+1 Thorns."
+    },
+    "753": {
+      "name": "mermaid body"
+    },
+    "758": {
+      "name": "human head body",
+      "desc": "Start with +1 Bonus Attack."
+    },
+    "900": {
+      "name": "slender"
+    },
+    "400": {
+      "name": "400"
+    },
+    "401": {
+      "name": "401"
+    },
+    "402": {
+      "name": "402"
+    },
+    "403": {
+      "name": "403"
+    },
+    "404": {
+      "name": "404"
+    },
+    "405": {
+      "name": "405"
+    },
+    "406": {
+      "name": "406"
+    },
+    "407": {
+      "name": "407"
+    },
+    "408": {
+      "name": "408"
+    },
+    "409": {
+      "name": "409"
+    },
+    "410": {
+      "name": "410"
+    },
+    "411": {
+      "name": "411"
+    },
+    "412": {
+      "name": "412"
+    },
+    "413": {
+      "name": "413"
+    },
+    "414": {
+      "name": "414"
+    },
+    "415": {
+      "name": "415"
+    },
+    "416": {
+      "name": "416"
+    },
+    "417": {
+      "name": "417"
+    },
+    "418": {
+      "name": "418"
+    },
+    "419": {
+      "name": "419"
+    },
+    "420": {
+      "name": "420"
+    },
+    "421": {
+      "name": "421"
+    },
+    "422": {
+      "name": "422"
+    },
+    "423": {
+      "name": "423"
+    },
+    "424": {
+      "name": "424"
+    },
+    "425": {
+      "name": "425"
+    },
+    "426": {
+      "name": "426"
+    },
+    "427": {
+      "name": "427"
+    },
+    "428": {
+      "name": "428"
+    },
+    "429": {
+      "name": "429"
+    },
+    "430": {
+      "name": "430"
+    },
+    "431": {
+      "name": "431"
+    },
+    "432": {
+      "name": "432"
+    },
+    "433": {
+      "name": "433"
+    },
+    "434": {
+      "name": "434"
+    },
+    "435": {
+      "name": "435"
+    },
+    "436": {
+      "name": "436"
+    },
+    "437": {
+      "name": "437"
+    },
+    "438": {
+      "name": "438"
+    },
+    "439": {
+      "name": "439"
+    },
+    "440": {
+      "name": "440"
+    },
+    "441": {
+      "name": "441"
+    },
+    "442": {
+      "name": "442"
+    },
+    "700": {
+      "name": "Gastroschisis"
+    },
+    "701": {
+      "name": "Deformed Ribcage"
+    },
+    "702": {
+      "name": "Malnurished"
+    },
+    "703": {
+      "name": "Body Welts",
+      "desc": "Start each battle with Bruise 1."
+    },
+    "704": {
+      "name": "Conjoined Body"
+    }
+  }
+}

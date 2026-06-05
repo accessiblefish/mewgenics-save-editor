@@ -1,0 +1,252 @@
+[
+  {
+    "name": "Healing Aura",
+    "desc": "+1 Health Regeneration\nYour Health Regeneration also applies to your allies.",
+    "key": "HealingAura"
+  },
+  {
+    "name": "HealingAura2",
+    "desc": "+2 Health Regeneration\nYour Health Regeneration also applies to your allies.\nYou and your allies have uncapped HP.",
+    "key": "HealingAura2"
+  },
+  {
+    "name": "Natural Healer",
+    "desc": "Your heals heal for 2 extra.",
+    "key": "NaturalHealer"
+  },
+  {
+    "name": "NaturalHealer2",
+    "desc": "Your heals heal for 4 extra.\nStart each battle at full HP.",
+    "key": "NaturalHealer2"
+  },
+  {
+    "name": "Eternal",
+    "desc": "When you are downed for the 1st time each battle, take no injuries and revive with half HP.",
+    "key": "Eternal"
+  },
+  {
+    "name": "Eternal2",
+    "desc": "When you are downed for the 1st time each battle, take no injuries and revive with half HP, All Stats Up 2, and immediately take an extra turn.",
+    "key": "Eternal2"
+  },
+  {
+    "name": "Blessed",
+    "desc": "Gain +1 to 2 random stats at the start of each turn.",
+    "key": "Blessed"
+  },
+  {
+    "name": "Blessed2",
+    "desc": "+3 Health Regeneration Gain +1 to 3 random stats at the start of each turn.",
+    "key": "Blessed2"
+  },
+  {
+    "name": "Evil Patron",
+    "desc": "Your healing abilities deal damage to enemies.\r\nGain +2 range on tile-targeted healing spells.",
+    "key": "EvilPatron"
+  },
+  {
+    "name": "EvilPatron2",
+    "desc": "Your healing abilities deal damage to enemies.\r\nHoly element damage you deal is doubled.\r\nGain +2 range on tile-targeted healing spells.",
+    "key": "EvilPatron2"
+  },
+  {
+    "name": "Angelic Inspiration",
+    "desc": "When you heal an ally, they also gain +2 mana.",
+    "key": "AngelicInspiration"
+  },
+  {
+    "name": "AngelicInspiration2",
+    "desc": "When you heal an ally, they also gain mana equal to half the amount healed.",
+    "key": "AngelicInspiration2"
+  },
+  {
+    "name": "Top Off",
+    "desc": "When you heal another unit over their max HP, you both gain +1 [img:shield].",
+    "key": "TopOff"
+  },
+  {
+    "name": "TopOff2",
+    "desc": "When you heal another unit over their max HP, you both gain +2 [img:shield].",
+    "key": "TopOff2"
+  },
+  {
+    "name": "Sharing is Caring",
+    "desc": "When you pick up a non-coin pickup, allies gain the same effects.",
+    "key": "SharingIsCaring"
+  },
+  {
+    "name": "SharingisCaring2",
+    "desc": "When you pick up a non-coin pickup, allies gain the same effects.\nStart each battle with pickups nearby.",
+    "key": "SharingIsCaring2"
+  },
+  {
+    "name": "Caretaker",
+    "desc": "When you heal another unit, heal yourself for half that amount.",
+    "key": "Caretaker"
+  },
+  {
+    "name": "Caretaker2",
+    "desc": "When you heal another unit, heal yourself for the same amount.",
+    "key": "Caretaker2"
+  },
+  {
+    "name": "Morale Boost",
+    "desc": "Allies gain All Stats Up whenever you kill something.",
+    "key": "MoraleBoost"
+  },
+  {
+    "name": "MoraleBoost2",
+    "desc": "Allies gain All Stats Up whenever you kill something.\nWhen you kill something, refresh your basic attack.",
+    "key": "MoraleBoost2"
+  },
+  {
+    "name": "Ranged Medic",
+    "desc": "Your basic attack is a ranged lobbed attack that heals allies and damages enemies.",
+    "key": "RangedMedic"
+  },
+  {
+    "name": "RangedMedic2",
+    "desc": "+2 Range. Your basic attack is a ranged lobbed attack that heals allies and damages enemies.",
+    "key": "RangedMedic2"
+  },
+  {
+    "name": "Godspeed",
+    "desc": "When you heal something, gain +2 [img:spd].",
+    "key": "Godspeed"
+  },
+  {
+    "name": "Godspeed2",
+    "desc": "When you heal something, gain +4 [img:spd] and +1 to a random stat.",
+    "key": "Godspeed2"
+  },
+  {
+    "name": "God Warrior",
+    "desc": "When you kill an enemy, gain +1 [img:divineshield].",
+    "key": "GodWarrior"
+  },
+  {
+    "name": "GodWarrior2",
+    "desc": "When you kill an enemy, gain +1 [img:divineshield] and refresh your movement action.",
+    "key": "GodWarrior2"
+  },
+  {
+    "name": "Breath of Life",
+    "desc": "When you heal a downed unit, revive it.",
+    "key": "BreathOfLife"
+  },
+  {
+    "name": "BreathofLife2",
+    "desc": "When you heal a downed unit, revive it and heal it for 3 times the number you healed.",
+    "key": "BreathOfLife2"
+  },
+  {
+    "name": "Thou Shalt Not Kill",
+    "desc": "When an enemy downs another unit, they take 10 holy damage.",
+    "key": "ThouShaltNotKill"
+  },
+  {
+    "name": "ThouShaltNotKill2",
+    "desc": "When an enemy downs another unit, they take 10 holy damage and become Stunned.",
+    "key": "ThouShaltNotKill2"
+  },
+  {
+    "name": "Thou Shalt Not Covet",
+    "desc": "When an enemy takes damage from an ability, it drops a random pickup.",
+    "key": "ThouShaltNotCovet"
+  },
+  {
+    "name": "ThouShaltNotCovet2",
+    "desc": "When an enemy takes damage from an ability, it drops 2 random pickups.",
+    "key": "ThouShaltNotCovet2"
+  },
+  {
+    "name": "Blessing of Holy Fire",
+    "desc": "Holy-element spells deal double damage to enemies instead of healing and inflict Burn 2. \nThis blessing is lost when you kill a unit.",
+    "key": "BlessingOfHolyFire"
+  },
+  {
+    "name": "BlessingofHolyFire2",
+    "desc": "Holy-element spells deal triple damage to enemies instead of healing and inflict Burn 3. \nThis blessing is lost when you kill a unit.",
+    "key": "BlessingOfHolyFire2"
+  },
+  {
+    "name": "Alms for the Poor",
+    "desc": "When you gain coins, all allies heal +1 HP and gain +1 [img:lck].",
+    "key": "AlmsForThePoor"
+  },
+  {
+    "name": "AlmsforthePoor2",
+    "desc": "When you gain coins, you gain +1 [img:divineshield] and all allies heal HP and gain [img:lck] equal to the number of coins gained.",
+    "key": "AlmsForThePoor2"
+  },
+  {
+    "name": "Purifier",
+    "desc": "Your basic attack removes debuffs from allies.",
+    "key": "Purifier"
+  },
+  {
+    "name": "Purifier2",
+    "desc": "Your basic attack removes debuffs from allies and gives them All Stats Up.",
+    "key": "Purifier2"
+  },
+  {
+    "name": "Venerated Touch",
+    "desc": "Your basic attack inflicts Confusion 2 on enemies and gives +2 [img:shield] to allies.",
+    "key": "VeneratedTouch"
+  },
+  {
+    "name": "VeneratedTouch2",
+    "desc": "Your basic attack inflicts Confusion 3 on enemies and has a 50% chance to Stun. It also gives +3 [img:shield] to allies and a 50% chance for All Stats Up.",
+    "key": "VeneratedTouch2"
+  },
+  {
+    "name": "Protect the Weak",
+    "desc": "Allies with 5 or fewer HP gain +50% dodge chance.",
+    "key": "ProtectTheWeak"
+  },
+  {
+    "name": "ProtecttheWeak2",
+    "desc": "Allies with 10 or fewer HP gain +50% dodge chance.",
+    "key": "ProtectTheWeak2"
+  },
+  {
+    "name": "Thou Shalt Obey",
+    "desc": "At the end of each round, inflict Charm on a random adjacent enemy.",
+    "key": "ThouShaltObey"
+  },
+  {
+    "name": "ThouShaltObey2",
+    "desc": "At the end of each round, inflict Charm on the closest enemy.",
+    "key": "ThouShaltObey2"
+  },
+  {
+    "name": "Enchanted Relic",
+    "desc": "Your trinket's passive and active effects are doubled.",
+    "key": "EnchantedRelic"
+  },
+  {
+    "name": "EnchantedRelic2",
+    "desc": "Your trinket's passive and active effects are tripled.",
+    "key": "EnchantedRelic2"
+  },
+  {
+    "name": "Blessing of Spirit",
+    "desc": "When you end your turn, you and all allies heal 2 HP and gain 2 mana. This blessing is lost when you cast a spell.",
+    "key": "BlessingOfSpirit"
+  },
+  {
+    "name": "BlessingofSpirit2",
+    "desc": "When you end your turn, you and all allies heal 3 HP, gain 3 mana and gain +1 to 3 random stats. This blessing is lost when you cast a spell.",
+    "key": "BlessingOfSpirit2"
+  },
+  {
+    "name": "Heathens!",
+    "desc": "At the start of the battle, inflict Weakness 3 on all enemies.",
+    "key": "Heathens"
+  },
+  {
+    "name": "Heathens2",
+    "desc": "At the start of the battle, inflict Weakness 4 and Magic Weakness 4 on all enemies.",
+    "key": "Heathens2"
+  }
+]

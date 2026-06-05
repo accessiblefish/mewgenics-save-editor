@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Smart Metronome",
+    "desc": "Cast any random spell. The spell is usually good.",
+    "key": "SmartMetronome"
+  },
+  {
+    "name": "SmartMetronome2",
+    "desc": "Cast any random upgraded spell. The spell is usually good.",
+    "key": "SmartMetronome2"
+  },
+  {
+    "name": "RNG Cannon",
+    "desc": "Deals a random amount of damage. Requires line of sight",
+    "key": "RNGCannon"
+  },
+  {
+    "name": "RNGCannon2",
+    "desc": "Deals a random amount of damage and inflicts random debuffs. Requires line of sight",
+    "key": "RNGCannon2"
+  },
+  {
+    "name": "Bump",
+    "desc": "Displace a target unit to a random location.",
+    "key": "Bump"
+  },
+  {
+    "name": "Bump2",
+    "desc": "Displace a target unit to a random location. If its an enemy, deal 1 damage to it.",
+    "key": "Bump2"
+  },
+  {
+    "name": "Power Up",
+    "desc": "Spend all of your mana and gain that many random buffs.",
+    "key": "PowerUp"
+  },
+  {
+    "name": "PowerUp2",
+    "desc": "Spend all of your mana and give that many random buffs to yourself or another unit.",
+    "key": "PowerUp2"
+  }
+]

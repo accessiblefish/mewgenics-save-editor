@@ -1,0 +1,687 @@
+[
+  {
+    "name": "Flutter",
+    "desc": "Fly over 3 tiles.",
+    "key": "CrowFlutter"
+  },
+  {
+    "name": "CrowFlutter2",
+    "desc": "Fly over 3-4 tiles.",
+    "key": "CrowFlutter2"
+  },
+  {
+    "name": "CrowFlutter3",
+    "desc": "Fly over 2-5 tiles.",
+    "key": "CrowFlutter3"
+  },
+  {
+    "name": "Aeroblast",
+    "desc": "A wind gust that deals 1 damage and 1 Knockback in a line.",
+    "key": "CrowFlap"
+  },
+  {
+    "name": "CrowFlap2",
+    "desc": "A wind gust that deals 2 damage and 2 Knockback in a line.",
+    "key": "CrowFlap2"
+  },
+  {
+    "name": "CrowFlap3",
+    "desc": "A wind gust that deals 3 damage and 10 Knockback in a line.",
+    "key": "CrowFlap3"
+  },
+  {
+    "name": "Bloom",
+    "desc": "Give 5 mana to allies in an area.",
+    "key": "ManaBomb"
+  },
+  {
+    "name": "ManaBomb2",
+    "desc": "Give 5 mana to allies in a large area.",
+    "key": "ManaBomb2"
+  },
+  {
+    "name": "Song of Spring",
+    "desc": "Spawn flower tiles in an area.",
+    "key": "SongOfSpring"
+  },
+  {
+    "name": "SongOfSpring2",
+    "desc": "Spawn flower tiles in a large area.",
+    "key": "SongOfSpring2"
+  },
+  {
+    "name": "Grant Life",
+    "desc": "Give a unit All Stats Up. You get All Stats Down.",
+    "key": "GrantLife"
+  },
+  {
+    "name": "GrantLife2",
+    "desc": "Give a unit All Stats Up, Charge 2, and heal them 2. You get All Stats Down.",
+    "key": "GrantLife2"
+  },
+  {
+    "name": "Squirrel Squad",
+    "desc": "Summon 5 baby squirrels.",
+    "key": "SquirrelSquad"
+  },
+  {
+    "name": "SquirrelSquad2",
+    "desc": "Summon 5 adult squirrels.",
+    "key": "SquirrelSquad2"
+  },
+  {
+    "name": "Squirrel Swipes",
+    "desc": "A melee attack that hits 1-3 times.",
+    "key": "SquirrelFurySwipes"
+  },
+  {
+    "name": "Bear Swipes",
+    "desc": "",
+    "key": "BearFurySwipes"
+  },
+  {
+    "name": "Summon Squirrel",
+    "desc": "Summon a squirrel.",
+    "key": "SummonSquirrel"
+  },
+  {
+    "name": "SummonSquirrel2",
+    "desc": "Summon a squirrel to any tile.",
+    "key": "SummonSquirrel2"
+  },
+  {
+    "name": "Summon Snake",
+    "desc": "Summon a snake.",
+    "key": "SummonSnake"
+  },
+  {
+    "name": "SummonSnake2",
+    "desc": "Summon a slippery snake!\n(It has a 66% dodge chance.)",
+    "key": "SummonSnake2"
+  },
+  {
+    "name": "Summon Turtle",
+    "desc": "Summon a turtle.",
+    "key": "SummonTurtle"
+  },
+  {
+    "name": "SummonTurtle2",
+    "desc": "Summon a turtle to any tile in range 6.",
+    "key": "SummonTurtle2"
+  },
+  {
+    "name": "Summon Toad",
+    "desc": "Summon a toad.",
+    "key": "SummonToad"
+  },
+  {
+    "name": "SummonToad2",
+    "desc": "Summon a super toad!\n(It has more damage, health, and can move an extra time each turn)",
+    "key": "SummonToad2"
+  },
+  {
+    "name": "Summon Bear",
+    "desc": "Summon a bear.",
+    "key": "SummonBear"
+  },
+  {
+    "name": "SummonBear2",
+    "desc": "Summon a furious bear!\n(It has Fury Swipes.)",
+    "key": "SummonBear2"
+  },
+  {
+    "name": "Step In",
+    "desc": "Swap positions with a familiar.",
+    "key": "DruidSwap"
+  },
+  {
+    "name": "DruidSwap2",
+    "desc": "Swap positions with any unit.",
+    "key": "DruidSwap2"
+  },
+  {
+    "name": "Battle Cry",
+    "desc": "Give all familiars in an area +2 Damage.",
+    "key": "BattleCry"
+  },
+  {
+    "name": "BattleCry2",
+    "desc": "Give all familiars +3 Damage.",
+    "key": "BattleCry2"
+  },
+  {
+    "name": "Stand By Me",
+    "desc": "Teleport an ally to you.",
+    "key": "PullToSafety"
+  },
+  {
+    "name": "PullToSafety2",
+    "desc": "Teleport any unit to you.",
+    "key": "PullToSafety2"
+  },
+  {
+    "name": "Bramble Burst",
+    "desc": "Explode a familiar causing damage to all adjacent units and spawning brambles.",
+    "key": "BrambleBurst"
+  },
+  {
+    "name": "BrambleBurst2",
+    "desc": "Explode a familiar causing damage to all units in range 2 and spawning brambles.",
+    "key": "BrambleBurst2"
+  },
+  {
+    "name": "Flower Feet",
+    "desc": "Move 3 tiles. Plant flowers as you move.",
+    "key": "FlowerFeet"
+  },
+  {
+    "name": "FlowerFeet2",
+    "desc": "Move 5 tiles. Plant flowers as you move and where you end up.",
+    "key": "FlowerFeet2"
+  },
+  {
+    "name": "Thorny Feet",
+    "desc": "Move 3 tiles. Plant brambles as you move.",
+    "key": "ThornyFeet"
+  },
+  {
+    "name": "ThornyFeet2",
+    "desc": "Move 3 tiles. Plant brambles as you move.\n[s:.7](This spell costs less.)[/s]",
+    "key": "ThornyFeet2"
+  },
+  {
+    "name": "Encourage",
+    "desc": "Give a familiar an extra turn after this one.",
+    "key": "Encourage"
+  },
+  {
+    "name": "Encourage2",
+    "desc": "Give a familiar an extra turn after this one.\n[s:.7](This spell costs less and has increased range.)[/s]",
+    "key": "Encourage2"
+  },
+  {
+    "name": "Protection",
+    "desc": "Give a familiar +1 [img:divineshield].",
+    "key": "Protection"
+  },
+  {
+    "name": "Protection",
+    "desc": "Give familiars in a large area +1 [img:divineshield].",
+    "key": "Protection2"
+  },
+  {
+    "name": "Promote",
+    "desc": "The next familiar you spawn becomes a [img:champion] champion.",
+    "key": "Promote"
+  },
+  {
+    "name": "Promote",
+    "desc": "The next familiar you spawn becomes an [img:elite] elite.",
+    "key": "Promote2"
+  },
+  {
+    "name": "Safety Dance",
+    "desc": "Give all allies +1 [img:shield].",
+    "key": "SafetyDance"
+  },
+  {
+    "name": "SafetyDance2",
+    "desc": "Give all allies +2 [img:shield].",
+    "key": "SafetyDance2"
+  },
+  {
+    "name": "War Cry",
+    "desc": "Each familiar attacks their closest enemy immediately if they can.",
+    "key": "WarCry"
+  },
+  {
+    "name": "WarCry2",
+    "desc": "Your allies and familiars all attack their closest enemy immediately if they can.",
+    "key": "WarCry2"
+  },
+  {
+    "name": "Form of the Wolf",
+    "desc": "Enter Wolf Form, gaining +2 [img:str], +2 [img:spd], -2 [img:lck], and -2 [img:int]. Your basic attack becomes Wolf Claws and this becomes Pounce.",
+    "key": "TigerForm"
+  },
+  {
+    "name": "TigerForm2",
+    "desc": "Enter Wolf Form, gaining +2 [img:str], +2 [img:spd], -2 [img:lck], and -2 [img:int]. Your basic attack becomes Wolf Claws+ and this becomes Pounce+.",
+    "key": "TigerForm2"
+  },
+  {
+    "name": "Wolf Claws",
+    "desc": "A 2-hit melee attack.",
+    "key": "TigerSwipes"
+  },
+  {
+    "name": "TigerSwipes2",
+    "desc": "A 2-hit melee attack that inflicts bleed.",
+    "key": "TigerSwipes2"
+  },
+  {
+    "name": "Pounce",
+    "desc": "Jump on a unit, damaging and displacing it.",
+    "key": "Pounce"
+  },
+  {
+    "name": "Pounce2",
+    "desc": "Jump on a unit, damaging, displacing and inflicting Bleed 1 to it.",
+    "key": "Pounce2"
+  },
+  {
+    "name": "Form of the Monkey",
+    "desc": "Enter Monkey Form, gaining +2 [img:dex], +2 [img:lck], -2 [img:con], and -2 [img:cha]. Your basic attack becomes Throw Poop and this becomes Monkey Toss.",
+    "key": "MonkeyForm"
+  },
+  {
+    "name": "Form of the Monkey",
+    "desc": "Enter Monkey Form, gaining +2 [img:dex] and +2 [img:lck]. Your basic attack becomes Throw Poop and this becomes Monkey Toss+.",
+    "key": "MonkeyForm2"
+  },
+  {
+    "name": "Throw Poop",
+    "desc": "Throw poop.",
+    "key": "ThrowPoop"
+  },
+  {
+    "name": "Monkey Toss",
+    "desc": "Throw an adjacent unit to another tile. It takes damage if it's thrown onto something.",
+    "key": "MonkeyThrow"
+  },
+  {
+    "name": "MonkeyThrow2",
+    "desc": "Throw an adjacent unit to another tile. It takes damage if it's thrown onto something.\n[s:.7](This spell costs less.)[/s]",
+    "key": "MonkeyThrow2"
+  },
+  {
+    "name": "Form of the Turtle",
+    "desc": "Enter Turtle Form, getting +2 [img:con], +10 [img:shield], -2 [img:int], and -2 [img:spd]. Your basic attack becomes Head Bash and this becomes Harden Shell.",
+    "key": "RhinoForm"
+  },
+  {
+    "name": "Form of the Turtle",
+    "desc": "Enter Turtle Form, getting +2 [img:con], +10 [img:shield], and -2 [img:int]. Your basic attack becomes Head Bash and this becomes Harden Shell+.",
+    "key": "RhinoForm2"
+  },
+  {
+    "name": "Harden Shell",
+    "desc": "Gain +1 [img:shield], +1 Thorns, and +1 temporary Brace.",
+    "key": "HardenSkin"
+  },
+  {
+    "name": "HardenSkin2",
+    "desc": "Gain +1 [img:shield], +1 Thorns, and +1 temporary Brace.\r\n[s:.7](This spell costs less.)[/s]",
+    "key": "HardenSkin2"
+  },
+  {
+    "name": "Head Bash",
+    "desc": "Dash forward one tile, then attack. This attack deals Knockback and has a chance to inflict Stun.",
+    "key": "HornCharge"
+  },
+  {
+    "name": "Summon Caterpillar",
+    "desc": "Summon a caterpillar. It gains All Stats Up at the end of each turn. It becomes a moth at All Stats Up 5.",
+    "key": "SummonCatepillar"
+  },
+  {
+    "name": "SummonCatepillar2",
+    "desc": "Summon a caterpillar with All Stats Up 2. It gains All Stats Up at the end of each turn. It becomes a moth at All Stats Up 5.",
+    "key": "SummonCatepillar2"
+  },
+  {
+    "name": "Sleep Powder",
+    "desc": "Inflict Sleep on a unit.",
+    "key": "SleepPowder"
+  },
+  {
+    "name": "Call the Wind",
+    "desc": "Blow all units back one tile.",
+    "key": "CallTheWind"
+  },
+  {
+    "name": "CallTheWind2",
+    "desc": "Blow all units back three tiles.\nAllies are immune to knockback damage during this.",
+    "key": "CallTheWind2"
+  },
+  {
+    "name": "Inspirational Song",
+    "desc": "Heal all allies and give them +1 Temporary Damage.",
+    "key": "InspirationalSong"
+  },
+  {
+    "name": "InspirationalSong2",
+    "desc": "Heal all allies and give them +2 Temporary Damage.",
+    "key": "InspirationalSong2"
+  },
+  {
+    "name": "Death Metal",
+    "desc": "A song that explodes a random enemy. If this hits a boss, it instead inflicts Fear.",
+    "key": "DeathMetal"
+  },
+  {
+    "name": "DeathMetal2",
+    "desc": "A song that explodes a random enemy. If this hits a boss, it instead inflicts Fear. Inflict Madness on each other enemy.",
+    "key": "DeathMetal2"
+  },
+  {
+    "name": "Cha Cha Slide",
+    "desc": "Deal 10 Knockback to all units in a random direction. Allies are immune to Thorns, tile and Knockback damage during this effect.",
+    "key": "ChaChaSlide"
+  },
+  {
+    "name": "ChaChaSlide2",
+    "desc": "Deal 10 Knockback to all units in a random direction. Allies gain +3 temporary Thorns and are immune to Thorns, tile and Knockback damage during this effect.",
+    "key": "ChaChaSlide2"
+  },
+  {
+    "name": "Bestow Wisdom",
+    "desc": "Give +1 [img:int] to a unit.",
+    "key": "BestowWisdom"
+  },
+  {
+    "name": "BestowWisdom2",
+    "desc": "Give +1 [img:int] and +2 mana to a unit.",
+    "key": "BestowWisdom2"
+  },
+  {
+    "name": "Form of the Raccoon",
+    "desc": "Enter Raccoon Form, gaining +2 [img:int], and -2 [img:str]. Your basic attack becomes Pilfer and this becomes Scavenge.",
+    "key": "RaccoonForm"
+  },
+  {
+    "name": "Form of the Raccoon",
+    "desc": "Enter Raccoon Form, gaining +2 [img:int], and +2 [img:lck]. Your basic attack becomes Pilfer and this becomes Scavenge+.",
+    "key": "RaccoonForm2"
+  },
+  {
+    "name": "Pilfer",
+    "desc": "A melee attack that scatters two random pickups when it hits.",
+    "key": "Pilfer"
+  },
+  {
+    "name": "Scavenge",
+    "desc": "Run to any pickup and collect it.",
+    "key": "Scavenge"
+  },
+  {
+    "name": "Scavenge2",
+    "desc": "Run to any pickup and collect it. The effects of that pickup are doubled.",
+    "key": "Scavenge2"
+  },
+  {
+    "name": "Resummon Crow",
+    "desc": "Summon a new crow. Castable only if your crow is dead.",
+    "key": "SummonCrow"
+  },
+  {
+    "name": "Resummon Crow",
+    "desc": "Summon a crow.",
+    "key": "SummonCrow2"
+  },
+  {
+    "name": "We Will Rock You",
+    "desc": "Inflict Petrify on a familiar and give it +6 [img:shield].",
+    "key": "WeWillRockYou"
+  },
+  {
+    "name": "WeWillRockYou2",
+    "desc": "Inflict Petrify on a familiar and give it +6 [img:shield] and +2 Thorns.",
+    "key": "WeWillRockYou2"
+  },
+  {
+    "name": "Form of the Tree",
+    "desc": "Enter Tree Form, gaining -2 [img:int], +5 [img:shield], and Brace 2. You become immobile and immune to Knockback. Your basic attack becomes Timber and this becomes Synthesize.",
+    "key": "TreeForm"
+  },
+  {
+    "name": "TreeForm2",
+    "desc": "Enter Tree Form, gaining -2 [img:int], +5 [img:shield], and Brace 4. You become immobile and immune to Knockback. Your basic attack becomes Timber and this becomes Synthesize+.",
+    "key": "TreeForm2"
+  },
+  {
+    "name": "Timber",
+    "desc": "Fall into an adjacent tile, dealing massive damage to units you displace.",
+    "key": "Timber"
+  },
+  {
+    "name": "Synthesize",
+    "desc": "Heal 2 HP and gain Charge 2.",
+    "key": "Synthesize"
+  },
+  {
+    "name": "Synthesize2",
+    "desc": "You and allies within 3 tiles gain 2 HP and 2 Charge.",
+    "key": "Synthesize2"
+  },
+  {
+    "name": "Hydro Pump",
+    "desc": "Shoot a blast of water that deals 3 Knockback. This spell has recoil.",
+    "key": "HydroPump"
+  },
+  {
+    "name": "HydroPump2",
+    "desc": "Shoot a long blast of water that deals 10 Knockback. This spell has recoil.",
+    "key": "HydroPump2"
+  },
+  {
+    "name": "Control Plants",
+    "desc": "Create a tall grass tile, then all enemies on grass element tiles take 1 damage.",
+    "key": "ControlPlants"
+  },
+  {
+    "name": "ControlPlants2",
+    "desc": "Create a tall grass tile, then all enemies on grass element tiles take 1 damage and gain Poison 1.",
+    "key": "ControlPlants2"
+  },
+  {
+    "name": "Control Water",
+    "desc": "Create a water tile, then all allies on water element tiles heal 2 HP.",
+    "key": "ControlWater"
+  },
+  {
+    "name": "ControlWater2",
+    "desc": "Create a water tile, then all allies on water element tiles heal 2 HP and have their debuffs cleansed.",
+    "key": "ControlWater2"
+  },
+  {
+    "name": "Control Air",
+    "desc": "Blow a unit ten tiles away from you. This doesn't deal Knockback damage.",
+    "key": "ControlAir"
+  },
+  {
+    "name": "ControlAir2",
+    "desc": "Blow a unit ten tiles away from you. This doesn't deal Knockback damage.\n[s:.7](This spell costs less and has infinite range.)[/s]",
+    "key": "ControlAir2"
+  },
+  {
+    "name": "Self-destruct",
+    "desc": "Explode.",
+    "key": "FamiliarSelfDestruct"
+  },
+  {
+    "name": "Feral Attack",
+    "desc": "A melee attack.\r\n[s:.7](This spell costs 0 mana. Castable once per turn.)[/s]",
+    "key": "FeralMelee"
+  },
+  {
+    "name": "Entangle",
+    "desc": "Entangle units in an area.",
+    "key": "Entangle"
+  },
+  {
+    "name": "Entangle2",
+    "desc": "Entangle units in an area and spawn bramble tiles.",
+    "key": "Entangle2"
+  },
+  {
+    "name": "Lullaby",
+    "desc": "Inflicts Sleep on units in an area.",
+    "key": "Lullaby"
+  },
+  {
+    "name": "Lullaby2",
+    "desc": "Inflicts Sleep on units in an area.\n[s:.7](This spell costs less and has increased range.)[/s]",
+    "key": "Lullaby2"
+  },
+  {
+    "name": "We Are the Champions",
+    "desc": "Each familiar gains All Stats Up 2 and heals to full.\n[s:.7](Castable once per battle.)[/s]",
+    "key": "WeAreTheChampions"
+  },
+  {
+    "name": "WeAreTheChampions2",
+    "desc": "Each familiar gains All Stats Up 2 and heals to full.\n[s:.7](This spell costs 0 mana. Castable once per battle.)[/s]",
+    "key": "WeAreTheChampions2"
+  },
+  {
+    "name": "Cheerlead",
+    "desc": "Make a target unit The Alpha.\nPASSIVE: The first spell the Alpha casts each turn is cast twice.",
+    "key": "Cheerlead"
+  },
+  {
+    "name": "Cheerlead2",
+    "desc": "Make a target unit The Alpha.\nPASSIVE: The first spell the Alpha casts each turn is cast twice.\n[s:.7](This spell costs less.)[/s]",
+    "key": "Cheerlead2"
+  },
+  {
+    "name": "Nature's Blessing",
+    "desc": "Grow tall grass tiles in an area and give units in that area +3 Diminishing Health Regeneration",
+    "key": "NaturesBlessing"
+  },
+  {
+    "name": "NaturesBlessing2",
+    "desc": "Grow tall grass tiles in an area and give units in that area +3 Diminishing Health Regeneration\n[s:.7](This spell costs less and has infinite range.)[/s]",
+    "key": "NaturesBlessing2"
+  },
+  {
+    "name": "Throw Egg",
+    "desc": "Throw an egg. If the egg lands in an empty tile, it hatches into a random animal friend at the start of its second turn.",
+    "key": "ThrowEgg"
+  },
+  {
+    "name": "ThrowEgg2",
+    "desc": "Throw an egg. If the egg lands in an empty tile, it hatches into a random animal friend at the start of its first turn.",
+    "key": "ThrowEgg2"
+  },
+  {
+    "name": "Form of the Squirrel",
+    "desc": "Spawn squirrels on each adjacent tile, then enter Squirrel Form.\r\nYour basic attack becomes Chitter and this becomes Birth Squirrel.",
+    "key": "SquirrelForm"
+  },
+  {
+    "name": "SquirrelForm2",
+    "desc": "Spawn squirrels on each adjacent tile, then enter Squirrel Form.\r\nYour basic attack becomes Chitter and this becomes Birth Squirrel+.\r\n[s:.7](This spell costs less.)[/s]",
+    "key": "SquirrelForm2"
+  },
+  {
+    "name": "Birth Squirrel",
+    "desc": "Summon a squirrel.\r\n[s:.7](Castable once per turn.)[/s]",
+    "key": "BirthSquirrel"
+  },
+  {
+    "name": "Chitter",
+    "desc": "Each squirrel gains +2 Damage and +2 [img:spd].",
+    "key": "Chitter"
+  },
+  {
+    "name": "Plant Mushroom",
+    "desc": "Spawn a glowing mushroom that restores mana to nearby units on its turn.",
+    "key": "PlantMushroom"
+  },
+  {
+    "name": "PlantMushroom2",
+    "desc": "Spawn a glowing mushroom anywhere that restores mana and health to nearby units on its turn.",
+    "key": "PlantMushroom2"
+  },
+  {
+    "name": "Serenade",
+    "desc": "Give Health Regeneration 1 to units in an area.",
+    "key": "Serenade"
+  },
+  {
+    "name": "Serenade2",
+    "desc": "Give Health Regeneration 1 to units in a larger area.\n[s:.7](This spell costs less.)[/s]",
+    "key": "Serenade2"
+  },
+  {
+    "name": "Windy Step",
+    "desc": "Give a unit +1 Bonus Move.",
+    "key": "WindyStep"
+  },
+  {
+    "name": "WindyStep2",
+    "desc": "Give a unit +1 Bonus Move and +1 [img:spd]. They take their next turn earlier.",
+    "key": "WindyStep2"
+  },
+  {
+    "name": "Form of the Elk",
+    "desc": "Enter Elk Form, gaining +8 [img:spd], -2 [img:int], -2 [img:con], and Trample 3. You ignore tile effects while moving.\nYour basic attack becomes Antler Swipe and this becomes Prance.",
+    "key": "ElkForm"
+  },
+  {
+    "name": "Form of the Elk",
+    "desc": "Enter Elk Form, gaining +8 [img:spd] and Trample 3. You ignore tile effects while moving.\nYour basic attack becomes Antler Swipe+ and this becomes Prance+.",
+    "key": "ElkForm2"
+  },
+  {
+    "name": "Antler Swipe",
+    "desc": "Toss a unit up to four tiles away. Inflict Bruise on it and any unit it lands on.",
+    "key": "AntlerSwipe"
+  },
+  {
+    "name": "AntlerSwipe2",
+    "desc": "Toss a unit up to four tiles away. Deal damage to and inflict Bruise on it and any unit it lands on.",
+    "key": "AntlerSwipe2"
+  },
+  {
+    "name": "Prance",
+    "desc": "Refresh your movement action.",
+    "key": "Prance"
+  },
+  {
+    "name": "Prance2",
+    "desc": "Refresh your movement action.\n[s:.7](This spell costs less.)[/s]",
+    "key": "Prance2"
+  },
+  {
+    "name": "Form of the Mockingbird",
+    "desc": "Enter Mockingbird Form, gaining flying movement, +2 [img:lck], and -2 [img:str].\nYour basic attack becomes Mock Song and this becomes Tease.",
+    "key": "MockingbirdForm"
+  },
+  {
+    "name": "Form of the Mockingbird",
+    "desc": "Enter Mockingbird Form, gaining flying movement and +2 [img:lck].\nYour basic attack becomes Mock Song+ and this becomes Tease+.",
+    "key": "MockingbirdForm2"
+  },
+  {
+    "name": "Mock Song",
+    "desc": "Give each unit within an area All Stats Down 2 until the end of their next turn.",
+    "key": "MockSong"
+  },
+  {
+    "name": "Mock Song",
+    "desc": "Give enemies within an area All Stats Down 2 (and allies All Stats Up 2) until the the end of their next turn.",
+    "key": "MockSong2"
+  },
+  {
+    "name": "Tease",
+    "desc": "Inflict Madness 1 on a unit.",
+    "key": "Tease"
+  },
+  {
+    "name": "Tease2",
+    "desc": "Inflict Madness 1 on a unit. It immediately attacks a unit if it can.",
+    "key": "Tease2"
+  },
+  {
+    "name": "From the Trees!",
+    "desc": "Summon a random animal that falls from the sky onto a random enemy, dealing damage.",
+    "key": "FromTheTrees"
+  },
+  {
+    "name": "FromTheTrees2",
+    "desc": "Summon a random animal that falls from the sky onto a random enemy, dealing more damage.\n[s:.7](This spell costs less.)[/s]",
+    "key": "FromTheTrees2"
+  }
+]

@@ -1,0 +1,262 @@
+[
+  {
+    "name": "Synthesize",
+    "desc": "Gain +1 [img:int] at the start of each turn.",
+    "key": "Micronaps"
+  },
+  {
+    "name": "Synthesize2",
+    "desc": "Gain +1 [img:int] at the start of each turn.\r\nYour spells cost 25% less mana.",
+    "key": "Micronaps2"
+  },
+  {
+    "name": "Force Field",
+    "desc": "At the start of every third turn, gain +1 [img:divineshield].",
+    "key": "HolyMantel"
+  },
+  {
+    "name": "ForceField2",
+    "desc": "At the start of every other turn, gain +1 [img:divineshield].",
+    "key": "HolyMantel2"
+  },
+  {
+    "name": "Splash Damage",
+    "desc": "Your basic attack deals 2 Magic splash damage.",
+    "key": "Shrapnel"
+  },
+  {
+    "name": "SplashDamage2",
+    "desc": "+2 Range. Your basic attack deals 2 Magic splash damage in a wide area.",
+    "key": "Shrapnel2"
+  },
+  {
+    "name": "Burning Paws",
+    "desc": "Your basic action inflicts Burn 2.",
+    "key": "BurningPaws"
+  },
+  {
+    "name": "BurningPaws2",
+    "desc": "Your basic action inflicts Burn 5.",
+    "key": "BurningPaws2"
+  },
+  {
+    "name": "Lightning Paws",
+    "desc": "Your basic attack deals +2 Electric Damage and has a 15% chance to Stun.",
+    "key": "LightningPaws"
+  },
+  {
+    "name": "LightningPaws2",
+    "desc": "Your basic attack deals +4 Electric Damage and has a 40% chance to Stun.",
+    "key": "LightningPaws2"
+  },
+  {
+    "name": "Ice Paws",
+    "desc": "Your basic attack deals Ice Damage, inflicts Slow 2, and has a 20% chance to Freeze. You can damage frozen units.",
+    "key": "IcePaws"
+  },
+  {
+    "name": "IcePaws2",
+    "desc": "Your basic attack deals Ice Damage, inflicts Slow 5, and has a 50% chance to Freeze. You can damage frozen units.",
+    "key": "IcePaws2"
+  },
+  {
+    "name": "Paw Missile",
+    "desc": "Your basic attack is Magic Missile.\r\n(its damage scales with [img:int]).",
+    "key": "PawMissile"
+  },
+  {
+    "name": "PawMissile2",
+    "desc": "Your basic attack is Magic Missile.\n(its damage scales with [img:int]).\nEmit 4 Sparkles when you use your basic attack.",
+    "key": "PawMissile2"
+  },
+  {
+    "name": "Overload",
+    "desc": "When you cast a spell, deal 3 random elemental damage to adjacent tiles.",
+    "key": "Overload"
+  },
+  {
+    "name": "Overload2",
+    "desc": "When you cast a spell, deal 6 tri-elemental damage to adjacent tiles.",
+    "key": "Overload2"
+  },
+  {
+    "name": "Charge Up",
+    "desc": "If you end your turn with 0 mana, the next spell you cast is free",
+    "key": "ChargeUp"
+  },
+  {
+    "name": "ChargeUp2",
+    "desc": "If you end your turn with 0 mana, gain +1 Magic Damage and the next spell you cast is free.",
+    "key": "ChargeUp2"
+  },
+  {
+    "name": "Death Chill",
+    "desc": "When downed, Freeze all enemies and the rest of the map.",
+    "key": "DeathChill"
+  },
+  {
+    "name": "DeathChill2",
+    "desc": "When downed, Freeze all enemies and the rest of the map, and full heal all allies.",
+    "key": "DeathChill2"
+  },
+  {
+    "name": "Epiphany",
+    "desc": "+5 starting mana. +5 Mana Regeneration.\nLose all unspent mana at the end of each of your turns",
+    "key": "Recharged"
+  },
+  {
+    "name": "Epiphany2",
+    "desc": "+20 starting mana. +5 Mana Regeneration.\nLose all unspent mana at the end of each of your turns",
+    "key": "Recharged2"
+  },
+  {
+    "name": "Three",
+    "desc": "Every 3rd spell you cast in a turn is cast twice.",
+    "key": "EnergyStorm"
+  },
+  {
+    "name": "Three2",
+    "desc": "The first spell and every 3rd spell you cast is cast twice.",
+    "key": "EnergyStorm2"
+  },
+  {
+    "name": "Fire Aspect",
+    "desc": "Fire immunity.\nInflict Burn 1 on units that contact you.\nYour Fire element damage is increased by 1 and inflicts +1 Burn.",
+    "key": "FireArmor"
+  },
+  {
+    "name": "FireAspect2",
+    "desc": "Fire immunity.\nInflict Burn 3 on units that contact you.\nYour Fire element damage is increased by 2 and inflicts +3 Burn.",
+    "key": "FireArmor2"
+  },
+  {
+    "name": "Ice Aspect",
+    "desc": "Ice immunity. You can damage frozen units.\nUnits that contact you take 1 Ice Damage, Slow 2, and have a 5% chance to Freeze.",
+    "key": "IceArmor"
+  },
+  {
+    "name": "IceAspect2",
+    "desc": "+2 Brace. Ice immunity. You can damage frozen units.\nUnits that contact you take 3 Ice Damage, Slow 2, and have a 15% chance to Freeze.",
+    "key": "IceArmor2"
+  },
+  {
+    "name": "Resonance",
+    "desc": "When you cast a spell gain +1 Magic Damage for the rest of the turn.",
+    "key": "Resonance"
+  },
+  {
+    "name": "Resonance2",
+    "desc": "When you cast a spell gain +1 Magic Damage and +1 Damage for the rest of the turn.",
+    "key": "Resonance2"
+  },
+  {
+    "name": "Learn From Me",
+    "desc": "When you cast a spell, all allied cats gain that spell in their bonus slot.",
+    "key": "LearnFromMe"
+  },
+  {
+    "name": "LearnFromMe2",
+    "desc": "When you cast a spell, all allied cats gain the upgraded version of that spell in their bonus slot.",
+    "key": "LearnFromMe2"
+  },
+  {
+    "name": "Lightning Aspect",
+    "desc": "Electric immunity.\r\nWhen you deal Electric Damage, gain +1 Charge.",
+    "key": "LightningArmor"
+  },
+  {
+    "name": "LightningAspect2",
+    "desc": "Electric immunity.\r\nWhen you deal Electric Damage, gain +1 Charge for each point of damage dealt.",
+    "key": "LightningArmor2"
+  },
+  {
+    "name": "Long Cast",
+    "desc": "Tile-targeted spells gain +5 Range.",
+    "key": "LongCast"
+  },
+  {
+    "name": "LongCast2",
+    "desc": "+2 Magic Damage. Tile-targeted spells gain +10 Range.",
+    "key": "LongCast2"
+  },
+  {
+    "name": "Light Up the Stage",
+    "desc": "At the end of your turn, emit 2 Sparkles for each turn you've taken.",
+    "key": "LightUpTheStage"
+  },
+  {
+    "name": "LightUptheStage2",
+    "desc": "At the end of your turn, emit 4 Sparkles for each turn you've taken and gain +1 Kinetic Spikes .",
+    "key": "LightUpTheStage2"
+  },
+  {
+    "name": "Elemental Attunement",
+    "desc": "Casting elemental spells imbues your basic attack with those elements and relevant effects for the rest of the battle.",
+    "key": "ElementalAttunement"
+  },
+  {
+    "name": "ElementalAttunement2",
+    "desc": "Casting elemental spells imbues your basic attack with those elements and relevant effects for the rest of the battle.\r\nElemental spells cost -2 mana.",
+    "key": "ElementalAttunement2"
+  },
+  {
+    "name": "Latent Energy",
+    "desc": "When an ally spends mana, Gain +2 Magic Damage until the next time you use magic.",
+    "key": "LatentEnergy"
+  },
+  {
+    "name": "LatentEnergy2",
+    "desc": "When an ally spends mana, Gain +2 Magic Damage until the next time you use magic, and gain +2 mana.",
+    "key": "LatentEnergy2"
+  },
+  {
+    "name": "Five",
+    "desc": "When you end your turn with exactly 5 mana or HP, gain +5 [img:shield] and temporarily gain +5 Kinetic Spikes until the end of your next turn .",
+    "key": "Five"
+  },
+  {
+    "name": "Five2",
+    "desc": "When you end your turn with exactly 5 mana or HP, gain +5 [img:shield], heal 5 HP and temporarily gain +5 Kinetic Spikes and +5 Damage until the end of your next turn.",
+    "key": "Five2"
+  },
+  {
+    "name": "Magic Guru",
+    "desc": "Your allies have +1 Mana Regeneration. When an ally spends 7+ mana to cast a spell, they gain All Stats Up.",
+    "key": "MagicGuru"
+  },
+  {
+    "name": "MagicGuru2",
+    "desc": "Your allies have +1 Mana Regeneration. When an ally spends 7+ mana to cast a spell, they gain All Stats Up. When you spend mana, each ally gains +1 mana.",
+    "key": "MagicGuru2"
+  },
+  {
+    "name": "One",
+    "desc": "When you end your turn, if you cast exactly 1 spell, double cast your next spell.",
+    "key": "One"
+  },
+  {
+    "name": "One2",
+    "desc": "When you end your turn, if you cast exactly 1 spell, double cast your next 2 spells.",
+    "key": "One2"
+  },
+  {
+    "name": "Two",
+    "desc": "When you end your turn, if you cast exactly 2 spells, gain +1 Bonus Attack.\r\nWhen you end your turn, if you have exactly 2 mana, gain +1 Bonus Attack.",
+    "key": "Two"
+  },
+  {
+    "name": "Two2",
+    "desc": "When you end your turn, if you cast exactly 2 spells, gain +1 Bonus Attack and Movement.\r\nWhen you end your turn, if you have exactly 2 mana, gain +1 Bonus Attack and Movement.",
+    "key": "Two2"
+  },
+  {
+    "name": "Four",
+    "desc": "When you end your turn with exactly 4 mana or HP, gain +1 [img:int] and +1 Magic Damage.",
+    "key": "Four"
+  },
+  {
+    "name": "Four2",
+    "desc": "When you end your turn with exactly 4 mana or HP, gain +1 [img:int], +1 Magic Damage, +1 Kinetic Spikes, and +1 Holy Shield.",
+    "key": "Four2"
+  }
+]

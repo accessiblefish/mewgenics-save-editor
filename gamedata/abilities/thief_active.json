@@ -1,0 +1,542 @@
+[
+  {
+    "name": "Assassinate",
+    "desc": "A melee attack that can only hit from behind. This attack ignores shield and has 50% crit chance.",
+    "key": "Assassinate"
+  },
+  {
+    "name": "Assassinate2",
+    "desc": "A melee attack that can only hit from behind. This attack ignores shield and has 100% crit chance.\n[s:.7](This spell costs less.)[/s]",
+    "key": "Assassinate2"
+  },
+  {
+    "name": "Boost Backstab",
+    "desc": "Until end of turn, your backstabs do +75% more damage and ignore shield.",
+    "key": "BoostBackstab"
+  },
+  {
+    "name": "BoostBackstab2",
+    "desc": "Until end of turn, your backstabs do +75% more damage, ignore shield, and inflict Bleed and Poison.",
+    "key": "BoostBackstab2"
+  },
+  {
+    "name": "Poison Gas",
+    "desc": "Inflict Poison 2 on all units adjacent to you.",
+    "key": "PoisonGas"
+  },
+  {
+    "name": "PoisonGas2",
+    "desc": "Inflict Poison 4 on all units adjacent to you (even diagonally).",
+    "key": "PoisonGas2"
+  },
+  {
+    "name": "Poison Nail",
+    "desc": "Throw a nail that inflicts Poison and ignores shield.",
+    "key": "PoisonNail"
+  },
+  {
+    "name": "PoisonNail2",
+    "desc": "Throw 2 nails that inflict Poison and ignore shield.",
+    "key": "PoisonNail2"
+  },
+  {
+    "name": "Weakening Nail",
+    "desc": "Throw a nail that inflicts Weakness and ignores shield.",
+    "key": "WeakeningNail"
+  },
+  {
+    "name": "WeakeningNail2",
+    "desc": "Throw 2 nails that inflict Weakness and ignore shield.",
+    "key": "WeakeningNail2"
+  },
+  {
+    "name": "Sharp Nail",
+    "desc": "Throw a nail that inflicts Bleed and ignores shield.",
+    "key": "SharpNail"
+  },
+  {
+    "name": "SharpNail2",
+    "desc": "Throw 2 nails that inflict Bleed and ignore shield.",
+    "key": "SharpNail2"
+  },
+  {
+    "name": "Double",
+    "desc": "-",
+    "key": "Double"
+  },
+  {
+    "name": "Double2",
+    "desc": "-",
+    "key": "Double2"
+  },
+  {
+    "name": "Coin Toss",
+    "desc": "Throw a coin that deals damage.\nRELOAD: Collect a coin.\n[s:.7]This spell costs more mana each additional time you use it on the same turn.[/s]",
+    "key": "CoinToss"
+  },
+  {
+    "name": "CoinToss2",
+    "desc": "Throw a coin at infinite range with +50% crit chance that ignores shield.\nRELOAD: Collect a coin.\n[s:.7]This spell costs more mana each additional time you use it on the same turn.[/s]",
+    "key": "CoinToss2"
+  },
+  {
+    "name": "Move Again",
+    "desc": "Refresh your movement action.",
+    "key": "MoveAgain"
+  },
+  {
+    "name": "MoveAgain2",
+    "desc": "Refresh your movement action.\n[s:.7](This spell costs less.)[/s]",
+    "key": "MoveAgain2"
+  },
+  {
+    "name": "Rearm",
+    "desc": "Refresh your basic attack.",
+    "key": "AttackAgain"
+  },
+  {
+    "name": "AttackAgain2",
+    "desc": "Refresh your basic attack.\n[s:.7](This spell costs less.)[/s]",
+    "key": "AttackAgain2"
+  },
+  {
+    "name": "Camouflage",
+    "desc": "Gain Stealth.",
+    "key": "Camouflage"
+  },
+  {
+    "name": "Camouflage2",
+    "desc": "Gain Stealth. Attacking while stealthed has a 100% critical hit chance.",
+    "key": "Camouflage2"
+  },
+  {
+    "name": "Shadow",
+    "desc": "Teleport behind a unit.\n[s:.7]Nothin' personnel, kid.[/s]",
+    "key": "Shadow"
+  },
+  {
+    "name": "Shadow2",
+    "desc": "Teleport behind a unit. Your next action has +100% crit chance.\n[s:.7]Nothin' personnel, kid.[/s]",
+    "key": "Shadow2"
+  },
+  {
+    "name": "Time Walk",
+    "desc": "Take an extra turn at the end of the round.\r\n[s:.7](This spell can't be cast on extra turns.)[/s]",
+    "key": "TimeWalk"
+  },
+  {
+    "name": "TimeWalk2",
+    "desc": "Take an extra turn at the end of the round.\r\n[s:.7](This spell can't be cast on extra turns. This spell costs less.)[/s]",
+    "key": "TimeWalk2"
+  },
+  {
+    "name": "Double Loot",
+    "desc": "-",
+    "key": "DoubleLoot"
+  },
+  {
+    "name": "DoubleLoot2",
+    "desc": "-",
+    "key": "DoubleLoot2"
+  },
+  {
+    "name": "Distract",
+    "desc": "Make a unit face away from you.",
+    "key": "Distract"
+  },
+  {
+    "name": "Distract2",
+    "desc": "Make any unit look away from you. This has a 33% chance to inflict Confusion.",
+    "key": "Distract2"
+  },
+  {
+    "name": "Rebound",
+    "desc": "A melee attack that rebounds you backwards 10 tiles.",
+    "key": "Rebound"
+  },
+  {
+    "name": "Rebound2",
+    "desc": "A melee attack that rebounds you backwards 10 tiles. Deal damage to any unit you collide with.",
+    "key": "Rebound2"
+  },
+  {
+    "name": "Cut Purse",
+    "desc": "Throw a nail that knocks coins out of units it hits and ignores shield.",
+    "key": "CutPurse"
+  },
+  {
+    "name": "CutPurse2",
+    "desc": "Throw 2 nails that knock coins out of units they hit and ignore shield.",
+    "key": "CutPurse2"
+  },
+  {
+    "name": "Eagle Eye",
+    "desc": "Spawn 2-3 coins on random tiles.",
+    "key": "EagleEye"
+  },
+  {
+    "name": "EagleEye2",
+    "desc": "Spawn 3-7 coins on random tiles.",
+    "key": "EagleEye2"
+  },
+  {
+    "name": "Pickpocket",
+    "desc": "Steal 1-3 coins from a unit and give it -1 Damage.",
+    "key": "PickPocket"
+  },
+  {
+    "name": "PickPocket2",
+    "desc": "Steal 3-5 coins from a unit, give it -1 Damage, and apply some extra debuffs at random.",
+    "key": "PickPocket2"
+  },
+  {
+    "name": "Backflip",
+    "desc": "Backflip out of the way the next time you're targeted by an enemy.",
+    "key": "Backflip"
+  },
+  {
+    "name": "Backflip2",
+    "desc": "Backflip out of the way the next time you're targeted by an enemy.\n[s:.7](This spell costs less.)[/s]",
+    "key": "Backflip2"
+  },
+  {
+    "name": "Blur",
+    "desc": "Gain +10% dodge chance.\nDisable this spell if you have more than 65% dodge chance.",
+    "key": "Blur"
+  },
+  {
+    "name": "Blur2",
+    "desc": "Gain +15% dodge chance. \nDisable this spell if you have more than 80% dodge chance.",
+    "key": "Blur2"
+  },
+  {
+    "name": "Greedstep",
+    "desc": "Teleport to a tile with coins on it.",
+    "key": "GreedStep"
+  },
+  {
+    "name": "GreedStep2",
+    "desc": "Teleport to a tile with coins on it, then spawn 1-2 coins on random tiles.",
+    "key": "GreedStep2"
+  },
+  {
+    "name": "Stalk",
+    "desc": "Target any enemy. Teleport behind it at the start of your next turn.\n[s:.7](Castable once per turn.)[/s]",
+    "key": "Stalk"
+  },
+  {
+    "name": "Stalk2",
+    "desc": "Target any enemy. Teleport behind it at the start of your next turn.\n[s:.7](Castable once per turn. Costs 0 mana.)[/s]",
+    "key": "Stalk2"
+  },
+  {
+    "name": "Nail Flurry",
+    "desc": "Throw 10 1-damage nails that ignore shield.",
+    "key": "NailFlurry"
+  },
+  {
+    "name": "NailFlurry2",
+    "desc": "Throw 10 1-damage nails that ignore shield. Throw extra nails equal to your [img:dex].",
+    "key": "NailFlurry2"
+  },
+  {
+    "name": "Declaw",
+    "desc": "A melee attack that inflicts -1 Damage and Bleed.",
+    "key": "Declaw"
+  },
+  {
+    "name": "Declaw2",
+    "desc": "A 2-hit melee attack that inflicts -1 Damage and Bleed.",
+    "key": "Declaw2"
+  },
+  {
+    "name": "Quick Roll",
+    "desc": "Roll in a straight line up to three tiles.\nRELOAD: Backstab a unit.",
+    "key": "QuickRoll"
+  },
+  {
+    "name": "QuickRoll2",
+    "desc": "Roll in a straight or diagonal line up to five tiles.\nRELOAD: Backstab a unit.",
+    "key": "QuickRoll2"
+  },
+  {
+    "name": "Slice",
+    "desc": "A melee attack that has all effects of your basic attack and ignores shield.",
+    "key": "Slice"
+  },
+  {
+    "name": "Slice2",
+    "desc": "A melee attack that has all effects of your basic attack and ignores shield.\n[s:.7](This spell is free the 1st time you use it each turn.)[/s]",
+    "key": "Slice2"
+  },
+  {
+    "name": "Pocket Sand",
+    "desc": "Inflict Blind on all units in a small cone.",
+    "key": "PocketSand"
+  },
+  {
+    "name": "PocketSand2",
+    "desc": "Inflict Blind 2 on all units in a larger cone.",
+    "key": "PocketSand2"
+  },
+  {
+    "name": "Nightshade",
+    "desc": "Inflict Poison 4 on an adjacent unit.",
+    "key": "Nightshade"
+  },
+  {
+    "name": "Nightshade2",
+    "desc": "Inflict Poison 4 on an adjacent unit.\r\n[s:.7](This spell costs less.)[/s]",
+    "key": "Nightshade2"
+  },
+  {
+    "name": "Shadow Shift",
+    "desc": "Teleport exactly 2 tiles away, leaving behind a shadow that mimics your basic attack.\n[s:.7](The shadow fades at the end of your turn.)[/s]",
+    "key": "Shadowshift"
+  },
+  {
+    "name": "Shadowshift2",
+    "desc": "Teleport up to 3 tiles away, leaving behind a shadow that mimics your basic attack.\n[s:.7](The shadow fades at the end of your turn.)[/s]",
+    "key": "Shadowshift2"
+  },
+  {
+    "name": "Slingshade",
+    "desc": "Spawn a shadow up to 3 tiles away that mimics your basic attack.\n[s:.7](The shadow fades at the end of your turn.)[/s]",
+    "key": "SlingShade"
+  },
+  {
+    "name": "SlingShade2",
+    "desc": "Spawn a shadow up to 5 tiles away that mimics your basic attack.\n[s:.7](The shadow fades at the end of your turn.)[/s]\n[s:.7](This spell costs less.)[/s]",
+    "key": "SlingShade2"
+  },
+  {
+    "name": "Caltrops",
+    "desc": "Move up to 4 tiles, spreading glass shards on the tiles you walk through.",
+    "key": "Caltrops"
+  },
+  {
+    "name": "Caltrops2",
+    "desc": "Move up to 10 tiles, spreading glass shards on the tiles you walk through.",
+    "key": "Caltrops2"
+  },
+  {
+    "name": "Pierce Shot",
+    "desc": "Throw a nail that passes through units and ignores shield.",
+    "key": "PierceShot"
+  },
+  {
+    "name": "PierceShot2",
+    "desc": "Throw an infinite range nail that passes through units and ignores shield.",
+    "key": "PierceShot2"
+  },
+  {
+    "name": "Cheat",
+    "desc": "Gain temporary +5 [img:lck] until your next turn.",
+    "key": "Cheat"
+  },
+  {
+    "name": "Cheat2",
+    "desc": "Gain temporary +10 [img:lck] until your next turn.",
+    "key": "Cheat2"
+  },
+  {
+    "name": "Venom Barrage",
+    "desc": "Throw a nail that inflicts Poison 1 and ignores shield at each enemy in your line of sight.",
+    "key": "VenomBarrage"
+  },
+  {
+    "name": "VenomBarrage2",
+    "desc": "Throw 2 nails that inflict Poison 1 and ignore shield at each enemy in your line of sight.",
+    "key": "VenomBarrage2"
+  },
+  {
+    "name": "Loot Corpse",
+    "desc": "Loot 1-3 coins from a body... and possibly something else?\n[s:.7](This might destroy the body)[/s]",
+    "key": "LootCorpse"
+  },
+  {
+    "name": "LootCorpse2",
+    "desc": "Loot 1-3 coins from a body... and possibly something else?\n[s:.7](This might not destroy the body)[/s]\n[s:.7](Your chance of finding \"something else\" is significantly increased.)[/s]",
+    "key": "LootCorpse2"
+  },
+  {
+    "name": "Sever Artery",
+    "desc": "A weak melee attack. If this crits, inflict Bleed 5.",
+    "key": "SeverArtery"
+  },
+  {
+    "name": "SeverArtery2",
+    "desc": "A weak melee attack. If this crits inflict Bleed 5 and you gain All Stats Up.",
+    "key": "SeverArtery2"
+  },
+  {
+    "name": "Fade",
+    "desc": "Gain Stealth 1.",
+    "key": "Fade"
+  },
+  {
+    "name": "Fade2",
+    "desc": "Gain Stealth 2.",
+    "key": "Fade2"
+  },
+  {
+    "name": "Sharpen Nail",
+    "desc": "Gain +1 [img:dex] and +1 Range until the end of the battle.",
+    "key": "SharpenNail"
+  },
+  {
+    "name": "SharpenNail2",
+    "desc": "Gain +1 [img:dex] and +1 Range until the end of the battle.\r\n[s:.7]Automatically cast this spell at the end of each round for free.[/s]",
+    "key": "SharpenNail2"
+  },
+  {
+    "name": "Sneak Up",
+    "desc": "Teleport directly behind a random enemy.",
+    "key": "SneakUp"
+  },
+  {
+    "name": "SneakUp2",
+    "desc": "Teleport directly behind a random enemy.\n[s:.7](This spell costs less.)[/s]",
+    "key": "SneakUp2"
+  },
+  {
+    "name": "Shank",
+    "desc": "An attack that hits 2 times from behind.",
+    "key": "Shank"
+  },
+  {
+    "name": "Shank2",
+    "desc": "An attack that hits 3 times from behind.",
+    "key": "Shank2"
+  },
+  {
+    "name": "Steal Kidney",
+    "desc": "A melee attack with increased critical hit chance. If this crits and your trinket slot is empty, gain a kidney, then inflict Bleed 1.",
+    "key": "StealKidney"
+  },
+  {
+    "name": "StealKidney2",
+    "desc": "A melee attack with increased critical hit chance that inflicts Bleed and Bruise 1. If this crits and your trinket slot is empty, gain a kidney, then inflict Bleed 1.",
+    "key": "StealKidney2"
+  },
+  {
+    "name": "Steal Luck",
+    "desc": "A weak melee attack. If this crits, inflict -1 [img:lck] and you gain +1 [img:lck].",
+    "key": "StealLuck"
+  },
+  {
+    "name": "Steal Luck",
+    "desc": "A weak melee attack that inflicts -1 [img:lck] and you gain +1 [img:lck].",
+    "key": "StealLuck2"
+  },
+  {
+    "name": "Over Here, Over There",
+    "desc": "Swap positions with an ally. Swap back at the end of your turn.\r\n[s:.7](Castable once per turn.)[/s]",
+    "key": "ThiefSwap"
+  },
+  {
+    "name": "ThiefSwap2",
+    "desc": "Swap positions with any unit. Swap back at the end of your turn. If the unit was an enemy, inflict Confusion 1.\r\n[s:.7](Castable once per turn.)[/s]",
+    "key": "ThiefSwap2"
+  },
+  {
+    "name": "Pierce",
+    "desc": "Gain +2 Range. Your attacks pass through units and ignore shield for the rest of the turn.",
+    "key": "Pierce"
+  },
+  {
+    "name": "Pierce2",
+    "desc": "Gain +4 Range. Your attacks pass through units and ignore shield for the rest of the turn.\n[s:.7](This spell costs less.)[/s]",
+    "key": "Pierce2"
+  },
+  {
+    "name": "Wind Up",
+    "desc": "Gain +1 Range for the rest of the turn.",
+    "key": "WindUp"
+  },
+  {
+    "name": "WindUp2",
+    "desc": "Gain +1 Range.",
+    "key": "WindUp2"
+  },
+  {
+    "name": "Triple Nails",
+    "desc": "Throw 3 nails straight and diagonally in front of you. These nails have the effects of your basic attack and ignore shield.",
+    "key": "TripleNails"
+  },
+  {
+    "name": "TripleNails2",
+    "desc": "Throw 3 nails straight and diagonally in front of you 2 times. These nails have the effects of your basic attack and ignore shield.",
+    "key": "TripleNails2"
+  },
+  {
+    "name": "Skin Disguise",
+    "desc": "Destroy an adjacent body. Enemies won't attack you until your next turn.\n[s:.7](Castable once per turn.)[/s]",
+    "key": "SkinDisguise"
+  },
+  {
+    "name": "SkinDisguise2",
+    "desc": "Destroy a body in range 3. Enemies won't attack you until your next turn.\n[s:.7](This spell is free. Castable once per turn.)[/s]",
+    "key": "SkinDisguise2"
+  },
+  {
+    "name": "Chakram",
+    "desc": "Throw a projectile that passes through units and then returns to you. This can collect pickups.",
+    "key": "Chakram"
+  },
+  {
+    "name": "Chakram2",
+    "desc": "Throw a projectile that passes through units and then returns to you. At its apex, it deals increased damage and always crits. This can collect pickups.",
+    "key": "Chakram2"
+  },
+  {
+    "name": "Jitter",
+    "desc": "Inflict Confusion 1 on each adjacent unit.",
+    "key": "Jitter"
+  },
+  {
+    "name": "Jitter2",
+    "desc": "Inflict Confusion 1 on each unit within 3 tiles of you.",
+    "key": "Jitter2"
+  },
+  {
+    "name": "Steal Time",
+    "desc": "A melee attack. If this crits, refresh your basic attack and movement actions.",
+    "key": "StealTime"
+  },
+  {
+    "name": "StealTime2",
+    "desc": "A melee attack with +30% crit chance. If this crits, refresh your basic attack and movement actions.",
+    "key": "StealTime2"
+  },
+  {
+    "name": "Outskirts",
+    "desc": "Teleport to a tile on the edge of the map.",
+    "key": "Outskirts"
+  },
+  {
+    "name": "Outskirts2",
+    "desc": "Teleport to a tile on the edge of the map. Gain +2 Damage for the rest of the turn.",
+    "key": "Outskirts2"
+  },
+  {
+    "name": "Poison Dip",
+    "desc": "Spend all your mana. For every 5 mana spent, your basic attack inflicts +1 Poison.\r\n[s:.7](Castable once per battle.)[/s]",
+    "key": "PoisonDip"
+  },
+  {
+    "name": "PoisonDip2",
+    "desc": "Spend all your mana. For every 3 mana spent, your basic attack inflicts +1 Poison.\r\n[s:.7](Castable once per battle.)[/s]",
+    "key": "PoisonDip2"
+  },
+  {
+    "name": "Lucky Penny",
+    "desc": "Collect an adjacent pickup and gain +2 [img:lck] instead of its normal effects.",
+    "key": "LuckyPenny"
+  },
+  {
+    "name": "LuckyPenny2",
+    "desc": "Collect a pickup within four tiles of you. Gain +2 [img:lck] instead of its normal effects.",
+    "key": "LuckyPenny2"
+  }
+]

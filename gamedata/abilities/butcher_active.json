@@ -1,0 +1,512 @@
+[
+  {
+    "name": "Hog Rush",
+    "desc": "Trample over to a tile with meat on it.",
+    "key": "HogRush"
+  },
+  {
+    "name": "HogRush2",
+    "desc": "Trample over to a tile with meat on it and Cleave all units in your way.",
+    "key": "HogRush2"
+  },
+  {
+    "name": "Burp",
+    "desc": "Inflict Rot on a unit and it moves away from you.",
+    "key": "Burp"
+  },
+  {
+    "name": "Burp2",
+    "desc": "Inflict Rot 2 and Poison 2 on a unit and it moves away from you.",
+    "key": "Burp2"
+  },
+  {
+    "name": "Self Harm",
+    "desc": "Attack yourself with Cleave to gain +2 [img:str].",
+    "key": "SelfMutilate"
+  },
+  {
+    "name": "SelfMutilate2",
+    "desc": "Attack yourself at half damage with Cleave to gain +2 [img:str].",
+    "key": "SelfMutilate2"
+  },
+  {
+    "name": "Force Feed",
+    "desc": "Heal an adjacent unit and give that unit +1 [img:con] and -1 [img:spd].",
+    "key": "ForceFeed"
+  },
+  {
+    "name": "Force Feed",
+    "desc": "Heal a unit within range and give that unit +1 [img:con] and -1 [img:spd].",
+    "key": "ForceFeed2"
+  },
+  {
+    "name": "Fartoom!",
+    "desc": "Lose 25% of your current HP, deal that much damage to adjacent units, and deal Knockback to them.",
+    "key": "Fartoom"
+  },
+  {
+    "name": "Fartoom2",
+    "desc": "Lose 25% of your HP, deal that much damage to nearby units, and deal Knockback to them.",
+    "key": "Fartoom2"
+  },
+  {
+    "name": "Mutilate",
+    "desc": "Attack 3-5 times for 1 damage each. These attacks inflict Bleed.",
+    "key": "Mutilate"
+  },
+  {
+    "name": "Mutilate2",
+    "desc": "Attack 3-10 times for 1 damage each. These attacks inflict Bleed.",
+    "key": "Mutilate2"
+  },
+  {
+    "name": "Skull Bash",
+    "desc": "A range 1 dash attack that inflicts Stun and knockback. Also stuns yourself.",
+    "key": "SkullBash"
+  },
+  {
+    "name": "SkullBash2",
+    "desc": "A range 4 dash attack that inflicts Stun and knockback. Has a 50% chance to stun yourself.",
+    "key": "SkullBash2"
+  },
+  {
+    "name": "Shred",
+    "desc": "Attack five times for 1 damage each. These attacks inflict all status effects your basic attack does.",
+    "key": "Shred"
+  },
+  {
+    "name": "Shred2",
+    "desc": "Attack five times with damage that scales with [img:str]. These attacks inflict all status effects your basic attack does.",
+    "key": "Shred2"
+  },
+  {
+    "name": "Chomp",
+    "desc": "A melee attack with Life Steal. If used on an ally, gain +1[img:str]. If used on a pickup, gain double that pickup's effects.",
+    "key": "Chomp"
+  },
+  {
+    "name": "Chomp2",
+    "desc": "A wide melee attack with Life Steal. If used on an ally, gain +1[img:str]. If used on a pickup, gain double that pickup's effects.",
+    "key": "Chomp2"
+  },
+  {
+    "name": "SUCC",
+    "desc": "Collect a pickup within two tiles of you.",
+    "key": "Succ"
+  },
+  {
+    "name": "Succ2",
+    "desc": "Collect all pickups within two tiles of you.",
+    "key": "Succ2"
+  },
+  {
+    "name": "Consume",
+    "desc": "Collect all pickups, then become drowsy.",
+    "key": "Consume"
+  },
+  {
+    "name": "Consume2",
+    "desc": "Collect all pickups, then become drowsy. Gain double the effects of these pickups.",
+    "key": "Consume2"
+  },
+  {
+    "name": "Trudge",
+    "desc": "Move four tiles. Costs less mana the lower your HP is.",
+    "key": "Trudge"
+  },
+  {
+    "name": "Trudge2",
+    "desc": "Trample over four tiles. Costs less mana the lower your HP is.",
+    "key": "Trudge2"
+  },
+  {
+    "name": "Body Slam",
+    "desc": "Jump to a tile within range 2. Damage both yourself and units you land on equal to 25% of your current HP.",
+    "key": "BodySlam"
+  },
+  {
+    "name": "BodySlam2",
+    "desc": "Jump to a tile within range 2. Damage both yourself and units you land on equal to 25% of your current HP. This attack inflicts Bruise and has a chance to Stun.",
+    "key": "BodySlam2"
+  },
+  {
+    "name": "Blood Magic",
+    "desc": "Take 5 damage and gain 5 mana.\n[s:.7](Castable once per turn.)[/s]",
+    "key": "BloodMagic"
+  },
+  {
+    "name": "BloodMagic2",
+    "desc": "Take 5 damage and gain 10 mana.\n[s:.7](Castable once per turn.)[/s]",
+    "key": "BloodMagic2"
+  },
+  {
+    "name": "Smell Blood",
+    "desc": "Until your next turn, if a unit in your attack range takes physical damage from a source that isn't you, you attack that unit.",
+    "key": "SmellBlood"
+  },
+  {
+    "name": "SmellBlood2",
+    "desc": "Until your next turn, if a unit in your attack range takes physical damage from a source that isn't you, you attack that unit.\r\n[s:.7](This spell costs less.)[/s]",
+    "key": "SmellBlood2"
+  },
+  {
+    "name": "Vurp",
+    "desc": "Vomit up the last consumable you ate this battle and equip it.\n[s:.7](Castable once per battle.)[/s]",
+    "key": "Vurp"
+  },
+  {
+    "name": "Vurp2",
+    "desc": "Vomit up the last consumable you ate this battle and equip it.\n[s:.7](Castable once per turn.)[/s]",
+    "key": "Vurp2"
+  },
+  {
+    "name": "Slice and Dice",
+    "desc": "Dash forward one tile and do a spin attack with Cleave, then repeat twice more.",
+    "key": "SliceAndDice"
+  },
+  {
+    "name": "SliceAndDice2",
+    "desc": "Dash forward one tile and do a spin attack with Cleave, then repeat four more times.",
+    "key": "SliceAndDice2"
+  },
+  {
+    "name": "Lunch Time",
+    "desc": "Jump to a food pickup in range 4.",
+    "key": "LunchTime"
+  },
+  {
+    "name": "LunchTime2",
+    "desc": "Jump to any food pickup.",
+    "key": "LunchTime2"
+  },
+  {
+    "name": "Tromp",
+    "desc": "Trample over one tile. If you trample over a unit, you inflict Bruise on that unit and yourself.",
+    "key": "Tromp"
+  },
+  {
+    "name": "Tromp",
+    "desc": "Trample over one tile. If you trample over a unit, you inflict Bruise on that unit.",
+    "key": "Tromp2"
+  },
+  {
+    "name": "Lighten the Load",
+    "desc": "Take 25 damage. You take an extra turn after this one.\r\n[s:.7](This spell can't be cast on extra turns.)[/s]",
+    "key": "LightenTheLoad"
+  },
+  {
+    "name": "LightenTheLoad2",
+    "desc": "Take 15 damage. You take an extra turn after this one.\r\n[s:.7](This spell can't be cast on extra turns.)[/s]",
+    "key": "LightenTheLoad2"
+  },
+  {
+    "name": "Crushinator",
+    "desc": "This spell only damages Shield. Cleave and inflict Stun on units with Shield. Deals 3 Knockback to units without Shield.",
+    "key": "Crushinator"
+  },
+  {
+    "name": "Crushinator2",
+    "desc": "This spell only damages Shield. Cleave and inflict Stun on units with Shield. Deals 10 Knockback to units without Shield.",
+    "key": "Crushinator2"
+  },
+  {
+    "name": "Cannon Ball!",
+    "desc": "Target any tile. At the beginning of your next turn, jump to that tile. If you land on a unit, stun it.\n[s:.7](Castable once per turn.)[/s]",
+    "key": "CannonBall"
+  },
+  {
+    "name": "CannonBall2",
+    "desc": "Target any tile. At the beginning of your next turn, jump to that tile. If you land on a unit, damage and stun it.\n[s:.7](This spell costs less.)[/s]\n[s:.7](Castable once per turn.)[/s]",
+    "key": "CannonBall2"
+  },
+  {
+    "name": "Monch",
+    "desc": "A melee attack with lifesteal. This spell does more damage the less health you have.",
+    "key": "Monch"
+  },
+  {
+    "name": "Monch2",
+    "desc": "A melee attack with lifesteal. This spell does more damage the less health you have.\n[s:.7](This spell costs less.)[/s]",
+    "key": "Monch2"
+  },
+  {
+    "name": "Death Wind",
+    "desc": "Blow wind that inflicts Poison 4 in a cone. The cone is larger the less health you have.",
+    "key": "DeathWind"
+  },
+  {
+    "name": "DeathWind2",
+    "desc": "Blow wind that inflicts Poison 4 in a cone. The cone is larger the less health you have.\n[s:.7](This spell costs less.)[/s]",
+    "key": "DeathWind2"
+  },
+  {
+    "name": "Spoil",
+    "desc": "Turn all food pickups into Rot Flies.",
+    "key": "Spoil"
+  },
+  {
+    "name": "Spoil2",
+    "desc": "Turn all food pickups into Rot Flies.\r\n[s:.7](This spell costs less.)[/s]",
+    "key": "Spoil2"
+  },
+  {
+    "name": "Grill",
+    "desc": "Light a fire under a food pickup on any tile.",
+    "key": "Grill"
+  },
+  {
+    "name": "Grill2",
+    "desc": "Light a fire under any tile.",
+    "key": "Grill2"
+  },
+  {
+    "name": "Roast",
+    "desc": "Breathe a cone of fire.",
+    "key": "Roast"
+  },
+  {
+    "name": "Roast2",
+    "desc": "Breathe a larger cone of fire.",
+    "key": "Roast2"
+  },
+  {
+    "name": "Bad Gas",
+    "desc": "Fart on a unit, inflicting Poison 3 and propelling yourself 3 tiles.",
+    "key": "BadGas"
+  },
+  {
+    "name": "BadGas2",
+    "desc": "Fart on a unit, inflicting Poison 3 and propelling yourself ten tiles. Units in your path get trampled over.",
+    "key": "BadGas2"
+  },
+  {
+    "name": "Purge",
+    "desc": "Puke on the tile in front of you. You get -1 [img:con] and +2 [img:spd].",
+    "key": "ButcherPurge"
+  },
+  {
+    "name": "ButcherPurge2",
+    "desc": "Puke on a tile in range. You get -1 [img:con] and +2 [img:spd].",
+    "key": "ButcherPurge2"
+  },
+  {
+    "name": "Binge",
+    "desc": "Gain -1 [img:spd], +1 [img:con], and +1 [img:str].",
+    "key": "Binge"
+  },
+  {
+    "name": "Binge2",
+    "desc": "Gain -1 [img:spd], +1 [img:con], +1 [img:str], and heal 4 HP.",
+    "key": "Binge2"
+  },
+  {
+    "name": "My Turn!",
+    "desc": "Steal an allied cat's next turn for yourself.",
+    "key": "MyTurn"
+  },
+  {
+    "name": "MyTurn2",
+    "desc": "Steal an allied cat's next turn for yourself.\r\n[s:.7](This spell costs 1 mana.)[/s]",
+    "key": "MyTurn2"
+  },
+  {
+    "name": "Gib",
+    "desc": "Attack a unit in melee range. If this kills it, it becomes 3 food pickups.",
+    "key": "Gib"
+  },
+  {
+    "name": "Gib2",
+    "desc": "Attack a unit in melee range for more damage. If this kills it, it becomes 3 food pickups.",
+    "key": "Gib2"
+  },
+  {
+    "name": "Swallow",
+    "desc": "Eat a unit and take damage equal to that unit's remaining HP. You can't swallow bosses or large units.",
+    "key": "Swallow"
+  },
+  {
+    "name": "Swallow2",
+    "desc": "Eat a unit within range 2 and take damage equal to half of that unit's remaining HP. You can't swallow bosses or large units.",
+    "key": "Swallow2"
+  },
+  {
+    "name": "Track",
+    "desc": "Trample one tile toward the nearest food pickup.",
+    "key": "Track"
+  },
+  {
+    "name": "Track2",
+    "desc": "Trample two tiles toward the nearest food pickup.",
+    "key": "Track2"
+  },
+  {
+    "name": "Sharpen",
+    "desc": "Your weapon gains +1 damage for the rest of the battle.",
+    "key": "Sharpen"
+  },
+  {
+    "name": "Sharpen2",
+    "desc": "Your weapon gains +1 damage for the rest of the battle and you gain +1 Damage.",
+    "key": "Sharpen2"
+  },
+  {
+    "name": "Fire Fart",
+    "desc": "Inflict Poison 2 and Burn 2 on a unit in melee range.",
+    "key": "FireFart"
+  },
+  {
+    "name": "FireFart2",
+    "desc": "Inflict Poison 2 and Burn 2 in a small cone.",
+    "key": "FireFart2"
+  },
+  {
+    "name": "Rough Toss",
+    "desc": "Throw an adjacent unit to an empty tile, dealing a lot of damage to that unit.",
+    "key": "RoughToss"
+  },
+  {
+    "name": "RoughToss2",
+    "desc": "Throw an adjacent unit to another tile (even if it isnt empty), dealing a lot of damage to that unit and whatever it lands on.",
+    "key": "RoughToss2"
+  },
+  {
+    "name": "Bowl",
+    "desc": "Roll the bowling ball cat. If it hits something, deal 10 damage in a large cone with knockback.",
+    "key": "Bowl"
+  },
+  {
+    "name": "Bowl2",
+    "desc": "Roll the bowling ball cat. If it hits something, deal 15 damage and inflict Bruise in a large cone with knockback.",
+    "key": "Bowl2"
+  },
+  {
+    "name": "Tainted Offering",
+    "desc": "Jump to any open tile and fall asleep. While asleep, inflict Rot 1 and Poison 1 on units that contact you.",
+    "key": "TaintedOffering"
+  },
+  {
+    "name": "TaintedOffering2",
+    "desc": "Jump to any open tile and fall asleep. While asleep, inflict Rot 2 and Poison 2 on units that contact you.",
+    "key": "TaintedOffering2"
+  },
+  {
+    "name": "Delicious Scent",
+    "desc": "Inflict Attraction on all enemies within range 4.",
+    "key": "DeliciousScent"
+  },
+  {
+    "name": "Delicious Scent",
+    "desc": "Jump to a tile, then inflict Attraction on all enemies within range 4.",
+    "key": "DeliciousScent2"
+  },
+  {
+    "name": "Cough",
+    "desc": "Take 2 damage.\nSummon a Rot Fly.",
+    "key": "Cough"
+  },
+  {
+    "name": "Cough2",
+    "desc": "Take 2 damage.\nSummon a [img:champion] Rot Fly.",
+    "key": "Cough2"
+  },
+  {
+    "name": "Reflux",
+    "desc": "Take 2 damage and gain Burn 2, then fire a projectile that spawns a lava tile at short range.",
+    "key": "Reflux"
+  },
+  {
+    "name": "Reflux2",
+    "desc": "Take 2 damage and gain Burn 2, then fire a projectile that spawns a lava tile at long range.",
+    "key": "Reflux2"
+  },
+  {
+    "name": "Yawn",
+    "desc": "You and adjacent units fall asleep",
+    "key": "Tryptophan"
+  },
+  {
+    "name": "Tryptophan2",
+    "desc": "You and adjacent units fall asleep. You gain all stats up and heal 4.",
+    "key": "Tryptophan2"
+  },
+  {
+    "name": "Hook Bind",
+    "desc": "Melee attack that immobilizes.",
+    "key": "HookBind"
+  },
+  {
+    "name": "HookBind2",
+    "desc": "Melee attack that immobilizes and inflicts Bleed 2.",
+    "key": "HookBind2"
+  },
+  {
+    "name": "Regurge",
+    "desc": "Take 2 damage and spawn a food pickup.",
+    "key": "Regurge"
+  },
+  {
+    "name": "Regurge2",
+    "desc": "Take 2 damage and spawn a big food pickup.",
+    "key": "Regurge2"
+  },
+  {
+    "name": "Grapnel",
+    "desc": "Lob a hook at an object and pull yourself to it. Trample over tiles in your path.",
+    "key": "Grapnel"
+  },
+  {
+    "name": "Grapnel2",
+    "desc": "Lob a hook at an object and pull yourself to it. Trample over tiles in your path.\r\n[s:.7](This spell costs less.)[/s]",
+    "key": "Grapnel2"
+  },
+  {
+    "name": "Rehook",
+    "desc": "Refresh your weapon ability.",
+    "key": "Rehook"
+  },
+  {
+    "name": "Rehook2",
+    "desc": "Refresh your weapon and movement action.",
+    "key": "Rehook2"
+  },
+  {
+    "name": "Contaminate",
+    "desc": "Collect an adjacent pickup. Instead of that pickup's normal effects, add Poison 1 to your weapon for the rest of the battle.",
+    "key": "Contaminate"
+  },
+  {
+    "name": "Contaminate2",
+    "desc": "Collect a pickup in range 5. Instead of that pickup's normal effects, add Poison 1 to your weapon for the rest of the battle.",
+    "key": "Contaminate2"
+  },
+  {
+    "name": "Lodge Hook",
+    "desc": "Inflict Bleed 10 on an adjacent unit. You can't use your weapon for the rest of the battle.\r\n[s:.7](Castable once per battle.)[/s]",
+    "key": "LodgeHook"
+  },
+  {
+    "name": "LodgeHook2",
+    "desc": "Inflict Bleed 10, Immobilize 2, and Bruise 2 on an adjacent unit. You can't use your weapon for the rest of the battle.\r\n[s:.7](Castable once per battle.)[/s]",
+    "key": "LodgeHook2"
+  },
+  {
+    "name": "Butcher",
+    "desc": "Kill every unit with 3 or less health. They become meat.",
+    "key": "Butcher"
+  },
+  {
+    "name": "Butcher2",
+    "desc": "Kill every unit with 3 or less health. They become meat. Gain 5 health for each unit killed.",
+    "key": "Butcher2"
+  },
+  {
+    "name": "Chonkwalk",
+    "desc": "Deal 5 damage to yourself. Refresh your movement action.",
+    "key": "Chonkwalk"
+  },
+  {
+    "name": "Chonkwalk2",
+    "desc": "Deal 5 damage to yourself. Refresh your movement action.\nPASSIVE: You have Trample.",
+    "key": "Chonkwalk2"
+  }
+]

@@ -1,0 +1,262 @@
+[
+  {
+    "name": "Backstabber",
+    "desc": "Your backstabs are always critical.",
+    "key": "Backstabber"
+  },
+  {
+    "name": "Backstabber2",
+    "desc": "Your backstabs are always critical.\r\nWhen you land a critical hit, gain a random stat up.",
+    "key": "Backstabber2"
+  },
+  {
+    "name": "Golden Claws",
+    "desc": "Gain +1 Damage for each coin you collect.",
+    "key": "GoldenClaws"
+  },
+  {
+    "name": "GoldenClaws2",
+    "desc": "Gain +2 Damage for each coin you collect.",
+    "key": "GoldenClaws2"
+  },
+  {
+    "name": "Stealthed",
+    "desc": "Start each battle with Stealth.",
+    "key": "Shadow"
+  },
+  {
+    "name": "Stealthed2",
+    "desc": "Start each battle with Stealth. Gain Stealth when you get a kill.",
+    "key": "Shadow2"
+  },
+  {
+    "name": "Poison Tips",
+    "desc": "Your basic attack inflicts Poison 1.",
+    "key": "PoisonTips"
+  },
+  {
+    "name": "PoisonTips2",
+    "desc": "Your basic attack inflicts Poison 1.\r\nPoison you inflict is doubled.",
+    "key": "PoisonTips2"
+  },
+  {
+    "name": "Burgle",
+    "desc": "Your basic attack gains you 1 coin when it deals damage.",
+    "key": "Burgle"
+  },
+  {
+    "name": "Burgle2",
+    "desc": "Your basic attack gains you 1 coin and spawns a coin pickup when it deals damage.",
+    "key": "Burgle2"
+  },
+  {
+    "name": "More!",
+    "desc": "When you kill a unit, refresh your movement action.",
+    "key": "SwiftKiller"
+  },
+  {
+    "name": "More2",
+    "desc": "When you kill a unit, refresh your movement and basic attack.",
+    "key": "SwiftKiller2"
+  },
+  {
+    "name": "Long Stride",
+    "desc": "+1 movement range.",
+    "key": "LongStrider"
+  },
+  {
+    "name": "LongStride2",
+    "desc": "+2 movement range.\n+10% dodge chance.",
+    "key": "LongStrider2"
+  },
+  {
+    "name": "Double Throw",
+    "desc": "Your basic attack hits twice for half damage.",
+    "key": "DoubleThrow"
+  },
+  {
+    "name": "DoubleThrow2",
+    "desc": "Your basic attack hits thrice for 1/3rd damage.",
+    "key": "DoubleThrow2"
+  },
+  {
+    "name": "Bounty Hunter",
+    "desc": "During your turn, one random enemy has a Bounty.",
+    "key": "BountyHunter"
+  },
+  {
+    "name": "BountyHunter2",
+    "desc": "During your turn, 2 random enemies have a large Bounty.",
+    "key": "BountyHunter2"
+  },
+  {
+    "name": "Razor Claws",
+    "desc": "Your basic attack inflicts Bleed 1.",
+    "key": "RazorClaws"
+  },
+  {
+    "name": "RazorClaws2",
+    "desc": "All of your damaging abilities inflict Bleed 1.",
+    "key": "RazorClaws2"
+  },
+  {
+    "name": "Swift Looter",
+    "desc": "When you collect a coin pickup, refresh your movement action.\n1-2 extra coins spawn in each battle.",
+    "key": "Looter"
+  },
+  {
+    "name": "SwiftLooter2",
+    "desc": "When you collect a coin pickup, refresh your movement action and gain +1 [img:dex] and +1 [img:spd].\n2-3 extra coins spawn in each battle.",
+    "key": "Looter2"
+  },
+  {
+    "name": "First Strike",
+    "desc": "Gain an extra turn at the start of the battle.",
+    "key": "AlphaStrike"
+  },
+  {
+    "name": "FirstStrike2",
+    "desc": "Gain an extra turn at the start of the battle. Damage you deal on this turn is always critical.",
+    "key": "AlphaStrike2"
+  },
+  {
+    "name": "ZIP!",
+    "desc": "Your movement action is Shadowstep.",
+    "key": "Zip"
+  },
+  {
+    "name": "ZIP2",
+    "desc": "Your movement action is Shadowstep.\nYou can use your movement action an extra time each turn.",
+    "key": "Zip2"
+  },
+  {
+    "name": "Weak Spot",
+    "desc": "Your basic attack ignores shield and inflicts Weakness 1.",
+    "key": "WeakSpot"
+  },
+  {
+    "name": "WeakSpot2",
+    "desc": "All of your damaging abilities ignore shield and inflict Weakness 2. +25% crit chance.",
+    "key": "WeakSpot2"
+  },
+  {
+    "name": "Penetrate",
+    "desc": "Your basic attack passes through units and ignores shield. +1 Range.",
+    "key": "Penetrate"
+  },
+  {
+    "name": "Penetrate2",
+    "desc": "Your basic attack passes through units and ignores shield. +10 Range.",
+    "key": "Penetrate2"
+  },
+  {
+    "name": "After Image",
+    "desc": "When you move, spawn a shadow where you moved from. The shadow mimics your basic action but fades away at the end of your turn.",
+    "key": "AfterImage"
+  },
+  {
+    "name": "AfterImage2",
+    "desc": "When you move, spawn a shadow where you moved from. The shadow mimics your basic action.",
+    "key": "AfterImage2"
+  },
+  {
+    "name": "Shiv",
+    "desc": "Your basic attack has +2 damage, +25% critical chance, and inflicts Bleed 1 when attacking a unit in melee range.",
+    "key": "Shiv"
+  },
+  {
+    "name": "Shiv2",
+    "desc": "Your basic attack has +2 damage, +50% critical chance, and inflicts Bleed 2 when attacking a unit in melee range.",
+    "key": "Shiv2"
+  },
+  {
+    "name": "Critical",
+    "desc": "Your critical hits deal +100% more damage. Gain +1 [img:lck] whenever you make a critical hit.",
+    "key": "Critical"
+  },
+  {
+    "name": "Critical2",
+    "desc": "Your critical hits deal +100% more damage and inflict Bleed and Weakness 1.  Gain +1 [img:lck] whenever you make a critical hit.",
+    "key": "Critical2"
+  },
+  {
+    "name": "Loot Hoarder",
+    "desc": "Automatically collect all pickups at the end of the battle if you're not downed.",
+    "key": "LootHoarder"
+  },
+  {
+    "name": "LootHoarder2",
+    "desc": "Automatically destroy all enemy bodies and collect all pickups at the end of the battle if you're not downed.",
+    "key": "LootHoarder2"
+  },
+  {
+    "name": "Cripple",
+    "desc": "Your critical hits inflict Immobilize and Weakness 2.",
+    "key": "Cripple"
+  },
+  {
+    "name": "Cripple2",
+    "desc": "Your critical hits inflict Stun and Weakness 2.",
+    "key": "Cripple2"
+  },
+  {
+    "name": "Agile",
+    "desc": "+2 Movement Range. If you move fewer tiles than your full movement range, you can move a 2nd time for the rest of your movement range.",
+    "key": "Agile"
+  },
+  {
+    "name": "Agile2",
+    "desc": "+4 Movement Range. If you move fewer tiles than your full movement range, you can move a 2nd, 3rd and 4th time for the rest of your movement range.",
+    "key": "Agile2"
+  },
+  {
+    "name": "Shank",
+    "desc": "When behind and adjacent to an enemy, your basic attack is a melee attack that hits twice.",
+    "key": "Shank"
+  },
+  {
+    "name": "Shank2",
+    "desc": "When behind and adjacent to an enemy, your basic attack is a melee attack that hits thrice!",
+    "key": "Shank2"
+  },
+  {
+    "name": "Flip a Coin",
+    "desc": "When you gain a coin, you have a 50% chance to spawn a coin on a random tile and a 50% chance to gain +2 [img:spd] and +2 [img:lck].",
+    "key": "FlipACoin"
+  },
+  {
+    "name": "FlipaCoin2",
+    "desc": "When you gain a coin, you have a 50% chance to spawn 2 coins on random tiles and a 50% chance to gain +2 [img:spd], +2 [img:lck] and +2 [img:dex].",
+    "key": "FlipACoin2"
+  },
+  {
+    "name": "Shake Down",
+    "desc": "Your critical hits spawn a coin and a random pickup.",
+    "key": "ShakeDown"
+  },
+  {
+    "name": "ShakeDown2",
+    "desc": "+25% critical hit chance. Your critical hits spawn a coin and two random pickups.",
+    "key": "ShakeDown2"
+  },
+  {
+    "name": "Sweetspot",
+    "desc": "+1 Range. Your basic attack deals more damage the farther away you are from the target.",
+    "key": "SweetSpot"
+  },
+  {
+    "name": "Sweetspot2",
+    "desc": "+6 Range. Your basic attack deals more damage the farther away you are from the target.",
+    "key": "SweetSpot2"
+  },
+  {
+    "name": "Pinpoint",
+    "desc": "Your critical hits inflict Marked.",
+    "key": "Pinpoint"
+  },
+  {
+    "name": "Pinpoint2",
+    "desc": "Your critical hits inflict Marked.\r\nYour critical hits deal 100% more damage.",
+    "key": "Pinpoint2"
+  }
+]

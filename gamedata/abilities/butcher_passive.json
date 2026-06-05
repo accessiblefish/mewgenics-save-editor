@@ -1,0 +1,252 @@
+[
+  {
+    "name": "Putrefy",
+    "desc": "Your basic attack inflicts Rot 1.",
+    "key": "Putrefy"
+  },
+  {
+    "name": "Putrefy2",
+    "desc": "Your basic attack inflicts permanent Rot.",
+    "key": "Putrefy2"
+  },
+  {
+    "name": "Never Full",
+    "desc": "You can heal over your max HP.\r\nExcess HP is lost between battles.",
+    "key": "NeverFull"
+  },
+  {
+    "name": "NeverFull2",
+    "desc": "You can heal over your max HP.\r\nExcess HP is lost between battles.\r\nGain +1 [img:str] for every 5 HP you have over max HP.",
+    "key": "NeverFull2"
+  },
+  {
+    "name": "Supersize Me!",
+    "desc": "Food and scrap pickups you spawn are bigger.",
+    "key": "MainCourse"
+  },
+  {
+    "name": "SupersizeMe2",
+    "desc": "Food and scrap pickups you spawn are max size.",
+    "key": "MainCourse2"
+  },
+  {
+    "name": "Fresh Meat",
+    "desc": "When you eat food, gain +1 [img:str].",
+    "key": "FreshMeat"
+  },
+  {
+    "name": "FreshMeat2",
+    "desc": "When you eat food, gain +1 [img:str] and +1 to a random stat.",
+    "key": "FreshMeat2"
+  },
+  {
+    "name": "Masochist",
+    "desc": "When you take damage, gain +1 [img:str], [img:con], or [img:spd] at random.",
+    "key": "Masochist"
+  },
+  {
+    "name": "Masochist2",
+    "desc": "When you take damage, you get +1 [img:str], [img:con], and [img:spd].",
+    "key": "Masochist2"
+  },
+  {
+    "name": "Glutton",
+    "desc": "When a food pickup spawns within 2 tiles of you, move to it.",
+    "key": "Glutton"
+  },
+  {
+    "name": "Glutton2",
+    "desc": "When a food pickup spawns within 2 tiles of you, move to it with trample.",
+    "key": "Glutton2"
+  },
+  {
+    "name": "Hooked",
+    "desc": "You can use your hook 2 additional times on your turn.",
+    "key": "Hooked"
+  },
+  {
+    "name": "Hooked2",
+    "desc": "You can use your hook 2 additional times on your turn.\nYour hook deals +1 damage and has Cleave.",
+    "key": "Hooked2"
+  },
+  {
+    "name": "Stompy!",
+    "desc": "You have Trample.\r\nTrample damage you deal has Cleave.",
+    "key": "Stompy"
+  },
+  {
+    "name": "Stompy2",
+    "desc": "You have Trample and +2 Bonus Moves.\nTrample damage you deal has Cleave.",
+    "key": "Stompy2"
+  },
+  {
+    "name": "Barbed",
+    "desc": "Your hook deals +1 damage and inflicts Bleed.",
+    "key": "Barbed"
+  },
+  {
+    "name": "Barbed2",
+    "desc": "Your hook deals +5 damage and inflicts Bleed.",
+    "key": "Barbed2"
+  },
+  {
+    "name": "Grappling Hook",
+    "desc": "Your hook pulls you toward knockback-immune objects.",
+    "key": "GrapplingHook"
+  },
+  {
+    "name": "GrapplingHook2",
+    "desc": "Your hook pulls you toward knockback-immune objects. Refresh your movement action when you use your hook.",
+    "key": "GrapplingHook2"
+  },
+  {
+    "name": "Rankle",
+    "desc": "When you take damage, gain +2 Temp Damage.",
+    "key": "PainGain"
+  },
+  {
+    "name": "Rankle2",
+    "desc": "When you take damage, gain +1 Damage and +1 Temp Damage.",
+    "key": "PainGain2"
+  },
+  {
+    "name": "Spin to Win",
+    "desc": "Your basic attack is a 3x3 tile spin attack with Cleave.",
+    "key": "WideSwing"
+  },
+  {
+    "name": "SpintoWin2",
+    "desc": "Your basic attack is a 3x3 tile double spin attack with Cleave.",
+    "key": "WideSwing2"
+  },
+  {
+    "name": "Confrontational",
+    "desc": "When you take damage, trample one tile towards the source of damage.",
+    "key": "Confrontational"
+  },
+  {
+    "name": "Confrontational2",
+    "desc": "When you take damage, trample all the way to the source of damage.",
+    "key": "Confrontational2"
+  },
+  {
+    "name": "Heave Hook",
+    "desc": "Your hook can target tiles.\nUnits pulled by your hook gain trample while being hooked.",
+    "key": "HeaveHook"
+  },
+  {
+    "name": "HeaveHook2",
+    "desc": "Your hook can target tiles.\nUnits pulled by your hook gain trample while being hooked, this trample damage is doubled.",
+    "key": "HeaveHook2"
+  },
+  {
+    "name": "Harpooner",
+    "desc": "When an enemy moves in range, hook it.",
+    "key": "Harpooner"
+  },
+  {
+    "name": "Harpooner2",
+    "desc": "When an enemy moves in range, hook it. Your hook deals +2 Damage.",
+    "key": "Harpooner2"
+  },
+  {
+    "name": "Lord of the Flies",
+    "desc": "All flies are Charmed and get +1 Damage.\r\nWhenever you inflict Rot, you inflict +1 Rot.",
+    "key": "LordOfTheFlies"
+  },
+  {
+    "name": "LordoftheFlies2",
+    "desc": "All flies are Charmed and get +4 Damage.\r\nWhenever you inflict Rot, you inflict +1 Rot.",
+    "key": "LordOfTheFlies2"
+  },
+  {
+    "name": "Schadenfreude",
+    "desc": "Your [img:str] and [img:con] are increased by 2 for each disorder your party has.",
+    "key": "Schadenfreude"
+  },
+  {
+    "name": "Schadenfreude2",
+    "desc": "All of your stats are increased by 2 for each disorder your party has.",
+    "key": "Schadenfreude2"
+  },
+  {
+    "name": "Gurgitator",
+    "desc": "Whenever you heal over your max HP, gain +1 [img:str].",
+    "key": "Gurgitator"
+  },
+  {
+    "name": "Gurgitator2",
+    "desc": "Whenever you heal over your max HP, gain +1 [img:str] and +1 Weapon Damage.",
+    "key": "Gurgitator2"
+  },
+  {
+    "name": "Loose Meat",
+    "desc": "When you take damage, spawn a food pickup.",
+    "key": "LooseMeat"
+  },
+  {
+    "name": "LooseMeat2",
+    "desc": "When you take damage or move, spawn a food pickup.",
+    "key": "LooseMeat2"
+  },
+  {
+    "name": "Hack",
+    "desc": "Your basic attack is always critical against enemies with [img:shield].\r\nYour basic attack's critical hits remove buffs from units.",
+    "key": "Hack"
+  },
+  {
+    "name": "Hack2",
+    "desc": "Your basic attack is always critical against enemies with [img:shield].\r\nYour basic attack's critical hits remove buffs from units.\r\nYour critical hits deal +100% damage.",
+    "key": "Hack2"
+  },
+  {
+    "name": "Bowling Ball",
+    "desc": "Adjacent and diagonal allied cats get the bonus ability Bowl.",
+    "key": "BowlingBall"
+  },
+  {
+    "name": "BowlingBall2",
+    "desc": "Adjacent and diagonal allied cats get the bonus ability Bowl+.",
+    "key": "BowlingBall2"
+  },
+  {
+    "name": "Testy",
+    "desc": "When you take damage, gain +1 movement range until the end of your turn.",
+    "key": "Testy"
+  },
+  {
+    "name": "Testy2",
+    "desc": "When you take damage, gain +1 movement range.",
+    "key": "Testy2"
+  },
+  {
+    "name": "Indigestion",
+    "desc": "Whenever you heal over your max HP, fart and inflict Poison 3 on adjacent units.",
+    "key": "Indigestion"
+  },
+  {
+    "name": "Indigestion2",
+    "desc": "Whenever you heal over your max HP, fart and inflict Poison 3 and Burn 3 on adjacent units.",
+    "key": "Indigestion2"
+  },
+  {
+    "name": "Incubator",
+    "desc": "Whenever you heal over your max HP, spawn a rot fly.",
+    "key": "Incubator"
+  },
+  {
+    "name": "Incubator2",
+    "desc": "Whenever you heal over your max HP, spawn a rot fly with HP and damage equal to the excess healing.",
+    "key": "Incubator2"
+  },
+  {
+    "name": "Duke of Flies",
+    "desc": "At the end of the battle, all food pickups become allied flies.\r\nAllied flies stay with you between battles.",
+    "key": "DukeOfFlies"
+  },
+  {
+    "name": "DukeofFlies2",
+    "desc": "At the end of the battle, all food pickups become allied flies.\r\nAllied flies stay with you between battles.\r\nYour basic attack spawns flies.",
+    "key": "DukeOfFlies2"
+  }
+]

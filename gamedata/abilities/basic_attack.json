@@ -1,0 +1,167 @@
+[
+  {
+    "name": "Melee Attack",
+    "desc": "Attack an adjacent unit.",
+    "key": "BasicMelee"
+  },
+  {
+    "name": "Melee Attack",
+    "desc": "Attack an adjacent unit.",
+    "key": "BasicBigMelee"
+  },
+  {
+    "name": "Lobbed Shot",
+    "desc": "Lob a shot over units and obstacles.",
+    "key": "BasicRanged"
+  },
+  {
+    "name": "Lobbed Shot",
+    "desc": "Lob a shot over units and obstacles.",
+    "key": "BasicRanged_1DMG"
+  },
+  {
+    "name": "Short Shot",
+    "desc": "Shoot a unit in your line of sight.",
+    "key": "BasicShortRanged"
+  },
+  {
+    "name": "Magic Dart",
+    "desc": "Shoot a charged projectile within your line of sight. This attack counts as both magical and physical.",
+    "key": "BasicMagicShortRanged"
+  },
+  {
+    "name": "Short Lobbed Shot",
+    "desc": "Lob a shot over units and obstacles.",
+    "key": "BasicShortLobbed"
+  },
+  {
+    "name": "Nail Throw",
+    "desc": "Attack a unit in a straight line.",
+    "key": "BasicStraightShot"
+  },
+  {
+    "name": "Melee Attack / Heal",
+    "desc": "Heals allies but damages enemies.",
+    "key": "BasicMedicMelee"
+  },
+  {
+    "name": "Ranged Attack / Heal",
+    "desc": "Heals allies but damages enemies.",
+    "key": "BasicMedicRanged"
+  },
+  {
+    "name": "Push Attack",
+    "desc": "Dash forward one space, then melee attack with Knockback.",
+    "key": "BasicTankMelee"
+  },
+  {
+    "name": "Melee Attack",
+    "desc": "Attack an adjacent unit.",
+    "key": "BasicMonkMelee"
+  },
+  {
+    "name": "Lobbed Shot",
+    "desc": "Lob a shot over units and obstacles.",
+    "key": "BasicMonkRanged"
+  },
+  {
+    "name": "Cleave",
+    "desc": "Attack a unit adjacent or diagonally with Cleave.",
+    "key": "BasicButcherMelee"
+  },
+  {
+    "name": "Wide Cleave",
+    "desc": "Attack a wide area with Cleave.",
+    "key": "BasicButcherMeleeWide"
+  },
+  {
+    "name": "Spin Cleave",
+    "desc": "Attack everything around you with Cleave.",
+    "key": "BasicButcherMeleeWideSpin"
+  },
+  {
+    "name": "Sing",
+    "desc": "Heal and give +1 Temporary Damage to units in a wide area.",
+    "key": "BasicDruidAbility"
+  },
+  {
+    "name": "Sing",
+    "desc": "Heal and give +1 Temporary Damage to units in a wide area.",
+    "key": "BasicDruidAbilityVersatile"
+  },
+  {
+    "name": "Craft Weapon",
+    "desc": "Craft and equip a random temporary weapon.",
+    "key": "TinkererCraft"
+  },
+  {
+    "name": "Throw Weapon",
+    "desc": "Throw your weapon at a unit.\r\n[s:.7]This breaks the weapon.[/s]",
+    "key": "TinkererThrow"
+  },
+  {
+    "name": "Psychic Pull",
+    "desc": "Pull a unit toward you from anywhere dealing low damage.",
+    "key": "BasicPsychicPull"
+  },
+  {
+    "name": "Leech Shot",
+    "desc": "A lobbed attack that inflicts Leech 1.",
+    "key": "BasicNecroRanged"
+  },
+  {
+    "name": "Drain Attack",
+    "desc": "A melee attack with Lifesteal.",
+    "key": "BasicDrainMelee"
+  },
+  {
+    "name": "Hook",
+    "desc": "Pull an enemy to you.",
+    "key": "BasicHook"
+  },
+  {
+    "name": "Magic Missile",
+    "desc": "Shoot an infinite-range projectile that can't miss.\n[s:.7](This attack's damage scales with your [img:int])[/s]",
+    "key": "BasicMagicMissile"
+  },
+  {
+    "name": "Suplex",
+    "desc": "Grab a unit in front of you and slam it into the tile behind you.",
+    "key": "BasicSuplex"
+  },
+  {
+    "name": "Two-Hit Melee Attack",
+    "desc": "Hits twice",
+    "key": "BasicTwoHitMelee"
+  },
+  {
+    "name": "Puke Shot",
+    "desc": "Lob projectiles in an area.",
+    "key": "BasicPuke"
+  },
+  {
+    "name": "Explosive Shot",
+    "desc": "Lob a puke projectile that does splash damage to neighboring units.",
+    "key": "BasicExplosiveShot"
+  },
+  {
+    "name": "Poke",
+    "desc": "A melee attack that deals 1 damage.",
+    "key": "BasicPoke"
+  },
+  {
+    "name": "Gerd Shot",
+    "desc": "Lob a puke projectile that does splash damage to neighboring units. Damages you for 2 on use.",
+    "key": "GerdShot"
+  },
+  {
+    "name": "Spin Attack",
+    "desc": "Attack all adjacent units.",
+    "key": "BasicSpin"
+  },
+  {
+    "name": "Metronome",
+    "desc": "Cast a random spell.",
+    "key": "BasicMetronome"
+  }
+]
