@@ -7,7 +7,7 @@ import re
 from pathlib import Path
 from typing import Any
 
-from game_data_common import (
+from ..gamedata import (
     COMBINED_CSV,
     GAME_DATA_DIR,
     LOCALES,

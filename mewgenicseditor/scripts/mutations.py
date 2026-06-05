@@ -6,7 +6,7 @@ from __future__ import annotations
 import re
 from pathlib import Path
 
-from game_data_common import (
+from ..gamedata import (
     COMBINED_CSV,
     GAME_DATA_DIR,
     LOCALES,
@@ -31,6 +31,7 @@ MUTATION_PARTS = (
     "tail",
     "texture",
 )
+
 
 def parse_mutation_part(path: Path) -> tuple[str, dict[str, dict]]:
     top_blocks = top_level_blocks(path)

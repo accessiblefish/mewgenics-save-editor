@@ -3,7 +3,7 @@
 
 from __future__ import annotations
 
-from game_data_common import (
+from ..gamedata import (
     COMBINED_CSV,
     GAME_DATA_DIR,
     LOCALES,

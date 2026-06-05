@@ -6,18 +6,16 @@ from __future__ import annotations
 import argparse
 from pathlib import Path
 
-
-REPO_ROOT = Path(__file__).resolve().parent
-DEFAULT_GAMEDATA_DIR = Path.cwd() / "gamedata"
-
-from build_cli_game_data import build_cli_game_data
-from save_cli_core import (
+from .core import (
     apply_cat_update,
     apply_furniture_update,
     apply_item_update,
     export_json,
     parse_save,
 )
+from .scripts.rebuild import build_cli_game_data
+
+DEFAULT_GAMEDATA_DIR = Path.cwd() / "gamedata"
 
 
 def cmd_parse(args: argparse.Namespace) -> None:

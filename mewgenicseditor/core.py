@@ -7,11 +7,11 @@ import shutil
 from pathlib import Path
 from typing import Any
 
-import parse_save as save_parser
+from . import parser as save_parser
 
 
-PROJECT_ROOT = Path(__file__).resolve().parent
-GAMEDATA_DIR = PROJECT_ROOT / "gamedata"
+REPO_ROOT = Path(__file__).resolve().parents[1]
+GAMEDATA_DIR = REPO_ROOT / "gamedata"
 
 
 def resolve_gamedata_dir(gamedata_dir: Path | None = None) -> Path:

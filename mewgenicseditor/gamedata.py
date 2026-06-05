@@ -16,8 +16,7 @@ PROJECT_ROOT = Path(__file__).resolve().parent
 
 def default_game_data_dir() -> Path:
     candidates = (
-        PROJECT_ROOT / "docs" / "GameData",
-        PROJECT_ROOT.parent / "docs" / "GameData",
+        REPO_ROOT / "docs" / "GameData",
         Path.cwd() / "docs" / "GameData",
     )
     for candidate in candidates:
@@ -29,7 +28,7 @@ def default_game_data_dir() -> Path:
 GAME_DATA_DIR = default_game_data_dir()
 CSV_DIR = GAME_DATA_DIR / "csv"
 COMBINED_CSV = CSV_DIR / "combined.csv"
-PUBLIC_DIR = PROJECT_ROOT / "data"
+PUBLIC_DIR = REPO_ROOT / "data"
 
 
 def set_game_data_dir(path: Path) -> None:
